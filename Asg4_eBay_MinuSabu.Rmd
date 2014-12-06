@@ -1,0 +1,299 @@
+Twitter Sentiment Analysis on eBay
+====================================
+
+```{r warning=FALSE, message=FALSE}
+#Load the libraries
+library("twitteR")
+library("wordcloud")
+library("tm")
+library("ggplot2")
+library("reshape2")
+library("scales")
+
+#Read all the tweets from the text files
+tweetsday1<-read.table(file="ebayDay1.txt", skipNul = TRUE)
+tweetsday2<-read.table(file="ebayDay2.txt", skipNul = TRUE)
+tweetsday3<-read.table(file="ebayDay3.txt", skipNul = TRUE)
+tweetsday4<-read.table(file="ebayDay4.txt", skipNul = TRUE)
+tweetsday5<-read.table(file="ebayDay5.txt", skipNul = TRUE)
+
+#Remove all the retweets
+tweetsday1.uniq<-tweetsday1[-grep("RT @", tweetsday1$text),]
+tweetsday2.uniq<-tweetsday2[-grep("RT @", tweetsday2$text),]
+tweetsday3.uniq<-tweetsday3[-grep("RT @", tweetsday3$text),]
+tweetsday4.uniq<-tweetsday4[-grep("RT @", tweetsday4$text),]
+tweetsday5.uniq<-tweetsday5[-grep("RT @", tweetsday5$text),]
+
+tweetsday1.text<-tweetsday1.uniq$text
+tweetsday2.text<-tweetsday2.uniq$text
+tweetsday3.text<-tweetsday3.uniq$text
+tweetsday4.text<-tweetsday4.uniq$text
+tweetsday5.text<-tweetsday5.uniq$text
+
+#Load opinion Lexicon
+pos <- scan("positive-words.txt",what="character",comment.char=";")
+neg <- scan("negative-words.txt",what="character",comment.char=";")
+```
+
+Day 1 : 01-12-2014
+---------------------
+We mined a total of `r length(tweetsday1.text)` unique tweets.
+
+```{r warning=FALSE, message=FALSE}
+#Create the corpus - these functions belong to the tm package
+tweetsday1.corpus <- Corpus(VectorSource(tweetsday1.text))
+
+#Clean-up the corpus
+tweetsday1.corpus <- tm_map(tweetsday1.corpus, tolower) 
+tweetsday1.corpus <- tm_map(tweetsday1.corpus, removePunctuation)
+tweetsday1.corpus <- tm_map(tweetsday1.corpus, function(x) removeWords(x,stopwords()))
+
+# split the tweets in the corpus up into individual words
+# lapply iterates over each element in the corpus and applies the strsplit function
+# the splitting argument is the 3rd in the lapply function
+# and is splitting on white space.
+corpus.split.day1 <- lapply(tweetsday1.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.day1 <- lapply(corpus.split.day1,function(x) {
+  match.pos.day1 <- match(x[[1]],pos)
+  match.neg.day1 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.day1))),length(which(!is.na(match.neg.day1))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.day1 <- matrix(unlist(matches.day1),nrow=length(matches.day1),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.day1 <- match.matrix.day1[,1] - match.matrix.day1[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.day1)
+```
+
+Day 2 : 02-12-2014
+---------------------
+We mined a total of `r length(tweetsday2.text)` unique tweets.
+```{r warning=FALSE, message=FALSE}
+#Create the corpus - these functions belong to the tm package
+tweetsday2.corpus <- Corpus(VectorSource(tweetsday2.text))
+
+#Clean-up the corpus
+tweetsday2.corpus <- tm_map(tweetsday2.corpus, tolower) 
+tweetsday2.corpus <- tm_map(tweetsday2.corpus, removePunctuation)
+tweetsday2.corpus <- tm_map(tweetsday2.corpus, function(x) removeWords(x,stopwords()))
+
+# split the tweets in the corpus up into individual words
+# lapply iterates over each element in the corpus and applies the strsplit function
+# the splitting argument is the 3rd in the lapply function
+# and is splitting on white space.
+corpus.split.day2 <- lapply(tweetsday2.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.day2 <- lapply(corpus.split.day2,function(x) {
+  match.pos.day2 <- match(x[[1]],pos)
+  match.neg.day2 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.day2))),length(which(!is.na(match.neg.day2))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.day2 <- matrix(unlist(matches.day2),nrow=length(matches.day2),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.day2 <- match.matrix.day2[,1] - match.matrix.day2[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.day2)
+```
+
+Day 3 : 02-12-2014
+--------------------
+We mined a total of `r length(tweetsday3.text)` unique tweets.
+```{r warning=FALSE, message=FALSE}
+#Create the corpus - these functions belong to the tm package
+tweetsday3.corpus <- Corpus(VectorSource(tweetsday3.text))
+
+#Clean-up the corpus
+tweetsday3.corpus <- tm_map(tweetsday3.corpus, tolower) 
+tweetsday3.corpus <- tm_map(tweetsday3.corpus, removePunctuation)
+tweetsday3.corpus <- tm_map(tweetsday3.corpus, function(x) removeWords(x,stopwords()))
+
+# split the tweets in the corpus up into individual words
+# lapply iterates over each element in the corpus and applies the strsplit function
+# the splitting argument is the 3rd in the lapply function
+# and is splitting on white space.
+corpus.split.day3 <- lapply(tweetsday3.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.day3 <- lapply(corpus.split.day3,function(x) {
+  match.pos.day3 <- match(x[[1]],pos)
+  match.neg.day3 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.day3))),length(which(!is.na(match.neg.day3))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.day3 <- matrix(unlist(matches.day3),nrow=length(matches.day3),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.day3 <- match.matrix.day3[,1] - match.matrix.day3[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.day3)
+```
+
+Day 4 : 02-12-2014
+----------------------
+We mined a total of `r length(tweetsday4.text)` unique tweets.
+```{r warning=FALSE, message=FALSE}
+#Create the corpus - these functions belong to the tm package
+tweetsday4.corpus <- Corpus(VectorSource(tweetsday4.text))
+
+#Clean-up the corpus
+tweetsday4.corpus <- tm_map(tweetsday4.corpus, tolower) 
+tweetsday4.corpus <- tm_map(tweetsday4.corpus, removePunctuation)
+tweetsday4.corpus <- tm_map(tweetsday4.corpus, function(x) removeWords(x,stopwords()))
+
+# split the tweets in the corpus up into individual words
+# lapply iterates over each element in the corpus and applies the strsplit function
+# the splitting argument is the 3rd in the lapply function
+# and is splitting on white space.
+corpus.split.day4 <- lapply(tweetsday4.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.day4 <- lapply(corpus.split.day4,function(x) {
+  match.pos.day4 <- match(x[[1]],pos)
+  match.neg.day4 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.day4))),length(which(!is.na(match.neg.day4))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.day4 <- matrix(unlist(matches.day4),nrow=length(matches.day4),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.day4 <- match.matrix.day4[,1] - match.matrix.day4[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.day4)
+```
+Day 5 : 02-12-2014
+----------------------
+We mined a total of `r length(tweetsday5.text)` unique tweets.
+```{r warning=FALSE, message=FALSE}
+#Create the corpus - these functions belong to the tm package
+tweetsday5.corpus <- Corpus(VectorSource(tweetsday5.text))
+
+#Clean-up the corpus
+tweetsday5.corpus <- tm_map(tweetsday5.corpus, tolower) 
+tweetsday5.corpus <- tm_map(tweetsday5.corpus, removePunctuation)
+tweetsday5.corpus <- tm_map(tweetsday5.corpus, function(x) removeWords(x,stopwords()))
+
+# split the tweets in the corpus up into individual words
+# lapply iterates over each element in the corpus and applies the strsplit function
+# the splitting argument is the 3rd in the lapply function
+# and is splitting on white space.
+corpus.split.day5 <- lapply(tweetsday5.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.day5 <- lapply(corpus.split.day5,function(x) {
+  match.pos.day5 <- match(x[[1]],pos)
+  match.neg.day5 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.day5))),length(which(!is.na(match.neg.day5))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.day5 <- matrix(unlist(matches.day5),nrow=length(matches.day4),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.day5 <- match.matrix.day5[,1] - match.matrix.day5[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.day5)
+```
+
+Stock Price Comparison
+-----------------------
+
+```{r warning=FALSE, message=FALSE}
+#Calculate the sum of the sentiments for each day
+sentiment.day1<-sum(simple.sentiment.day1)
+sentiment.day2<-sum(simple.sentiment.day2)
+sentiment.day3<-sum(simple.sentiment.day3)
+sentiment.day4<-sum(simple.sentiment.day4)
+sentiment.day5<-sum(simple.sentiment.day5)
+
+#Setting levels for the Sentiment values
+#Level 1 means a positive sentiment
+#and level -1 means a negative sentiment
+sentimentlevel.day1<-ifelse(sentiment.day1>0, 1, -1)
+sentimentlevel.day2<-ifelse(sentiment.day2>0, 1, -1)
+sentimentlevel.day3<-ifelse(sentiment.day3>0, 1, -1)
+sentimentlevel.day4<-ifelse(sentiment.day4>0, 1, -1)
+sentimentlevel.day5<-ifelse(sentiment.day5>0, 1, -1)
+
+#Create a data frame of the sentiment levels obtained
+Sentiment<-c(sentimentlevel.day1,sentimentlevel.day2,sentimentlevel.day3,sentimentlevel.day4,sentimentlevel.day5)
+
+#Stock levels are set based on the stock available from the market
+#level 1 means that the company closed with a gain on the stock for the day
+#and level -1 means that the company closed with a loss
+Stock<-c(-1, 1, -1, -1, 1)
+
+#Create a data frame of the dates used
+Day<-c(as.Date("2014-12-01"),as.Date("2014-12-02"),as.Date("2014-12-03"),
+        as.Date("2014-12-04"), as.Date("2014-12-05"))
+
+#Create the final data frame
+df.final<-data.frame(Day,Sentiment, Stock)
+
+#Melt the data frame to convert it into a long format for plotting 
+molten.df.final<-melt(df.final, id.vars="Day")
+
+#Plotting the stock market and sentiment level comparison
+ggplot(molten.df.final, aes(Day, value, fill = variable)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  ylab("Value") +
+  scale_x_date(labels = date_format("%b-%d")) +
+  scale_fill_discrete(name="Legend",
+                         breaks=c("Sentiment", "Stock"),
+                         labels=c("Sentiment Value", "Stock Price"))
+
+
+```
+
+Summary
+---------
+Stock prices have always been influenced by public perceptions as well as financial soundness of the company. The focus of this study is to understand the relationship between sentiments and stock value. There are different reasons which can increase or decrease stock value for a company. This can be due to overall economic challenges or conditions that are specific to the company under consideration. 
+
+In this study, the sentiment data is mined from Twitter which is a popular online social networking service that uses short character messages. Since Twitter is a major platform that can be used to voice sentiments, it could also be used to predict stock market changes. But this is true only to an extent because we need to look for the correct set of tweets for the prediction to be accurate. It can be attributed to the fact that there can be lot of casual tweets that have no impact on the stock market. This could be misleading when used in sentiment analysis for stock prediction. As a result, we should be looking for the tweets specifically talking about stocks and market performances. 
+
+The study was performed for a duration of five days. Sentiment value is calculated for each day as the difference between the number of positive and negative words from the tweets. To make the study more accurate, retweets have also been removed. From the tweets mined for eBay, it was found that the sentiments were always positive throughout. But the stock values had both positive and negative changes. We can see that eBay closed with a gain on the second and the fifth day but stocks went down on the other three days. 
+
+Therefore, we can say that a positive sentiment does not necessarily mean an increase in the stock price for eBay and Twitter sentiment analysis is not a precise predictor for stock market.
+
+
+

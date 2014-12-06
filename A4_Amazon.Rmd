@@ -1,0 +1,211 @@
+Twitter Sentiment Analysis: Amazon
+========================================================
+
+This document would define whether there is a correlation between twitter data and stock price for Amazon. In order to do so, We first needed to have all the packages and twitter data files ready.
+```{r}
+library("twitteR")
+library("wordcloud")
+library("tm")
+library("reshape2")
+library("ggplot2")
+
+day1<-read.table(file="AmazonDay1.txt", skipNul=TRUE)
+day2<-read.table(file="AmazonDay2.txt", skipNul=TRUE)
+day3<-read.table(file="AmazonDay3.txt", skipNul=TRUE)
+day4<-read.table(file="AmazonDay4.txt", skipNul=TRUE)
+day5<-read.table(file="AmazonDay5.txt", skipNul=TRUE)
+
+##load opinion lexicon
+##from http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon
+## the load path is relative to the working directory that is set above
+pos <- scan("positive-words.txt",what="character",comment.char=";")
+neg <- scan("negative-words.txt",what="character",comment.char=";")
+```
+
+
+The following code chunks showed the codes to clean the twitter data and displayed the sentiment histograms for each day.
+
+
+Day 1 - November 24, 2014
+
+Total number of tweets obtained: ```r length(day1$text)```
+```{r}
+## create corpus
+## these functions from the tm package
+tweets1.corpus <- Corpus(VectorSource(day1$text))
+
+## clean up
+tweets1.corpus <- tm_map(tweets1.corpus, tolower) 
+tweets1.corpus <- tm_map(tweets1.corpus, removePunctuation)
+tweets1.corpus <- tm_map(tweets1.corpus, function(x) removeWords(x,stopwords()))
+
+## split the tweets in the corpus up into individual words
+## lapply iterates over each element in the corpus
+## and applies the strsplit function
+## the splitting argument is the 3rd in the lapply function
+## and is splitting on white space.
+corpus.split1 <- lapply(tweets1.corpus,strsplit,"\\s+")
+
+## find matches for the individual words in the two lexicons
+## lapply again, x takes on an element in the corpus
+## at each iteration
+matches1 <- lapply(corpus.split1,function(x) {
+  match.pos <- match(x[[1]],pos)
+  match.neg <- match(x[[1]],neg) 
+  ## return the length of each match vector, non-na 
+  list(length(which(!is.na(match.pos))),length(which(!is.na(match.neg))))
+})
+
+## turn the matches into a matrix
+## one column for positive, one for negative
+match.matrix1 <- matrix(unlist(matches1),nrow=length(matches1),ncol=2,byrow=T)
+
+## calculate a simple sentiment score by substracting
+## positive count from negative count
+simple.sentiment1 <- match.matrix1[,1] - match.matrix1[,2]
+
+## histogram of sentiment
+hist(simple.sentiment1)
+```
+
+
+Day 2 - November 25, 2014
+
+Total number of tweets obtained: ```r length(day2$text)```
+```{r}
+tweets2.corpus <- Corpus(VectorSource(day2$text))
+
+tweets2.corpus <- tm_map(tweets2.corpus, tolower) 
+tweets2.corpus <- tm_map(tweets2.corpus, removePunctuation)
+tweets2.corpus <- tm_map(tweets2.corpus, function(x) removeWords(x,stopwords()))
+
+corpus.split2 <- lapply(tweets2.corpus,strsplit,"\\s+")
+
+matches2 <- lapply(corpus.split2,function(x) {
+  match.pos <- match(x[[1]],pos)
+  match.neg <- match(x[[1]],neg) 
+  list(length(which(!is.na(match.pos))),length(which(!is.na(match.neg))))
+})
+
+match.matrix2 <- matrix(unlist(matches2),nrow=length(matches2),ncol=2,byrow=T)
+
+simple.sentiment2 <- match.matrix2[,1] - match.matrix2[,2]
+
+hist(simple.sentiment2)
+```
+
+
+Day 3 - November 26, 2014
+
+Total number of tweets obtained: ```r length(day3$text)```
+```{r}
+tweets3.corpus <- Corpus(VectorSource(day3$text))
+
+tweets3.corpus <- tm_map(tweets3.corpus, tolower) 
+tweets3.corpus <- tm_map(tweets3.corpus, removePunctuation)
+tweets3.corpus <- tm_map(tweets3.corpus, function(x) removeWords(x,stopwords()))
+
+corpus.split3 <- lapply(tweets3.corpus,strsplit,"\\s+")
+
+matches3 <- lapply(corpus.split3,function(x) {
+  match.pos <- match(x[[1]],pos)
+  match.neg <- match(x[[1]],neg) 
+  list(length(which(!is.na(match.pos))),length(which(!is.na(match.neg))))
+})
+
+match.matrix3 <- matrix(unlist(matches3),nrow=length(matches3),ncol=2,byrow=T)
+
+simple.sentiment3 <- match.matrix3[,1] - match.matrix3[,2]
+
+hist(simple.sentiment3)
+```
+
+
+Day 4 - November 28, 2014
+
+Total number of tweets obtained: ```r length(day4$text)```
+```{r}
+tweets4.corpus <- Corpus(VectorSource(day4$text))
+
+tweets4.corpus <- tm_map(tweets4.corpus, tolower) 
+tweets4.corpus <- tm_map(tweets4.corpus, removePunctuation)
+tweets4.corpus <- tm_map(tweets4.corpus, function(x) removeWords(x,stopwords()))
+
+corpus.split4 <- lapply(tweets4.corpus,strsplit,"\\s+")
+
+matches4 <- lapply(corpus.split4,function(x) {
+  match.pos <- match(x[[1]],pos)
+  match.neg <- match(x[[1]],neg) 
+  list(length(which(!is.na(match.pos))),length(which(!is.na(match.neg))))
+})
+
+match.matrix4 <- matrix(unlist(matches4),nrow=length(matches4),ncol=2,byrow=T)
+
+simple.sentiment4 <- match.matrix4[,1] - match.matrix4[,2]
+
+hist(simple.sentiment4)
+```
+
+
+Day 5 - December 01, 2014
+
+Total number of tweets obtained: ```r length(day5$text)```
+```{r}
+tweets5.corpus <- Corpus(VectorSource(day5$text))
+
+tweets5.corpus <- tm_map(tweets5.corpus, tolower) 
+tweets5.corpus <- tm_map(tweets5.corpus, removePunctuation)
+tweets5.corpus <- tm_map(tweets5.corpus, function(x) removeWords(x,stopwords()))
+
+corpus.split5 <- lapply(tweets5.corpus,strsplit,"\\s+")
+
+matches5 <- lapply(corpus.split5,function(x) {
+  match.pos <- match(x[[1]],pos)
+  match.neg <- match(x[[1]],neg) 
+  list(length(which(!is.na(match.pos))),length(which(!is.na(match.neg))))
+})
+
+match.matrix5 <- matrix(unlist(matches5),nrow=length(matches5),ncol=2,byrow=T)
+
+simple.sentiment5 <- match.matrix5[,1] - match.matrix5[,2]
+
+hist(simple.sentiment5)
+```
+
+
+Compare the sentiment level and the stock price for each day:
+```{r}
+sentiment1<-sum(simple.sentiment1)
+sentiment2<-sum(simple.sentiment2)
+sentiment3<-sum(simple.sentiment3)
+sentiment4<-sum(simple.sentiment4)
+sentiment5<-sum(simple.sentiment5)
+
+## If sentiment is positive, assigned positive 1; If sentiment is negative, assigned negative 1
+sentimentLevel1<-ifelse(sentiment1>0, 1, -1)
+sentimentLevel2<-ifelse(sentiment2>0, 1, -1)
+sentimentLevel3<-ifelse(sentiment3>0, 1, -1)
+sentimentLevel4<-ifelse(sentiment4>0, 1, -1)
+sentimentLevel5<-ifelse(sentiment5>0, 1, -1)
+
+sentimentLevel<-c(sentimentLevel1,sentimentLevel2,sentimentLevel3,sentimentLevel4,sentimentLevel5)
+
+## Look at stock price of Amazon for each of the above five days:
+## If stock price increased, assigned positive 1; If stock price decrease, assigned negative 1
+stockPrice<-c(1,-1,-1,1,-1)
+
+day<-c("Day 1","Day 2","Day 3","Day 4","Day 5")
+
+df.compare<-data.frame(day, sentimentLevel, stockPrice)
+molten.df.compare<-melt(df.compare, id.vars="day")
+```
+
+```{r fig.width=7, fig.height=6}
+ggplot(molten.df.compare, aes(day, value, fill = variable))+geom_bar(stat="identity", position=position_dodge())+xlab("Day")+ylab("Value (Positive or Negative)")
+```
+
+After obtaining and analyzing the data from twitter, Amazon received positive sentiment level for all five days. Sentiment of twitter data is calculated by the number of positive words minus the number of negative words on each day. The stock price of Amazon, however, told a different story. Stock price of Amazon only increased in day 1 and day 4, and decreased in day 2, day 3 and day 5. Based on the above bar graph, we can conclude that there is no clear correlation between twitter data and stock price, and that twitter data cannot predict the trend of the stock price.
+
+The change of stock prices is caused by market forces and the change of supply and demand. If more people interested in buying a stock than selling it, the price of this stock will increase. A company’s stock price can be used to determine its overall value. Stock price of a company is influenced by many different factors, including financial, market prediction and trends. Rumors and news of the company may also have influence on the company’s stock price as well.
+
+The positive sentiment level of twitter data can only indicated that Amazon received more positive comments and has a good company image among twitter users. Twitter users are not necessary the buyers or potential buyers of the Amazon stock. However, user comments and news about Amazon that are posted in twitter may influence the change of supply and demand on Amazon stock.

@@ -1,0 +1,520 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539931933744975874" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "CourtneyyKay" TRUE FALSE 1417564779
+"2" "539931905500512257" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Jazzyyy4" TRUE FALSE 1417564772
+"3" "539931834272870400" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/BXSLmZFHy8" "larrybeall" FALSE FALSE 1417564755
+"4" "539931706447237120" "@BillGates @Microsoft are you guys gonna deal with this lizard squad hacker problem so Xbox doesn't go offline and we can play on christmas" "THeEpicfear22" FALSE FALSE 1417564724
+"5" "539931641531998208" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Nora_fogarty" TRUE FALSE 1417564709
+"6" "539931522799661057" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "ChopraTP" TRUE FALSE 1417564681
+"7" "539931501668737025" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "ThatKidMarissa" TRUE FALSE 1417564676
+"8" "539931465186672640" "@Microsoft Brand new Music leak #BootGod (6 God)freestyle by @CapoLB https://t.co/qGzkmfhJWm" "FatTravis_6200" FALSE FALSE 1417564667
+"9" "539931437617516544" "@Microsoft umm are you going to do something about the hacking group that turned off Xbox live" "PITBULLKILL605" FALSE FALSE 1417564660
+"10" "539931348392087552" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "rivera_bo" TRUE FALSE 1417564639
+"11" "539931326552358912" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "kvymoney" TRUE FALSE 1417564634
+"12" "539931290720403456" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "daniels__xx" TRUE FALSE 1417564625
+"13" "539931251918905345" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "OGfinesse_" TRUE FALSE 1417564616
+"14" "539931199062298624" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "AriyanaMoran" TRUE FALSE 1417564603
+"15" "539931195954302976" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "4_Liv" TRUE FALSE 1417564603
+"16" "539931179042877441" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "LeBronBetterTho" TRUE FALSE 1417564599
+"17" "539931166648717313" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "deion482" TRUE FALSE 1417564596
+"18" "539931163532349444" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "LordReBGoD" TRUE FALSE 1417564595
+"19" "539931103050477569" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "MossThaSaiyan" TRUE FALSE 1417564581
+"20" "539931097149104128" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "VitorLuisFollow" TRUE FALSE 1417564579
+"21" "539931080908746752" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Im_SkripT" TRUE FALSE 1417564575
+"22" "539931050273554433" "Have to say @microsoft did a good job with the native picture import functionality in Windows 8.1" "conpower" FALSE FALSE 1417564568
+"23" "539931042895773697" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "livedathighlife" TRUE FALSE 1417564566
+"24" "539931017721544704" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "_MissVianney_" TRUE FALSE 1417564560
+"25" "539930989225447425" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "kingalexxx_" TRUE FALSE 1417564553
+"26" "539930988239781889" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "mariaacampoo" TRUE FALSE 1417564553
+"27" "539930962646163456" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "broncanoeric90" TRUE FALSE 1417564547
+"28" "539930934577856512" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "_Angiee_G" TRUE FALSE 1417564540
+"29" "539930858421907456" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "iDeanford" TRUE FALSE 1417564522
+"30" "539930850498850816" "@Microsoft  I am a MA teacher, will you retweet my project for my Special Education Students? @DonorsChoose http://t.co/J51aLy36Gc" "aimeeEgalloway" FALSE FALSE 1417564520
+"31" "539930808115396609" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "MikeWhikehart_" TRUE FALSE 1417564510
+"32" "539930807771492352" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Trapduk" TRUE FALSE 1417564510
+"33" "539930794337112064" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "MxFarrar" TRUE FALSE 1417564507
+"34" "539930794144169988" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "ofmiceandita" TRUE FALSE 1417564507
+"35" "539930692809801729" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "dan_dan321" TRUE FALSE 1417564483
+"36" "539930585917976576" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "thinktankrva" TRUE FALSE 1417564457
+"37" "539930500219949057" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "mmichellegoth" TRUE FALSE 1417564437
+"38" "539930483635679232" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "BryanRodrigayz" TRUE FALSE 1417564433
+"39" "539930464161501184" "RT @alanlepo: MyPOV @Microsoft 's acquisition of @Acompli is yet another confirmation that email is the still the most critical #socbiz too…" "ItsDUHnise" TRUE FALSE 1417564428
+"40" "539930382171267072" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "34_CHEKO_SC" TRUE FALSE 1417564409
+"41" "539930328479956997" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "_liviaaah" TRUE FALSE 1417564396
+"42" "539930266647527424" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Mattie_2zo" TRUE FALSE 1417564381
+"43" "539930153250340865" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "PoloWitDatHorse" TRUE FALSE 1417564354
+"44" "539930132345921537" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/hYOCFNe1Yx" "ps_aek" FALSE FALSE 1417564349
+"45" "539930125358211072" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "IAmShawnCamp" TRUE FALSE 1417564347
+"46" "539930104474791936" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "ARob_Y8" TRUE FALSE 1417564342
+"47" "539930085189382145" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "SaraBrnic_" TRUE FALSE 1417564338
+"48" "539930081779396608" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "The_Blue_Hefner" TRUE FALSE 1417564337
+"49" "539930074644889600" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "whorabell" TRUE FALSE 1417564335
+"50" "539930011772280833" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "thatmanztyy" TRUE FALSE 1417564320
+"51" "539929983561388032" "#Unselfie on #GivingTuesday to our @msjdtweets sponsors @lathamwatkins @LieffCabraser  @Microsoft @NiSourceInc http://t.co/VSqyaGM5A0" "kmlarkinwong" FALSE FALSE 1417564314
+"52" "539929969766322177" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Doctor_David" TRUE FALSE 1417564310
+"53" "539929964364062720" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "KimGlode" TRUE FALSE 1417564309
+"54" "539929945695215616" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Cambo_Jackson" TRUE FALSE 1417564305
+"55" "539929921120772097" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Grant_SB" TRUE FALSE 1417564299
+"56" "539929887251771392" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "_Arianna_J" TRUE FALSE 1417564291
+"57" "539929865286197248" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Nall3En" TRUE FALSE 1417564285
+"58" "539929803382484993" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "redonymous" TRUE FALSE 1417564271
+"59" "539929802677837824" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "WisemanJ11" TRUE FALSE 1417564271
+"60" "539929782314471426" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "SufreMiAlegria" TRUE FALSE 1417564266
+"61" "539929765273018368" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "real_deathwlf" TRUE FALSE 1417564262
+"62" "539929760319541250" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "abxyz1958" TRUE FALSE 1417564260
+"63" "539929721522233345" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "PeteToledo" TRUE FALSE 1417564251
+"64" "539929717399252992" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "GetYoshiWidsIt" TRUE FALSE 1417564250
+"65" "539929641746583552" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "DallasMess" TRUE FALSE 1417564232
+"66" "539929632024182784" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "squibbysquib" TRUE FALSE 1417564230
+"67" "539929615339237377" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "xXH_a_n_n_a_HXx" TRUE FALSE 1417564226
+"68" "539929598184550401" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "HannahRCarroll" TRUE FALSE 1417564222
+"69" "539929543591481345" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Fuckbriann" TRUE FALSE 1417564209
+"70" "539929537773977600" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "IAmThat_Kid" TRUE FALSE 1417564207
+"71" "539929510531960832" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "juanit_ohh" TRUE FALSE 1417564201
+"72" "539929437643370497" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Chinese_Papi" TRUE FALSE 1417564183
+"73" "539929431616126976" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "codyjcall37" TRUE FALSE 1417564182
+"74" "539929428885643264" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "ItsKandyGirl" TRUE FALSE 1417564181
+"75" "539929400368578560" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "IntenseDiarrhea" TRUE FALSE 1417564175
+"76" "539929388435775488" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "wjhighfield" TRUE FALSE 1417564172
+"77" "539929388058284032" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Brooklyn_Luken" TRUE FALSE 1417564172
+"78" "539929377220198400" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "Real_Julian" TRUE FALSE 1417564169
+"79" "539929358488457216" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "coolguymedina" TRUE FALSE 1417564165
+"80" "539929356051546112" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "ThunderBaby" TRUE FALSE 1417564164
+"81" "539929334018887680" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "mik24e" TRUE FALSE 1417564159
+"82" "539929330743140354" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "WhoaItsIvan" TRUE FALSE 1417564158
+"83" "539929322232877056" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "ManuSweatshirt" TRUE FALSE 1417564156
+"84" "539929320613896192" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "KalaysiaH" TRUE FALSE 1417564156
+"85" "539929272907857922" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "DJMickeyMau5" TRUE FALSE 1417564144
+"86" "539929173813239808" "RT @obey_jrock__: Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "y0Below" TRUE FALSE 1417564121
+"87" "539929067630256129" "@Microsoft @MicrosoftStore When are you guys restocking on the \"Xbox One with Kinect + 3 Free Games (Refurbished)\" ?!?!?! PLEASE TELL ME" "ErxpT" FALSE FALSE 1417564095
+"88" "539929065260478464" "@_christiansf @Godshot_eM @Microsoft @Xbox @XboxSupport LOL Swat team? Ahahaha fuck your a faggot. Have fun getting online #lizardsquad" "Moonzuh_" FALSE FALSE 1417564095
+"89" "539929015385997315" "Are you serious @Microsoft @netflix are you guys trying to give me a reason to drop out of school? http://t.co/pHcnDLgulB" "obey_jrock__" FALSE FALSE 1417564083
+"90" "539928851871068162" "RT @Godshot_eM: @Microsoft @Xbox @XboxSupport @XcL_Moon found the lizard squad leader.  http://t.co/H2PTIMhUPz" "Ryith" TRUE FALSE 1417564044
+"91" "539928843948019712" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/qiFScxxV9j" "euxhin92" FALSE FALSE 1417564042
+"92" "539928771659173889" "@erikmagnuson @FreeEdSnowden @Microsoft Read this http://t.co/aIwty5KThE" "SteveNixonIP" FALSE FALSE 1417564025
+"93" "539928363037515776" "@Xbox is my fav! The #XboxOne just keeps getting better &amp; better! Only better people! #JumpAhead @Microsoft #RIP360 http://t.co/REAgNvw6Dw" "Richie_Staz" FALSE FALSE 1417563927
+"94" "539928331685097473" "Enjoyed WA STEM Summit @Microsoft. Had a speaker on agenda from West Hills STEM Acad in Bremerton! #KitsapConnected http://t.co/E1htK3xPze" "WestSoundTech" FALSE FALSE 1417563920
+"95" "539928288731201538" ".@Microsoft #Windows81 Rises As #WinXP Plummets http://t.co/6V31hgbpkb" "MATRIX_SF" FALSE FALSE 1417563910
+"96" "539927928763478016" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "shribr" TRUE FALSE 1417563824
+"97" "539927715420176385" "Microsoft Office losing ground in #homework wars @businessinsider http://t.co/g8YSh5e1wZ @googledrive @Microsoft @SecaucusPSD" "DrTufaro" FALSE FALSE 1417563773
+"98" "539927553440354305" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "JonesyMrJ" TRUE FALSE 1417563734
+"99" "539927536067555328" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "chernandez1776" TRUE FALSE 1417563730
+"100" "539927434766741504" "RT @solarwinds: Check out @Microsoft's youngest certified professional! An IT Pro at age 5, pretty impressive! http://t.co/1cU6KdfyVP" "RandyNorth" TRUE FALSE 1417563706
+"101" "539927434196303873" "RT @ModelOff: New Yorkers, free this Sunday? Visit @Microsoft New York Offices (11 Times Sq), meet the @msexcel Team. http://t.co/Mq3duKto8…" "msexcel" TRUE FALSE 1417563706
+"102" "539927386968432642" "@microsoft @iamcp Great day showing legal framework for Cloud users. Cloud yes! But complying laws. @azure @msftinsider @Office @MSCloud" "ferngm00" FALSE FALSE 1417563695
+"103" "539927205531234304" "SHAMELESS @Microsoft &amp; #SEATTLE PLUG caution: video causes feelings http://t.co/SIpYwyj3Od thx @GeorgeTakei" "FrancesDR" FALSE FALSE 1417563651
+"104" "539927126959329280" "Everyone starts somewhere. @Microsoft is matching donations to help youth get their start. http://t.co/Gsy4PGeOGv #GivingTuesday #YouthSpark" "TeresaDInAustin" FALSE FALSE 1417563633
+"105" "539927076715782145" "@Xbox @PlayStation @Microsoft @Sony Lizard squad had got to go, they fucked our online servers for far too long. I'm really sick of it!!" "noahfunk1089" FALSE FALSE 1417563621
+"106" "539927050786574336" "New Yorkers, free this Sunday? Visit @Microsoft New York Offices (11 Times Sq), meet the @msexcel Team. http://t.co/Mq3duKto8a #TimeToExcel" "ModelOff" FALSE FALSE 1417563614
+"107" "539926857945079808" "@Xbox @Microsoft You should check out the guy who ddosed yesterday he posted on twitter what's happening on Christmas http://t.co/eOChQXpioO" "SniperKnivesV2" FALSE FALSE 1417563568
+"108" "539926447960629248" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "xenobyte1" TRUE FALSE 1417563471
+"109" "539926368092291072" "@Microsoft I can't connect to the call of duty servers and cant connect to my friends in party chat #ActuallyUnreal" "KenzieStorer" FALSE FALSE 1417563452
+"110" "539926281547051008" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "NoahVlncrt" TRUE FALSE 1417563431
+"111" "539926259758026752" "What was Bill Gates thinking when he named his company small and soft? Was Macrohard already taken? @Kotaku @Microsoft @Machinima" "GamingRoasted" FALSE FALSE 1417563426
+"112" "539926093969371136" "R.I.P. @Microsoft Clip Art. Thou shall be missed. http://t.co/1mBYbixmIs #ClipArt #Microsoft" "sreekanthps" FALSE FALSE 1417563386
+"113" "539926071345295362" "This is a great step by: @microsoft Augmenting stature. #MEC #msrmec" "pailvarun" FALSE FALSE 1417563381
+"114" "539926035278479362" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "ZiggyRandom" TRUE FALSE 1417563372
+"115" "539925985861189633" "Pick me! I just entered to win a @Microsoft Band. http://t.co/po9h6VFSqF Join @BingRewards to earn gift cards &amp; more." "rolypolyone" FALSE FALSE 1417563361
+"116" "539925956987613184" "@wbadry We're always working to expand what we offer devs. Keep your eyes peeled for new things. @kunal2383 @Microsoft" "dvlup" FALSE FALSE 1417563354
+"117" "539925863903404032" "@SteveNixonIP @FreeEdSnowden @Microsoft Good question... could all be a sense of false confidence then? #Hopingforthebest" "erikmagnuson" FALSE FALSE 1417563331
+"118" "539925813273972738" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/3eEJOW0hvP" "weigoldr" FALSE FALSE 1417563319
+"119" "539925786468167682" "In #Jacksonville (fl) today I met @StocktonSkates at sbux. Had a great chat on career and how I ended at @microsoft. Anyone else interested?" "sayedihashimi" FALSE FALSE 1417563313
+"120" "539925626870706178" "\"This contact cannot be updated right now\" has to be the stupidest error message of all time, @Microsoft @Outlook." "jthalji" FALSE FALSE 1417563275
+"121" "539925537297154050" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "VedehiMajumdar" TRUE FALSE 1417563254
+"122" "539924974111178753" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "MollyJWray" TRUE FALSE 1417563119
+"123" "539924909955502080" "Thanks a lot @XboxLiveRewards @Microsoft @Xbox way to reward people for buying your @Halo and screwing your day one fans with a broken game" "Codewallis" FALSE FALSE 1417563104
+"124" "539924885544267776" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "hkaplin" TRUE FALSE 1417563098
+"125" "539924864614670336" "lol the xbox is falling apart @Microsoft" "ambocclusion" FALSE FALSE 1417563093
+"126" "539924755046879233" "RT @DeusQain: This is the most amazing help desk interaction I've seen from @Microsoft #EpicFail #MicrosoftFail http://t.co/VcXXl1R5Zx" "TheFrumpyTurtle" TRUE FALSE 1417563067
+"127" "539924707269558274" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "officekitchen" TRUE FALSE 1417563056
+"128" "539924667759222785" "@erikmagnuson @FreeEdSnowden @Microsoft How are they going to do that when they're NSA Partners?" "SteveNixonIP" FALSE FALSE 1417563046
+"129" "539924645344858112" "RT @scottpocket: Double-ing impact thanks to @Microsoft! @GirlsWhoCode @doublerobotics #GivingTuesday #unselfie http://t.co/1xeqsTgFu6 http…" "learnmath4us" TRUE FALSE 1417563041
+"130" "539924544987725825" "I'm attending @Microsoft Cloud is not optional, how to think about hybrid by @markrussinovich CC: @PatrikBihammar http://t.co/oHFUWmYRpT" "Ayaanoos" FALSE FALSE 1417563017
+"131" "539924413215285248" "RT @solarwinds: Check out @Microsoft's youngest certified professional! An IT Pro at age 5, pretty impressive! http://t.co/1cU6KdfyVP" "suaadsait" TRUE FALSE 1417562986
+"132" "539924285293219842" "no video and a broke ass case and now they fucked up our online records @Microsoft" "ambocclusion" FALSE FALSE 1417562955
+"133" "539924277894467586" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "MD10_usa" TRUE FALSE 1417562953
+"134" "539924252548694016" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "leslielee0610" TRUE FALSE 1417562947
+"135" "539924118842249216" ".@Microsoft sent us a broke ass Xbox one holy shit http://t.co/Sf2cGqrAVk" "ambocclusion" FALSE FALSE 1417562915
+"136" "539923819314417664" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "danmatsumura" TRUE FALSE 1417562844
+"137" "539923765610557442" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "hannahking314" TRUE FALSE 1417562831
+"138" "539923723352961025" "@Microsoft How do I keep track of multiple Office 2013 accounts? No identifiers at all. This is madness! http://t.co/dnfeoMUxlf" "VincentPrime" FALSE FALSE 1417562821
+"139" "539923538203791363" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/Bqqaznjm47" "jason_allen09" FALSE FALSE 1417562777
+"140" "539923534613446656" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "BEADEDEYECHAIN" TRUE FALSE 1417562776
+"141" "539923452287676417" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "sluh_politics" TRUE FALSE 1417562756
+"142" "539923279457185792" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "deeaygo16" TRUE FALSE 1417562715
+"143" "539923241310384128" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "DamiOyedele" TRUE FALSE 1417562706
+"144" "539922891454676992" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "Kurtwillis3" TRUE FALSE 1417562623
+"145" "539922828212989953" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "RobKimera" TRUE FALSE 1417562608
+"146" "539922808206139392" "@Data3Limited attains Gold #Cloud Platform Competency with @Microsoft :). One of only three Australian MS partners." "peterbaloh" FALSE FALSE 1417562603
+"147" "539922650290606080" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "dl415z" TRUE FALSE 1417562565
+"148" "539922395650224129" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "FLOSS_P" TRUE FALSE 1417562505
+"149" "539922380760420352" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "TheOwl3" TRUE FALSE 1417562501
+"150" "539922274590408704" "RT @Swzyx: @havkk @OnlyCJay @frankymaldonad3 @Microsoft same thing happen to me. Its because they are jelly we are good" "frankymaldonad3" TRUE FALSE 1417562476
+"151" "539922150426439680" "@havkk @OnlyCJay @frankymaldonad3 @Microsoft same thing happen to me. Its because they are jelly we are good" "Swzyx" FALSE FALSE 1417562446
+"152" "539921796837810176" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "traderJKB" TRUE FALSE 1417562362
+"153" "539921534383452160" "RT @i386: Thinking more about the docker/coreos snafu yesterday: if the @microsoft support for docker containers pans out @docker has won t…" "SydNerdRage" TRUE FALSE 1417562299
+"154" "539921341739053058" "I hate how loose the Xbox one controllers feel! Its the worst for online shooters. Wtf @Microsoft" "marks_twittter" FALSE FALSE 1417562253
+"155" "539921327793389568" "RT @erikmagnuson: .@Microsoft is acting on #Snowden's advice to create \"zero knowledge #cloud to earn customer trust\" this is HUGE http://t…" "JoCar83" TRUE FALSE 1417562250
+"156" "539921021969502208" "RT @erikmagnuson: .@Microsoft is acting on #Snowden's advice to create \"zero knowledge #cloud to earn customer trust\" this is HUGE http://t…" "FreeEdSnowden" TRUE FALSE 1417562177
+"157" "539920971583340545" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "t_sdavis" TRUE FALSE 1417562165
+"158" "539920841215991808" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "LumiaConnects" TRUE FALSE 1417562134
+"159" "539920482028371968" "@i386 @Microsoft @docker I still think it should be solved by pistols at dawn." "michaelneale" FALSE FALSE 1417562048
+"160" "539920443986038784" "Check out @Microsoft's youngest certified professional! An IT Pro at age 5, pretty impressive! http://t.co/1cU6KdfyVP" "solarwinds" FALSE FALSE 1417562039
+"161" "539920341632417792" "Thinking more about the docker/coreos snafu yesterday: if the @microsoft support for docker containers pans out @docker has won the game." "i386" FALSE FALSE 1417562015
+"162" "539919975549775872" "RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in Iowa for new data centers via @forbes
+http://t.co/sX0mgu7312" "Gallagher4Mayor" TRUE FALSE 1417561928
+"163" "539919931907657728" ".@Microsoft is acting on #Snowden's advice to create \"zero knowledge #cloud to earn customer trust\" this is HUGE http://t.co/t9BgScnqmc" "erikmagnuson" FALSE FALSE 1417561917
+"164" "539919715721031680" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "JonathanKnapp" TRUE FALSE 1417561866
+"165" "539919494618296320" "Retweet guys! Get @Microsoft to compensate the gamers who purchased @Halo even though it's broken.https://t.co/PClm6mRUJk #Xbox  #Halo" "TheRy4nWoodward" FALSE FALSE 1417561813
+"166" "539919290997014528" "@OnlyCJay @frankymaldonad3 @Swzyx @Microsoft I'm to good" "havkk" FALSE FALSE 1417561764
+"167" "539919219505127424" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "pvelemschool" TRUE FALSE 1417561747
+"168" "539919153625583616" "@OnlyCJay @frankymaldonad3 @Swzyx @Microsoft WTF I didn't do any of this http://t.co/TXlq8jjGOS" "havkk" FALSE FALSE 1417561732
+"169" "539919002798022657" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "jlibava" TRUE FALSE 1417561696
+"170" "539919002064392192" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "raduede" TRUE FALSE 1417561695
+"171" "539918993721921536" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "IamPaulMonroe" TRUE FALSE 1417561693
+"172" "539918838574235650" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "Berniemac22" TRUE FALSE 1417561656
+"173" "539918747113652224" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "YKnot" TRUE FALSE 1417561635
+"174" "539918569333477376" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "SithlordCF" TRUE FALSE 1417561592
+"175" "539918319168417792" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/YityxJ2Kdz" "founditshop1" FALSE FALSE 1417561533
+"176" "539918259693551617" "RT @StrategyEye: We look at recent strategic acquisitions by @Microsoft, @AOL and @Airbnb http://t.co/t40Z08AoV9 http://t.co/W4kpfeS4vd" "SissiNobel" TRUE FALSE 1417561518
+"177" "539917808591597568" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "DrYanceY17" TRUE FALSE 1417561411
+"178" "539917492638846977" "RT @HTrueNorth: Announcing Hitachi Unified Compute Platform (UCP) 4000E for @VMware vSphere or @Microsoft Private Cloud! http://t.co/IiyVwF…" "jane_fel_reed" TRUE FALSE 1417561336
+"179" "539917399294619651" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "CCAC_LC" TRUE FALSE 1417561313
+"180" "539917255958880257" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "weems" TRUE FALSE 1417561279
+"181" "539917053747281920" "\"An investment in knowledge pays the best interest.\"-Benjamin Franklin. Class on @Microsoft #Excel 2013. http://t.co/WthpMZ8keh" "thinkdatasol" FALSE FALSE 1417561231
+"182" "539916937145622529" "@Microsoft @UPSHelp ordered my surface 2 and i never got my delivery, already called these companies and they are useless #wrostserviceever" "mkamboykos" FALSE FALSE 1417561203
+"183" "539916924692758528" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "msPartner" TRUE FALSE 1417561200
+"184" "539916864281772032" "This is a great step by: @microsoft Check it: @tech_kinect #MEC #msrmec Tweet No. = (4105)" "abhichauhan1994" FALSE FALSE 1417561186
+"185" "539916842266267648" "@LizardPatrol Corporation like @Microsoft  is enough to get you pathetic loser in jail you guys are essentially doing a crime that can" "RanksackDude" FALSE FALSE 1417561181
+"186" "539916821999013889" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Marie_ofRomania" TRUE FALSE 1417561176
+"187" "539916669317939200" "RT @HTrueNorth: Announcing Hitachi Unified Compute Platform (UCP) 4000E for @VMware vSphere or @Microsoft Private Cloud! http://t.co/IiyVwF…" "DenaMarean" TRUE FALSE 1417561139
+"188" "539916611445325824" "@LizardPatrol becuase I never heard about dumber hackers than you guys @Microsoft  would surely trace you guys down I mean a billion dollar" "RanksackDude" FALSE FALSE 1417561125
+"189" "539916591006113795" "No matter how much you love #Microsoft  #surface , do NOT buy it from @MicrosoftStore /cc @Microsoft @surface @panos_panay @shanselman" "PrasadHonrao" FALSE FALSE 1417561121
+"190" "539916345626722304" "@Xbox @Microsoft Look out!" "chrisfagan123" FALSE FALSE 1417561062
+"191" "539916222465200129" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "DriftMGR" TRUE FALSE 1417561033
+"192" "539916171164667905" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "DrHannant" TRUE FALSE 1417561021
+"193" "539916013366960128" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "onesecureit" TRUE FALSE 1417560983
+"194" "539915885566517248" "RT @acryts: Amazing chat w/Kathy O'Driscoll, @PATHtweets head of HR, @Microsoft veteran, &amp; #changeagent. See future issue of @ForefrontMag …" "ForefrontMag" TRUE FALSE 1417560952
+"195" "539915884689518593" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "rosebud7210" TRUE FALSE 1417560952
+"196" "539915869120258048" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "DanLovallo" TRUE FALSE 1417560949
+"197" "539915732885053440" "@Microsoft #windows 8 SUCKS! Nothing but problems. Just updated and now my screen is just flashing red. So thanks for that. #buyingaMac" "brittkerr" FALSE FALSE 1417560916
+"198" "539915633128132608" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "gordonricketts" TRUE FALSE 1417560892
+"199" "539915135067119617" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "sheriser" TRUE FALSE 1417560773
+"200" "539915119460098048" "RT @MrsGibson4th: A @SkypeClassroom chat with Michael Corning from @Microsoft learning about computer science #TCEcardinals #HourOfCode htt…" "aluthersclass" TRUE FALSE 1417560770
+"201" "539915118948413441" "Pretty cool &gt;Check out how @Microsoft Dining Services uses IT to grow, produce food more efficiently http://t.co/4CehkLG0O2 @Microsoft_Green" "toddmboucher" FALSE FALSE 1417560770
+"202" "539914872406810625" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "MeneSpirited" TRUE FALSE 1417560711
+"203" "539914812864491520" "RT @HSE_21: RT @MrsGibson4th: A @SkypeClassroom chat with Michael Corning from @Microsoft learning about comp sci  #HourofCode http://t.co/…" "aluthersclass" TRUE FALSE 1417560697
+"204" "539914743880765442" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/bb5v9AIE5i" "TruceSavage" FALSE FALSE 1417560680
+"205" "539914695121960960" "I'm looking for a good @Microsoft OneNote tutorial. Any suggestions?" "MerLowePrather" FALSE FALSE 1417560669
+"206" "539914636091748352" "Anyone deployed @Microsoft System Center Endpoint Protection on @VMware View Non-Persistant desktops? How did you do it?" "saintdle" FALSE FALSE 1417560655
+"207" "539914543921905664" "@Microsoft how many firewalls did you set up on the Xbox live this year" "moabmaster45" FALSE FALSE 1417560633
+"208" "539914315499728897" "Pick me! I just entered to win a @Microsoft Band. http://t.co/t82iaptVd4 Join @BingRewards to earn gift cards &amp; more." "DestanEh" FALSE FALSE 1417560578
+"209" "539914303747653632" "RT @HSE_21: RT @MrsGibson4th: A @SkypeClassroom chat with Michael Corning from @Microsoft learning about comp sci  #HourofCode http://t.co/…" "librarytce" TRUE FALSE 1417560575
+"210" "539914302820724736" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Clintoow" TRUE FALSE 1417560575
+"211" "539914258843443200" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "1osufan1" TRUE FALSE 1417560565
+"212" "539914152006123520" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Zarkayne" TRUE FALSE 1417560539
+"213" "539914077061918720" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "vinnona" TRUE FALSE 1417560521
+"214" "539913871096422401" "@Microsoft You made the list! #Top10Tuesday http://t.co/Tr5XV4jYxv" "BizReviewUSA" FALSE FALSE 1417560472
+"215" "539913803174277120" "@LizardPatrol Why do you guys have to hack @Microsoft for Christmas I want to play some COD: AW once I get it" "codytropp" FALSE FALSE 1417560456
+"216" "539913752892960769" "Mourning @Microsoft Clip Art. #ClipArt" "rukshanaalam" FALSE FALSE 1417560444
+"217" "539913500735201280" "Pick me! I just entered to win a @Microsoft Band. http://t.co/6PutQlygPQ Join @BingRewards to earn gift cards &amp; more." "reneeallen19" FALSE FALSE 1417560384
+"218" "539913445869895680" "@Microsoft can't sign in to my skype with outlook in my macbook. it's working on my phone and desktop app. http://t.co/1hJM0aGMKm" "JuanTrueno" FALSE FALSE 1417560371
+"219" "539913284649246721" "RT @scsdmedia: RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in IA for new data centers 
+http://t.co/JARUBGG5iC …" "DLGWAEA" TRUE FALSE 1417560332
+"220" "539913143821295616" "THX @Microsoft for a SMART SCREENING EVERY PROGRAM I DISTR 2 PRIVATE CLIENTS. Im not buying a certificate thats more costly than my software" "casamassacre" FALSE FALSE 1417560299
+"221" "539912948115079170" "RT @scottpocket: Double-ing impact thanks to @Microsoft! @GirlsWhoCode @doublerobotics #GivingTuesday #unselfie http://t.co/1xeqsTgFu6 http…" "Willson_Laura97" TRUE FALSE 1417560252
+"222" "539912818905337856" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "graphikjunkie" TRUE FALSE 1417560221
+"223" "539912539208155136" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "AMighty1" TRUE FALSE 1417560155
+"224" "539912502004297728" "@alokraj68 Not everyone is having that experience. Do you know why the apps are getting rejected? @msdev @MicrosoftStore @Microsoft" "dvlup" FALSE FALSE 1417560146
+"225" "539912416461860864" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "andrewmckinley6" TRUE FALSE 1417560125
+"226" "539911978517790720" "Currently in the middle of a tech support chat with @Microsoft and it's... entirely stress free...? That makes a change." "Adammmarshall" FALSE FALSE 1417560021
+"227" "539911837018763264" "RT @federico: The moment you realize @Microsoft really took over @nokia // cc @aisling http://t.co/G48mF1j8LZ" "jpalaciog" TRUE FALSE 1417559987
+"228" "539911809214738433" "@Microsoft @Xbox @XboxSupport @MicrosoftHelps Fix the damn servers. All I want to do is play Destiny. I pay for Live Gold. #80151904" "CoreyPHall" FALSE FALSE 1417559981
+"229" "539911799924355072" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "daviddavis0827" TRUE FALSE 1417559978
+"230" "539911697491066880" "@Microsoft what are u gonna do about the lizard squad this is unfair Unes should try trace them and swat the hut place the basterds" "seamus_groogan" FALSE FALSE 1417559954
+"231" "539911694718627840" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "AlriyamiRahma" TRUE FALSE 1417559953
+"232" "539911404002615296" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "s_sami85" TRUE FALSE 1417559884
+"233" "539911116554780675" "@Microsoft lemme guess, lesson 1: ctl+alt+del ?!" "wyomateo" FALSE FALSE 1417559815
+"234" "539911058677583872" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "ayanisfryin" TRUE FALSE 1417559802
+"235" "539910727482368000" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Chinkified" TRUE FALSE 1417559723
+"236" "539910674672279553" "#Event 12/03/2014 : #Seattle Scalability Meetup @Microsoft, City Center Bldg, Bellevue http://t.co/peJetbjLE3" "ravibulusu" FALSE FALSE 1417559710
+"237" "539910653318668288" "@timsuomi We think so! How have you been using it? @Microsoft @windowscentral @WinPhoneSupport" "dvlup" FALSE FALSE 1417559705
+"238" "539910568644472832" "RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in Iowa for new data centers via @forbes
+http://t.co/sX0mgu7312" "lltwing" TRUE FALSE 1417559685
+"239" "539910532665319424" "RT @HTrueNorth: Announcing Hitachi Unified Compute Platform (UCP) 4000E for @VMware vSphere or @Microsoft Private Cloud! http://t.co/IiyVwF…" "jenHDS" TRUE FALSE 1417559676
+"240" "539910525233405952" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "paymyselffirst" TRUE FALSE 1417559674
+"241" "539910413820125184" "RT @nancyduarte: No more #PowerPoint clipart! @Microsoft transitions to images on @bing instead: http://t.co/IkrbHH2C8n" "aldabwoods" TRUE FALSE 1417559648
+"242" "539910319351791616" "RT @GlobalGiving: The final $175K in @Microsoft matching funds are gone! Our team's been blown today by your generosity today :) http://t.c…" "JSongseeker" TRUE FALSE 1417559625
+"243" "539910273151143936" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "SSOC_J" TRUE FALSE 1417559614
+"244" "539910092037300224" "RT @Duarte: One small step for clipart, one giant leap for cliched presentations! @Microsoft transitions to @bing images: http://t.co/sC8Sl…" "TChanMD" TRUE FALSE 1417559571
+"245" "539910014170042368" "Checkout #wearabletech meet up tonight in nyc @microsoft offices featuring startups @Nooka @pollfish and Dasher - #startupsnyc" "KimmieMR" FALSE FALSE 1417559553
+"246" "539909989972729857" "RT @Duarte: One small step for clipart, one giant leap for cliched presentations! @Microsoft transitions to @bing images: http://t.co/sC8Sl…" "presentationzen" TRUE FALSE 1417559547
+"247" "539909980972122114" "@AndyLCTIndy Well, @Microsoft (Thanks for using our facility!) was providing training! I don't think they're a small company though!?!" "LCT_IndyCareers" FALSE FALSE 1417559545
+"248" "539909932574072833" "StudentTEAM A idea: pro bono portal 4 @lollaf_legal using @Microsoft Sharepoint makes it easier 4 attys 2 volunteer. @AndrewWSharp nice job" "lcolpoys" FALSE FALSE 1417559533
+"249" "539909906921684993" "@Microsoft nice." "Ang" FALSE FALSE 1417559527
+"250" "539909881323851778" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Ang" TRUE FALSE 1417559521
+"251" "539909873861791744" "RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in Iowa for new data centers via @forbes
+http://t.co/sX0mgu7312" "BrianCWaller" TRUE FALSE 1417559519
+"252" "539909838168682496" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "courtwrightmr" TRUE FALSE 1417559511
+"253" "539909749551005696" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/A0W4Ln6VSC" "AngelVernitta" FALSE FALSE 1417559489
+"254" "539909707457388544" "RT @eWEEKNews: #Microsoft has acquired the mobile email #app maker #Acompli. Find out more here: http://t.co/BbFNOhFHGe @Microsoft @Acompli" "CEEKTechnology" TRUE FALSE 1417559479
+"255" "539909542050811904" "#Microsoft has acquired the mobile email #app maker #Acompli. Find out more here: http://t.co/BbFNOhFHGe @Microsoft @Acompli" "eWEEKNews" FALSE FALSE 1417559440
+"256" "539909477252993025" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "adlaslam" TRUE FALSE 1417559425
+"257" "539909462472294400" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "theSecondDoug" TRUE FALSE 1417559421
+"258" "539909208402296832" "RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in Iowa for new data centers via @forbes
+http://t.co/sX0mgu7312" "AnySense035" TRUE FALSE 1417559360
+"259" "539909185429725184" "Check out how @Microsoft Dining Services is using IT to grow, produce food more efficiently http://t.co/Ly7dvBHdIJ @Microsoft_Green" "Microsoft_Green" FALSE FALSE 1417559355
+"260" "539909120711589890" "This is a great step by: @microsoft Learning algos with #MEC #MEC #msrmec Tweet No. = (4056)" "abhichauhan1994" FALSE FALSE 1417559340
+"261" "539908964675497984" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "EmilyGlenn713" TRUE FALSE 1417559302
+"262" "539908801638699009" "RT @GlobalGiving: The final $175K in @Microsoft matching funds are gone! Our team's been blown today by your generosity today :) http://t.c…" "CoBenefit" TRUE FALSE 1417559263
+"263" "539908723162894337" "The final $175K in @Microsoft matching funds are gone! Our team's been blown today by your generosity today :) http://t.co/bvkeGK63Og" "GlobalGiving" FALSE FALSE 1417559245
+"264" "539908700342083584" "@DeusQain @Microsoft oh god... reminds me of quite a few phone helpdesk calls and ending with me swearing at them" "kokek1" FALSE FALSE 1417559239
+"265" "539908651985932288" "Me: only for kids? @Microsoft: We’re challenging you to learn coding with #hourofcode. get started: http://t.co/7GEaRFUu9V" "Julie188" FALSE FALSE 1417559228
+"266" "539908415116414978" "Sad to hear @Microsoft has killed clipart. This could be another misstep. Dry presentations will never be the same. http://t.co/YxMHeumwS0" "patrickblampied" FALSE FALSE 1417559171
+"267" "539908312285052929" "5 days of @Microsoft call center hell...boo Microsoft yeh @AppIeOfflciaI" "djncanada" FALSE FALSE 1417559147
+"268" "539908278663516160" "@Microsoft and the email you have for it to send too has never had anything to do with the account I need help please?" "DanniAndFenners" FALSE FALSE 1417559139
+"269" "539908247629860864" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "IAmLadeeDi" TRUE FALSE 1417559131
+"270" "539908232773255169" "@Microsoft So,follow the Apple trail &amp; \" borrow \" the patent ? http://t.co/e1ZFhVxzTb" "johnnie50" FALSE FALSE 1417559128
+"271" "539908204659216385" "@Microsoft Chemical Free app http://t.co/dR6Kj7qae2" "Norasendrilla" FALSE FALSE 1417559121
+"272" "539908192109867009" "ConvergedSystem 300 for @Microsoft Analytics Platform  Uncovering the details, Session DF5886 #HPDiscover. http://t.co/ID4C0PMJ7b" "HPConverge" FALSE FALSE 1417559118
+"273" "539908139001593856" "@Microsoft been trying to send a code to my email address after I pressed change password and more and there's no option to add new email" "DanniAndFenners" FALSE FALSE 1417559106
+"274" "539907987029372928" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "GVMSVikings" TRUE FALSE 1417559069
+"275" "539907940497756161" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "fallautumn19" TRUE FALSE 1417559058
+"276" "539907875536392193" "#Build9879 #Windows10 &amp; its 2006 keyboard driver is seriously pissing me off now @Microsoft" "adirtymonkey" FALSE FALSE 1417559043
+"277" "539907643825868800" "@CIA @FBI @Microsoft @Sony are yall going to get @LizardPatrol anytime soon?" "carstonrogers" FALSE FALSE 1417558987
+"278" "539907520597221376" "RT @PowerLunch: move over #Batman, there's a new high-tech way to fight crime, including @Microsoft campus.  @Knightscope CEO &amp; robo-cops. …" "MercedesSoria" TRUE FALSE 1417558958
+"279" "539907188907466754" "@NeilMakepeace1 @NICTA @ODIQueensland @Laing_ORourke @Microsoft @Telstra @Esri @CCIQLD @Glentworth_Aus @Griffith_Uni - Red Letter day ;-)" "dez_blanchfield" FALSE FALSE 1417558879
+"280" "539907145597087744" "@Microsoft @WinPhoneSupport @Lumia @Windows please update your store so we can start beta testing @videolan VLC Media Player on WP." "beJOELedblitz" FALSE FALSE 1417558869
+"281" "539907066966851584" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "KenC4me2" TRUE FALSE 1417558850
+"282" "539907049183014913" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "AllyCakes5000" TRUE FALSE 1417558846
+"283" "539906863798566912" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/QA2OWCx35K" "BoxedInGamers" FALSE FALSE 1417558801
+"284" "539906635674550272" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/bnibN5vefH" "LHinkle" FALSE FALSE 1417558747
+"285" "539906595841646592" "RT @SeanWinnett: Wondering if @Microsoft is going to rethink their stance on only giving #HaloMCC rebate to those who buy in Dec. #WhatAbou…" "OldGodDumat" TRUE FALSE 1417558738
+"286" "539906502077972480" "@Microsoft Virtual Academy - Big Like " "KKlawatsch" FALSE FALSE 1417558715
+"287" "539906499796287488" "RT @NeilMakepeace1: @ODIQueensland grateful to its sponsors @Laing_ORourke @Microsoft @Telstra @Esri @CCIQLD @Glentworth_Aus @NICTA @Griffi…" "NICTA" TRUE FALSE 1417558715
+"288" "539906357218914304" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "LeisaLaw" TRUE FALSE 1417558681
+"289" "539906230039638016" "@Microsoft @kristinsb - as we were saying...." "alexcarleton" FALSE FALSE 1417558650
+"290" "539906211903442945" "RT @theTrendyTechie: Join me and @HockeyGeekGirl on December 8th for @Microsoft's #HourOfCode webcast! Live on @ch9 at 12pm EST/9am PST. ht…" "histechup" TRUE FALSE 1417558646
+"291" "539906149316046848" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "CocoaDiva84591" TRUE FALSE 1417558631
+"292" "539906133109243906" "Got it!? @Xbox @Microsoft http://t.co/hoAbN9HVxA" "JustProsper" FALSE FALSE 1417558627
+"293" "539906102130135040" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "TUKEYZ" TRUE FALSE 1417558620
+"294" "539906016075612160" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "alexcarleton" TRUE FALSE 1417558599
+"295" "539905875490926592" "@Microsoft #Win10 please with widgets &amp; really compatible with games (older &amp; Bulletstorm)." "Nerd3_0" FALSE FALSE 1417558566
+"296" "539905758239129601" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "whats_a_william" TRUE FALSE 1417558538
+"297" "539905747140620288" "Ugh @Microsoft tricked me I bought an Xbox on Sunday night and just a few mins after I bought it the same bundle got a free game  I want it" "crashbrokenhand" FALSE FALSE 1417558535
+"298" "539905697207828480" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "DonnaGTM1980" TRUE FALSE 1417558523
+"299" "539905574444335104" "@FastCompany This site so...saved me creative wise many times. who has something close? I tried looking it up last month too. @Microsoft" "pazzaz77" FALSE FALSE 1417558494
+"300" "539905395398295553" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "CAPTAINsmash" TRUE FALSE 1417558451
+"301" "539905381540311041" "Microsoft's Concept of How 2019 Will Look Like - Official Video - YouTube http://t.co/ThmKSea75J
+A glimpse ahead by @Microsoft" "GFigueruelo" FALSE FALSE 1417558448
+"302" "539905344546549760" "@Microsoft you guys need to stop the servers from getting hacked on Christmas Day by the Lizard Squad, please." "Niftyboy2711" FALSE FALSE 1417558439
+"303" "539905325303074818" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "WyldChyld911" TRUE FALSE 1417558435
+"304" "539905258374180864" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Dakotajones24" TRUE FALSE 1417558419
+"305" "539905219379724288" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "spearsies" TRUE FALSE 1417558409
+"306" "539905099665915905" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/5fY7T4XeM5" "AkterAkther" FALSE FALSE 1417558381
+"307" "539904706957410305" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "reblsfounder" TRUE FALSE 1417558287
+"308" "539904652155027456" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "GarnayLtd" TRUE FALSE 1417558274
+"309" "539904638053789697" "@Microsoft #GivingTuesday For the price of a coffee-give students in poverty the web+classes! http://t.co/FApSPRJmAr Pls look! -RT?" "mygreenjakarta" FALSE FALSE 1417558271
+"310" "539904432998461440" "RT @DeusQain: This is the most amazing help desk interaction I've seen from @Microsoft #EpicFail #MicrosoftFail http://t.co/VcXXl1R5Zx" "madsmarturin" TRUE FALSE 1417558222
+"311" "539904420344266752" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "Felix65001101" TRUE FALSE 1417558219
+"312" "539904413977309184" ".@Dropbox teams up with @Microsoft and @SkyhighNetworks to bring cloud storage to the enterprise http://t.co/tO3PUqy4XS" "camcoles" FALSE FALSE 1417558217
+"313" "539904404045180928" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "Felix65001101" TRUE FALSE 1417558215
+"314" "539904364752961536" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "Felix65001101" TRUE FALSE 1417558206
+"315" "539904063295746048" "“@Microsoft: We challenge you to learn coding #hourofcode. Here’s how you can get started: http://t.co/hRvLHPy21t http://t.co/AhTwUcPsIC”" "DeanJr" FALSE FALSE 1417558134
+"316" "539903999135453185" "@scottpocket @GirlsWhoCode @Microsoft @doublerobotics 
+Go ahead and get as many women as possible to pursue academic careers." "efof_ch" FALSE FALSE 1417558118
+"317" "539903971423293441" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "BeefcakeOrtizA" TRUE FALSE 1417558112
+"318" "539903893040537600" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Interneconomics" TRUE FALSE 1417558093
+"319" "539903766313439233" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "AdrianaRabyArt" TRUE FALSE 1417558063
+"320" "539903499119886336" "@rossfairly rose needs Lumia again :( #MoreLumia @Microsoft" "Rxhns" FALSE FALSE 1417557999
+"321" "539903495726329856" "@Herchenroder I wouldn't sweat it,  @Microsoft hasn't even enabled all of the sensors on the device. It's essentially still in beta." "tinsko" FALSE FALSE 1417557998
+"322" "539903177882345472" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "MarkCardinal307" TRUE FALSE 1417557923
+"323" "539903177420967937" "RT @WirelessTechATL: Thank you November event sponsors @GetPlatypi @Microsoft, recap video is now posted http://t.co/SR8hkvqMTE" "GetPlatypi" TRUE FALSE 1417557923
+"324" "539902989238927360" "The end of another 1990s tech icon ... RIP @Microsoft Clip Art http://t.co/li0JvmduRJ" "bradfordhornsby" FALSE FALSE 1417557878
+"325" "539902946390319104" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "TinyTrainings" TRUE FALSE 1417557867
+"326" "539902874659328000" "Here's how @Microsoft envisioned the future in 1999! Some parts are actually surprisingly accurate! &gt;&gt; http://t.co/HSBXPFCFxo" "randomtweetor" FALSE FALSE 1417557850
+"327" "539902802999263233" "No need for me to go loot shit at #Ferguson this Holiday Season. @Microsoft #XboxMusic lets you five-finger 50 more great albums from them." "ThaBiGGDoGG" FALSE FALSE 1417557833
+"328" "539902797928759296" "No more @Microsoft Clip Art, how will school presentations survive? http://t.co/FCESMomHnv" "TimJHaig" FALSE FALSE 1417557832
+"329" "539902746921410560" "“@AliceRadio: The end of another 1990s tech icon ... RIP @Microsoft Clip Art http://t.co/h1mCvZQj4d” WHAT U MEAN" "aliceb0balice" FALSE FALSE 1417557820
+"330" "539902650389905409" "This is the most amazing help desk interaction I've seen from @Microsoft #EpicFail #MicrosoftFail http://t.co/VcXXl1R5Zx" "DeusQain" FALSE FALSE 1417557797
+"331" "539902520693645313" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Pitzhugh" TRUE FALSE 1417557766
+"332" "539902424715370498" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "NastassiaRX" TRUE FALSE 1417557743
+"333" "539902417031417857" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "str8_dinkha" TRUE FALSE 1417557741
+"334" "539902408462041088" "@Payteeezy @Halo @Microsoft definitely not getting it then." "MitchDaBalla" FALSE FALSE 1417557739
+"335" "539902349138206721" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "thenewsyouneed" TRUE FALSE 1417557725
+"336" "539902326543093760" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "KylaGradin" TRUE FALSE 1417557720
+"337" "539902303248326656" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "MrsWatkinsHHS" TRUE FALSE 1417557714
+"338" "539902284210372608" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "rhonda1960" TRUE FALSE 1417557710
+"339" "539902269651951616" "The end of another 1990s tech icon ... RIP @Microsoft Clip Art http://t.co/JEpoJo2sNg" "AliceRadio" FALSE FALSE 1417557706
+"340" "539902267399626752" "@Microsoft @Xbox https://t.co/A0rqmtRp24 Microsoft... Please track these guys down and arrest them." "GrumpeeMonkey" FALSE FALSE 1417557706
+"341" "539902218942423040" "Interesting insight from @IDC, saying @Microsoft Windows Phone will begin eating into @Android and #iOS market share: http://t.co/cp2njFyL8M" "MHatamoto" FALSE FALSE 1417557694
+"342" "539902140165025793" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "speculumfight" TRUE FALSE 1417557675
+"343" "539901937299488768" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "akaranoel" TRUE FALSE 1417557627
+"344" "539901813605285890" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "IamJenBurton" TRUE FALSE 1417557597
+"345" "539901797905997824" "@joshthestorm @Microsoft oh the sass!! " "eoinobrien_" FALSE FALSE 1417557594
+"346" "539901708889907201" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Nerdybunnygirl" TRUE FALSE 1417557572
+"347" "539901605534248961" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Ivaligy" TRUE FALSE 1417557548
+"348" "539901393197219841" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "Willanderson_x2" TRUE FALSE 1417557497
+"349" "539900932897927168" "@Microsoft please block the lizard squad from your Xbox servers @Xbox @XboxSupport" "BorjusPls" FALSE FALSE 1417557387
+"350" "539900914081886208" "RT @scottpocket: Double-ing impact thanks to @Microsoft! @GirlsWhoCode @doublerobotics #GivingTuesday #unselfie http://t.co/1xeqsTgFu6 http…" "SJSU_SLA" TRUE FALSE 1417557383
+"351" "539900592714711042" "Microsoft to Build First Zero-carbon, Waste-to-energy Data Center in the U.S. http://t.co/t9adKZDJ8E @Microsoft #energyefficiency #cleantech" "ZonditsEE" FALSE FALSE 1417557306
+"352" "539900288422146048" "@chfizgod @LizardPatrol @Microsoft @xboxlivenation could of got sony again.... Just saying" "Reese_EU" FALSE FALSE 1417557234
+"353" "539900223213293568" "RT @worldconcern: Protect girls from #trafficking on #GivingTuesday. Hurry! @microsoft will match donations to our our project NOW! http://…" "LISAWESTMORELAN" TRUE FALSE 1417557218
+"354" "539900129504157696" "RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in Iowa for new data centers via @forbes
+http://t.co/sX0mgu7312" "madwags" TRUE FALSE 1417557196
+"355" "539900090131820544" "RT @SHBLaw: Welcome to Shook! From @Microsoft, new IP partners @Mulgrew and @WJHarmon http://t.co/vMFlYcF3wc" "WJHarmon" TRUE FALSE 1417557187
+"356" "539900057663709184" "RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in IA for new data centers 
+http://t.co/JARUBGG5iC #iowatl" "scsdmedia" FALSE FALSE 1417557179
+"357" "539900017201254400" "RT @worldconcern: Protect girls from #trafficking on #GivingTuesday. Hurry! @microsoft will match donations to our our project NOW! http://…" "roseenglishusa" TRUE FALSE 1417557169
+"358" "539899995109879808" "RT @worldconcern: More @Microsoft matching funds released. Hurry! They went fast this morning! Protect girls from #trafficking: http://t.co…" "roseenglishusa" TRUE FALSE 1417557164
+"359" "539899813060288513" ".@Microsoft is adding Google Drive-style chat to @Office Online apps http://t.co/Wxk8V8AsAG #msft #collaboration #cloud" "Mirazon" FALSE FALSE 1417557120
+"360" "539899812246593536" "8 reasons why @google, @microsoft &amp; @facebook invested in Iowa for new data centers via @forbes
+http://t.co/sX0mgu7312" "BusinessIOWA" FALSE FALSE 1417557120
+"361" "539899797600481280" "@Microsoft @joebelfiore @Lumia  PLZ check why vlc app on WP has a certification issue and fix it" "skilesawarz" FALSE FALSE 1417557117
+"362" "539899734467829760" "Thank you! @Microsoft #MSP http://t.co/G2JiSpqIj6" "andrew___min" FALSE FALSE 1417557102
+"363" "539899488274767872" "holy shit. the new halo matchmaking is the biggest joke i have ever witnessed. worst $ i have spent. i want a refund!!! @Halo @Microsoft" "Payteeezy" FALSE FALSE 1417557043
+"364" "539899377834545153" "Unnecessary 3D printing in the Microsoft Lounge @geekandsundry @microsoft https://t.co/xPcnaC09O7" "Demetre65476067" FALSE FALSE 1417557017
+"365" "539899362089140225" "RT @allisonscag: Unnecessary 3D printing in the Microsoft Lounge @geekandsundry @microsoft https://t.co/BUy0t42CVz" "Demetre65476067" TRUE FALSE 1417557013
+"366" "539899289724387328" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "jmonte97" TRUE FALSE 1417556996
+"367" "539899190977916929" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/bBCLWLKpsl" "NinjaKrill" FALSE FALSE 1417556972
+"368" "539899099898978304" ".@Reese_EU @LizardPatrol @Microsoft @xboxlivenation To get our name on foreheads around the world." "chFizgod" FALSE FALSE 1417556950
+"369" "539899002401992704" "RT @SHBLaw: Welcome to Shook! From @Microsoft, new IP partners @Mulgrew and @WJHarmon http://t.co/vMFlYcF3wc" "susanseilnacht" TRUE FALSE 1417556927
+"370" "539898886274310144" "Welcome to Shook! From @Microsoft, new IP partners @Mulgrew and @WJHarmon http://t.co/vMFlYcF3wc" "SHBLaw" FALSE FALSE 1417556899
+"371" "539898840103809025" "@chfizgod may I ask what the motive is behind @LizardPatrol Dossing @Microsoft and @xboxlivenation" "Reese_EU" FALSE FALSE 1417556888
+"372" "539898493683240960" "#BlackFriday and #CyberMonday winners are in from @Forbes! http://t.co/pGaAy7yyqB @Kohls @amazon @Samsungtweets @Microsoft #Apple" "trustvesta" FALSE FALSE 1417556806
+"373" "539898291081986048" "RT @pray_ag: After good show of @Microsoft with @realmadriden , time for them to empower @CWCWatch 
+
+#Cwc15
+#Aus #Gentlemensgame" "CWCWatch" TRUE FALSE 1417556758
+"374" "539898290368557056" "After good show of @Microsoft with @realmadriden , time for them to empower @CWCWatch 
+
+#Cwc15
+#Aus #Gentlemensgame" "pray_ag" FALSE FALSE 1417556757
+"375" "539898162644008961" "RT @MrsGibson4th: A @SkypeClassroom chat with Michael Corning from @Microsoft learning about computer science #TCEcardinals #HourOfCode htt…" "MrsCGibson" TRUE FALSE 1417556727
+"376" "539898125314699265" ".@Microsoft #Windows81 Rises As #WinXP Plummets http://t.co/aUuxwO3q44" "MATRIX_Houston" FALSE FALSE 1417556718
+"377" "539897821554819072" "RT @HSE_21: RT @MrsGibson4th: A @SkypeClassroom chat with Michael Corning from @Microsoft learning about comp sci  #HourofCode http://t.co/…" "TCEprincipal" TRUE FALSE 1417556646
+"378" "539897733696344064" "RT @HTrueNorth: Announcing Hitachi Unified Compute Platform (UCP) 4000E for @VMware vSphere or @Microsoft Private Cloud! http://t.co/IiyVwF…" "chriskiddHDS" TRUE FALSE 1417556625
+"379" "539897214924247040" "Announcing Hitachi Unified Compute Platform (UCP) 4000E for @VMware vSphere or @Microsoft Private Cloud! http://t.co/IiyVwFHnSq" "HTrueNorth" FALSE FALSE 1417556501
+"380" "539897198885240832" "Cortana notifying me about the Manchester United game @Microsoft @Lumia #awesome  http://t.co/O0oCfH502A" "Kachilombo" FALSE FALSE 1417556497
+"381" "539897129075224576" "#Windows8 causes so much #stress it's unbelievable. #Windows7 or #OSX is the only way to go on a #laptop or #desktop @Microsoft" "menhealuk" FALSE FALSE 1417556481
+"382" "539897064923348993" "@Redhead_Design @Microsoft Good." "DanielSolc" FALSE FALSE 1417556465
+"383" "539896865777795072" "RT @armitage_nick: We're out here taking Bluetooth calling to a whole new level where you at @Microsoft @Apple @BillGates http://t.co/YWVxC…" "_kiaaaaara" TRUE FALSE 1417556418
+"384" "539896586923302912" "@KiwiCoder The trouble with @Microsoft -- they break their links every six months." "bhelyer" FALSE FALSE 1417556351
+"385" "539896492996448257" "@Microsoft please have a company remake mw2. Best @CallofDuty game ever" "Greg_Franks" FALSE FALSE 1417556329
+"386" "539896435568029699" "RT @StrategyEye: Check out the big 5 tech firms taking over TV including @Amazon and @Microsoft http://t.co/dPkgPQX5hz http://t.co/kUHgi5hm…" "Carstenpingel" TRUE FALSE 1417556315
+"387" "539896075759656960" "RT @armitage_nick: We're out here taking Bluetooth calling to a whole new level where you at @Microsoft @Apple @BillGates http://t.co/YWVxC…" "Rennoc360" TRUE FALSE 1417556229
+"388" "539895994628853760" "RT @Godshot_eM: @Microsoft @Xbox @XboxSupport @XcL_Moon found the lizard squad leader.  http://t.co/H2PTIMhUPz" "Darrenjoseph313" TRUE FALSE 1417556210
+"389" "539895985817001984" "We're out here taking Bluetooth calling to a whole new level where you at @Microsoft @Apple @BillGates http://t.co/YWVxCWwnww" "armitage_nick" FALSE FALSE 1417556208
+"390" "539895560460042240" "Want to support @NFTE? Can you watch a video and click a mouse? You do that, we get money, support from @Microsoft http://t.co/HGHNViCMeb …" "NFTE" FALSE FALSE 1417556107
+"391" "539895497897824256" "let me count the ways @VisualStudio is terrible @Microsoft http://t.co/NNMtO4WzHs" "AdmiralAckbar3" FALSE FALSE 1417556092
+"392" "539895319253630976" "My Blog Post - @Azure @microsoft and @riverbed - a match made in teh cloud -  http://t.co/l6tqzktcOi" "ramtwter" FALSE FALSE 1417556049
+"393" "539895313583321088" "@Microsoft  do u know about @LizardPatrol  hacking" "Editbonkerz" FALSE FALSE 1417556048
+"394" "539895184600100865" "RT @MrsGibson4th: A @SkypeClassroom chat with Michael Corning from @Microsoft learning about comp sci  #HourofCode http://t.co/twnpcoeBvf" "HSE_21" FALSE FALSE 1417556017
+"395" "539895151272136704" ".@Microsoft showcases top web searches of 2014 with @Bing Trends: http://t.co/RSPeZr8SrM #comms #digital #news #publishing #information" "LOMBARDI_GLORIA" FALSE FALSE 1417556009
+"396" "539895068262670336" "RIP #ClipArt http://t.co/F8H1YLCcdK @Microsoft announces bad built-in \"art\" to join the digital graveyard in the sky http://t.co/n9tEOUvoNM" "Redhead_Design" FALSE FALSE 1417555989
+"397" "539895014944698370" "WE  need employers to talk about digital skills.Can you spare a couple of hours on 25.3.15 North London @techmeetup @google @Microsoft" "Inquisitiveserv" FALSE FALSE 1417555976
+"398" "539894901488758785" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "OmarAbdul" TRUE FALSE 1417555949
+"399" "539894553369927680" "@Microsoft hope u guys are ready for the lizard squad instead your just jerking yourselves." "WeezyFanBoy" FALSE FALSE 1417555866
+"400" "539894546361253888" "@Microsoft took 6hrs to email my pw reset &amp; now the pw reset is expired. Went online to chat w/ support &amp; they want me to login. #Hilarious" "greg_kemper" FALSE FALSE 1417555865
+"401" "539894380941701120" "RT @NeilMakepeace1: @ODIQueensland grateful to its sponsors @Laing_ORourke @Microsoft @Telstra @Esri @CCIQLD @Glentworth_Aus @NICTA @Griffi…" "ODIQueensland" TRUE FALSE 1417555825
+"402" "539894353477378048" "Shape May 2015 @Microsoft Ignite: share what you want at the conference in an upcoming tweetchat #ignitejam http://t.co/wX1Sh23OCP" "PSAgustin" FALSE FALSE 1417555819
+"403" "539894210611380226" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/Qhf7fVtr5J" "rox_gina" FALSE FALSE 1417555785
+"404" "539894092784996352" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "GGOpenChallenge" TRUE FALSE 1417555757
+"405" "539894068369969152" "RT @Godshot_eM: @Microsoft @Xbox @XboxSupport @XcL_Moon found the lizard squad leader.  http://t.co/H2PTIMhUPz" "ColetonColeton" TRUE FALSE 1417555751
+"406" "539893852375486464" "My @Microsoft @surface has arrived.  I can get on with my life, now." "AZHonorable" FALSE FALSE 1417555699
+"407" "539893673702735872" "@LizardPatrol @Microsoft @CIA @FBI 
+like i said, you interrupted my sleep, i interrupt your life. Asshole." "Vymerius" FALSE FALSE 1417555657
+"408" "539893620074352640" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "donpro2009" TRUE FALSE 1417555644
+"409" "539893449890467840" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "JoeLeiber" TRUE FALSE 1417555603
+"410" "539893216230002689" "@LizardPatrol @Microsoft  @Sony  @CIA @FBI have fun :) you shut xbox live off last night and interrupted my sleep. I will interrupt yourlife" "Vymerius" FALSE FALSE 1417555548
+"411" "539892829170855936" "@symantec What?!  Noooooooo!!  Damn you @Microsoft!!!" "Krepta3000" FALSE FALSE 1417555455
+"412" "539892773965819905" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "ImCresus_" TRUE FALSE 1417555442
+"413" "539892681011634176" "George Takei beams down to @Microsoft Research to try out @Skype's real-time #Translator http://t.co/OHvcOhAbtR #StarTrek" "NickBrooks1987" FALSE FALSE 1417555420
+"414" "539892536643686401" "@Microsoft  Ayo word to my mother.... I havnt even had Microsoft 8.1 for 20 minutes and this shit has to go! The hell kinda update is this ?" "lxTheoryxl" FALSE FALSE 1417555386
+"415" "539892375582019584" "RT @Godshot_eM: @Microsoft @Xbox @XboxSupport @XcL_Moon found the lizard squad leader.  http://t.co/H2PTIMhUPz" "Moonzuh_" TRUE FALSE 1417555347
+"416" "539892100482236417" "@Domislive the @Microsoft  is going to find their lawyer and suspend lizard squad from twitter but let's wait and see what happens..." "liltwochains1" FALSE FALSE 1417555282
+"417" "539892087496650752" "RT @nancyduarte: No more #PowerPoint clipart! @Microsoft transitions to images on @bing instead: http://t.co/ml81UPZflS" "susanweiner" FALSE FALSE 1417555279
+"418" "539891954205851648" "@Microsoft @Xbox @XboxSupport @XcL_Moon found the lizard squad leader.  http://t.co/H2PTIMhUPz" "Godshot_eM" FALSE FALSE 1417555247
+"419" "539891709094928385" "@luckyturner @trashHeap @Microsoft @Xbox come, play games with me. &lt;3" "neoookami" FALSE FALSE 1417555188
+"420" "539891604476026880" "Pick me! I just entered to win a @Microsoft Band. http://t.co/FqGJtiTz8t Join @BingRewards to earn gift cards &amp; more." "PhilmingPhilly" FALSE FALSE 1417555163
+"421" "539891175398723584" "At @Microsoft for the @washingtonstem Summit. Enjoyed @GovInslee, @RevJJackson and AMAZING @OppScholarship Scholars so far. #wastemsummit" "mNseattle" FALSE FALSE 1417555061
+"422" "539890929054654464" "We finally posted code from Amanda's #vsconnect talk. It's the app that would result if Uber + @Microsoft made babies http://t.co/MDzD4XBVEP" "ryanjsalva" FALSE FALSE 1417555002
+"423" "539890819206221824" "RT @EpicGL: Starting our week of giveaways! Day 1! RT/Follow within 24hrs to win a $10 @Microsoft gift card! #epicgiveaway http://t.co/m7V3…" "Walrxs" TRUE FALSE 1417554976
+"424" "539890639497072641" "Born To Learn @Microsoft @MSLearning Register at @msrmec #MEC #msrmec" "pailvarun" FALSE FALSE 1417554933
+"425" "539890518814380032" "@Microsoft @Xbox Needs to get their shit straight,  These servers are still straight ass. I'm not paying an xbox live fee for no damn reason" "LG_JRod" FALSE FALSE 1417554905
+"426" "539890500573364225" "RT @Microsoft: #GivingTuesday: Microsoft #YouthSpark is matching donations to youth-oriented causes. Donate: http://t.co/cR0cWG7KGb http://…" "MicrosoftJobs" TRUE FALSE 1417554900
+"427" "539890480591671296" "@trashHeap if this isn't resolved soon, I may just say \"bump it\" and reluctantly join @neoookami in the PS4 camp @Microsoft @Xbox" "luckyturner" FALSE FALSE 1417554895
+"428" "539890449113026560" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/NL16uQfFBG" "michaelferrara9" FALSE FALSE 1417554888
+"429" "539890366682783744" "RT @DJ_Kepi: #TeamUp with @Timbaland  Song Contest - Enter Your Original Track and win! @LenovoUS  @Microsoft  #ad http://t.co/9fHRo75XV9" "asdperecteda" TRUE FALSE 1417554868
+"430" "539889775051046912" "@Microsoft @GlobalGiving Click http://t.co/1QPNYT2Lj4 to view progress and donate to help a sick child #GivingTuesday." "africapsoriasis" FALSE FALSE 1417554727
+"431" "539889521400479744" "thanks @unibirmingham and @Microsoft for freezing in the middle of writing my essay and now I am back to where I started 2 hours ago" "EllieTownsend1" FALSE FALSE 1417554667
+"432" "539889514148532225" "Big news: @microsoft kills off Clip Art http://t.co/4xXUNC2tbN via @Telegraph #hooray" "freedman1" FALSE FALSE 1417554665
+"433" "539889476450148353" "@Microsoft Thank you for this great quality device! I love it! Shame it stops working after dropping 3 ft though :( http://t.co/KFmQMFnOu6" "brad_is_lee" FALSE FALSE 1417554656
+"434" "539889447362637825" "@TravlandLeisure A6 I'd love a @Microsoft Surface Pro 3 for media consumption, blogging &amp; photo editing on the road. #TL_Chat #allinone" "TheCityLane" FALSE FALSE 1417554649
+"435" "539889381151367169" "@microsoft @windows what kind of drugs are you on that makes the surface pro 3 more powerful than a MacBook?" "Protomau5" FALSE FALSE 1417554633
+"436" "539889373165006848" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/I6Sf27TycG" "jim150_jim" FALSE FALSE 1417554631
+"437" "539889352177119233" "@Microsoft interested insurface 3 but reading lots of reports regarding overheating playing minecraft. Feedback please" "kirsty_gray" FALSE FALSE 1417554626
+"438" "539889245625012224" "Tell us the best #CyberMonday deal u got.Any of these?http://t.co/tomHKRqNNo @engadget @amazon @BestBuy @Dell @google @RokuPlayer @Microsoft" "TheLuxuryReview" FALSE FALSE 1417554601
+"439" "539889245394325504" "Tell us the best #CyberMonday deal u got.Any of these?http://t.co/Wx6DveZmBE @engadget @amazon @BestBuy @Dell @google @RokuPlayer @Microsoft" "LuxuryTechShow" FALSE FALSE 1417554601
+"440" "539888719944507392" "RT @scottpocket: Double-ing impact thanks to @Microsoft! @GirlsWhoCode @doublerobotics #GivingTuesday #unselfie http://t.co/1xeqsTgFu6 http…" "trulyingrid" TRUE FALSE 1417554476
+"441" "539888456856793089" "The @Photoshop welcome screen is pretty much the same thing as #clippy from @Microsoft Office #annoying #useless #whywontyougoaway" "DavidJCrewe" FALSE FALSE 1417554413
+"442" "539888306117697536" "@trashHeap @Microsoft @Xbox why am I being treated like it's funny money for all intents and purposes?" "luckyturner" FALSE FALSE 1417554377
+"443" "539888233556242432" "@luckyturner Its customer hostile to have one store front that takes two different non interchangeable currencies. @Microsoft @Xbox." "trashHeap" FALSE FALSE 1417554360
+"444" "539888208528809984" "@trashHeap @Microsoft @Xbox Its just hilarious because a while back there was a big push to real currency. If $350 is in my MS account..." "luckyturner" FALSE FALSE 1417554354
+"445" "539888142011351042" "@jsoltero @Microsoft Perfecto. Lunch soon then." "miguelrios" FALSE FALSE 1417554338
+"446" "539888045760462849" "#TitanFall is even better now! @Respawn #StandByForTitan #XboxOne @Xbox @Microsoft Love this game!!" "Richie_Staz" FALSE FALSE 1417554315
+"447" "539888031428141056" "Pick me! I just entered to win a @Microsoft Band. http://t.co/KfvvWnJqB4 Join @BingRewards to earn gift cards &amp; more." "HarveySchmidlap" FALSE FALSE 1417554311
+"448" "539887997635022849" "microsoft on Instagram... via @Microsoft http://t.co/DbWChWHsCh http://t.co/40n6NgrAIS" "Toptrendsio" FALSE FALSE 1417554303
+"449" "539887858790969345" "@MSFTnews @Microsoft I'll start it. Ten reasons why my XBox1 is about to crap out after my warranty expired.
+ 1) nasty grinding disc drive" "ninjadude860" FALSE FALSE 1417554270
+"450" "539887711617024000" "More @Microsoft matching funds released. Hurry! They went fast this morning! Protect girls from #trafficking: http://t.co/eryshISiid" "worldconcern" FALSE FALSE 1417554235
+"451" "539887641911910400" "@PhilYoussef @Microsoft don't remember, but wow.  and what _was_ up with that one photo?" "joenievelt" FALSE FALSE 1417554219
+"452" "539887405638377473" "\"Everybody wants DevOps\" - but what's the #1 blocker? @M_Wein shares @Microsoft's answer. thhttp://ow.ly/FagwA" "Skytap_Partners" FALSE FALSE 1417554162
+"453" "539887319252480000" "@SgtTCS excellent! that's what i was hoping for ;-) @TDotCop @RiteshKotak @Microsoft" "thecoffeecop" FALSE FALSE 1417554142
+"454" "539887250818207744" "@MSFTnews @Microsoft completely love this phone... wish @BestBuyCanada could stock MORE @windowphone accessories!" "Dakuma" FALSE FALSE 1417554125
+"455" "539887163564101632" "Just found out @Microsoft is giving away $10 @Xbox gift cards for each Xbox One game you pre-order! #gaming http://t.co/zgaB0IH5CJ" "AHoffswell" FALSE FALSE 1417554105
+"456" "539887148900810752" "\"Everybody wants DevOps\" - but what's the #1 blocker? @M_Wein shares @Microsoft's answer. thhttp://ow.ly/Fagws" "Skytap" FALSE FALSE 1417554101
+"457" "539887032261427201" "We’re doing brunch at 1 pm on Wednesday here at modellounge X @Microsoft. Complementary massages from 12-4. Pencil us in, ok?" "modellounge" FALSE FALSE 1417554073
+"458" "539886797955039233" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "tha1manriot" TRUE FALSE 1417554017
+"459" "539886791990337536" "Let the nostalgia begin! @Microsoft has gotten rid of its iconic clip art. So many memories! http://t.co/uxFZJm3kZR http://t.co/PxfjzFXMyq" "CamronPR" FALSE FALSE 1417554016
+"460" "539886766887804928" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "theblackpearli" TRUE FALSE 1417554010
+"461" "539886589238050817" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "tjhouston" TRUE FALSE 1417553968
+"462" "539886559731150848" "#Google Drive now converts #Office files inside #Gmail http://t.co/YlnOxZEuCX #productivity @Microsoft #O365" "NickBrooks1987" FALSE FALSE 1417553961
+"463" "539886218537082882" "RT @fleejack: $70,000 in STEM Scholarships @UnitedAthletes #BeU Sponsored @Microsoft Supplier Diversity http://t.co/e1KRJeVHet http://t.co/…" "AustinAPJackson" TRUE FALSE 1417553879
+"464" "539885526703427587" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "_glared" TRUE FALSE 1417553714
+"465" "539885495992721408" "RT @CityYearDC: Round 2 of @Microsoft matching funds are being released NOW! Make a #givingtuesday donation here: http://t.co/TMTBRHw4BQ" "stantonscholars" TRUE FALSE 1417553707
+"466" "539884891182489600" "RT @fleejack: Read The Diversity Leaders Daily ▸  today's top stories #BeU @UnitedAthletes @Microsoft @SodexoKristen @jstoberl http://t.co/…" "SodexoKristen" TRUE FALSE 1417553563
+"467" "539884692116635648" "RT @peterclarke88: @Google, @Microsoft in control at Dynamic Spectrum Alliance? http://t.co/swJ6bL7Dm9 @less_sebastian @DigitalTVLabs @ATDI…" "real_wireless" TRUE FALSE 1417553515
+"468" "539884640434393089" "Dear @microsoft:  Please make this snark indicator happen.  Hugs, The Internet. http://t.co/7xDWNu06T1" "datachick" FALSE FALSE 1417553503
+"469" "539884425245638658" "RT @scottpocket: Double-ing impact thanks to @Microsoft! @GirlsWhoCode @doublerobotics #GivingTuesday #unselfie http://t.co/1xeqsTgFu6 http…" "MeepyMay" TRUE FALSE 1417553452
+"470" "539883730698256384" "Retweet guys! Get @Microsoft to compensate the gamers who purchased @Halo even though it's broken. https://t.co/PClm6mRUJk #XboxOne" "TheRy4nWoodward" FALSE FALSE 1417553286
+"471" "539883679603245056" "Remember the iPhone funeral we threw @Microsoft ?
+http://t.co/4JlYUZltib http://t.co/DD5sffEX1D" "PhilYoussef" FALSE FALSE 1417553274
+"472" "539883584681951232" "So for the past few days, I've got $350 tied up in an account that I can't use to purchase an item from @Microsoft ..." "luckyturner" FALSE FALSE 1417553251
+"473" "539883358550233089" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "NicoRobinAngel1" TRUE FALSE 1417553197
+"474" "539883297929953280" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "CJcomputersNC" TRUE FALSE 1417553183
+"475" "539883275519807488" "#LT Because of Stephen Hawkins disability could it lead to the removal of keyboards and mouses? #FuturisticThought @Microsoft" "Optimus6Prime" FALSE FALSE 1417553178
+"476" "539883066052083713" "Petition for @Microsoft to compensate those who purchased @Halo instead of just giving to those who buy now. https://t.co/PClm6mRUJk #Xbox" "TheRy4nWoodward" FALSE FALSE 1417553128
+"477" "539883004923883520" "We look at recent strategic acquisitions by @Microsoft, @AOL and @Airbnb http://t.co/t40Z08AoV9 http://t.co/W4kpfeS4vd" "StrategyEye" FALSE FALSE 1417553113
+"478" "539882964549902336" "The #BlackFriday and #CyberMonday winners are in: Apple, @Samsung, @EA, and @Microsoft http://t.co/3gMtr9up5S via @forbes" "Spredfast" FALSE FALSE 1417553103
+"479" "539882963148611584" "RT @GlobalGiving: .@Microsoft is giving away another $175K in matching funds to #YouthSpark projects on GlobalGiving NOW! http://t.co/CexXE…" "CityYearDC" TRUE FALSE 1417553103
+"480" "539882844135624704" "RT @joshthestorm: Dear @Microsoft , it's gonna be 2015 soon. Do you think you should work on an update for Mac Office 2011? Thanks" "kendyllep" TRUE FALSE 1417553075
+"481" "539882804482695170" "RT @scottpocket: Double-ing impact thanks to @Microsoft! @GirlsWhoCode @doublerobotics #GivingTuesday #unselfie http://t.co/1xeqsTgFu6 http…" "PingYourBrain" TRUE FALSE 1417553065
+"482" "539882721733263361" "RT @scottpocket: Double-ing impact thanks to @Microsoft! @GirlsWhoCode @doublerobotics #GivingTuesday #unselfie http://t.co/1xeqsTgFu6 http…" "GirlsWhoCode" TRUE FALSE 1417553046
+"483" "539882638778306561" "@Microsoft #XboxOne wearable tipped for launch in 2015 http://t.co/iZGxDnkSI8" "RizKnows" FALSE FALSE 1417553026
+"484" "539882576044105728" "IILLEGAL ACCESS by MICROSOFT IP address TRACERT shows this bizarre physical route @Microsoft @LabFBI @FBI http://t.co/lLkCVtM2Sv" "JochVerWalensis" FALSE FALSE 1417553011
+"485" "539882537603334147" "@Microsoft why my #istagram is not sharing photos on #facebook via #windowsphone #nokia #lumia520 ???" "OviFarooQi" FALSE FALSE 1417553002
+"486" "539882423308521476" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "ThePANHandbook" TRUE FALSE 1417552974
+"487" "539882294291755008" "RT @jessicaorndorff: Donate now to be matched! @CityYearDC @microsoft #youthspark http://t.co/omjnRDMOYg" "CityYearDC" TRUE FALSE 1417552944
+"488" "539882055681982464" "@Microsoft you're included!! You're stupid #Windows8 #updates toasted my hard drive! Thank you" "JoeLesterPhotos" FALSE FALSE 1417552887
+"489" "539881973666566145" "@SamirSamadi @Microsoft Thats more like it! Happy to see the Xbox One so far up with no sign of the PS4 as well!" "seboutloud" FALSE FALSE 1417552867
+"490" "539881893085585408" "@Reservofficer1 @Microsoft Their stock price cared about a year ago." "TheWarRoom_Tom" FALSE FALSE 1417552848
+"491" "539881838526099457" "Ps I am tired but happy that so many more people will be helped cos of @Microsoft #YouthSpark Donate http://t.co/Lt5dJx06bq #GivingTuesday" "rachelgguk" FALSE FALSE 1417552835
+"492" "539881722201272320" "Which @Microsoft Certifications Should you Consider? http://t.co/7jznNBOMWb via @StorageCraft" "BaroanTech" FALSE FALSE 1417552807
+"493" "539881461487525889" "RT @fleejack: $70,000 in STEM Scholarships @UnitedAthletes #BeU Sponsored @Microsoft Supplier Diversity http://t.co/e1KRJeVHet http://t.co/…" "LiTCollegeTour" TRUE FALSE 1417552745
+"494" "539881352469172224" "RT @Microsoft: There’s always room for adventure. #DoMore #WPPhoto #ShotOnMyLumia Follow us: http://t.co/1o33Mx4XCb http://t.co/DP7c5guaPs" "Brain_Digi" TRUE FALSE 1417552719
+"495" "539881216301076480" "@Microsoft when vlc for wp will be available for download /??????" "kumarvinay92" FALSE FALSE 1417552687
+"496" "539881182058778626" "@Microsoft if my adventure fail.....you repeat!!!!again n again!!!!!!" "benatgabina" FALSE FALSE 1417552678
+"497" "539881112127152128" "@thecoffeecop @TDotCop @RiteshKotak @Microsoft those glasses make you look really clever ! " "SgtTCS" FALSE FALSE 1417552662
+"498" "539880836422971392" "@TheWarRoom_Tom @Microsoft couldn't care less " "Reservofficer1" FALSE FALSE 1417552596
+"499" "539880802918862848" "RT @AmyResnick: #Pension funds on different sides on issue of @Microsoft’s pay package for CEO, 4 others http://t.co/MKizXpoHgo #corpgov" "GAPWx" TRUE FALSE 1417552588
+"500" "539880802314899456" "RT @Resnick_PI: #Pension funds on different sides on issue of @Microsoft’s pay package for CEO, 4 others http://t.co/AIos5pY1xE #corpgov" "GAPWx" TRUE FALSE 1417552588

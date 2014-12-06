@@ -1,0 +1,516 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539569601437110272" "@rwmonty @bmcnely @amazon Not speaking from experience but no one is satisfied with a 3 inch." "Will_Veee" FALSE FALSE 1417478392
+"2" "539569551068131328" "@amazon I was SO hoping you would have had the Sookie Stackhouse books 9-13 set available this year?  Let me know when and I will buy." "AnnMcButterfly" FALSE FALSE 1417478380
+"3" "539569547775594496" "I just listed: 'Numark V7 Motorized Turntable Software Controller', for $370.00 via @amazon... http://t.co/lmmZaiFZXZ" "DominateKonquer" FALSE FALSE 1417478379
+"4" "539569538665168897" "Amazon Fire TV for only $69.00 LIMITED TIME OFFER http://t.co/mN0IqqHnOA via @amazon" "PrimeAmazon" FALSE FALSE 1417478377
+"5" "539569497607524352" "RT @cathconstantine: Wickedly They Drea... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/WbVy3zzHlC via @amazon" "BlackOpalBooks" TRUE FALSE 1417478367
+"6" "539569447434874880" "Christmas is coming! ;) Really though, putting this there for those who asked. http://t.co/Rodt04pWf1 via @amazon" "SidSuicide" FALSE FALSE 1417478355
+"7" "539569437490159616" "My book rant @amazon (And I have Amazon Prime) http://t.co/dSjskgPt2o" "hungergames_4ev" FALSE FALSE 1417478353
+"8" "539569429726502912" "I could sit inside an @amazon warehouse for hours and be mesmerized. #BeautifulLogistics https://t.co/cztU0YOF5F" "b16tran" FALSE FALSE 1417478351
+"9" "539569317210103808" "Oola Find Balance In An Unbalanced World http://t.co/dRxcsnXQNg via @amazon" "OHDSalonBE" FALSE FALSE 1417478324
+"10" "539569223220346880" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "SiberianDiggle" TRUE FALSE 1417478302
+"11" "539569216920092672" "I just listed: 'Samsung Galaxy S3 Glimmer Cases Gold', for $21.00 via @amazon http://t.co/G9Yzt77lGq" "jimp30" FALSE FALSE 1417478300
+"12" "539569212822286337" "#hotreads #romance #holidayreads:
+Cosmopolitan Life ... #CyberMonday #CM2014 http://t.co/YCPufNzyH9 via @amazon" "deborahblu" FALSE FALSE 1417478299
+"13" "539569201380618240" "RT @TheEdwinStark: The Karaoke Duo Vs.The Karaoke Zombies 4.2 stars !  #CyberMonday #CM2014 #99c #IARTG #BookBoost  http://t.co/KJDUQ4CqU3 …" "Melabeth2012" TRUE FALSE 1417478296
+"14" "539569194111488000" "The Interpretation... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/eVHfX4Whvd via @amazon @demeter94 #newrelease" "RoseMontague" FALSE FALSE 1417478295
+"15" "539569068425351168" "Thank you @amazon. I just ordered my own Christmas presents for 50% and 40%. #CyberMonday is love." "Dustin_Seger" FALSE FALSE 1417478265
+"16" "539569063056257024" "RT @TheOfficialNews: #BlackFriday and #cybermonday TV Deals  http://t.co/6dVDo2jmkX via @amazon" "SoundBusted" TRUE FALSE 1417478263
+"17" "539569061219139584" "Implementing a simple but effective marketing plan for your book http://t.co/WfPQoWrtzT via @amazon" "InventingRealit" FALSE FALSE 1417478263
+"18" "539569003170000896" "Wickedly They Drea... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/WbVy3zzHlC via @amazon" "cathconstantine" FALSE FALSE 1417478249
+"19" "539568996748902400" "@Real_Liam_Payne @amazon hello daddy " "wife_ofpayne" FALSE FALSE 1417478248
+"20" "539568982160715776" "Boys Navy Blue Blaz... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/KpDXQdtjR3 via @amazon#TAKING CARE OF BES" "boutique4child" FALSE FALSE 1417478244
+"21" "539568972891717632" "The Solitary Man's Refuge by Ron Foster http://t.co/KszXHdUVCP via @amazon #preppers #prepper #preparedness" "feets_beat" FALSE FALSE 1417478242
+"22" "539568970278645761" "The Solitary Man's Refuge by Ron Foster http://t.co/CNHWQbYuA1 via @amazon #preppers #prepper #preparedness" "ApocalypticPost" FALSE FALSE 1417478241
+"23" "539568950779342849" "LITTLE RIVER BAND ~ SLEEPER CATCHER ~ Wall Clock made from the Vinyl Record LP... http://t.co/JbGR0RyqRK via @amazon" "LPRecordClocks" FALSE FALSE 1417478237
+"24" "539568832407277568" "@amazon &lt;------ my twilight zone" "A_Fangirl_Story" FALSE FALSE 1417478209
+"25" "539568821234049026" "...@UPS, @amazon, why did my package go from your distro in West Columbia, to NC, if it is going to come back to Columbia?" "Mijder" FALSE FALSE 1417478206
+"26" "539568787675029505" "I just listed: 'Digital In-wall Timer St01c White Intermatic Ss8 Replac', for $30.51 via @amazon http://t.co/UZrPFwoytW" "jimp30" FALSE FALSE 1417478198
+"27" "539568732960731136" "RT @Cass_Pennant: 4th copy of #TheGuvnors #dvd up for grabs. RETWEET &amp; follow @GuvnorsFilm to enter. Out 24 Dec, pre-order @amazon now http…" "Jack297Lad" TRUE FALSE 1417478185
+"28" "539568705144094720" "RT @TheEdwinStark: The Karaoke Duo Vs.The Karaoke Zombies 4.2 stars !  #CyberMonday #CM2014 #99c #IARTG #BookBoost  http://t.co/KJDUQ4CqU3 …" "AllBookBot" TRUE FALSE 1417478178
+"29" "539568699213365249" "@MorganTyler86 @amazon nice. I hate getting the three packs and stuff since I put my movies in alphabetical order" "Brittin95" FALSE FALSE 1417478177
+"30" "539568689591222272" "Fire TV Stick by Amazon #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/SpX0tKELss via @amazon" "Cubs21corner" FALSE FALSE 1417478174
+"31" "539568674534080512" "I love ordering on @amazon . Here are the best Cyber Monday Deals - Cyber Monday Sales 2014 http://t.co/ggxv4t78r1" "BettyZabs" FALSE FALSE 1417478171
+"32" "539568660889993216" "RT @LexarMemory: Save $55.04 on a 64GB Lexar microSDXC 633x Flash Memory Card on @Amazon today:   http://t.co/5eHVkMLXU7" "TinkerDaDa45" TRUE FALSE 1417478168
+"33" "539568619407962112" "An Winter #mustread . A Boy From Down East by Larry B. Gray http://t.co/Nj3sLd3d8n … via @amazon #IARTG http://t.co/6SSdW7vpm0" "Larry_B_Gray" FALSE FALSE 1417478158
+"34" "539568614803013632" "RT @JohnRosePutnam: RT @Larry_B_Gray A Boy From Down East #john316author #kindlebooks #asmsg 
+http://t.co/nLaj7GBayX … via @amazon 5 Stars …" "TheproBookedito" TRUE FALSE 1417478157
+"35" "539568608955727873" "Robots in @amazon warehouses may be another indication humans are becoming less important in product distribution. http://t.co/3ctViHkTyE" "KnowThis" FALSE FALSE 1417478155
+"36" "539568578589360128" "ALL HAIL @amazon" "nickyb_zero3" FALSE FALSE 1417478148
+"37" "539568562235379712" "The Karaoke Duo Vs.The Karaoke Zombies 4.2 stars !  #CyberMonday #CM2014 #99c #IARTG #BookBoost  http://t.co/KJDUQ4CqU3 via @amazon" "TheEdwinStark" FALSE FALSE 1417478144
+"38" "539568527435640833" "RT @BySamanthaMarch: Final chance to get THE GREEN TICKET for free! Price goes back up tonight :) #freebooks #CyberMondayReads http://t.co/…" "Catenabi" TRUE FALSE 1417478136
+"39" "539568524185067520" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "OfficiaLucena" TRUE FALSE 1417478135
+"40" "539568502084874240" "Give the gift of health this holiday.  My book on sale @amazon .  6 weeks meal plans, recipes,goals, and workouts.  http://t.co/Cydqs1dtWc" "runwithjill" FALSE FALSE 1417478130
+"41" "539568490123104256" "There is a 128 and 256 GB Kingston SSD for $45/$75 on @amazon right now." "N3rdG4sm" FALSE FALSE 1417478127
+"42" "539568490114719744" "There is a 128 and 256 GB Kingston SSD for $45/$75 on @amazon right now." "LunchJournals" FALSE FALSE 1417478127
+"43" "539568450050330624" "Navy blue corduroy ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/r0Ea4rq50d via @amazon#FOR DINER OR PLAY STYLE" "boutique4child" FALSE FALSE 1417478117
+"44" "539568431650308096" "Save 30% today on Millennials &amp; Management @Amazon! http://t.co/eYyTvsaE10 use \"HOLIDAY30\" at checkout" "LeeCaraher" FALSE FALSE 1417478113
+"45" "539568430282600448" "The Truth: Diary of... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/wiCZ7LCmcM via @amazon" "DrBholstein" FALSE FALSE 1417478113
+"46" "539568412666900480" "Some secrets should remain hidden, Suili decided. #pirate #ambercat #romance #AmazonCart @amazon http://t.co/2ZDRHFSZkw" "BaileysEZPicks" FALSE FALSE 1417478108
+"47" "539568407449202688" "4 Stars \"an awesome tale of #adventure, mystery, intrigue.\" #mystery #WWII #artwork #AmazonCart @amazon http://t.co/KLLoU6mkid" "EchoPressBooks" FALSE FALSE 1417478107
+"48" "539568401401016321" "Some secrets should remain hidden, Suili decided. #pirate #ambercat #romance #AmazonCart @amazon http://t.co/kpLF37A1bR" "EchoPressBooks" FALSE FALSE 1417478106
+"49" "539568398208745472" "The Oil Will Stay M... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/VgB3OOW35C via @amazon" "DrMichaelMcCain" FALSE FALSE 1417478105
+"50" "539568378621349888" "RT @JohnRosePutnam: RT @Larry_B_Gray A Boy From Down East #john316author #kindlebooks #asmsg 
+http://t.co/nLaj7GBayX … via @amazon 5 Stars …" "Larry_B_Gray" TRUE FALSE 1417478100
+"51" "539568342814978048" "DAMN NIGGA I JUST BOUGHT ONE OF THESE FUCK | @amazon
+#CyberMonday deal: $10 off Roku Streaming Stick http://www." "shamansound" FALSE FALSE 1417478092
+"52" "539568330122993664" "5x7 Hinged Portrait Light/Medium Frame with ... Reply w/ #AmazonCart to add this http://t.co/7hc90AulrO via @amazon" "photonameframes" FALSE FALSE 1417478089
+"53" "539568262380789761" "I'm in! “@amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/yR630bGkiO http://t.co/DzKDrR3Cof”" "paddickl" FALSE FALSE 1417478073
+"54" "539568257385373696" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "Pricezon" TRUE FALSE 1417478071
+"55" "539568251554889729" "Black Tiger Print L... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/qoS6BVMk7Z via @amazon#EYE OFF THE TIGER" "boutique4child" FALSE FALSE 1417478070
+"56" "539568243061825536" "@amazon Hello. Help us reach our small goal of $3K! #GivingTuesday http://t.co/nrq7DCw3QX  Thank You! http://t.co/qHDbNsGITE" "BrownKasa2014" FALSE FALSE 1417478068
+"57" "539568231296417792" "RT @BirdsOnTheBat13: St Louis Cardinals Championship Collection http://t.co/Y4bku2ecnA via @amazon" "Jmccampbell" TRUE FALSE 1417478065
+"58" "539568205812207616" "a rare look inside @amazon's fulfillment ops, powered by bots from Kiva Systems https://t.co/Rutci8tPIf" "jensmccabe" FALSE FALSE 1417478059
+"59" "539568183984676864" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/C4K0xF81B1 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417478054
+"60" "539568182764113920" "Life Editing Vol. 1:... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/tRYhLdkqE2 via @amazon" "DrMichaelMcCain" FALSE FALSE 1417478054
+"61" "539568166457069568" "RT @WoodArtsUniv: This handsome desktop organizer is made from high quality materials &amp;  is polished to perfection.http://t.co/2FeNH9Ppem @…" "DSTPRL" TRUE FALSE 1417478050
+"62" "539568152599080960" "When you shop @amazonsmile, @amazon will give a portion of your purchase back to our charity. #ChooseRMHCWNY #CyberMonday #GivingTuesday" "rmhcwny" FALSE FALSE 1417478046
+"63" "539568134781296640" "@dennisrwe @amazon you are so sweet. Xo thank you ❤️" "CarnieWilson" FALSE FALSE 1417478042
+"64" "539568128816984064" "The Gatekeeper's S... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/0L760EIEuf via @amazon" "1776gal" FALSE FALSE 1417478041
+"65" "539568119904092160" "Brooke's Wish List http://t.co/CQCKi6dkEO via @amazon" "saxy15" FALSE FALSE 1417478039
+"66" "539568107585802240" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "GeminiAPatterso" TRUE FALSE 1417478036
+"67" "539568104645623808" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "MIkeMcAveney" TRUE FALSE 1417478035
+"68" "539568101558591488" "“@amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/9KxKwrIxov http://t.co/2ElkkrvAos” @having_lunch" "DebbieHagerman" FALSE FALSE 1417478034
+"69" "539568092238458880" "MICHAEL Michael Kor... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/sFqMTlkPMW via @amazon" "AlwaysAuthenti" FALSE FALSE 1417478032
+"70" "539568077437140992" "RT @JoanCurtis: The Clock Strikes Midnight $2.99 @amazon. #cybermonday
+http://t.co/zrcVxsMEZZ http://t.co/5eJCkyvM55" "PaulCarr9" TRUE FALSE 1417478029
+"71" "539568042275917824" "PAUL SMITH JUNIOR S... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/VGW2uCaNev via @amazon#GOING AWAY" "boutique4child" FALSE FALSE 1417478020
+"72" "539568042108145666" "New Adult with SOUL in #LeonsWay by @amazon bestselling author @SunnivaD Release date Dec 19 http://t.co/9jDQ0Mqbc1 https://t.co/GWCHPsymsf" "jodim1970" FALSE FALSE 1417478020
+"73" "539568017534099457" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "parisean15" TRUE FALSE 1417478014
+"74" "539568009845559296" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/kovnhrtzTA via @amazon" "AlwaysAuthenti" FALSE FALSE 1417478012
+"75" "539567976106950656" "@OpTicGaming @amazon I'm not getting in your fucking van" "noodleshotz" FALSE FALSE 1417478004
+"76" "539567951150850049" "@amazon ok, discount on roku, discount on chromecast, up next, discount on @AmazonFireTV stick? Come on, make it so." "Tom" FALSE FALSE 1417477998
+"77" "539567948873359361" "The Preppers Lament (A Prepper Is Cast Adrift) by Ron Foster http://t.co/iH3Qj9QbCV via @amazon #preppers #prepper #survival #apocalypse" "ApocalypticPost" FALSE FALSE 1417477998
+"78" "539567948156137475" "The Preppers Lament (A Prepper Is Cast Adrift) by Ron Foster http://t.co/7RE0kukz6F via @amazon #preppers #prepper #survival #apocalypse" "ALPrepper13" FALSE FALSE 1417477998
+"79" "539567914752675841" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "reddog94" TRUE FALSE 1417477990
+"80" "539567904442691584" "MICHAEL Michael Kor... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/mV5zkEPXa3 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477987
+"81" "539567891356856320" "Rugby 15 (PS3) by Big Ben @Amazon http://t.co/Jy5RzT36dS" "rinkstan" FALSE FALSE 1417477984
+"82" "539567890929041410" "@CatelynnLowell @amazon I will for sure buy your book.You are such a inspirational couple❤️" "CWengaard" FALSE FALSE 1417477984
+"83" "539567835257634816" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "AviTovOz" TRUE FALSE 1417477971
+"84" "539567822632783875" "I just listed: 'Paul Smith Junior Long Sleeve Teal Shirt (12 years)', for $48.95 via @amazon http://t.co/mwuyyF0nkk WE THEIR" "boutique4child" FALSE FALSE 1417477968
+"85" "539567817079541760" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "dsapeg" TRUE FALSE 1417477966
+"86" "539567805859758080" "Michael Kors Hamilt... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/FsbNNp1cbj via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477964
+"87" "539567796753932288" "I just listed: 'HP 60 (CC643WN) Tri-color Original Cartridge', for $12.01 via @amazon http://t.co/vO0xj6LycS" "jimp30" FALSE FALSE 1417477962
+"88" "539567792996253697" "RT @amazon: #CyberMonday deal: $10 off Roku Streaming Stick http://t.co/8zFUbrZhmw http://t.co/fHlKyuXpA5" "CTParker98" TRUE FALSE 1417477961
+"89" "539567772586364928" "Hawaii @ yr fingertips - Untold Stories of a... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/LMPjm4Yvn4 via @amazon" "SLSOFOS" FALSE FALSE 1417477956
+"90" "539567763761950720" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "christianunez" TRUE FALSE 1417477954
+"91" "539567757180694529" "Destiny: Kindred P... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/c632eTREnG via @amazon" "destinyandkane" FALSE FALSE 1417477952
+"92" "539567752705355776" "Best deal I've seen for BRAND NEW! I just listed: 'Beats Tour 2.0 In-Ear Headphone (Black)', for $125.01 via @amazon http://t.co/Lo4BeT5WDg" "jgmachain" FALSE FALSE 1417477951
+"93" "539567737585303552" "RT @tumblin_doreen: The London Sessions... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/KB1QcO1Xml via @amazon Get…" "LynHornerAuthor" TRUE FALSE 1417477947
+"94" "539567706740367361" "JOHNNY MATHIS ~ JOHNNY'S GREATEST HITS ~ Recycled LP Vinyl Record/Album Wall C... http://t.co/8BfkrIr90K via @amazon" "LPRecordClocks" FALSE FALSE 1417477940
+"95" "539567705947267072" "RT @CatsOutOfTheBag: @atypicalone @amazon Uh oh. My @Amazon account has my credit card saved! There's about to be a HUGE run on #purinacatc…" "dadams121121" TRUE FALSE 1417477940
+"96" "539567694039633920" "Dinamit Women's Ray... #CyberMonday #CM2014 Reply w/ #AmazonWishList #amazonprime #californiadreaming  http://t.co/hjCr4TgpSf via @amazon" "fashionoutletus" FALSE FALSE 1417477937
+"97" "539567678906564609" "ASICS Women's GEL-Ex... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/C6T95aENuE via @amazon" "susieqlaw" FALSE FALSE 1417477933
+"98" "539567669855260673" "RT @Resurrections22: I just listed: 'Girls Western Dance Dress Sewing Pattern', for $14.95 via @amazon http://t.co/6ArKzqeKYA" "Hobbyhawkgifts" TRUE FALSE 1417477931
+"99" "539567663354089472" "Paul Smith Junior: ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/DVtfyPAKVf via @amazon#GET IT THATS WHAT LOOK D" "boutique4child" FALSE FALSE 1417477930
+"100" "539567654692859904" "Michael Kors MK Sig... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/C0FubB30rW via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477928
+"101" "539567647147323393" "Scooby-Doo, Where Are You!: The Complete Third Season, Ep. 8 'Jeepers, It's Th... http://t.co/A4v0srr5kP via @amazon" "freerangemind" FALSE FALSE 1417477926
+"102" "539567625987428352" "RT @SueGrimshaw: One of the most amazingly beautiful love stories of the YEAR! 99c Worth the Fall #CyberMonday http://t.co/h9AyFSq0T9 via @…" "shhmomsreading" TRUE FALSE 1417477921
+"103" "539567617275473920" "Check out this Amazon deal: Cricut Expression 1 Electronic Cutting Machin... by Cricut http://t.co/6xvlJH0UtU via @amazon" "scrapcrazy" FALSE FALSE 1417477919
+"104" "539567611538063360" "RT @Larry_B_Gray: #Paperback lovers. A Boy From Down East by Larry B. Gray http://t.co/Nj3sLd3d8n via @amazon #IARTG #booksales http://t.co…" "JohnRosePutnam" TRUE FALSE 1417477917
+"105" "539567610925694976" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "JohnRosePutnam" TRUE FALSE 1417477917
+"106" "539567600653463552" "Merry Christmas - Untold Stories of ... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/ogEVMEQlrq via @amazon" "SLSOFOS" FALSE FALSE 1417477915
+"107" "539567580520787969" "Michael Kors Large ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/8TKViNMVjV via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477910
+"108" "539567579032219648" "RT @HappyPreppers: Cyber Monday deal on a Victorinox Swiss Army Huntsman Knife (red stocking stuffer idea): http://t.co/DKRtZYpmH4 via @ama…" "ALPrepper13" TRUE FALSE 1417477910
+"109" "539567535733997569" "I just bought: 'Hamilton Beach 49983A 2-Way... #CyberMonday #CM2014 via @amazon - let's see if it works!  http://t.co/YhZPlIKJMI" "FreeReviewer" FALSE FALSE 1417477899
+"110" "539567520332931072" "$10 OFF When You Spend $50  #Kershaw Holiday Deals #outdoor #knives @Amazon http://t.co/55cawX5ywI" "spotthedealusa" FALSE FALSE 1417477896
+"111" "539567508970172417" "MICHAEL Michael Kor... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/r9ybi7MGKd via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477893
+"112" "539567446152077313" "Michael Kors Mk Sig... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/gGYU9IwrpO via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477878
+"113" "539567445241888768" "RT @amazon: #CyberMonday Deal: 75% off Portable Phone Charger http://t.co/G9P33spkIQ http://t.co/8DvJIS4vo1" "Alpha375" TRUE FALSE 1417477878
+"114" "539567423486439425" "RT @amazon: 83% off #CyberMonday Lightning Deal: SanDisk Cruzer 64GB USB 2.0 Flash Drive http://t.co/7tKWNamdFN http://t.co/LVticRwOEl" "xbarbacrosby" TRUE FALSE 1417477873
+"115" "539567406587600896" "@DHAPshow @SusiMJK @amazon I have no idea what to look for in Mic's.. Susana do you know??" "RealMetman" FALSE FALSE 1417477869
+"116" "539567388207755264" "I just listed: 'Paul Smith Junior: Boys Cobalt Blue Cotton Pants (2 Y)', for $69.00 via @amazon http://t.co/X7yrji4j2m" "boutique4child" FALSE FALSE 1417477864
+"117" "539567382037925888" "Michael Kors Fulton... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/PoIKUxBzTs via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477863
+"118" "539567351113326592" ".@amazon even included a tutorial. http://t.co/KSpwRuId47" "NoCanBrah" FALSE FALSE 1417477855
+"119" "539567347669798912" "Doing your #CyberMonday shopping? Do it through our @amazon link on http://t.co/8SFP6kKqT6 Buy your kid a bike and help us to entertain you!" "PureBSpodcast" FALSE FALSE 1417477855
+"120" "539567333681795072" "RT @amazon: #CyberMonday Lightning Deal: Diablo III Reaper of Souls Collector's Edition http://t.co/UpfgwcDaw6 http://t.co/vAYqrkXgHW" "Droidem" TRUE FALSE 1417477851
+"121" "539567306074882049" "I just listed: 'HP 901 (CC656AN) Tri-color Original Ink Cartridge', for $14.75 via @amazon http://t.co/9AER2TFkWN" "jimp30" FALSE FALSE 1417477845
+"122" "539567295408766976" "RT @amazon: #CyberMonday Lightning Deal: World of Warcraft: Warlords of Draenor Collector's Edition http://t.co/yHaeaec6Ai http://t.co/awRr…" "Droidem" TRUE FALSE 1417477842
+"123" "539567284042600448" "RT @Resurrections22: I just listed: 'Vintage 1970s Simplicity 8962 Juniors Shorts Sewing Pattern', for $8.99 via @amazon http://t.co/3K2o9l…" "jamie2258" TRUE FALSE 1417477839
+"124" "539567252001923073" "I just listed: 'Exotic Cowhide Rug - Grey with yellow undertone- XL 94\"X96\" - by BlackSw...', for $349.00 via @amazon http://t.co/IX0k5bgJJz" "theblackswanman" FALSE FALSE 1417477832
+"125" "539567236814733312" "Wicked to the END ... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/8D00aUw8g4 via @amazon" "ren_cook" FALSE FALSE 1417477828
+"126" "539567231106297857" "@RealMetman @SusiMJK @amazon is it any good?" "DHAPshow" FALSE FALSE 1417477827
+"127" "539567229600149504" "Paul Smith Junior R... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/sHcE8KIHbC via @amazon#SAVE BIG LOOK BIGGER" "boutique4child" FALSE FALSE 1417477826
+"128" "539567210516074497" "Michael Kors MK Sig... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/Mb41fWy6P4 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477822
+"129" "539567194179637248" "RT @Larry_B_Gray: #Paperback lovers. A Boy From Down East by Larry B. Gray http://t.co/Nj3sLd3d8n via @amazon #IARTG #booksales http://t.co…" "NathanAGoodman" TRUE FALSE 1417477818
+"130" "539567193466601472" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "NathanAGoodman" TRUE FALSE 1417477818
+"131" "539567185501233153" "Added to Wish List: 'The Necessity of Secularism: Why God Can't Tell Us What to Do' by Ronald A. Lindsay via @amazon http://t.co/C21ODkS7xO" "Tammy_Richard" FALSE FALSE 1417477816
+"132" "539567166442704896" "@zushiba @amazon Agreed!" "JoelFigueroa12" FALSE FALSE 1417477811
+"133" "539567153284775936" "RT @UMG: You could win the complete @thebeatles Mono Box Set, USA Box Set + a $50 @amazon gift card! Enter for a chance to win http://t.co/…" "UMeMusicTeam" TRUE FALSE 1417477808
+"134" "539567150156218368" "SO WONDERFUL AS WANT “There were some great twists and turns I wasn't expecting.” http://t.co/tHSomnGitg @Amazon #ian1 #Romance #SWFL #BYNR" "JoyceDeBacco" FALSE FALSE 1417477807
+"135" "539567125279813633" "RT @sankrant: When is @amazon 2-day shipping not 2-day shipping? When it comes 3 days after 1-day shipping! Seriously @AmazonHelp? http://t…" "InnovativeHindu" TRUE FALSE 1417477801
+"136" "539567122439868416" "Michael Kors Brookv... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/i167KHpLZ3 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477801
+"137" "539567109484060674" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "shhmomsreading" TRUE FALSE 1417477798
+"138" "539567087250051073" "Wicked to the Bone... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/jlHus9X2a5 via @amazon" "ren_cook" FALSE FALSE 1417477792
+"139" "539567084339216385" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "kiddCharlemagne" TRUE FALSE 1417477792
+"140" "539567049186357248" "Michael Kors MK Sig... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/x7ImrkFONW via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477783
+"141" "539567014310707201" "@amazon that is a price beater for a streaming device ✌️@mayhemstudios @ccspot7 #latino" "needcollegehelp" FALSE FALSE 1417477775
+"142" "539567012528521216" "RT @Larry_B_Gray: #Paperback lovers. A Boy From Down East by Larry B. Gray http://t.co/Nj3sLd3d8n via @amazon #IARTG #booksales http://t.co…" "jim_yackel" TRUE FALSE 1417477775
+"143" "539566985793654784" "Boys gray knitted s... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/165Z1PTIMV via @amazon#STAY COOL AFTER SCHOOL" "boutique4child" FALSE FALSE 1417477768
+"144" "539566983608795136" "Cost relation benefit with @Amazon can always bring new customers to the table...but will store openings detract their developed market?" "branhugh" FALSE FALSE 1417477768
+"145" "539566978759786496" "Michael Kors Large ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/CgbCDEJViW via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477767
+"146" "539566976079634432" "save 60% off Victorinox Swiss Army Tinker and Classic Knife (%19.29) #cybermondaydeals #cybermonday  http://t.co/0QlmrFemgr via @amazon" "merlotmommy" FALSE FALSE 1417477766
+"147" "539566973206536192" "Goat's Milk and Org... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/uvtlW21isL via @amazon" "frenchsoap" FALSE FALSE 1417477765
+"148" "539566962825646080" "Blown Glass Solar S... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/zCkHbnZdnV via @amazon" "dmegen" FALSE FALSE 1417477763
+"149" "539566948968046592" "@mashable &gt;&gt; here I am trying to do ALL of my shopping on @amazon" "chrisdalebr0wn" FALSE FALSE 1417477759
+"150" "539566932081393664" "I just listed: 'Exotic Cowhide Rug - Black and Brown with White Belly- XXL 93\"X104\" - by...', for $349.00 via @amazon http://t.co/7J6AExg2Ni" "theblackswanman" FALSE FALSE 1417477755
+"151" "539566924338696192" "@JoelFigueroa12 @amazon Hey, I bought 2 today :P Perfect for Christmas. The right balance of tech and cheap." "zushiba" FALSE FALSE 1417477754
+"152" "539566910161965056" "Goat's Milk Soap Ba... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/vJfeOUtFjw via @amazon" "frenchsoap" FALSE FALSE 1417477750
+"153" "539566905678233600" "Michael Kors Abbey ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/MjdTIXp8zj via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477749
+"154" "539566860338200577" "RT @cmnlink: @amazon I watched Season 2 Ep. 9,10,&amp;11 of #Roswell today!  #StarCrossed Forever! #The100 #TVD #PLL #WWE" "Deejustme79" TRUE FALSE 1417477738
+"155" "539566852804837376" "Aged Thai Lemongras... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/uBNYBUdE6O via @amazon" "frenchsoap" FALSE FALSE 1417477737
+"156" "539566809804845056" "Amazing album and Cyber Monday deal! The Voyager by Jenny Lewis |  MP3 Music http://t.co/3MndeihrBP via @amazon" "Blissmade" FALSE FALSE 1417477726
+"157" "539566802691293184" "Boys pin stripped b... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/PYU2RL9Q4B via @amazon#BEST FOR LESS USE PROMO" "boutique4child" FALSE FALSE 1417477725
+"158" "539566793023827968" "RT @ClassicStarWars: Han Solo in Carbonite Carpet Runner Rug - L... by Star Wars for $83.99 http://t.co/SyYpSeZ1qU via @amazon http://t.co/…" "BigRoggie" TRUE FALSE 1417477722
+"159" "539566791270219776" "Michael Kors Astor ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/sC7uconK9r via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477722
+"160" "539566784689340417" "up to 50% off Hasbro Deal of the Day at http://t.co/3OigtOz80g #cybermondaydeals #cybermonday   http://t.co/IpcdsUuR1S via @amazon" "merlotmommy" FALSE FALSE 1417477720
+"161" "539566779757244417" "Malavasi \"Love Drug\" http://t.co/ijpOxapwec | #LoveDrug 
+
+@iTunesMusic @amazon @Spotify and other digital outlets..." "brillionw" FALSE FALSE 1417477719
+"162" "539566771062452224" "@SaraBLarson @amazon Sure would be awesome!!! Good luck!! " "MrsJennKelly22" FALSE FALSE 1417477717
+"163" "539566738262994944" "Wicked Bloody (Wic... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/FJAW4SEjnu via @amazon" "ren_cook" FALSE FALSE 1417477709
+"164" "539566720395251713" "ARETHA FRANKLIN ~ SOUL '69 ~ Wall Clock made from the Vinyl Record LP ~ Recycl... http://t.co/IXNeXCsK6W via @amazon" "LPRecordClocks" FALSE FALSE 1417477705
+"165" "539566717156872192" "Michael Kors Brookv... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/sAw72VrVBG via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477704
+"166" "539566715668295680" "Hanes Girls 7-16 9 ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/RYPRaBC56v vía @amazon" "ardila_richard" FALSE FALSE 1417477704
+"167" "539566682134417408" "I just listed: 'Letting Go of the Past', for $15.63 via @amazon http://t.co/uDo4QqFMWd" "jimp30" FALSE FALSE 1417477696
+"168" "539566657278996480" "Late Night Writing... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/dm2aGYvIty via @amazon" "mxmulder" FALSE FALSE 1417477690
+"169" "539566654254886912" "$69  Fire TV by Amazon #cybermondaydeals #cybermonday http://t.co/Hhk8spiuE8 via @amazon" "merlotmommy" FALSE FALSE 1417477689
+"170" "539566651805405184" "Birthday is 28 days away get me a gift so you can get my free bday video!! http://t.co/GB8T0ryp5T via @amazon" "sexymarie9" FALSE FALSE 1417477689
+"171" "539566637733924864" "they didn't arrive @amazon :[ http://t.co/k9SV170Z2s" "NotHyunation" FALSE FALSE 1417477685
+"172" "539566635925770241" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/JZxJQFgUCG via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477685
+"173" "539566617420513280" "St Louis Cardinals Championship Collection http://t.co/Y4bku2ecnA via @amazon" "BirdsOnTheBat13" FALSE FALSE 1417477680
+"174" "539566602421673984" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "needcollegehelp" TRUE FALSE 1417477677
+"175" "539566584507801600" "#EBOOK #BARGAIN #QUICK! The Girl Before Ev... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/WHNf9jzdBn via @amazon" "LisaJHobmanAuth" FALSE FALSE 1417477673
+"176" "539566558377291776" "Michael Kors Pale G... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/iioKRuzTO8 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477666
+"177" "539566532615872512" "Boys pin stripped b... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/V2VCAYbA5x via @amazon#GO FOR IT CYBER DAY" "boutique4child" FALSE FALSE 1417477660
+"178" "539566531345010688" "The Vanishing Art ... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/zQyaOHlljZ via @amazon" "mxmulder" FALSE FALSE 1417477660
+"179" "539566507978936320" "A #Kindle #BestSeller $2.99 The Clock Strikes Midnight- get it now  http://t.co/kY83ht3kbC  via @amazon #books" "BernadetteBoas" FALSE FALSE 1417477654
+"180" "539566461178875905" "@zushiba @amazon Yasss, don't see me complaining though :D" "JoelFigueroa12" FALSE FALSE 1417477643
+"181" "539566437808214016" "Wicked crying (Wic... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/f3Z4g8whDf via @amazon" "ren_cook" FALSE FALSE 1417477638
+"182" "539566436541149184" "When the Lights Go... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/Qw3TfdS5zN via @amazon" "mxmulder" FALSE FALSE 1417477637
+"183" "539566370409955329" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "SensuousPromos" TRUE FALSE 1417477622
+"184" "539566367121215488" "@amazon #Echo installed. Love it! #thefutureisnow" "bd_ecurb" FALSE FALSE 1417477621
+"185" "539566359446056962" "@AmazonHelp @LucioQuincioC @USADelivery @amazon / Your mistake, your responsibility not mine. Let me know if i have to cancelled my account." "MarybelSierra" FALSE FALSE 1417477619
+"186" "539566303455879168" "How long does it t... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/vSmR8IUgx3 via @amazon" "mxmulder" FALSE FALSE 1417477606
+"187" "539566286481534976" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/FGUxrgoOsD via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477602
+"188" "539566223126970368" "Dark Awakened (The... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/JtZ0OmNVcQ via @amazon" "Mamawj99Joyce" FALSE FALSE 1417477586
+"189" "539566219708203008" "I have just listed: 'My Little Pony - Rainbow Power PINKIE PIE (with Neon-Rainbow Hair an...', for £11.35 via @amazon http://t.co/1aytINuZ9w" "GemsGifts" FALSE FALSE 1417477586
+"190" "539566216814546944" "@newschannelnine @Drew_BolleaNC9 'What a day @amazon , feet,knees,and hip throbbing, stocks don't show we killed it but we did our best'" "dbailey1116" FALSE FALSE 1417477585
+"191" "539566195209302016" "MICHAEL Michael Kor... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/VbgJ53h9E6 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477580
+"192" "539566155153698816" "RT @garrardhayes: Would you kill to save a #life? #MYSTERY #EBOOK $2.99 @nypost @nydailynews @nytimes http://t.co/bMmS2ndUzS @amazon RT htt…" "VondaNorwood" TRUE FALSE 1417477570
+"193" "539566154038411264" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "CristianDTP" TRUE FALSE 1417477570
+"194" "539566149524938753" "New Frontier of Love #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/WHbCVL6mh9 via @amazon" "WileyDorothy" FALSE FALSE 1417477569
+"195" "539566144240115712" "America's Nazi Secret: An Insider's History by Amazon via @amazon" "UntoldMadness" FALSE FALSE 1417477568
+"196" "539566120785952768" "@skhall @corygraham @amazon it probably has more drug use than Easy Riders, Raging Bulls. #Marvel" "GCornewall" FALSE FALSE 1417477562
+"197" "539566097234526208" "Suffering from writer’s block? Self-doubt about your talent? Has creative writing lost its joy?  http://t.co/kHmdfIozlk via @amazon" "InventingRealit" FALSE FALSE 1417477556
+"198" "539566095838244864" "Wicked One (Wicked... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/GtQuDkL1KA via @amazon" "ren_cook" FALSE FALSE 1417477556
+"199" "539566085012733952" "Sweet deal! ... GAEMS M155 15.5' HD ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/IlCA8uelje via @amazon" "JessJQuinones" FALSE FALSE 1417477553
+"200" "539566080730357760" "RT @JonesJourno: Have a heart and don't shop @Amazon this Christmas. Or ever. 'Being homeless is better than working for Amazon' http://t.c…" "MrLukeDavis" TRUE FALSE 1417477552
+"201" "539566071267606528" "Michael Kors Items ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/M6IsEVEb9U via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477550
+"202" "539566066163126274" "RT @afspnational: If you're shopping on @amazon for #CyberMonday, use this link to donate to AFSP with every purchase! https://t.co/008tDET…" "rachelhaines" TRUE FALSE 1417477549
+"203" "539566063135240194" "At @42Kmi, we approve of @Amazon Prime. Try it out! http://t.co/fw6rdELI5s #deals #savings" "42Kmi" FALSE FALSE 1417477548
+"204" "539566011448823808" "@SusiMJK @DHAPshow @amazon idk how good it is.. just tryin to look out for my boy.. they have another mic too" "RealMetman" FALSE FALSE 1417477536
+"205" "539565994503458817" "@amazon mine has shipped, thank you." "robataka" FALSE FALSE 1417477532
+"206" "539565977894400001" "RT @amazon: 83% off #CyberMonday Lightning Deal: SanDisk Cruzer 64GB USB 2.0 Flash Drive http://t.co/7tKWNamdFN http://t.co/LVticRwOEl" "sniis84" TRUE FALSE 1417477528
+"207" "539565965797646336" "Couldn’t really let pass an @Amazon Fire TV for $69 —even if I already have an AppleTV…" "ixDiego" FALSE FALSE 1417477525
+"208" "539565951365423104" "True story ! MT \"@mv070791: @GFDougie #Allergic to #Bullying? http://t.co/hKL5YYcNx3 … via @amazon\"" "GFDougie" FALSE FALSE 1417477522
+"209" "539565950178033664" "Insider Bat Size: 0... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/TwbVpclMsJ via @amazon" "BaseballDirect" FALSE FALSE 1417477521
+"210" "539565946688380928" "#CyberMonday
+What were the best deals out there today?
+@amazon @Target @BestBuy @Macys" "Soccer_Fan_2014" FALSE FALSE 1417477520
+"211" "539565911544709120" "5 Star Novel : Treasure at last? Legends, stories surround the elusive #MoneyPit #OakIsland #AmazonCart @amazon http://t.co/EDNbxDl4ZK" "EchoPressBooks" FALSE FALSE 1417477512
+"212" "539565902778224640" "Gucci Baby Boy Cord... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/PqzhHEXnHO via @amazon" "boutique4child" FALSE FALSE 1417477510
+"213" "539565878405107712" "Take an extra 30% off  at @amazon during #CYBERMONDAY on books (my fav!) w/ code HOLIDAY30  http://t.co/2jOBaXBjoO http://t.co/KkPYlsTHG5" "lpfashionista" FALSE FALSE 1417477504
+"214" "539565877067517955" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "GROIDS2235" TRUE FALSE 1417477504
+"215" "539565869131907072" "Support Accion International when you shop on @Amazon this holiday season! http://t.co/3Q0PJpSN7k" "Accion_Global" FALSE FALSE 1417477502
+"216" "539565860222816256" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "cbrookemullens" TRUE FALSE 1417477500
+"217" "539565850169069568" "Michael Kors Items ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/yxGlblPjVM via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477497
+"218" "539565808595525632" "@MrsJennKelly22 Thank you! It'll be super fun if it can keep going up! :-) @amazon" "SaraBLarson" FALSE FALSE 1417477488
+"219" "539565794699784192" "Did I mention that my Christmas book came out today? ;-) http://t.co/k7wDHiNyiP via @amazon" "AureliaBRowl" FALSE FALSE 1417477484
+"220" "539565748767973376" "A #Kindle #BestSeller $3.99 The Sky is Green &amp; The Grass is Blue - get it now at -&gt;  http://t.co/Wy1CeiR96y via @amazon" "GreenSkyDeb" FALSE FALSE 1417477473
+"221" "539565720544501760" "JOHN COUGAR ~ AMERICAN FOOL ~ Wall Clock made from the Vinyl Record LP ~ Recyc... http://t.co/f8QQoPeBdm via @amazon" "LPRecordClocks" FALSE FALSE 1417477467
+"222" "539565718191480835" "Girl Dress Long-slee... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/4bJiAPpzVt vía @amazon" "ardila_richard" FALSE FALSE 1417477466
+"223" "539565681898168322" "@RealMetman @DHAPshow @amazon ohhhh sweet deal" "SusiMJK" FALSE FALSE 1417477457
+"224" "539565673031024640" "Michael Kors Large ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/QRhw5P6i2r via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477455
+"225" "539565661240823808" "RT @amazon: 83% off #CyberMonday Lightning Deal: SanDisk Cruzer 64GB USB 2.0 Flash Drive http://t.co/7tKWNamdFN http://t.co/LVticRwOEl" "curtisko" TRUE FALSE 1417477452
+"226" "539565625283448832" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "HayleyStansifer" TRUE FALSE 1417477444
+"227" "539565622540402688" "@ClarissaClemens @amazon The depth of a shadow is hard to see. Shallow or deep it is pressed upon the mind and body like a vice twisting all" "mpbachmeier" FALSE FALSE 1417477443
+"228" "539565599131586560" "RT @Borderlands: Don’t miss #cybermonday deals on #ThePreSequel at @GameStop and @amazon http://t.co/15X8hjLolc" "LewdcidSchizo" TRUE FALSE 1417477438
+"229" "539565597986521088" "@sankrant @amazon @AmazonHelp SHOP ON FLIPKART ITS EFFICIENT ITS INDIAN" "sitahyderabadi" FALSE FALSE 1417477437
+"230" "539565573101740033" "Cyber Monday (save 44%): Kommando Tactical Survival Shovel with sheath also doubles as a defensive weapon!http://t.co/HGFCHXqwFe via @amazon" "HappyPreppers" FALSE FALSE 1417477431
+"231" "539565559071789056" "RT @amandapalmer: and all you amazing givers- @amazon sale is still on until 3:AM EST so book can be purchased for $11- easier to give! htt…" "kreuzn" TRUE FALSE 1417477428
+"232" "539565524389081088" "Gucci Baby Girl Dow... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/hevMqHUR63 via @amazon#CK EXTRA SAVING USE CODE" "boutique4child" FALSE FALSE 1417477420
+"233" "539565515770179584" "RT @amazon: TODAY ONLY: Take 30% off select clothing, shoes, watches, luggage, &amp; more http://t.co/AmLcVcdeH1 #CyberMonday" "UpTo99OFF" TRUE FALSE 1417477418
+"234" "539565502386176001" "RT @201Ransom: New Album Available on @iTunes http://t.co/7WRgc1dIof @GooglePlay http://t.co/8fXK8Q9E8q &amp; @Amazon http://t.co/HbnPicGva9 MU…" "paulabanks" TRUE FALSE 1417477415
+"235" "539565483880497153" "MICHAEL Michael Kor... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/4UFezspcO3 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477410
+"236" "539565469670576129" "RT @doverpubsdrew: @OOZE_News RT Sailor's Story available for pre-sale @amazon w/extra 30% off first book purchased for Cyber Mon! http://t…" "OOZE_News" TRUE FALSE 1417477407
+"237" "539565426154299392" "RT @sankrant: When is @amazon 2-day shipping not 2-day shipping? When it comes 3 days after 1-day shipping! Seriously @AmazonHelp? http://t…" "sitahyderabadi" TRUE FALSE 1417477396
+"238" "539565412162494464" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "rcarter67606" TRUE FALSE 1417477393
+"239" "539565388963405825" "Michael Kors Black ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/0gbiWuWvIH via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477388
+"240" "539565378515795968" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "LinzerB" TRUE FALSE 1417477385
+"241" "539565360408567808" "Volcanic Ash Soap w... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/vt1j4cxs81 via @amazon" "frenchsoap" FALSE FALSE 1417477381
+"242" "539565341513641985" "RT @blakebraddy: Boogie House is available for pre-order on @Amazon. Think Stephen King by way of Dashiell Hammett or James Lee Burke: http…" "ebhodge" TRUE FALSE 1417477376
+"243" "539565339835498497" "Totally over it. If I get disconnected again I'm placing the @target order on @amazon. Who cares if it is more expensive at this point." "slsears758" FALSE FALSE 1417477376
+"244" "539565297242767360" "RT @NadiaKinkade: Wow. @amazon's email customer service is absolutely atrocious. Email responses to my simple request are inept to say the …" "CXAlert" TRUE FALSE 1417477366
+"245" "539565296248315904" "I would be mad if I waited on black friday / cyber monday to buy something @amazon wasn't selling shit" "LegendM0de" FALSE FALSE 1417477365
+"246" "539565287381540865" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/tqxvJvLGCP via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477363
+"247" "539565283497623552" "Brazilian Espresso ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/9ArSoWSKov via @amazon" "frenchsoap" FALSE FALSE 1417477362
+"248" "539565276157575168" "I have just listed: 'My Little Pony - Rainbow Power: Holly Dash (with Neon Hair and Decor...', for £11.35 via @amazon http://t.co/LjANsOgQuo" "GemsGifts" FALSE FALSE 1417477361
+"249" "539565274299498496" "First Frost by Liz... #CyberMonday #CM2014  #AmazonCart for a free sample http://t.co/8CbQZabbH2 via @amazon #yalit #yalitchat #fairytales" "Liz_DeJesus23" FALSE FALSE 1417477360
+"250" "539565237469724672" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "natsbooknook" TRUE FALSE 1417477351
+"251" "539565223053516800" "Michael Kors Signat... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/0ZZC435SH6 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477348
+"252" "539565201562275840" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "m_olg" TRUE FALSE 1417477343
+"253" "539565198428753921" "Lemongrass Soap wit... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/p1doJA7iD1 via @amazon" "frenchsoap" FALSE FALSE 1417477342
+"254" "539565177814134785" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "desaivishal11" TRUE FALSE 1417477337
+"255" "539565173422694401" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "Martha_Bourke" TRUE FALSE 1417477336
+"256" "539565162089693184" "RT @Larry_B_Gray: A Boy From Down East by Larry B. Gray http://t.co/bqU4vy6Oq2 … via @amazon #Bookbloggers #iartg #asmsg http://t.co/QXRrRH…" "RobynRozeAuthor" TRUE FALSE 1417477333
+"257" "539565158897823744" "First deal worth a shit RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/YNbvBzuErJ http://t.co/OIvaEiGG8K" "houstonbred" FALSE FALSE 1417477333
+"258" "539565154006859777" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/8pMVb81gk9 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477332
+"259" "539565123401449473" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "talava02" TRUE FALSE 1417477324
+"260" "539565086080532480" "Hey look at: https://t.co/RzOXxsQe0R @Amazon" "JACKRIDLEY099" FALSE FALSE 1417477315
+"261" "539565060566577152" "RT @Electronicdevi: Samsung UN55H7150 5... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/jBWHc5qohm via @amazon htt…" "CM2014_Info" TRUE FALSE 1417477309
+"262" "539565058297057281" "New Adult with SOUL in #LeonsWay by @amazon bestselling author @SunnivaD Release date Dec 19 http://t.co/S9vgGJ3w8j https://t.co/kmxNnKlgrM" "brandyredgibson" FALSE FALSE 1417477309
+"263" "539565057269858304" "Samsung UN55H7150 5... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/jBWHc5qohm via @amazon http://t.co/rcFsDaq39c" "Electronicdevi" FALSE FALSE 1417477308
+"264" "539565042598166529" "8x10 SISTERS Picture &amp; Poetry Photo Gift Fra... Reply w/ #AmazonCart to add this http://t.co/aFWRf0wxqs via @amazon" "classycraftsinc" FALSE FALSE 1417477305
+"265" "539565029339971584" "@norfolk_rachie @amazon I ordered from the @takethat official store fingers crossed they come tomorrow" "takethatrule" FALSE FALSE 1417477302
+"266" "539565020318031872" "@SaraBLarson @amazon Woohoo!!! You go girl!" "MrsJennKelly22" FALSE FALSE 1417477300
+"267" "539565017796837376" "@StateDept @USTradeRep @Walmart @WalmartCanada @AmericanPublish @Target @amazon @AmazonUK: Buy: The World Around Us II By: Tharius Heaven" "LordJezusChrist" FALSE FALSE 1417477299
+"268" "539564967654334464" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "DarkLight91939" TRUE FALSE 1417477287
+"269" "539564949870104578" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/2zUTfGaVty via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477283
+"270" "539564949048414208" "Clicked thru the @amazon banner at @adamcarolla’s site to start Christmas shopping. Gifted myself subscription to Take A Knee/archives." "thebaldtruth" FALSE FALSE 1417477283
+"271" "539564866428616705" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "chasethansen" TRUE FALSE 1417477263
+"272" "539564848246292482" "I just listed: 'Amana 55454 Flooring Router Bit Set With Nail Slot For 1/2\"- 5/8\" Materia...', for 109.99 via @amazon http://t.co/9AIeYqnSao" "AXKANETOOLS" FALSE FALSE 1417477259
+"273" "539564841048870912" "Gucci Girl Pink Tre... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/z0rVdKJiq2 via @amazon#ck promo code &amp;save" "boutique4child" FALSE FALSE 1417477257
+"274" "539564793053474816" "Michael Kors MK Log... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/bWfQ7i1NcD via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477245
+"275" "539564778687975424" "Final chance to get THE GREEN TICKET for free! Price goes back up tonight :) #freebooks #CyberMondayReads http://t.co/Y270ey9nxB via @amazon" "BySamanthaMarch" FALSE FALSE 1417477242
+"276" "539564775848828928" "Is it by force sir? I say I no dey do @amazon http://t.co/Wiox1k1lZZ" "Ope__" FALSE FALSE 1417477241
+"277" "539564775718408192" "@amazon Haven't they been $23 for a few days now?" "zushiba" FALSE FALSE 1417477241
+"278" "539564741874958337" "@amazon @tim_cook Kudos to the Amazon iPhone price gougers for not caving in to Cyber Monday pressure and keeping their high ripoff prices!" "robseth" FALSE FALSE 1417477233
+"279" "539564717639864320" "Michael Kors MK Sig... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/Bhsf7GIkEh via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477227
+"280" "539564694668062720" "CHUCK BERRY ~ Back Home ~ LP RECORD WALL CLOCK made from the Vinyl Record Albu... http://t.co/SQe1BUWPrG via @amazon" "LPRecordClocks" FALSE FALSE 1417477222
+"281" "539564694219292672" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "Pricezon" TRUE FALSE 1417477222
+"282" "539564687088967680" "RT @bestgaming1: Samsung UN55H7150 5... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/IkSirBBZAy via @amazon" "CM2014_Info" TRUE FALSE 1417477220
+"283" "539564684286767104" "Samsung UN55H7150 5... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/IkSirBBZAy via @amazon" "bestgaming1" FALSE FALSE 1417477220
+"284" "539564680339918848" "Bad dog on your shopping list? ;) Try this Planet Dog Lump of Coal Dog Toy! http://t.co/3kq6eGesAI via @amazon We love their ball toys!" "MyDogLikes" FALSE FALSE 1417477219
+"285" "539564673893289985" "Mele Kalikimaka by J.M. Snyder #gayromance #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/3zZQZo49YS via @amazon" "jmsbooksllc" FALSE FALSE 1417477217
+"286" "539564664422924289" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "GeminiAPatterso" TRUE FALSE 1417477215
+"287" "539564644919410688" "New school. New classes. New girl gets lost in shadows. #teen #romance #fantasy #Oz #AmazonCart @amazon http://t.co/6vaNmk3VaZ" "BaileysEZPicks" FALSE FALSE 1417477210
+"288" "539564627630489600" "New school. New classes. New girl gets lost in shadows. #teen #romance #fantasy #Oz #AmazonCart @amazon http://t.co/f8isOge4Ov" "EchoPressBooks" FALSE FALSE 1417477206
+"289" "539564624790581249" "Ho appena comprato: 'The Art of Naughty Dog' di Evan Wells e altri tramite @amazon http://t.co/MgGIDM9UuK" "TweetPiagio" FALSE FALSE 1417477205
+"290" "539564605731647488" "Michael Kors Vanill... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/SbSislbWTl via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477201
+"291" "539564590854459393" "Cyber Monday deals and sales online all week. Shop Amazon's best Cyber Monday... http://t.co/gHMjopHxku via @amazon" "nailsred" FALSE FALSE 1417477197
+"292" "539564583137325057" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "dsapeg" TRUE FALSE 1417477195
+"293" "539564572198584321" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "Danieludsino" TRUE FALSE 1417477193
+"294" "539564566343352320" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "Bigmelwalter" TRUE FALSE 1417477191
+"295" "539564560823250944" "I have just listed: 'Hexbug Transformers Warriors Battle Stadium', for £29.99 via @amazon http://t.co/VKLw8i213f" "GemsGifts" FALSE FALSE 1417477190
+"296" "539564555576156161" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "J_Nubz" TRUE FALSE 1417477189
+"297" "539564540191465472" "Hot Holiday Gift for Kids!! http://t.co/wnnOBGvK7x via @amazon" "fortuneskyusa" FALSE FALSE 1417477185
+"298" "539564526531010560" "\"@amazon: 83% off #CyberMonday Lightning Deal: SanDisk Cruzer 64GB USB 2.0 Flash Drive http://t.co/z4xbDDBR4U\" ✔ copped" "beaujeangles" FALSE FALSE 1417477182
+"299" "539564517806448640" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/wHjrl4DlHk via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477180
+"300" "539564514799124480" "@Amazon also has the Fire Phone for $200 off contract. It is still about $199 over priced. I might consider it as a backup for $1, maybe." "tomf80" FALSE FALSE 1417477179
+"301" "539564510877466625" "RT @amazon: #CyberMonday deal: $10 off Google Chromecast http://t.co/5eWF2qqU8G http://t.co/DEEGI9gLsi" "Amberstone95" TRUE FALSE 1417477178
+"302" "539564482666586114" "Cyber Monday deal on a Victorinox Swiss Army Huntsman Knife (red stocking stuffer idea): http://t.co/DKRtZYpmH4 via @amazon #preppertalk" "HappyPreppers" FALSE FALSE 1417477171
+"303" "539564456351924224" "@Spruke @amazon that exists? That is the most depressing thing I've heard all day. I guess the Palins and Roves have a lot of shit to clean" "TheAllanBC" FALSE FALSE 1417477165
+"304" "539564455076458496" "Forget Me Not by D... http://t.co/aOnfRuFkv7 via @amazon Apparently this is free for Kindle!!" "anxiouslyhavok" FALSE FALSE 1417477165
+"305" "539564451322548224" "MICHAEL Michael Kor... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/Xf1bgAd9CQ via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477164
+"306" "539564445798633472" "Spitfire Boys Cargo... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/M2qSbtZmPR via @amazon#feel the fire" "boutique4child" FALSE FALSE 1417477163
+"307" "539564422315134976" "I'm on @Amazon. buying books. Author Gillian Flynn's novel. @GoneGirlMovie. has http://t.co/17kBoy6Sos" "hopalyfisob" FALSE FALSE 1417477157
+"308" "539564417797480450" "Give your Kitty a Christmas gift too! http://t.co/HPN3LSmZqs via @amazon" "fortuneskyusa" FALSE FALSE 1417477156
+"309" "539564409689866240" "zonWishList to add this via @amazon http://t.co/kWwTOEZJUo http://t.co/swR3tgJTi5" "breem_midian" FALSE FALSE 1417477154
+"310" "539564392216403968" "RT @Resurrections22: I just listed: 'Simplicity 4795 One Piece Dress, Cummerbund and Jacket Sewing Pattern Vin...', for $21.95 via @amazon …" "misotuz" TRUE FALSE 1417477150
+"311" "539564391017250817" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "pfiala" TRUE FALSE 1417477150
+"312" "539564390023176193" "RT @Borderlands: Don’t miss #cybermonday deals on #ThePreSequel at @GameStop and @amazon http://t.co/15X8hjLolc" "Deejay_Syl" TRUE FALSE 1417477149
+"313" "539564389805072384" "WATCH: Local @amazon warehouse gears up for #CyberMonday  http://t.co/xuuC92sYd3" "FOX19" FALSE FALSE 1417477149
+"314" "539564389767319553" "RT @cmnlink: @amazon I watched Season 2 Ep. 9,10,&amp;11 of #Roswell today!  #StarCrossed Forever! #The100 #TVD #PLL #WWE" "PLLNewsInfo" TRUE FALSE 1417477149
+"315" "539564375523074050" "Michael Kors Large ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/w3YdYHAIx7 via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477146
+"316" "539564331323899904" "RT @NadiaKinkade: Wow. @amazon's email customer service is absolutely atrocious. Email responses to my simple request are inept to say the …" "GripeO_Feed" TRUE FALSE 1417477135
+"317" "539564321118760960" "I just listed: 'Fresh Start - Today Is the Day You've Been Waiting For (4 CD set)', for $15.99 via @amazon http://t.co/OMvOSwDjqB" "jimp30" FALSE FALSE 1417477133
+"318" "539564319562665985" "TAPESTRIES OF LIFE... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/cQ8sSyUWKM via @amazon" "bahamel01" FALSE FALSE 1417477133
+"319" "539564312713764865" "I hate you @amazon.... #CyberMonday" "Guckem" FALSE FALSE 1417477131
+"320" "539564288424161281" "Michael Kors Jet Se... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/KmxLHz1V6C via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477125
+"321" "539564287279497217" "RT @cmnlink: @amazon I watched Season 2 Ep. 9,10,&amp;11 of #Roswell today!  #StarCrossed Forever! #The100 #TVD #PLL #WWE" "jaliisah" TRUE FALSE 1417477125
+"322" "539564285798912000" "@thesilverrqueen @amazon AHHHH thanks gorl" "helenamaning" FALSE FALSE 1417477125
+"323" "539564283823423488" "RT @NaNoWriMo: If you’re going on a Cyber Monday/I-have-time-to-read-again binge on @amazon, use this link to help support us too! http://t…" "SyrenaEnchanted" TRUE FALSE 1417477124
+"324" "539564278979002368" "RT @AlanWilliamHard: BRITT: Alan Hardy #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/KW1wSB63M0 via @amazon #WW1 …" "JGRWriter" TRUE FALSE 1417477123
+"325" "539564229448048640" "Michael Kors Black ... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/YlevhmtZug via @amazon" "AlwaysAuthenti" FALSE FALSE 1417477111
+"326" "539564180538687489" "@gamespot Of course this shows up on my feed mere hours after I purchased it on @amazon." "thegamingbutler" FALSE FALSE 1417477099
+"327" "539564168320282624" "Gift Shopper Pro by Cypher Cove http://t.co/RX3KZEyt4E via @amazon" "RichardAllikas" FALSE FALSE 1417477097
+"328" "539564163966980096" "I just bought: 'Eye Cream For Dark Circles,... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this via @amazon http://t.co/n6SBNA0R9N" "suelynn1956" FALSE FALSE 1417477095
+"329" "539564150457139200" "@NerdUnfiltered @amazon I believe it ends tonight. Here are the details, omae http://t.co/8Q5TjF6Tpb" "UGEplex" FALSE FALSE 1417477092
+"330" "539564097725935616" "Wow. @amazon's email customer service is absolutely atrocious. Email responses to my simple request are inept to say the least #badservice" "NadiaKinkade" FALSE FALSE 1417477080
+"331" "539564095960514560" "@AmazonHelp @LucioQuincioC @USADelivery @amazon ...over 140 $ but received a different good worth about 25 $. Lost my money &amp; time." "MarybelSierra" FALSE FALSE 1417477079
+"332" "539564084174151680" "I have just listed: 'Star Wars Rebels Command Epic Assault Pack', for £16.99 via @amazon http://t.co/J6UrUzToWo" "GemsGifts" FALSE FALSE 1417477076
+"333" "539564079040323584" "The best gift for your little girl ever!! Only $18.68!! http://t.co/o0BEUm5iiP via @amazon" "fortuneskyusa" FALSE FALSE 1417477075
+"334" "539564069968035840" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "JamiMBrumfield" TRUE FALSE 1417477073
+"335" "539564050045468672" "8x10 OVAL 4-Opening Cream/Navy Double Matted Collage with Oak Black Picture Fr... http://t.co/PMr8xEdwhS via @amazon" "classycraftsinc" FALSE FALSE 1417477068
+"336" "539564020228182016" "RT @SusanFinlay4: Inherit the Past (... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/g6rU99FrIt via @amazon #tim…" "DeanLombardo1" TRUE FALSE 1417477061
+"337" "539564001567715330" "Santa's workshop. @amazon  http://t.co/kK66ZxpOyo" "Fernando_Cadena" FALSE FALSE 1417477057
+"338" "539563990695673857" "I just bought: 'Amazon Fire TV' by Amazon #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this via @amazon http://t.co/jC7N9di1D1" "nickyb_zero3" FALSE FALSE 1417477054
+"339" "539563942797123584" "@CNNMoney @amazon @nfl Super creepy too." "RodneyWarner" FALSE FALSE 1417477043
+"340" "539563932130623488" "@woot @amazon @AmazonHelp Your woot customer support is abysmal, basically nonexistent. Packages not delivered. Items were gifts." "JohnKRead" FALSE FALSE 1417477040
+"341" "539563921360031744" "@Comic_Chaos @amazon RT WIN an amazing @amazon #Kindle Fire HDX with our awesome #giveaway on TOTALCHAOS " "jbattle122" FALSE FALSE 1417477038
+"342" "539563887918841856" "RT @CJaiFerry: A #littlebird (or maybe a #pterodactyl) told me @lisa_kovanda is giving away Reckless Abandon http://t.co/6NFkHjlM2M via @am…" "lisa_kovanda" TRUE FALSE 1417477030
+"343" "539563876451225601" "Quick Calculator for Arbonne by Above the Clouds Apps http://t.co/T3DGkFrLUz via @amazon" "RichardAllikas" FALSE FALSE 1417477027
+"344" "539563872970371072" "RT @JenniferSquyres: My novel, Chained and Dominated #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/7PfmJEZGcV via…" "Wussyboy" TRUE FALSE 1417477026
+"345" "539563849826205697" "@takethatrule me!! ordered from @amazon frustrating!! Got the download tho!" "norfolk_rachie" FALSE FALSE 1417477021
+"346" "539563840414162946" "@RayvynLP @Borderlands @GameStop @amazon Season pas only includes dlc not the game" "MarderLP" FALSE FALSE 1417477018
+"347" "539563826228633600" "Cyber Monday deals and sales online all week. Shop Amazon's best Cyber Monday... http://t.co/uVAcIcFCSu via @amazon" "weight_LV" FALSE FALSE 1417477015
+"348" "539563812324933633" "RT @Comic_Chaos: RT WIN an amazing @amazon #Kindle Fire HDX with our awesome #giveaway on TOTALCHAOS https://t.co/YwmeeMCf2w #EPIC http://t…" "jbattle122" TRUE FALSE 1417477012
+"349" "539563768829972480" "Awesome to find @amazon still has 90% off deals on cell phone accessories....#CyberMonday shoppnig made easy! http://t.co/ermaj7i5Rj" "JAGpromotionsTM" FALSE FALSE 1417477001
+"350" "539563762005454848" "It's holiday season!! Give your family a surprising kitchen set with only $16.99! http://t.co/UX4ztSYHlT via @amazon" "fortuneskyusa" FALSE FALSE 1417477000
+"351" "539563744766881792" "Cyber Monday deals and sales online all week. Shop Amazon's best Cyber Monday... http://t.co/OyUhL4hrZ7 via @amazon" "weight_LV" FALSE FALSE 1417476996
+"352" "539563672830742528" "EDDIE HARRIS ~ HERE COME THE JUDGE ~ Wall Clock made from the Vinyl Record LP ... http://t.co/HLCul7p8Jy via @amazon" "LPRecordClocks" FALSE FALSE 1417476978
+"353" "539563667516182528" "I just bought @Stylzoo's #Women's #PlusSize #Premium Modal #Skirt...Reply w/ #AmazonWishList to add this http://t.co/hEZ43WtEfq via @amazon" "TanoGraciII" FALSE FALSE 1417476977
+"354" "539563647844900865" "I have just listed: 'Monster High - 13 Wishes Playset - Desert Frights Oasis Playset with...', for £39.99 via @amazon http://t.co/bRXwaAEyeq" "GemsGifts" FALSE FALSE 1417476972
+"355" "539563636465729537" "Love Pentatonix! Get their Christmas tunes: \"That's Christmas To Me\" http://t.co/ROgCsiR8oy via @amazon" "CharlieGWM" FALSE FALSE 1417476970
+"356" "539563630363430912" "Great #savings on @amazon! #Kabrita Goat Milk Toddler Formula on #sale for $19.99! #CyberWeek http://t.co/eUa4zDiFlb" "HelloKabrita" FALSE FALSE 1417476968
+"357" "539563582590287872" "@UGEplex @amazon any idea when that deal ends chummer?" "NerdUnfiltered" FALSE FALSE 1417476957
+"358" "539563576164642816" "Forgot to use @amazon smile on my last few orders." "DonIrvine" FALSE FALSE 1417476955
+"359" "539563560566030336" "8x10 TO OUR SON ON HIS WEDDING DAY ~ Photo &amp; Poetry FRUITWOOD Frame w/Cream Ma... http://t.co/V2rHcohzyX via @amazon" "photonameframes" FALSE FALSE 1417476952
+"360" "539563551636328448" "Er, so @KFYI, @amazon is complaining about having too many orders? I support brick and mortar, not my fault." "markwonderful" FALSE FALSE 1417476949
+"361" "539563517829857280" "Tis neat -\"@CNNMoney: What @amazon's army of warehouse robots has in common with @nfl linemen http://t.co/NxJOjAC16K http://t.co/CzYURzzebE\"" "2mastersdegrees" FALSE FALSE 1417476941
+"362" "539563510305263616" "Very Bad Things (B... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/vgOXq2qslA via @amazon" "tinamorgan84" FALSE FALSE 1417476940
+"363" "539563497626288128" "This would make Skynet jealous http://t.co/wLNCWDCRjD  @amazon  #robots" "rickjoyce" FALSE FALSE 1417476937
+"364" "539563494577025025" "RT @amazon: 83% off #CyberMonday Lightning Deal: SanDisk Cruzer 64GB USB 2.0 Flash Drive http://t.co/7tKWNamdFN http://t.co/LVticRwOEl" "madakibello" TRUE FALSE 1417476936
+"365" "539563494509531136" "@Amazon FireTV is $69 right now if anyone wants one. If I hadn't ordered a Fire stick I might consider it." "tomf80" FALSE FALSE 1417476936
+"366" "539563482480672768" "Hey @amazon , you should be reading my wish lists and sending me an email listing the books that are on cyber monday." "UpdatedPriors" FALSE FALSE 1417476933
+"367" "539563466613612544" "@amazon any chance u could change ur policy on delivering to Ireland?? Tried to buy 3 items today but none will deliver to me!!" "JohnDelaney11" FALSE FALSE 1417476929
+"368" "539563460221104128" "RT @CNNMoney: What @amazon's army of warehouse robots has in common with @nfl linemen http://t.co/IUVHq553e9 http://t.co/srlMoXVPqi" "hemang_78" TRUE FALSE 1417476928
+"369" "539563455020150784" "Weekly Sale Ads &amp; Coupons Of All Major Department Stores &amp; Supermarkets (no po... http://t.co/fZ8AFJZ6Xr via @amazon" "RichardAllikas" FALSE FALSE 1417476926
+"370" "539563417091076096" "RT @gailfarrelly: .@bchukran @ajam Dark Eclipse #40 -... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/yXRkfckbVK…" "rcarter67606" TRUE FALSE 1417476917
+"371" "539563389450985472" "Solo en @amazon em michelle phan The Life Palette http://t.co/Gg7WBTlWWU http://t.co/W044agSOco" "CourierBoxPTY" FALSE FALSE 1417476911
+"372" "539563387341250561" "@amazon is definitely in the holiday mode today! They are hustling and bustling for Cyber Monday http://t.co/MVfnUsFuvm" "prempack" FALSE FALSE 1417476910
+"373" "539563383578583040" "Blown Glass Solar S... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/9U0PjMaZbu via @amazon" "bedfordscience" FALSE FALSE 1417476909
+"374" "539563373101604864" "RT @Comic_Chaos: RT WIN an amazing @amazon #Kindle Fire HDX with our awesome #giveaway on TOTALCHAOS https://t.co/YwmeeMCf2w #EPIC http://t…" "kelbonjovifan" TRUE FALSE 1417476907
+"375" "539563303589384193" "RT @ClassicStarWars: Han Solo in Carbonite Carpet Runner Rug - L... by Star Wars for $83.99 http://t.co/SyYpSeZ1qU via @amazon http://t.co/…" "starwarsepic" TRUE FALSE 1417476890
+"376" "539563302922502144" "12,000 (and Counting) Pledge not to Shop on @amazon Over the Holidays http://t.co/cZKplZnzHi #Christmas #DotCom #Society" "WochitNews" FALSE FALSE 1417476890
+"377" "539563297855799297" "RT @201Ransom: New Album Available on @iTunes http://t.co/7WRgc1dIof @GooglePlay http://t.co/8fXK8Q9E8q &amp; @Amazon http://t.co/HbnPicGva9 MU…" "NamesR4FriendS" TRUE FALSE 1417476889
+"378" "539563288342708224" "The only thing we've done on @amazon lately is BUY a digital movie for 12.99. Why would that cause them to charge 99 for prime?" "rebyj" FALSE FALSE 1417476887
+"379" "539563216679231488" "RT @JerseyCares: Out of towner? No problem! You can still #donate to the @JerseyCares #CoatDrive through our @Amazon Wish List. Visit http:…" "USAnonProfits" TRUE FALSE 1417476870
+"380" "539563211230834689" "Naked Economics: Undressing the Dismal Science @Amazon #bookspotting #wmata  https://t.co/YJLFBf6L9i" "ebohls" FALSE FALSE 1417476868
+"381" "539563192121569280" "What if you could have a chip inside your head? Would you do it?  A M P - Phase 1 @Amazon #PRIME http://t.co/N38qktysDz #Free on #Prime" "Crystal_Secrets" FALSE FALSE 1417476864
+"382" "539563166728871937" "RT @BradMilyo: Get it here. It's totally worth it. I've paid for it twice, in fact. http://t.co/5sxL2PiwSo via @amazon @phillyradiogeek @Da…" "nodeuces" TRUE FALSE 1417476858
+"383" "539563152828948480" "Worlds of Samsara b... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/6GZ6sGggIS via @amazon" "AuthorJHeron" FALSE FALSE 1417476854
+"384" "539563145358876672" "Check out my author page at this easy to remember url! http://t.co/tDAst8JQr3 via @amazon" "JuanBlea" FALSE FALSE 1417476853
+"385" "539563142917804032" "Online shopping for Movies &amp; TV from a great selection of Movies, TV &amp; more a... http://t.co/KlzOwdFy67 via @amazon #bluray #giftideas" "jakers0" FALSE FALSE 1417476852
+"386" "539563135179309056" "I just listed: 'Calm Cool &amp; Collected (Seven Ways to Immediately Increase Your Peace)', for $15.01 via @amazon http://t.co/BkWtHQ1EAR" "jimp30" FALSE FALSE 1417476850
+"387" "539563115176681472" "Healthy Cooking Tips by Mickey's Brain Apps http://t.co/7HDYC8ghzM via @amazon" "RichardAllikas" FALSE FALSE 1417476845
+"388" "539563045370863616" "I have just listed: 'Monster High 13 Wishes Room Party and Spectra', for £39.99 via @amazon http://t.co/VJ9DcqTNtb" "GemsGifts" FALSE FALSE 1417476829
+"389" "539563044779462656" "RT @amazon: Here's the infographic on Thanksgiving activity.
+And our Cyber Monday solution…http://t.co/DGoUzDi4EP http://t.co/FqF2vXkCoq" "sangphil" TRUE FALSE 1417476829
+"390" "539563031915552768" "RT @kocakwords: I've got $999,990 or so to go to become a #CyberMonday millionaire via my book sales @amazon. #baseball #micropoetry  http:…" "JessicaFastball" TRUE FALSE 1417476826
+"391" "539563012395261952" "I had an on-vocal version of the Space Harrier theme and didn't know.  This is my new jam. http://t.co/ijKpHehBtd via @amazon" "ximwix" FALSE FALSE 1417476821
+"392" "539562955386675200" "This is NOT worth the $3.95 I spent for the \"gift wrap\" present I bought @amazon! I am beyond disappointed! http://t.co/OfoAKMClI9" "Txgrl10" FALSE FALSE 1417476807
+"393" "539562881478455296" "@SearchDecoder @amazon thank you!" "chrisgoulet" FALSE FALSE 1417476790
+"394" "539562852785590273" "RT @Larry_B_Gray: #Paperback lovers. A Boy From Down East by Larry B. Gray http://t.co/Nj3sLd3d8n via @amazon #IARTG #booksales http://t.co…" "JackieWeger" TRUE FALSE 1417476783
+"395" "539562820338475008" "I've got $999,990 or so to go to become a #CyberMonday millionaire via my book sales @amazon. #baseball #micropoetry  http://t.co/6EwdS5VRsR" "kocakwords" FALSE FALSE 1417476775
+"396" "539562817587007488" "RT @_AutNihil: @sallybaker1968 @alyciabarry @amazon @Amazon_Studios they do &amp; why U can't fake chemistry like this #TheBorgias S4 http://t.…" "Leabethy" TRUE FALSE 1417476774
+"397" "539562811014123521" "Check out my author page at this easy to remember url! http://t.co/ZZlIq8Ffsl via @amazon" "Jeffrey_Davis" FALSE FALSE 1417476773
+"398" "539562802965676032" "7\"x10\" DADDY'S GIRLS ~ Portrait Multi-Collage Picture Frame ~ Laser Cut Cream ... http://t.co/akR2q1bn1Y via @amazon" "classycraftsinc" FALSE FALSE 1417476771
+"399" "539562802957258752" "@amazon I was about to go on a shopping spree on Amazon for Black Friday. I didn't buy a single item due to this. It ruined Black Friday 4me" "danalione" FALSE FALSE 1417476771
+"400" "539562795764051968" "RT @ThinkTenMedia If you haven't seen Dallas Buyers Club yet, watch it. @DallasBuyersUK is streaming on @Amazon #WorldAIDSDay #WAD2014" "ramon_hamilton" FALSE FALSE 1417476769
+"401" "539562795151659009" "RT @ThinkTenMedia If you haven't seen Dallas Buyers Club yet, watch it. @DallasBuyersUK is streaming on @Amazon #WorldAIDSDay #WAD2014" "IndieJenFischer" FALSE FALSE 1417476769
+"402" "539562768064864256" "Just pulled an @JRK18 and got our #Christmas presents on @amazon @A_Kinard" "wokatt" FALSE FALSE 1417476763
+"403" "539562749961838592" "30% OFF TODAY!!! KD Gold: Dish Washi... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/2DyhDI3igu via @amazon" "Kdgoldrtu" FALSE FALSE 1417476758
+"404" "539562744337661952" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "K_A_Castillo" TRUE FALSE 1417476757
+"405" "539562721310965760" "If you haven't seen Dallas Buyers Club yet, watch it. @DallasBuyersUK is streaming on @Amazon #WorldAIDSDay #WAD2014 @McConaughey" "ThinkTenMedia" FALSE FALSE 1417476752
+"406" "539562710828986368" "I just bought: 'I am Haunted: Living Life... #CyberMonday via @amazon @Zak_Bagans" "Cynthia_Faith1" FALSE FALSE 1417476749
+"407" "539562680831332352" "Have you seen this? The Perfect Gift Ke... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/KQ0vNpD3Mp via @amazon" "CharlesN2C517" FALSE FALSE 1417476742
+"408" "539562650615570432" "TweetCaster Pro for Android by OneLouder Apps http://t.co/EuUxO13eKA via @amazon" "RichardAllikas" FALSE FALSE 1417476735
+"409" "539562649906728960" "Attitude: SMALL CH... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/0AsxVEOQQ8 via @amazon" "DeniseSalmon1" FALSE FALSE 1417476734
+"410" "539562604629209088" "With cyber-mundane deals like these, who isn't shopping all day on Amazon! Pinch me. http://t.co/gmMhkYkVKN via @amazon" "masfreeolas" FALSE FALSE 1417476724
+"411" "539562560530677760" "RT @bestgaming1: LG Electronics 39LB... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/B7YI8mUqjv via @amazon" "CM2014_Info" TRUE FALSE 1417476713
+"412" "539562557753655296" "LG Electronics 39LB... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/B7YI8mUqjv via @amazon" "bestgaming1" FALSE FALSE 1417476713
+"413" "539562515479658496" "7x15 MARRIAGE Poetry/Collage w/Cream Mat &amp; LIGHT/MEDIUM Solid Oak Frame ~ WOND... http://t.co/Hn9bX3aXUl via @amazon" "photonameframes" FALSE FALSE 1417476702
+"414" "539562505110949888" "Stronger Love by D... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/QVcOJUzDwd via @amazon" "DeniseSalmon1" FALSE FALSE 1417476700
+"415" "539562500959006721" "RT @JustinFarley #CyberMonday 400 #books in 92 days. Want to be 401? #BooksForSale #BookSale @amazon http://t.co/w9pmypZXGO" "janafarley" FALSE FALSE 1417476699
+"416" "539562480733659136" "Eva Cosmetics Luxur... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/O37TAMzVIn via @amazon" "EvaCosmeticsUsa" FALSE FALSE 1417476694
+"417" "539562478079062017" "RT @SYLVANIA: SYLVANIA ULTRA iQ™ #LED bulbs are compatible with @Belkin WeMo® &amp; are available for your holiday @Amazon #wishlist: http://t.…" "01Jazzy" TRUE FALSE 1417476694
+"418" "539562473792495616" "@amazon I have all the chats saved where I was told it was an error on the Amazon website but you could not honor it...that it was too late" "danalione" FALSE FALSE 1417476692
+"419" "539562467366797313" "@David_Agopoglu @amazon You're welcome :)" "twealio" FALSE FALSE 1417476691
+"420" "539562465869443072" "Only TODAY! #CyberMonday #SALE ! Buy your own @AfterPartyPal for only $8.99 ! Buy now @amazon http://t.co/lkQRiWgIbS http://t.co/nd49BDsowG" "AfterPartyPal" FALSE FALSE 1417476691
+"421" "539562409124306944" "RT @ReginaPucket: Once Upon a Modern Time by Regina Puckett #FREE 11/28 - 1/2 #FAIRYTALES #ASMSG http://t.co/sswIFl5d5P via @amazon" "colbenjamin" TRUE FALSE 1417476677
+"422" "539562408810135552" "RT @201Ransom: New Album Available on @iTunes http://t.co/7WRgc1dIof @GooglePlay http://t.co/8fXK8Q9E8q &amp; @Amazon http://t.co/HbnPicGva9 MU…" "DeadeyeSTdot" TRUE FALSE 1417476677
+"423" "539562385392943105" "BaconReader Premium for Reddit by OneLouder Apps http://t.co/1af1Juh4Jw via @amazon" "RichardAllikas" FALSE FALSE 1417476671
+"424" "539562382939660288" "REO SPEEDWAGON ~ NINE LIVES ~ LP RECORD WALL CLOCK made from the Vinyl Record ... http://t.co/oTuXi3HtOZ via @amazon" "LPRecordClocks" FALSE FALSE 1417476671
+"425" "539562353491451904" "RT @amandapalmer: and all you amazing givers- @amazon sale is still on until 3:AM EST so book can be purchased for $11- easier to give! htt…" "NancyDiMattia1" TRUE FALSE 1417476664
+"426" "539562344800473088" "I want!  lol  Amazon Fire TV by Amazon http://t.co/BqtBgc2Ghx via @amazon" "sunestauromai" FALSE FALSE 1417476662
+"427" "539562332137873408" "Cyber Monday deals and sales online all week. Shop Amazon's best Cyber Monday... http://t.co/mxymt1hMSE via @amazon" "stuart78227" FALSE FALSE 1417476659
+"428" "539562329349029890" "@amazon I feel cheated by your CS team. I turned down the $30 credit because I expect more from a company like Amazon." "danalione" FALSE FALSE 1417476658
+"429" "539562323820568576" "Fun In Jamaica - O... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/9H7xXPb9Sa via @amazon" "DeniseSalmon1" FALSE FALSE 1417476657
+"430" "539562304967168000" "I have just listed: 'One Direction 4x4 Cruiser Car.', for £31.99 via @amazon http://t.co/8Dur2KDjA4" "GemsGifts" FALSE FALSE 1417476652
+"431" "539562287946690560" "Max Approach Finish... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this http://t.co/hrlPaLJM04 via @amazon" "mosere41" FALSE FALSE 1417476648
+"432" "539562237841915904" "RT @AlanWilliamHard: BRITT: Alan Hardy #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/KW1wSB63M0 via @amazon #WW1 …" "davepperlmutter" TRUE FALSE 1417476636
+"433" "539562220913696768" "RT @201Ransom: New Album Available on @iTunes http://t.co/7WRgc1dIof @GooglePlay http://t.co/8fXK8Q9E8q &amp; @Amazon http://t.co/HbnPicGva9 MU…" "YaLadysProspect" TRUE FALSE 1417476632
+"434" "539562209547141121" "@_robcoe @amazon Î was trying to avoid doing so but the website didn’t make it clear enough. They’d use the card you normally pay with.." "simonlevans" FALSE FALSE 1417476629
+"435" "539562197526282240" "RT @201Ransom: New Album Available on @iTunes http://t.co/7WRgc1dIof @GooglePlay http://t.co/8fXK8Q9E8q &amp; @Amazon http://t.co/HbnPicGva9 MU…" "jos1986" TRUE FALSE 1417476627
+"436" "539562191675219968" "@amazon then being told that my issue would be looked at by a superior. then reaching out today to find that there was no case..." "danalione" FALSE FALSE 1417476625
+"437" "539562179406479360" "@CinnamonHearts3 @amazon whoa. Good!!! And dittttttto!!" "colleenw92" FALSE FALSE 1417476622
+"438" "539562148058644480" "New Album Available on @iTunes http://t.co/7WRgc1dIof @GooglePlay http://t.co/8fXK8Q9E8q &amp; @Amazon http://t.co/HbnPicGva9 MUST HAVE" "201Ransom" FALSE FALSE 1417476615
+"439" "539562128286310400" "Tips, Tricks, Hacks &amp; Secrets For Snapchat - Pro Edition by TopAppz http://t.co/9idYigRDjv via @amazon" "RichardAllikas" FALSE FALSE 1417476610
+"440" "539562120124174336" "I just bought: 'Love &amp; Other Drugs' DVD ~... #CyberMonday #CM2014 Reply w/ #AmazonWishList to add this via @amazon http://t.co/RuHauy1cfG" "WesBevels1987" FALSE FALSE 1417476608
+"441" "539562104148492288" ".@Target and @Macys among retailers looking to take down @Amazon with revamped #mobile apps: http://t.co/uPXDNQ6oZZ via: @Adweek #retail" "TrendSource" FALSE FALSE 1417476604
+"442" "539562104118718466" "Han Solo in Carbonite Carpet Runner Rug - L... by Star Wars for $83.99 http://t.co/SyYpSeZ1qU via @amazon http://t.co/6NzwF8SClx" "ClassicStarWars" FALSE FALSE 1417476604
+"443" "539562101942259712" "Here's the #infographic on Thanksgiving activity.
+And our Cyber Monday solution  http://t.co/40sPszPjIh http://t.co/j9MDH9cScM via @amazon" "123InfoGraphics" FALSE FALSE 1417476604
+"444" "539562094178598913" "RT @LittleCthulhu: I NEED NEW PENS OH GOD! 'Staedtler - Pigment Liner Sketch Pen Set Set Of 4' by Staedtler via @amazon http://t.co/MdcLygL…" "spoilmemaybe" TRUE FALSE 1417476602
+"445" "539562090323640320" "You can support the fight to end #VAW this #CyberMonday! Shop @amazonsmile, &amp; @amazon will donate to us. Details: http://t.co/7wveeIihY1" "WithoutViolence" FALSE FALSE 1417476601
+"446" "539562078852235265" "I just listed: '[ ACCEPTABLE LOSS (WILLIAM MONK NOVELS (AUDIO)) - GREENLIGHT ] By Perry, ...', for $31.94 via @amazon http://t.co/9qYGck9JyE" "jimp30" FALSE FALSE 1417476598
+"447" "539562074284625921" "I just listed: 'John Wayne Playing Cards', for $12.97 via @amazon http://t.co/tH8ql6oj4U" "grandmaKathleen" FALSE FALSE 1417476597
+"448" "539562062796820481" "The Day Walker by ... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/srkdY87iPk via @amazon" "ren_cook" FALSE FALSE 1417476595
+"449" "539562049370484737" "KDN- Broken Silence - EP only $3.96! http://t.co/iQKfhjQerU via @amazon cyber Monday deal for good quality music!" "taymavilla" FALSE FALSE 1417476591
+"450" "539562037454860288" "@amazon followed by the item selling out. then being told that you value me as a five year customer but you can't do anything." "danalione" FALSE FALSE 1417476588
+"451" "539561986107785216" "Long Stem Glass Tea... #CyberMonday #CM2014 Reply w/ #AmazonWishList  http://t.co/Vk5NTkEM2g via @amazon #christmasdecor #holidaydecor #sale" "MLEforEVERYONE" FALSE FALSE 1417476576
+"452" "539561983453184000" "@AmazonHelp @LucioQuincioC @USADelivery @amazon / Order 106-0296816-7607461 Problem Material Different. The value of what I paid was....." "MarybelSierra" FALSE FALSE 1417476576
+"453" "539561916318748673" "RT @amazon: Here's the infographic on Thanksgiving activity.
+And our Cyber Monday solution…http://t.co/DGoUzDi4EP http://t.co/FqF2vXkCoq" "taniosmansour" TRUE FALSE 1417476560
+"454" "539561875675947009" "RT @FNC_Ladies_Rule: @sarahcolonna @amazon
+Just be sure to remind UR fans they gotta use it before midnight tonight" "sarahcolonna" TRUE FALSE 1417476550
+"455" "539561871347433472" "Look what arrived in the mail from Santa @amazon.  Romain Duris. @CedricKlapisch #CasseTêteChinois #RomainDuris http://t.co/h4jgy6blqN" "ChristineLai604" FALSE FALSE 1417476549
+"456" "539561867983593472" "RT @amazon: TODAY ONLY: Take 30% off select clothing, shoes, watches, luggage, &amp; more http://t.co/AmLcVcdeH1 #CyberMonday" "UFroGirl" TRUE FALSE 1417476548
+"457" "539561847230197760" "Instafire - Instagram Client by OutClick Labs http://t.co/vR46E9niol via @amazon" "RichardAllikas" FALSE FALSE 1417476543
+"458" "539561842205806592" "@amazon I've been going round and round with your CS. your rep urged me not to buy a tv because the price online was an error." "danalione" FALSE FALSE 1417476542
+"459" "539561833628049408" "RT @wackyjackyful: Silence Of Scandal... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample #KU #T4MW #iartg http://t.co/kptjRppyR…" "lorriewrites" TRUE FALSE 1417476540
+"460" "539561814330073088" "RT @wackyjackyful: Running Scarred (S... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample #KU #BYNR #artg #T4MW http://t.co/EMnF…" "lorriewrites" TRUE FALSE 1417476535
+"461" "539561791995396098" "I have just listed: 'Playskool Heroes Transformers Rescue Bots - Transforming Heatwave', for £29.99 via @amazon http://t.co/y1xpEZbqCY" "GemsGifts" FALSE FALSE 1417476530
+"462" "539561783431032832" "8x10 DADDY'S LITTLE GIRL Photo &amp; Poetry FRUITWOOD Frame w/Cream Mat ~ Holds a ... http://t.co/7RQcL1PmP4 via @amazon" "classycraftsinc" FALSE FALSE 1417476528
+"463" "539561780800802817" "RT @wackyjackyful: Scarred Beginnings... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample #KU FREE #rhrtg #T4MW http://t.co/xzdL…" "lorriewrites" TRUE FALSE 1417476527
+"464" "539561771183644672" "RT @EchoPressBooks: #iTunes #Bestseller 7 categories, 20 countries~Not Another Vampire Story #vampire #MGlit #AmazonCart @amazon http://t.c…" "MadhuriBlaylock" TRUE FALSE 1417476525
+"465" "539561770889650176" "@curtiswhitworth @FNC_Ladies_Rule @amazon haha March 31.  Your mailman is safe for now" "sarahcolonna" FALSE FALSE 1417476525
+"466" "539561761360207872" "RT @wackyjackyful: Treasured Dreams b... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample FREE #KU #iartg #T4MW http://t.co/G7I3…" "lorriewrites" TRUE FALSE 1417476523
+"467" "539561740485144576" "RT @wackyjackyful: A Fallen Fortune b... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample FREE #KU #T4MW #iartg http://t.co/KwKq…" "lorriewrites" TRUE FALSE 1417476518
+"468" "539561681240985600" "@ItsMaseratiXXX @amazon sent you a little pressie in appreciation of the pleasure you have given me xxx" "ronni1050" FALSE FALSE 1417476504
+"469" "539561675033411585" "RT @amazon: TODAY ONLY: Take 30% off select clothing, shoes, watches, luggage, &amp; more http://t.co/AmLcVcdeH1 #CyberMonday" "carloshurtaado" TRUE FALSE 1417476502
+"470" "539561618384756736" "Just saw this on Amazon: Galaxies Apart by Jason Akers for $0.99 http://t.co/OrhwhARstv via @amazon" "jakers0" FALSE FALSE 1417476489
+"471" "539561614484451328" "RT @Larry_B_Gray: #Paperback lovers. A Boy From Down East by Larry B. Gray http://t.co/Nj3sLd3d8n via @amazon #IARTG #booksales http://t.co…" "hypnashift" TRUE FALSE 1417476488
+"472" "539561613905649665" "RT @Larry_B_Gray: Order your copy of A Boy From Down East. #kindle or #paperback   http://t.co/da9TzQb8XK … via @amazon #ASMSG #IARTG http:…" "hypnashift" TRUE FALSE 1417476487
+"473" "539561570893049856" "RT @bahamel01: TAPESTRIES OF LIFE... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/Qg24U0p5Uv via @amazon" "Webdini" TRUE FALSE 1417476477
+"474" "539561522058379264" "Checkbook Pro by Molovi Software LLC http://t.co/Bjgmxcw7ck via @amazon" "RichardAllikas" FALSE FALSE 1417476466
+"475" "539561503016230912" "RT @jkhansenaz: #CyberMonday $2.99 #ebooks @amazon LUST MURDER #ABUSE #TRUECRIME @sherrielueder @TysonLasVegas @DawnTaarud http://t.co/Ge8j…" "DawnTaarud" TRUE FALSE 1417476461
+"476" "539561488001040384" "RT @Comic_Chaos: RT WIN an amazing @amazon #Kindle Fire HDX with our awesome #giveaway on TOTALCHAOS https://t.co/YwmeeMCf2w #EPIC http://t…" "evaz235" TRUE FALSE 1417476457
+"477" "539561474415292416" "@TheTonyCincotta  for those moments when Viagra works :Uncle Milton Fireworks Light Show  http://t.co/yir72KCbtG via @amazon" "billyhaze" FALSE FALSE 1417476454
+"478" "539561415116611584" "RT @amazon: TODAY ONLY: Take 30% off select clothing, shoes, watches, luggage, &amp; more http://t.co/AmLcVcdeH1 #CyberMonday" "a_rivera914" TRUE FALSE 1417476440
+"479" "539561398855290880" "@Real_Liam_Payne @amazon I can't find the DVDs" "francia6701" FALSE FALSE 1417476436
+"480" "539561394354806784" "RT @marthafawcett: Part One - Prince ... #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/SeY61eGzU7 via @amazon" "FallonLak" TRUE FALSE 1417476435
+"481" "539561376717758464" "JIMMY DEAN ~ I.O.U. ~ Wall Clock made from the Vinyl Record LP ~ Recycled LP V... http://t.co/T69liAUucU via @amazon" "LPRecordClocks" FALSE FALSE 1417476431
+"482" "539561374704078848" "Want to emulate the customer-friendly habits of top companies like @Amazon? Start with these: http://t.co/YxQWtDOdaC via @FastCompany" "Nick_Holley" FALSE FALSE 1417476430
+"483" "539561374045986816" "RT @KChenoweth: If you're shopping today for #CyberMonday, check out my new album #ComingHome on @amazon: http://t.co/5uMA4GrjCJ! http://t.…" "kisseswithwings" TRUE FALSE 1417476430
+"484" "539561372766318593" "I have just listed: 'Disney Princess Rapunzel Deluxe Styling Head', for £40.65 via @amazon http://t.co/DAV2MW6zfV" "GemsGifts" FALSE FALSE 1417476430
+"485" "539561367196295168" "@colleenw92 @amazon I was able to cancel but that scares me." "CinnamonHearts3" FALSE FALSE 1417476429
+"486" "539561362725560321" "RT @JohnRosePutnam: RT @Larry_B_Gray A Boy From Down East #john316author #kindlebooks #asmsg 
+http://t.co/nLaj7GBayX … via @amazon 5 Stars …" "samuelhawley1" TRUE FALSE 1417476428
+"487" "539561359533305857" "RT @AlanWilliamHard: BRITT: Alan Hardy #CyberMonday #CM2014 Reply w/ #AmazonCart for a free sample http://t.co/KW1wSB63M0 via @amazon #WW1 …" "BrandtLegg" TRUE FALSE 1417476427
+"488" "539561317892227073" ".@Amazon has a pretty savvy strategy for releasing big tech news on the cusp of #CyberMonday. This time it's #robots. http://t.co/JJnxYwfuCe" "LarryShort" FALSE FALSE 1417476417
+"489" "539561313685766148" "@SeanClark @Amazon All over it." "DanSpicer" FALSE FALSE 1417476416
+"490" "539561296568782848" "TODAY ONLY: Take 30% off select clothing, shoes, watches, luggage, &amp; more http://t.co/VF742Q8s3V… #CyberMonday 
+@amazon @amazondeals" "amssamed" FALSE FALSE 1417476412
+"491" "539561222740668416" "5x7 MOMMY'S BOY Landscape Picture Frame ~ Laser Cut Cream Marble Mat with LIGH... http://t.co/fjkGQyweaO via @amazon" "photonameframes" FALSE FALSE 1417476394
+"492" "539561183532306432" "RT @FiftyShades: #GreyFriday is so much more civilized. The official #FiftyShades store is now open on @Amazon. http://t.co/0VoBggr3Eq http…" "annemarieke30" TRUE FALSE 1417476385
+"493" "539561161277317120" "RT @AlisaEaston5: Get cozy with an #erotic romance for #Christmas - You're All I Want http://t.co/uRO1MnPIbh via @amazon" "SabrinaDevonsh1" TRUE FALSE 1417476380
+"494" "539561149432201216" "Plan to shop #CyberMonday deals on @amazon? Use our @amazonsmile link and support BHFCU's School Supply Drive! https://t.co/FXDpKAIRhs" "BlackHillsFCU" FALSE FALSE 1417476377
+"495" "539561088157642752" "I have just listed: 'Spiderman Loop and Jump Track Set', for £30.25 via @amazon http://t.co/MGX9c4vBVu" "GemsGifts" FALSE FALSE 1417476362
+"496" "539561042460676096" "Online shopping from a great selection at Clothing, Shoes &amp; Jewelry Store. http://t.co/B9Yk0zLpy9 via @amazon" "amssamed" FALSE FALSE 1417476351
+"497" "539561038413565952" "RT @amazon: TODAY ONLY: Take 30% off select clothing, shoes, watches, luggage, &amp; more http://t.co/AmLcVcdeH1 #CyberMonday" "Pricezon" TRUE FALSE 1417476350
+"498" "539561032499220481" "Home Budget Manager by r6apps http://t.co/lqtC0MxZwa via @amazon" "RichardAllikas" FALSE FALSE 1417476349
+"499" "539561025964900352" "RT @amazon: TODAY ONLY: Take 30% off select clothing, shoes, watches, luggage, &amp; more http://t.co/AmLcVcdeH1 #CyberMonday" "PettiLabelle_" TRUE FALSE 1417476347
+"500" "539561024181895169" "Online shopping for Cyber Monday Deals in the Amazon Kindle Store: http://t.co/D7rwWyFPom via @amazon" "nicolems28" FALSE FALSE 1417476347

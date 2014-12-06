@@ -1,0 +1,201 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "540294407891587072" "Check out Allen B blouse nwt short sleeve career dressy casual animal print sz m #Blouse #Career http://t.co/pJE1x2b8Fi via @eBay" "AndrewzNancyna" FALSE FALSE 1417651199
+"2" "540294403315613696" "Check out Hootie &amp; The Blowfish Summer Camp With Trucks Tour 1995 Shirt XL #AllSport #BasicTee http://t.co/DAzUpew5Or via @eBay" "Lksaltbox" FALSE FALSE 1417651198
+"3" "540294401935679488" "Check out Disney Mickey Mouse 2 Foot Tall Scarecrow Fall Halloween Plush Stuffed Animal #Disney http://t.co/iR0XWH9fO2 via @eBay" "Loveeveryone88" FALSE FALSE 1417651198
+"4" "540294395497431042" "Wall Clock Arts Crafts Mission Stickley Inspired Quarter Sawn Oak Copper 22colors #handmade #custommade  http://t.co/03K4gV48v5 via @eBay" "OacFurniture" FALSE FALSE 1417651196
+"5" "540294375641976832" "RT @Kybunker: @auctionrssfeed Sterling Marlin #4 Kodak Back-to-Back Daytona 500 Winner - Racing Champions 1:24  http://t.co/kJHopflnjx via …" "sofia2012" TRUE FALSE 1417651191
+"6" "540294370264481792" "....Check out Tommy Hilfiger Monogram Logo Shoulder Bag #TommyHilfiger #ShoulderBag http://t.co/qygVGn9iHr via @eBay" "DJBRKLYNSCHLD" FALSE FALSE 1417651190
+"7" "540294367513444352" "RT @sofia2012: Check out J JILL  Long Sleeve V Neck Multi-color 72% Lambswool  Sweater Sz XSP #97641 #JJill http://t.co/gKNQLx9I3r via @eBay" "homespunitems" TRUE FALSE 1417651190
+"8" "540294330745749504" "Check out Ocean Inspired Beaded Wooden Hair Stick New Shawl Pin Accessories  #Handmade #HairStick http://t.co/K5q8h0KkSI via @eBay" "gossamerfae" FALSE FALSE 1417651181
+"9" "540294319953817601" "Check out Apt 9, ruffle/pleated top, size:S #Apt9 #ButtonDown #Formal #top http://t.co/0FSsrtYVEw via @eBay" "3356joshua" FALSE FALSE 1417651178
+"10" "540294314371596288" "Check out Huge Lot of 11 Build A Bear BAB Bears + Bear Clothes + Lots Of  Extras ! http://t.co/zCD3GV3dPm @eBay" "Ingrid224" FALSE FALSE 1417651177
+"11" "540294304108138496" "Check out HUGE ELMO SESAME STREET STUFFED ANIMAL 3 FEET RED NYLON CHRISTMAS GIFT DEAL http://t.co/FyvXcxe8cC @eBay" "andrearweir" FALSE FALSE 1417651174
+"12" "540294282926907393" "Check out Midwest Cannon Falls Lot of 6 Mixed Christmas Decorations Ornament Lot  http://t.co/lNNJBwo2k4 @eBay" "Ingrid224" FALSE FALSE 1417651169
+"13" "540294274634350592" "Check out Kellytoy JUMBO 30\" Gray Teddy Bear Stuffed Grizzly Plush Animal Toy Bow  #Kellytoy http://t.co/BPJ9zilKl8 via @eBay" "creightonsfudge" FALSE FALSE 1417651167
+"14" "540294271652204545" "Check out 2012 National Treasures Joe DiMaggio Game Used Jumbo Jersey w/2 Stripes 24 of 25  http://t.co/DrML9SjRtJ via @eBay" "LukeBMoney" FALSE FALSE 1417651167
+"15" "540294260285644801" "Check out my listing on @eBay: http://t.co/PFIPoKQnUw via @eBay" "500stockdrawing" FALSE FALSE 1417651164
+"16" "540294253013135360" "Check out Oneida Casino Wisconsin 7 $1 Casino Token &amp; 1 1072 Eisenhower Silver Dollar Coin http://t.co/R8XcElxuBY @eBay" "Ingrid224" FALSE FALSE 1417651162
+"17" "540294240098471936" "Check out Black &amp; Pink Italian Leather Handbag Purse Fellini Evening Bag #Fellini #EveningBag http://t.co/fz83OaH9zL via @eBay" "Lksaltbox" FALSE FALSE 1417651159
+"18" "540294239465115648" "Check out Berek Black &amp; White Lightweight Sweater - Swirls &amp; Rhinestones Size Large  #Berek http://t.co/WwaP8xakgX via @eBay" "Loveeveryone88" FALSE FALSE 1417651159
+"19" "540294232431661056" "RT @sparky_town: Check out In Tu It Dress M L 1 Size Green Hand printed Button Front Art Wear Tunic Top #intuit http://t.co/hct3qw5xGH via …" "jctoyzhut" TRUE FALSE 1417651157
+"20" "540294224349241345" "Check out Apparatus Mens Leather Biker Bomber Jacket Size M L http://t.co/OjEjAdaFet @eBay" "Ingrid224" FALSE FALSE 1417651155
+"21" "540294224122355713" "Check out One World sweater dress tunic multi color acrylic sz s casual work  #OneWorld #Tunic http://t.co/He6vGVjrHT via @eBay" "AndrewzNancyna" FALSE FALSE 1417651155
+"22" "540294217382109184" "Check out Peanuts Santa Snoopy Have A Cool Yule T-shirt Mens XL Dark Blue Graphic Tee SS #Peanuts http://t.co/1bcO3qhrU5 via @eBay" "soldiersmom59" FALSE FALSE 1417651154
+"23" "540294216308785152" "1932 The Killonian Year Book #Killingly High School #Danielson #Connecticut    http://t.co/PTMdeQFNcM via @eBay" "redalert2010" FALSE FALSE 1417651154
+"24" "540294192371494912" "Check out Eileen Fisher blouse button front peach linen/silk career sz L  #EileenFisher #Blouse http://t.co/qAjQwJ3vmz via @eBay" "AndrewzNancyna" FALSE FALSE 1417651148
+"25" "540294187069890560" "Check out Dr Scholl's tan moccisan nwot flats loafers sz 8 M #DrScholls #LoafersMoccasins http://t.co/meFn40287C via @eBay" "WvThriftyPicker" FALSE FALSE 1417651147
+"26" "540294154555625472" "KEN GRIFFEY, JR 2006 Upper Deck Exquisite SIGNATURE PATCH AUTO JERSEY 02/30 REDS  http://t.co/GQx5tX8Oxv via @eBay" "LukeBMoney" FALSE FALSE 1417651139
+"27" "540294151665774592" "Check out Vintage neck ties lot of 7 old multi colors long  #NeckTie http://t.co/gD0R8f6tCh via @eBay" "AndrewzNancyna" FALSE FALSE 1417651138
+"28" "540294150638546944" "RT @manyonerise: #VINTAGE #MAPS 1946 WORLD TIME ZONES Rand McNally map Genuine Vintage 20 x 27 poster print #RandMcnally http://t.co/cLDVwv…" "sportparadise" TRUE FALSE 1417651138
+"29" "540294138034270209" "Check out Deluxe Black X Large Targeting Range Hunting Bag with Pistol Rug Water Resistant  http://t.co/p0J0HlxU4p via @eBay" "healthbizzz" FALSE FALSE 1417651135
+"30" "540294135068889088" "Check out White Biker Striped Rider Jacket Large - Reflector Stripe - last one Large #BIKERGEAR http://t.co/OVtENpDh33 via @eBay" "Loveeveryone88" FALSE FALSE 1417651134
+"31" "540294128173465600" "Check out The Bionic Woman game board game Jaime Sommers  http://t.co/b9mOjT7ojW via @eBay" "WvThriftyPicker" FALSE FALSE 1417651132
+"32" "540294121953316864" "Check out Banana Republic ugliest sweater Christmas Holidays party sleevessless tunic sz L #Tunic http://t.co/DA1Iy6BRj8 via @eBay" "AndrewzNancyna" FALSE FALSE 1417651131
+"33" "540294115343474688" "RT @LornajaneCosign: Check out Vintage 50s 60s Pearl Beaded Clutch Evening Bag  - Bags By Debbie  #Handbag #Glam #EveningBag http://t.co/0m…" "icepackrecords" TRUE FALSE 1417651129
+"34" "540294114344849409" "Check out Actual Speeches Of Franklin D. Roosevelt And John F. Kennedy Record  http://t.co/YbQ7Ewa0oa via @eBay" "Lksaltbox" FALSE FALSE 1417651129
+"35" "540294088952524800" "Check out Christmas ornaments pair nutcracker tree hanging large sz euc  #Unbranded http://t.co/q2EuaHZK4A via @eBay" "AndrewzNancyna" FALSE FALSE 1417651123
+"36" "540294073144180736" "Check out Super Mario Acme 12\" Plush Vintage Nintendo 1988 #Nintendo http://t.co/7mVIt61DuB via @eBay" "creightonsfudge" FALSE FALSE 1417651119
+"37" "540294063325315072" "Check out Foxcroft sweater yellow long sleeves 1/2 zipper cotton  casual sz L solid #Foxcroft http://t.co/lepqBOHjVC via @eBay" "AndrewzNancyna" FALSE FALSE 1417651117
+"38" "540294059537879040" "Check out Dr Seuss Horton Hears A Hoo Plush Blue Elephant Kohls Cares Stuffed Animal Toy  http://t.co/uTAmW4vtie via @eBay" "soldiersmom59" FALSE FALSE 1417651116
+"39" "540294048456511488" "Check out Columbia Womans XL  Radial Sleeve Down Reversible Coat Purple Teal Puffer Winter #Puffer http://t.co/gm4lnoMfxD via @eBay" "WvThriftyPicker" FALSE FALSE 1417651113
+"40" "540294033247961088" "Check out DKNY JEANS  sweater dk blue button  casual fall winter 100%  cotton solid sz m #DKNY http://t.co/S0DpE94Xr0 via @eBay" "AndrewzNancyna" FALSE FALSE 1417651110
+"41" "540294021298405376" "Check out Seagate Free Agent 250 GB 72000RPM Hard Disk Drive New  #Seagate http://t.co/CnZ2QoUofG via @eBay" "Loveeveryone88" FALSE FALSE 1417651107
+"42" "540293995436310529" "Check out CHICO'S top shirt asian red stretchy sz 0 (4-xs) nice! #Chicos #KnitTop #Casual http://t.co/YqoU0KGQd9 via @eBay" "AndrewzNancyna" FALSE FALSE 1417651101
+"43" "540293989866696704" "RT @sofia2012: Check out J JILL  Long Sleeve V Neck Multi-color 72% Lambswool  Sweater Sz XSP #97641 #JJill http://t.co/gKNQLx9I3r via @eBay" "jamie2258" TRUE FALSE 1417651100
+"44" "540293971767857152" "Brand New Listing!  #HotAirBalloon #Christmas #Ornament Mouse Porcelain Pink Purple #GotPicks http://t.co/fL14yT6a8A via @eBay" "BriansBookhouse" FALSE FALSE 1417651095
+"45" "540293967137370112" "Check out New $148 Lauren #RalphLauren Black Striped Wool Lined Pants Trousers 14 #PantsSlacks http://t.co/26qNaHYgZj via @eBay" "GreatDeals4Les" FALSE FALSE 1417651094
+"46" "540293951421288448" "Check out Fossil Bag Purse Genuine Leather Multicolor Designer Fashion Women Accessries  #Fossil http://t.co/3q2hQQ0z6V via @eBay" "SOHEYLLA" FALSE FALSE 1417651090
+"47" "540293948099416064" "Check out Saks Fifth Avenue top shirt pullover Christmas Holiday red tunic sz s fall  #Tunic http://t.co/99cbgFSMQP via @eBay" "AndrewzNancyna" FALSE FALSE 1417651090
+"48" "540293946794987520" "Check out 6 Pc Animal Figurines Musicians Band Musical Instruments Lion Bear Dog Kangaroo #unknown http://t.co/oX86QqA3XR via @eBay" "soldiersmom59" FALSE FALSE 1417651089
+"49" "540293914477867008" "Check out Santa sitting in chimny sleigh  ornament pair hanging Christmas holidays  #costco http://t.co/4YFQNqKeKN via @eBay" "AndrewzNancyna" FALSE FALSE 1417651082
+"50" "540293906420600832" "Check out Antique 1900's Black &amp; White Print - by  W. Dendy Sadler  24x29    #WDendySadler http://t.co/FlDd9hVBuj via @eBay" "Loveeveryone88" FALSE FALSE 1417651080
+"51" "540293896979226624" "Check out BATMAN The RIDE STATUE by Goebel  SIX FLAGS AMUSMENT PARK NRFB with COA #DCComics http://t.co/YzQU2v7YyL via @eBay" "creightonsfudge" FALSE FALSE 1417651077
+"52" "540293890050232320" "#ChristmasCountdown 30%OFF Switch Blade Stiletto Tainted Bunny Bikini Top Small  NWT Leopard Cheetah Swim  http://t.co/CfsvIymmRI via @eBay" "BCsBargainBin" FALSE FALSE 1417651076
+"53" "540293851152281600" "Check out HUGE ELMO SESAME STREET STUFFED ANIMAL 3 FEET RED NYLON CHRISTMAS GIFT DEAL #Hasbro http://t.co/nEi18YqJn6 via @eBay" "andrearweir" FALSE FALSE 1417651066
+"54" "540293832856723457" "Check out Red Strapless Top http://t.co/pw3qTWYK8d @eBay" "MoonlitShop" FALSE FALSE 1417651062
+"55" "540293830386253824" "Check out Peach Red Floral Dress by Andrea Polizzi for Rex Lester size 8, Medium Acetate  #Sheath http://t.co/mUAWtA3QDL via @eBay" "DejaVuCamasInc" FALSE FALSE 1417651061
+"56" "540293791253794818" "RT @BambooParadise: 20x14 Stained Art Glass HORSE &amp; COLT Hanging Suncatcher  http://t.co/sRHOVyo7Ab via @eBay" "OKKinderhook" TRUE FALSE 1417651052
+"57" "540293787616935936" "Check out Antique 1900's Black &amp; White Print - W. Dendy Sadler  - A Breach of Promise  http://t.co/adPc29CSMd via @eBay" "Loveeveryone88" FALSE FALSE 1417651051
+"58" "540293760970551297" "#ChristmasCountdown 30%OFF  Retro Fashion Vanilla Off White With Black Patent Leather Belt XS 28 inch NWD  http://t.co/vbI2pEu3Dj via @eBay" "BCsBargainBin" FALSE FALSE 1417651045
+"59" "540293759779364864" "Check out Alfred Dunner, floral blouse, size:8 #AlfredDunner #Blouse #buttondown http://t.co/9ftvmmnx8X via @eBay" "3356joshua" FALSE FALSE 1417651045
+"60" "540293750228914176" "Check out NEW - PRETTY HEART WITH BUTTERFLIES &amp; FLOWERS TIBETAN SILVER PENDANT NECKLACE #Pendant http://t.co/Y6gwHrUZed via @eBay" "Kimberlina2014" FALSE FALSE 1417651042
+"61" "540293740251082752" "Come see our 6\" #Orgone Mayan #Pyramid on a lighted LED base! Only $79.99!!! http://t.co/71DVyR16J5 @ebay" "MyOrgone" FALSE FALSE 1417651040
+"62" "540293728485650432" "Check out Simplicity pattern costumes Christmas holiday misses men womens 1999  http://t.co/Ohq6LpXo5i via @eBay" "AndrewzNancyna" FALSE FALSE 1417651037
+"63" "540293709250572288" "Check out Mint Green Brides Maid gown embroidered Corset Mary's Import formals  8   http://t.co/D1AFtolH3J via @eBay" "DejaVuCamasInc" FALSE FALSE 1417651033
+"64" "540293706650112000" "Check out Sunkissed-Hand Made Crochet Angel 14\" White with orange and yellow  http://t.co/17ge4bN4gF via @eBay" "njustin11" FALSE FALSE 1417651032
+"65" "540293704963997697" "Check out VINTAGE ESTATE 18-20\" DOUBLE STRAND TAN MARBLED BEADED NECKLACE/HEAVYWEIGHT!  http://t.co/eocavaRlBW via @eBay" "kittysCoolWorld" FALSE FALSE 1417651032
+"66" "540293702300626944" "RT @madewithloveby: Check out Levi's Long Sleeve Bodysuit 12 Months  http://t.co/3CKNEp0rcO via @eBay" "VbrandStore" TRUE FALSE 1417651031
+"67" "540293699960205313" "Check out Christmas ornaments pair hanging snowman deer large euc   http://t.co/v1JxxZxF6x via @eBay" "AndrewzNancyna" FALSE FALSE 1417651030
+"68" "540293698844504064" "Check out NEW #SANTA #Christmas #Silverware #Holders #HOLIDAY RED WHITE COOL FAMILY MEAL    http://t.co/tLjoMsBoYp via @eBay" "savewithjojo" FALSE FALSE 1417651030
+"69" "540293689734475776" "Check out Antique 1900's Black &amp; White Print - W. Dendy Sadler  24x29   \"Country Clients\"  http://t.co/8wmpdjnPCh via @eBay" "Loveeveryone88" FALSE FALSE 1417651028
+"70" "540293675066990592" "Check out CULTURE CLUB THE BIG RE-WIND TOUR 98/99 T-SHIRT  #BasicTee http://t.co/dfmyRYUAm1 via @eBay" "Lksaltbox" FALSE FALSE 1417651024
+"71" "540293674089725953" "Check out Worthington pant suit career dressy blk/blue pinstrips lined sz plus 18 euc  #PantSuit http://t.co/PBLl6QUI0P via @eBay" "AndrewzNancyna" FALSE FALSE 1417651024
+"72" "540293647644647424" "Check out Jones Wear Studio button down shirt blouse top multi color sz XL  #joneswearstudio http://t.co/oSdbRm53oh via @eBay" "AndrewzNancyna" FALSE FALSE 1417651018
+"73" "540293639125995520" "Check out Hand Made Ethiopian (Eretriean) Habesh Dress. 30 Days 40% OFF , FREE SHIPPING #Handmade http://t.co/hMVEDXEBEr via @eBay" "Ethiotebebe" FALSE FALSE 1417651016
+"74" "540293630091857922" "RT @AndrewzNancyna: Check out Ann Klein top knit black career solid stretch pullover casual sz L long sleeve #KnitTop http://t.co/b9enWI43P…" "propriator" TRUE FALSE 1417651014
+"75" "540293621681897472" "Check out Calvin Klein man's dress shirt career brown long sleeves sz 17.5  euc  #CalvinKlein http://t.co/TO4Zssg3uv via @eBay" "AndrewzNancyna" FALSE FALSE 1417651012
+"76" "540293615046889472" "RT @Just2spiffy: Check out 1950's Vintage Wilton Cast Iron Pot Trivet Rooster / Cock  http://t.co/3UjjzsnnYS via @eBay" "AuctionRSSFeed" TRUE FALSE 1417651010
+"77" "540293596818460672" "@eBay WHY? I guess y'all are making money &amp; the hell with us trying to get somewhere!! BS" "PipesnMore" FALSE FALSE 1417651006
+"78" "540293593827516416" "Check out Style &amp; Co top blouse shirt multi color stretch career casuaal sz XL  #Styleco #Blouse http://t.co/Hhj5i53HhT via @eBay" "AndrewzNancyna" FALSE FALSE 1417651005
+"79" "540293586487492608" "Check out Peanuts Snoopy Christmas Tree 18 inches tall lighted &amp; decorated last one  http://t.co/RxxviKuNKZ via @eBay" "Loveeveryone88" FALSE FALSE 1417651003
+"80" "540293578593808384" "Check out NEW #Lego #STAR WARS: The #VISUAL #Dictionary: Updated/ Expanded Simon Beecrof KIDS   http://t.co/D5Oml6iWCO via @eBay" "savewithjojo" FALSE FALSE 1417651001
+"81" "540293567118196737" "RT @Mersadiesheart: Fossil FOB Key Chain Printed Heart Yellow Multi New In Box Handbag Purse Brass #Fossil http://t.co/6FjdUE8eWz via @eBay" "StravaMax" TRUE FALSE 1417650999
+"82" "540293564559663104" "Check out TALBOTS petites top knit stretchy career short black sz s #Talbots #Blouse #Career http://t.co/BR6DOme6Fd via @eBay" "AndrewzNancyna" FALSE FALSE 1417650998
+"83" "540293544217288704" "This Invincible #IronMan comic mug would make a great gift for the holidays: http://t.co/FHq2NyUAI8 http://t.co/wYKKGsFWmj via @eBay @Marvel" "jdmgraphics" FALSE FALSE 1417650993
+"84" "540293543210647553" "Ladies Size 14 winter outfit-4 pcs- fab skirt/yellow jacket/belt/top @eBay SALE $29.99 #fashion http://t.co/y7RlJwqMue" "MyTexasTreasure" FALSE FALSE 1417650993
+"85" "540293543147745281" "Nike Blazer Fan? Times Runnin Out #Nike #blazer #lowtop #sneakerhead #deal http://t.co/NZ1g1tbFV5 via @eBay" "BidWinCheckOut" FALSE FALSE 1417650993
+"86" "540293538009735168" "Check out Vintage Christmas stocking 1982 holiday euc  http://t.co/YQyNstuMMM via @eBay" "AndrewzNancyna" FALSE FALSE 1417650992
+"87" "540293533950046209" "RT @AndrewzNancyna: Check out Talbots Light  Jacket workout green zip front sz L euc  #Talbots #BasicJacket http://t.co/BK1Q4Xd4jI via @eBay" "fieldsofvintage" TRUE FALSE 1417650991
+"88" "540293527553331200" "Check out Michelangelo size 6 (S) Strapless Embellished Wedding Gown Shear Ivory layered  http://t.co/Os9onJ8kCb via @eBay" "DejaVuCamasInc" FALSE FALSE 1417650989
+"89" "540293516430020608" "RT @Mersadiesheart: Wallet Fossil Keyper Zip Clutch Colorful Stripes Checkbook Hldr Handbag NWT  #Fossil http://t.co/RD4UpHfIWB via @eBay" "StravaMax" TRUE FALSE 1417650987
+"90" "540293507089321985" "Check out Ann Klein top knit black career solid stretch pullover casual sz L long sleeve #KnitTop http://t.co/b9enWI43P5 via @eBay" "AndrewzNancyna" FALSE FALSE 1417650984
+"91" "540293491234836483" "Check out Women's Handbag Boutique Purse Relic Camden Mini Flap Shoulder Bag Pewter NWT  #Relic http://t.co/75eqBFb1Fy via @eBay" "SCMerchandiser" FALSE FALSE 1417650981
+"92" "540293474105298944" "RT @Mersadiesheart: HANDBAG Guess Tansy Lg Pleated Bucket NWT Rhinestone Plaque Satchel Purse Tote #Guess http://t.co/rgADWNAjRi via @eBay" "StravaMax" TRUE FALSE 1417650977
+"93" "540293470204616704" "Check out Talbots Light  Jacket workout green zip front sz L euc  #Talbots #BasicJacket http://t.co/BK1Q4Xd4jI via @eBay" "AndrewzNancyna" FALSE FALSE 1417650976
+"94" "540293466874314752" "Check out Death's Head and Rose Ashtray/Pipe Bowl/DispEtc. Made by PACIFIC G-Wear RARE !   http://t.co/ZuUOLgx9rI via @eBay" "ZenfinityDesign" FALSE FALSE 1417650975
+"95" "540293455193182210" "RT @Moxie4Fashion: Check out Roundtree &amp; Yorke Mens Size Large L Blue White Geometric Hawaiian Camp Shirt  #Hawaiian http://t.co/xRayBNrT1J…" "RT_my_eBay" TRUE FALSE 1417650972
+"96" "540293440299216896" "RT @Mersadiesheart: Check out Lucky Brand Blouse Shirt 3X 4X Sherred Accents Blues Stretchy NWT Lot Detailing #Blouse http://t.co/MEYKriI1E…" "StravaMax" TRUE FALSE 1417650968
+"97" "540293434167140352" "RT @Moxie4Fashion: Check out Footjoy Mens Size Large L Red Short Sleeve Polo Shirt #FootJoy #PoloRugby http://t.co/y7na4MI9Ut via @eBay" "RT_my_eBay" TRUE FALSE 1417650967
+"98" "540293428966207488" "RT @Moxie4Fashion: Check out Banana Republic Mens Size XL Extra Large Green Long Sleeve Polo Shirt  #BananaRepublic http://t.co/rIKRQ8ChQt …" "RT_my_eBay" TRUE FALSE 1417650966
+"99" "540293428441927681" "RT @Moxie4Fashion: Check out Ralph Lauren Chaps Mens Size XL Extra Large VIntage Sweater  #RalphLauren #Crewneck http://t.co/5Y3N8XfFYR via…" "RT_my_eBay" TRUE FALSE 1417650966
+"100" "540293408317652992" "RT @Moxie4Fashion: Check out Heirloom Collectibles Womens Medium M Red Green Plaid Christmas Sweater  #ScoopNeck http://t.co/DrStDeAY5X via…" "RT_my_eBay" TRUE FALSE 1417650961
+"101" "540293401850048512" "Check out Ralph Lauren Womens Light Brown Beige Khaki Button Down Shirt Size 3X #PlusSizeFashion http://t.co/PQWaJx63zb @eBay" "jtrophy" FALSE FALSE 1417650959
+"102" "540293393620795392" "Check out Asian Black Kimono Classy Sheak Style Long Formal dress by Tonight size 6 Small  #Kimono http://t.co/6hhPQp8i5P via @eBay" "DejaVuCamasInc" FALSE FALSE 1417650957
+"103" "540293384628625408" "RT @Just2spiffy: Check out 1950's Vintage Wilton Cast Iron Pot Trivet Rooster / Cock  http://t.co/3UjjzsnnYS via @eBay" "Lilo_Abernathy" TRUE FALSE 1417650955
+"104" "540293383499939840" "RT @Moxie4Fashion: Check out Salvatore Ferragamo Womens Size 8.5 A4 Narrow Black Leather Heels Pumps Shoes   http://t.co/yWBYboCVgf via @eB…" "RT_my_eBay" TRUE FALSE 1417650955
+"105" "540293380954013696" "Check out Halloween Fun Socks Adult 7-9    3 pairs #PartyPack #Casual http://t.co/hY45z52YY7 via @eBay" "Loveeveryone88" FALSE FALSE 1417650954
+"106" "540293352625668096" "Marni Patent Leather Tote Handbag Borsa a Mano Vernice Glass Green Black Trim  #Marni http://t.co/jig9btGGOX via @eBay" "coloradosilk" FALSE FALSE 1417650948
+"107" "540293351556132865" "RT @Moxie4Fashion: Check out Bongo Womens Size 10 Brown Loafers Ballet Flats Shoes  #Bongo #BalletFlats http://t.co/xtopMliQ4b via @eBay" "RT_my_eBay" TRUE FALSE 1417650947
+"108" "540293346866888704" "Check out 10,000 MANIACS SUMMER 1993 T-Shirt XL #FruitoftheLoom #BasicTee http://t.co/fZj9JhVjRY via @eBay" "Lksaltbox" FALSE FALSE 1417650946
+"109" "540293341959974912" "@eBay We started this business to get off of disability &amp; just when we think we are getting somewhere y'all screw us &amp; shut us down!!" "PipesnMore" FALSE FALSE 1417650945
+"110" "540293339333943296" "RT @Moxie4Fashion: Check out Ralph Lauren Mens Size 38X32 Green Pants Slacks  #PoloRalphLauren #CasualPants http://t.co/6OLzhXzwk7 via @eBay" "RT_my_eBay" TRUE FALSE 1417650944
+"111" "540293336150446080" "Check out NOUGAT LONDON 2 PIECE CARDIGAN AND CAMISOLE  Small S  Silk blend Purple #Nougat #Any http://t.co/RWic3VgOM4 via @eBay" "sofia2012" FALSE FALSE 1417650944
+"112" "540293324150558721" "RT @Moxie4Fashion: Check out Rocket Dog Womens Size 7 Black Ballet Flats Loafers Shoes #RocketDog #BalletFlats http://t.co/g0b1ZTaAtn via @…" "RT_my_eBay" TRUE FALSE 1417650941
+"113" "540293317859106816" "RT @Moxie4Fashion: Check out J Crew Shirt Green White Checks Short SleeveMens XL  #JCrew #ButtonFront http://t.co/YZbvlPWDEt via @eBay" "swensonmember" TRUE FALSE 1417650939
+"114" "540293303699124226" "RT @Moxie4Fashion: Check out Brooks Brothers Mens Size XL Extra Large Green Striped Long Sleeve Polo Shirt   http://t.co/EMnRWfgFxI via @eB…" "RT_my_eBay" TRUE FALSE 1417650936
+"115" "540293285957226496" "Check out Men's Shindell Waterproof Moc-Toe 6\" Wedge Casual Boot  http://t.co/SifVYHw8JQ @eBay" "jamiehanks" FALSE FALSE 1417650932
+"116" "540293280282337280" "Check out Trivial Pursuit Rolling Stones Collectors Edition - Sealed _ Perfect Condition #Bravado http://t.co/UFMK8gDYrQ via @eBay" "Loveeveryone88" FALSE FALSE 1417650930
+"117" "540293277941915648" "RT @Moxie4Fashion: Check out Pineapple Connection Mens Size XLT XL Tall Black FLORAL Hawaiian Camp Shirt   #Hawaiian http://t.co/UaiEw6cpAU…" "RT_my_eBay" TRUE FALSE 1417650930
+"118" "540293276528410625" "RT @Moxie4Fashion: Check out J Crew Shirt Green White Checks Short SleeveMens XL  #JCrew #ButtonFront http://t.co/YZbvlPWDEt via @eBay" "RT_my_eBay" TRUE FALSE 1417650929
+"119" "540293246362992640" "Check out 24\" Golden Skull with Tophat Necklace / Pendant &amp; Charms  #Zenfinitydesigns #Pendant http://t.co/d0BtksERXK via @eBay" "ZenfinityDesign" FALSE FALSE 1417650922
+"120" "540293244740202497" "Check out le top Red Velour Christmas dress, 4T Toddler baby girl, Santa dress, Holiday! http://t.co/Qo2VkCSiFn @eBay" "jmelovesmio" FALSE FALSE 1417650922
+"121" "540293236967743488" "RT @Moxie4Fashion: Check out Anne Klein Womens Size 10 White Wedge Heels Shoes  #AnneKlein #Strappy http://t.co/RadlLFx1Ew via @eBay" "RT_my_eBay" TRUE FALSE 1417650920
+"122" "540293233759096833" "Check out Ivory wedding dress with mini beads and lace by Eden Bridals size 12 cap sleeve  http://t.co/r4UHn3RNu7 via @eBay" "DejaVuCamasInc" FALSE FALSE 1417650919
+"123" "540293223705358336" "Hot Wheels Batman Classic Batmobile- NIP  http://t.co/z5mGdWxA33 http://t.co/YXpYDtQPSe via @eBay" "jessefarley" FALSE FALSE 1417650917
+"124" "540293220249255936" "RT @Moxie4Fashion: Check out Liz Claiborne Womens Size 7.5 Beige Leather Ankle Boots #LizClaiborne #FashionAnkle http://t.co/3zrqNoGTtW via…" "RT_my_eBay" TRUE FALSE 1417650916
+"125" "540293213815197696" "RT @Moxie4Fashion: Check out Levis 514 Womens Juniors Size 16 28 X 28 Beige Tan Corduroy Slim Stretch Pants   #LEVIS http://t.co/8CpeiDmPqM…" "RT_my_eBay" TRUE FALSE 1417650914
+"126" "540293211327963136" "Check out Jockey person to person nwt top shirt tee short sleeve peach stretchy sz XL  #Jockey http://t.co/JO8pPUrzbz via @eBay" "AndrewzNancyna" FALSE FALSE 1417650914
+"127" "540293207494377473" "RT @Moxie4Fashion: Check out Ralph Lauren Polo Womens Size 2X32 Denim Blue Jeans Pants #RalphLauren #Classic http://t.co/juUooLKsMU via @eB…" "RT_my_eBay" TRUE FALSE 1417650913
+"128" "540293204638441473" "Kids  Knits and Crochet 33 Great Sweaters and Soft Toys Home Crafts Patterns #HomeCrafts http://t.co/BySNDUuJHc via @eBay" "redalert2010" FALSE FALSE 1417650912
+"129" "540293203409133568" "NWT Betsey Johnson Evening Tiered White and Black Dress Size 0 #BetseyJohnson http://t.co/jqCCgLi4Xl via @eBay #ebay #betseyjohnson #holiday" "Ceelostintime" FALSE FALSE 1417650912
+"130" "540293203077763072" "RT @Moxie4Fashion: Check out TOmmy Bahama Mens Size 38X30 Beige Tan Khaki Pants Slacks  #TommyBahama #CasualPants http://t.co/QxHLWgO3Cc vi…" "swensonmember" TRUE FALSE 1417650912
+"131" "540293201480151040" "Check out GI Joe Friendship VII Mercury Space Capsule  #Hasbro http://t.co/9nBQUjtecK via @eBay http://t.co/06hyiEizer" "StormyOrchid" FALSE FALSE 1417650912
+"132" "540293180013289473" "Check out Homemade Sugar Scrubs in Decorator Jar  http://t.co/UyVTeY5ChX via @eBay" "KimberlyOstrop" FALSE FALSE 1417650906
+"133" "540293176733351938" "RT @Moxie4Fashion: Check out Jos A Bank Shirt Blue Short Sleeve Polo Mens L #JosABank #PoloRugby http://t.co/GVbLcIaHf2 via @eBay" "RT_my_eBay" TRUE FALSE 1417650906
+"134" "540293175823200256" "Check out Eileen Fisher Jacket cardigan pink dressy casual lambs wool blend fall plus size  http://t.co/aeSwo6rtMQ via @eBay" "AndrewzNancyna" FALSE FALSE 1417650905
+"135" "540293164985106432" "Check out 6 Ft Slimline Christmas tree 300+ Multi colored lights - So Beautiful   http://t.co/84TN1om0Yk via @eBay" "Loveeveryone88" FALSE FALSE 1417650903
+"136" "540293163299008513" "RT @Moxie4Fashion: Check out Claiborne Mens XL Extra Large Beige Tan Long Sleeve Shirt   #CrazyHorse http://t.co/TapCW6n8Nj via @eBay" "RT_my_eBay" TRUE FALSE 1417650902
+"137" "540293158051913728" "RT @Moxie4Fashion: Check out TOmmy Bahama Mens Size 38X30 Beige Tan Khaki Pants Slacks  #TommyBahama #CasualPants http://t.co/QxHLWgO3Cc vi…" "RT_my_eBay" TRUE FALSE 1417650901
+"138" "540293157494079488" "Check out my listing for RARE McIntosh MCC404M Car Amplifier - Virtually Flawless - Blue Meters on @eBay: http://t.co/MKGiZKeVU9 via @eBay" "OceanAdvocate" FALSE FALSE 1417650901
+"139" "540293155497598977" "Authentic Pandora Bracelet with 7 Authentic Pandora Charms 23cm  http://t.co/YV5IpjSy1D http://t.co/dTa9mo0xe2 via @eBay" "GiftGallore" FALSE FALSE 1417650901
+"140" "540293148413796353" "RT @nancys2chance: Check out Richfield Plate Co Silver Plate Baby Cup Trade Mark of Homan Mfg Co. 1847-1941  http://t.co/LE6N2PInDv via @eB…" "cameomusic" TRUE FALSE 1417650899
+"141" "540293147666833408" "RT @Moxie4Fashion: Check out Rocket Dog Womens Size 7 Black Floral Corduroy Heels Pumps Shoes  #RocketDog http://t.co/JXv739COKA via @eBay" "RT_my_eBay" TRUE FALSE 1417650899
+"142" "540293137340432384" "Check out Vintage Ci Castro &amp; Co White Dress, Nylon Ruffle Panties &amp; Corduroy Bonnet 18mos  http://t.co/VIkoXE0Y0k via @eBay" "TheHourGlassll" FALSE FALSE 1417650896
+"143" "540293134563803136" "Check out 1950's Vintage Wilton Cast Iron Pot Trivet Rooster / Cock  http://t.co/3UjjzsnnYS via @eBay" "Just2spiffy" FALSE FALSE 1417650896
+"144" "540293129316732928" "Check out Wrangler, brown tunic top, size:M #Wrangler #Tunic #top #buttondown #Casual http://t.co/6NAd9Fd6Uk via @eBay" "3356joshua" FALSE FALSE 1417650894
+"145" "540293116876423168" "RT @Moxie4Fashion: Check out Faconnable Mens Size Medium M Yellow Tan Short Sleeve Shirt   #Faonnable #ButtonFront http://t.co/639OXYvowY v…" "RT_my_eBay" TRUE FALSE 1417650891
+"146" "540293110475927552" "RT @ANationOfMoms: Tips for Hiking with Kids: http://t.co/FZUGNIkDq3 #ebay #ebayguides @eBay http://t.co/w4glg3yhD2" "MrsLauralicious" TRUE FALSE 1417650890
+"147" "540293102632591361" "RT @Moxie4Fashion: Check out Old Navy Womens Size 6 Long 6LGray Stretch Pants Slacks  #OldNavy #DressPants http://t.co/m025qupt9f via @eBay" "RT_my_eBay" TRUE FALSE 1417650888
+"148" "540293100925886464" "#QuickTips to Disease-Proof Your Baby &amp; Entire Family http://t.co/c71TCubIol #eBayGuides #spon @eBay" "TwinasLatinas" FALSE FALSE 1417650888
+"149" "540293098740658177" "RT @BarclayExchange: 10K Yellow Gold 21.5\" Curb Link Chain - 14.64 Grams #yyj #shoplocal http://t.co/AL2Um8XIjZ via @eBay" "EsquimaltToday" TRUE FALSE 1417650887
+"150" "540293094810189824" "Mid Century Modern Enamel Ware http://t.co/skGE1Z9mig via @eBay #enamel #MidCenturyModern #auntbettysvintage" "AuntBetty25" FALSE FALSE 1417650886
+"151" "540293089764466689" "Check out Vintage 1949 Wedding Dress Blush Peachy Pink, Lace Tulle Trim Throughout  S/M #Handmade http://t.co/2jTbzDVBmE via @eBay" "DejaVuCamasInc" FALSE FALSE 1417650885
+"152" "540293085188476928" "RT @Moxie4Fashion: Check out Club Room Sweater Vest Gray Zip Mens Size XL  #ClubRoom #Vest http://t.co/2MvbStIbEu via @eBay" "RT_my_eBay" TRUE FALSE 1417650884
+"153" "540293081086447617" "Check out Hallmark Keep Sake Barbie Christmas ornanment collectors Hoiliday Barbie euc   http://t.co/lHoJhJHbyp via @eBay" "AndrewzNancyna" FALSE FALSE 1417650883
+"154" "540293075176652800" "Check out Fabulous 50s LISNER Pink Enamel Leaf Silvertone Necklace Earrings Set w/box RARE #Lisner http://t.co/vSnd4qLI5Q via @eBay" "TheHourGlassll" FALSE FALSE 1417650881
+"155" "540293070483234816" "RT @Moxie4Fashion: Check out Zegnoreli Collezione Mens Size 42 Regular 42R New NWT Black Wool Pants Slacks   http://t.co/GdCWPjHBeH via @eB…" "RT_my_eBay" TRUE FALSE 1417650880
+"156" "540293067559800833" "Check out Richfield Plate Co Silver Plate Baby Cup Trade Mark of Homan Mfg Co. 1847-1941  http://t.co/LE6N2PInDv via @eBay" "nancys2chance" FALSE FALSE 1417650880
+"157" "540293059510951937" "Check out White Fiberoptic Christmas Tree 30 Inches White &amp; Silver Branches last One  http://t.co/kvD8GJcvG2 via @eBay" "Loveeveryone88" FALSE FALSE 1417650878
+"158" "540293057329897472" "Check out \"Sapphires In Hot Magma\" Original Artist Signed Abstract Expressionism 2000-Now  http://t.co/UZXLeAPvUn via @eBay" "OregonDeadHead" FALSE FALSE 1417650877
+"159" "540293052334489600" "Check out Sweetpea top tunic multi color career casual stretch dressy sz s euc  #sweatpea #Tunic http://t.co/ds3Sxp8iQS via @eBay" "AndrewzNancyna" FALSE FALSE 1417650876
+"160" "540293028141748224" "Check out Hallmark Keepsake ornament Littlest Angel magic light 1990  http://t.co/4ZN6EXieW0 via @eBay" "AndrewzNancyna" FALSE FALSE 1417650870
+"161" "540293019719565312" "RT @Moxie4Fashion: Check out Jos A Bank Mens Size Large L Yellow White Short Sleeve Shirt  #JosABank #ButtonFront http://t.co/2MVVpeaOwW vi…" "RT_my_eBay" TRUE FALSE 1417650868
+"162" "540293005022732288" "RT @Moxie4Fashion: Check out Daisy Fuentes Womens Size 2 Petite 2P Tan Beige Khaki NWT Chino CAPRI CROP Pants  http://t.co/IRnZYCGm4t via @…" "RT_my_eBay" TRUE FALSE 1417650865
+"163" "540293004066447360" "Check out Macy's Holiday Lane ornament pair in box 2010 euc   http://t.co/PrCPN4PIIA via @eBay" "AndrewzNancyna" FALSE FALSE 1417650864
+"164" "540292999427547136" "RT @Moxie4Fashion: Check out Levis Mens Size Extra Large XL Green Retro NWT New T Shirt   #Levis #GraphicTee http://t.co/faZHLOVuoH via @eB…" "RT_my_eBay" TRUE FALSE 1417650863
+"165" "540292991915524096" "RT @Moxie4Fashion: Check out Ralph Lauren Womens Heels Black Leather Ankle Strap Pumps Shoes Size 6.5  #PumpsClassics http://t.co/GRi9LSWIY…" "RT_my_eBay" TRUE FALSE 1417650862
+"166" "540292980246994944" "RT @Moxie4Fashion: Check out Bugle Boy Mens Size XL Extra Large Blue White Short Sleeve Hawaiian Camp Shirt   http://t.co/pqMebWuzd3 via @e…" "RT_my_eBay" TRUE FALSE 1417650859
+"167" "540292978825125888" "Check out Pendleton Jacket coat 100% virgin wool black career sz s lined winter fall #Pendleton http://t.co/NIMMIRUkjZ via @eBay" "AndrewzNancyna" FALSE FALSE 1417650858
+"168" "540292971711578112" "RT @Moxie4Fashion: Check out Merrell Qform Ortholite Womens Size 10 Athletic Clog Shoes  #Merrell #Walking http://t.co/ArtNKnV0ot via @eBay" "RT_my_eBay" TRUE FALSE 1417650857
+"169" "540292969840906241" "Check out Fabulous Vintage JAPAN Purples Crystal/Glass Triple Strand Necklace Earring Set #Japan http://t.co/XT9LPN6Cm7 via @eBay" "TheHourGlassll" FALSE FALSE 1417650856
+"170" "540292962790297600" "RT @Moxie4Fashion: Check out Pronto Uomo Couture Mens Size 39 X32 Gray Pants Slacks  #ProntoUomoCouture http://t.co/82SoPVPScz via @eBay" "RT_my_eBay" TRUE FALSE 1417650855
+"171" "540292961963999232" "RT @Moxie4Fashion: Check out Tommy Bahama Mens Size Extra Large XL Green Short Sleeve Polo Shirt #TommyBahama http://t.co/rxe6ieJuuH via @e…" "RT_my_eBay" TRUE FALSE 1417650854
+"172" "540292957702610944" "@johnmaeda has had an amazing influence on design @PayPal and @eBay -- here he is educating the leadership teams. http://t.co/egb5Ql97So" "hillferguson" FALSE FALSE 1417650853
+"173" "540292955500601345" "Check out 2 ft Purple Tinsel Christmas Tree Prelit - 20 Clear Lights - Gift Box Stand  http://t.co/EGK8eboXD2 via @eBay" "Loveeveryone88" FALSE FALSE 1417650853
+"174" "540292953772523520" "Check out PIKASOE leather skirt black sz 6/7 career casual  #pikasoe #ALine http://t.co/qEsfMqE7TM via @eBay" "AndrewzNancyna" FALSE FALSE 1417650852
+"175" "540292950844919809" "Authentic Pandora My Sweet Pet Charm #791262 Pandora Heart Pet Bead  http://t.co/FKW2cadi0e http://t.co/8fJBd5R2MA via @eBay" "GiftGallore" FALSE FALSE 1417650852
+"176" "540292949196546048" "Check out VINTAGE 1950s Brooch Pin Ombre 2-Tone Reddish Mauve Parrot Made in Italy $2.00  http://t.co/n9Pzmu7zZO via @eBay" "Risdartist" FALSE FALSE 1417650851
+"177" "540292941852311552" "Check out Indiana Compote Carnival Iridescent Amber Kings Crown Thumbprint 1970-1980  http://t.co/TPlzrFFAZa via @eBay" "nancys2chance" FALSE FALSE 1417650850
+"178" "540292936924020736" "Check out SUNNER Stunning Navy Blue Silk Blouse Top Fr #Bloomingdales $128 NWT Tied Side M http://t.co/yB1F9Frhht @eBay" "jtrophy" FALSE FALSE 1417650848
+"179" "540292921098903552" "Check out COTTON ZONE SHIRT TOP NWT PINK/BLK SZ S  stretch  #cottonzone #ButtonDownShirt #Casual http://t.co/kqNnXBKEOY via @eBay" "AndrewzNancyna" FALSE FALSE 1417650845
+"180" "540292912454463488" "#QuickTips to Disease-Proof Your Baby &amp; Entire Family http://t.co/zAolnN4RvU #eBayGuides #spon @eBay" "blondygirl1" FALSE FALSE 1417650843
+"181" "540292908054634496" "Check out Ladies 100% wool FJORD FASHION Poncho Nordic Folk Pattern M/L EU 46 EVEBOFOSS  http://t.co/sPYGXXHXQC via @eBay" "TheHourGlassll" FALSE FALSE 1417650842
+"182" "540292886059692032" "Check out Train ornament clear gold color wheels Christmas holidays hanging  #unknown http://t.co/Yy6BraGBBo via @eBay" "AndrewzNancyna" FALSE FALSE 1417650836
+"183" "540292878015004672" "Check out Clown or Bum Ceramic Decanter Sitting On A Barrel 1980  http://t.co/7Wj3ebjW3n via @eBay" "nancys2chance" FALSE FALSE 1417650834
+"184" "540292852886945792" "Check out 18 in Mickey Mouse Christmas tree - OOAK Red &amp; White  Clear Lights   http://t.co/Ucjhx9mAZe via @eBay" "Loveeveryone88" FALSE FALSE 1417650828
+"185" "540292842388594690" "Check out my listing on @eBay: http://t.co/gT6bOdl2QP via @eBay" "500stockdrawing" FALSE FALSE 1417650826
+"186" "540292823673610240" "Check out X Rocker Video Gaming Chair XBox PS3 PS4 XboxOne Adults Kids Gift New Ships Free  http://t.co/0ho0bUyTDJ via @eBay" "theeasyonlinein" FALSE FALSE 1417650821
+"187" "540292813242388480" "Check out  CODY JAMES Leather Cowboy Hat Size Large Dark Brown Excellent Silver Trim  #CODYJAMES http://t.co/LZPhLWE5jN via @eBay" "TheHourGlassll" FALSE FALSE 1417650819
+"188" "540292811682111488" "#ChristmasCountdown 30%OFF  Retro Fashion Vanilla Off White With Black Patent Leather Belt Small 32  http://t.co/IpkS8HzMfX via @eBay" "BCsBargainBin" FALSE FALSE 1417650819
+"189" "540292805268996096" "Check out Candle Stick Holders Fan Design Qty 3 Stand Up Wall Hung Pink Roses Gold Design   http://t.co/xUmEQ4hevo via @eBay" "nancys2chance" FALSE FALSE 1417650817
+"190" "540292789565550594" "Check out New $148 Lauren #RalphLauren #Houndstooth Glen Plaid Wool Lined Pants Trousers 12  http://t.co/evm4ToscOC via @eBay" "GreatDeals4Les" FALSE FALSE 1417650813
+"191" "540292767801278464" "Check out BASIX II 100% Silk Little Black Women's Dress Open Back Size 10 On Sale #BasixII http://t.co/xZNPWOLogr via @eBay" "VIPFashionvault" FALSE FALSE 1417650808
+"192" "540292757512650752" "Check out Fabulous Vintage Signed Vogue Reds/Purples AB Double Strand Necklace Earring Set #Vogue http://t.co/WPYFC1BMUp via @eBay" "TheHourGlassll" FALSE FALSE 1417650806
+"193" "540292727233970176" "S925 ALE Authentic Pandora Night &amp; Day Charm #791208CZ Pandora Clip Bead  http://t.co/tVfGxoUagB http://t.co/67qT3M8UzJ via @eBay" "GiftGallore" FALSE FALSE 1417650798
+"194" "540292715468972032" "Check out Vintage Tupperware CEREAL KEEPER/LETTUCE CRISPER/SMALL PITCHER Used Condition   http://t.co/zj6idplEDt via @eBay" "TheHourGlassll" FALSE FALSE 1417650796
+"195" "540292713430532097" "Check out NEW Fisher Price Mike the Knight Viking Ship Bathtime Adventure Bath Toy #MiketheKnight  http://t.co/kQytYsCMmo via @eBay" "HonestAbeGreen" FALSE FALSE 1417650795
+"196" "540292690609332224" "Check out K&amp; Co dress maxi sleeveless floral multi color poly dressy casual  #KCo #Maxi #Casual http://t.co/j6aEzvTriH via @eBay" "AndrewzNancyna" FALSE FALSE 1417650790
+"197" "540292677393072128" "Check out Sexy Fringed Floral Rampage Stretch Dress  http://t.co/XIUNT07NJw via @eBay" "Tinisha9" FALSE FALSE 1417650787
+"198" "540292677217292288" "RT @BCsBargainBin: #ChristmasCountdown 30%OFF Purple Gemstone Triple Strand Necklace With Heart Toggle Handmade NWOT #Handmade http://t.co/…" "sportparadise" TRUE FALSE 1417650787
+"199" "540292671730774017" "Check out Singer Sewing Machine Slant Needle Zig Zag Buttonholer 161829 in Box w/Books #Singer http://t.co/JxyKW29wpc via @eBay" "TheHourGlassll" FALSE FALSE 1417650785
+"200" "540292671496261634" "Just entered to win one of $15 to @eBay from @Splashscore! You can too! Click here http://t.co/vYvXlWkHFW to enter" "LisaSherringto" FALSE FALSE 1417650785

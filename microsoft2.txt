@@ -1,0 +1,524 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539568930474311680" "RT @salebanolow: Microsoft Buys Email App Acompli For $200M, @acompli @Microsoft @TechCrunch #CyberMonday" "jimimiller2" TRUE FALSE 1417478232
+"2" "539568920504434688" "Great conversation with @satyanadella @Microsoft. #STEM #PUSHTech http://t.co/ewtz5nJPQc" "RevJJackson" FALSE FALSE 1417478230
+"3" "539568726828654592" "RT @Official_GDC: Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: htt…" "SickGamingCliq" TRUE FALSE 1417478183
+"4" "539568546221948929" "RT @Official_GDC: Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: htt…" "AndySmiles4Game" TRUE FALSE 1417478140
+"5" "539568284492783616" "Seeing web fonts in email work on latest version of Outlook for Mac. @Microsoft well done. #NotYetForgivenButOnTheRightPath #EmailMarketing" "BornABulldog" FALSE FALSE 1417478078
+"6" "539568206130991105" "Location-based reminder using Cortana did not work, even when I was in the store! @Microsoft @windowscentral http://t.co/gwxk5DZt4N" "WalterBobrowski" FALSE FALSE 1417478059
+"7" "539568136530313216" "RT @Official_GDC: Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: htt…" "GameDevRobot" TRUE FALSE 1417478043
+"8" "539568063453331456" "RT @makeartfromwar: Who would be interested in training military veterans in coding, design thinking, and entrepreneurship? @opcod3us @Micr…" "DT_ABQ" TRUE FALSE 1417478025
+"9" "539567973917556736" "RT @Official_GDC: Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: htt…" "JasonGFox" TRUE FALSE 1417478004
+"10" "539567897178165248" "RT @Official_GDC: Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: htt…" "igdevlog" TRUE FALSE 1417477986
+"11" "539567713367388161" "Is it bad that I have Xbox support on speed dial? This tells me that someone needs to fix their shit... @Xbox @Microsoft" "jblyth1234" FALSE FALSE 1417477942
+"12" "539567692274221056" "RT @Official_GDC: Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: htt…" "indiedino" TRUE FALSE 1417477937
+"13" "539567681104797696" "@Microsoft I think you really should add voice commanding on windows 9 PCs like the one in lumia phones it will great" "EliasXman" FALSE FALSE 1417477934
+"14" "539567583524298753" "RT @Official_GDC: Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: htt…" "greatone718" TRUE FALSE 1417477911
+"15" "539567419761889282" "Nathalie Goh-Livorness (of @Microsoft) shares 5 easy ways to make your #gamedev process a bit more Agile at GDC 2015: http://t.co/6oBadmyh8b" "Official_GDC" FALSE FALSE 1417477872
+"16" "539567377453551617" "@Microsoft Thank you for producing a product that allows users to lose countless hours of work. Your company deserves to go bankrupt. #twats" "Tyson_Larrick" FALSE FALSE 1417477862
+"17" "539567286500093952" "RT @alanlang88: @Microsoft, @IDCAustralia &amp; @BTAMEA taking questions on #Lync in the @btletstalk Sydney office #ArtofConnecting http://t.co…" "BTAMEA" TRUE FALSE 1417477840
+"18" "539567261049028608" "RT @makeartfromwar: Who would be interested in training military veterans in coding, design thinking, and entrepreneurship? @opcod3us @Micr…" "tjcook" TRUE FALSE 1417477834
+"19" "539567141184602112" "@Microsoft Driving existing #SharePoint users to Office 365. See upcoming #Office365 features here: http://t.co/uxKR1bbBDj" "UTRonSchindler" FALSE FALSE 1417477805
+"20" "539566767056908288" "RT @makeartfromwar: Who would be interested in training military veterans in coding, design thinking, and entrepreneurship? @opcod3us @Micr…" "vetcentered" TRUE FALSE 1417477716
+"21" "539566721125060609" "The deed has been done. FadedSlinky finally orderd his Xbox One. Who'd like for him to stream and record gameplay?
+@Xbox #XboxOne @Microsoft" "GraphiteGamingO" FALSE FALSE 1417477705
+"22" "539565662860218368" "Who would be interested in training military veterans in coding, design thinking, and entrepreneurship? @opcod3us @Microsoft @IVMFSyracuseU" "makeartfromwar" FALSE FALSE 1417477453
+"23" "539565623723167744" "50Mpix (!!) smartphone camera seems silly (less I get one first)...yes plz $MSFT @Microsoft and coming #Lumia #1030 http://t.co/yptNTLO4aA" "Goodlett" FALSE FALSE 1417477443
+"24" "539563598226284544" "Social buzz shows most popular companies on #BlackFriday, @Walmart, @Apple, @Microsoft included: http://t.co/yrcNDg1f2L by @JackMarshall" "BusinessForward" FALSE FALSE 1417476961
+"25" "539563391376187393" "#FlexPod has achieved @Microsoft Private #Cloud Fast Track 4.0 validation with Windows Server 2012 R2 &amp; System Center http://t.co/Jt4eElkgx7" "SteveCollinsUSA" FALSE FALSE 1417476911
+"26" "539563010713718784" "@Microsoft @MSFTEnable continue to lead #Innovation &amp; #Accessible Design = max. market potential &amp; #opportunityforall  #Empower  #Evolve" "dolphinvp" FALSE FALSE 1417476821
+"27" "539562828081164288" "RT @jennylayfluffy: Talking to my hero @GeorgeTakei about our @microsoft hack to create technology for Steve @TeamGleason. FUN! http://t.co…" "nicoleshea" TRUE FALSE 1417476777
+"28" "539562571146084352" "RT @LanceUlanoff: Worlds Collide: @GeorgeTakei gets a @Microsoft Garage tour from old friend @stevecla https://t.co/hYjo8SApaE http://t.co/…" "gchiemingo" TRUE FALSE 1417476716
+"29" "539562409745465344" "Worlds Collide: @GeorgeTakei gets a @Microsoft Garage tour from old friend @stevecla https://t.co/hYjo8SApaE http://t.co/a62vJwAQQ1" "LanceUlanoff" FALSE FALSE 1417476677
+"30" "539562400736100352" "If this is the future of @Adobe on @Microsoft devices, I say finally touch comes alive and bloody well thank you! http://t.co/JOE46dtmwy" "Goodlett" FALSE FALSE 1417476675
+"31" "539562328862126081" "I liked a @YouTube video from @futuristichub http://t.co/3wXcgTZ8OJ HEY, MICROSOFT! [Minecraft Animation Mod] @Microsoft" "trooler367326" FALSE FALSE 1417476658
+"32" "539562144203698176" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "dorihugu" TRUE FALSE 1417476614
+"33" "539561934618902528" "RT @LOMBARDI_GLORIA: .@Microsoft does away with Clip Art and replaces it with @bing Images http://t.co/Ts1hHP3eXK #comms #socbiz #digital h…" "MurfAD" TRUE FALSE 1417476564
+"34" "539561545018380289" "RT @jennylayfluffy: Talking to my hero @GeorgeTakei about our @microsoft hack to create technology for Steve @TeamGleason. FUN! http://t.co…" "USBLN" TRUE FALSE 1417476471
+"35" "539561461937229824" "! RT @zogblog who can I talk to at @Microsoft to lobby for Word to auto-add accent on @Beyonce? Im tired of typing \"cliche\" first every time" "jaysonrodriguez" FALSE FALSE 1417476451
+"36" "539561316927541249" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "ScrantonCogido" TRUE FALSE 1417476417
+"37" "539561294886895616" "SpamFightersProgram is asking me if @microsoft.com email is spam - odd - #windows #outlook" "sunco" FALSE FALSE 1417476411
+"38" "539561033363619841" "Meetings in #yyj, #yvr and #sfo feature almost exclusively Apple products but #yyz and #yow seem to love the @microsoft Surfaces." "danwgunn" FALSE FALSE 1417476349
+"39" "539560919618322432" "RT @sejournal: Congrats to @AlphaBrandMedia cofounder and @sejournal co-owner @KevinHenrikson on @microsoft acquisition of @acompli http://…" "johnrampton" TRUE FALSE 1417476322
+"40" "539560456613269504" "RT @CityYearDC: #blackfriday not your thing? #givingtuesday is for you! And, @Microsoft will double your donation tomorrow: http://t.co/95o…" "LaurMcCY" TRUE FALSE 1417476212
+"41" "539560403681169408" "So who can I talk to at @Microsoft to lobby for Word to auto-add the accent on \"@Beyonce\"? I'm tired of typing \"cliche\" first every time..." "zogblog" FALSE FALSE 1417476199
+"42" "539560110495109120" "@Microsoft plz help people keep sending my son reports now  my sons Gt is wales74133 and my original email is whitecheez@rocketmail.com" "IDemontiney" FALSE FALSE 1417476129
+"43" "539559667148402689" "RT @sejournal: Congrats to @AlphaBrandMedia cofounder and @sejournal co-owner @KevinHenrikson on @microsoft acquisition of @acompli http://…" "recuweb" TRUE FALSE 1417476023
+"44" "539559632914882560" "Is the white Xbox dropping or nuh? @Microsoft" "ShotzBurygoon" FALSE FALSE 1417476015
+"45" "539559599599525889" "RT @LOMBARDI_GLORIA: .@Microsoft does away with Clip Art and replaces it with @bing Images http://t.co/Ts1hHP3eXK #comms #socbiz #digital h…" "BrunoGebarski" TRUE FALSE 1417476007
+"46" "539559551171706880" "Have you heard of @tred?  I learned of this company today...they are a start up co. selling used cars.  @Microsoft http://t.co/FjITyZyY5G" "REbrokerwa" FALSE FALSE 1417475996
+"47" "539559266990829569" "RT @PSFK: Robot security guards cruise @Microsoft campus
+http://t.co/2ACo7KKZ15 http://t.co/SaLY7PiaTI" "SLHBENNETT" TRUE FALSE 1417475928
+"48" "539559153208139777" "RT @sejournal: Congrats to @AlphaBrandMedia cofounder and @sejournal co-owner @KevinHenrikson on @microsoft acquisition of @acompli http://…" "IlmuINET" TRUE FALSE 1417475901
+"49" "539559139131662338" "Check: @MSFTnews This is a great step by: @microsoft #MEC #msrmec Tweet No. = (3832)" "ParthGarg33" FALSE FALSE 1417475897
+"50" "539558559227191296" "@Microsoft @MicrosoftStore wanna know what's better than you? apple and all of their products. " "yungsmba" FALSE FALSE 1417475759
+"51" "539558512284958720" "RT @BenThePCGuy: \"@Microsoft's giving 100 insanely good music albums away for free, selling box sets for $2\" http://t.co/WI6FNYgQWs #XboxMu…" "HumbertoRomero" TRUE FALSE 1417475748
+"52" "539558503568777216" "This is a great step by: @microsoft Learn Microsoft Research. #MEC #msrmec Tweet No. = (3841)" "abhichauhan1994" FALSE FALSE 1417475746
+"53" "539558231535022080" "@Microsoft is ripping off an Apple campaign from 2006 - and executing it in the cheapest way possible. #hireaw" "camellia_diem" FALSE FALSE 1417475681
+"54" "539558206914052096" "@Microsoft I booked today off work finally get back into halo 2 multiplayer only for it not 2 work all day gut" "gubaderuboc" FALSE FALSE 1417475675
+"55" "539558178875518976" "@Microsoft We like MSN and we use MSN too much.You shouldn't remove it.Pressuring us for passing to skype is v" "fojuvucutita" FALSE FALSE 1417475669
+"56" "539558174702178304" "@Microsoft Skype is headed to a web browser near you. The new version is available in beta." "hibinyhafip" FALSE FALSE 1417475668
+"57" "539558166875217920" "RT @KI_Central: The retail version of #KillerInstinct Season 1 (Combo Breaker) being sold via @Microsoft on @amazon for $14.87! http://t.co…" "DJamesGoddard" TRUE FALSE 1417475666
+"58" "539558092552568834" "Every time I see this I think that @Microsoft and @Sony should give 10 XBoxOne and PS4 free to middle class kids http://t.co/JbjDBtoMFu" "_Rokie_" FALSE FALSE 1417475648
+"59" "539558029545332736" "IT and MS. This is a great step by: @microsoft #MEC #msrmec Tweet No. = (3825)" "ParthGarg33" FALSE FALSE 1417475633
+"60" "539556986350612480" "RT @KeeganVentures: @acompli congrats on your acquisition to @Microsoft. Be brave and stay strong we don't want you to follow @Skype!" "StephenKelly" TRUE FALSE 1417475384
+"61" "539556851549876224" "@EssexKIRO7 @RevJJackson @STEMbyTAF @Microsoft @amazon @KIRO7Seattle more divisive than positive" "johnpstringer" FALSE FALSE 1417475352
+"62" "539556401786671104" "RT @jennylayfluffy: Talking to my hero @GeorgeTakei about our @microsoft hack to create technology for Steve @TeamGleason. FUN! http://t.co…" "jamestutt" TRUE FALSE 1417475245
+"63" "539556335608950785" "RT @EssexKIRO7: .@RevJJackson visits @STEMbyTAF on diversity at @Microsoft and @amazon 5:30p @KIRO7Seattle + http://t.co/yVypvbpivi http://…" "KIRO7Seattle" TRUE FALSE 1417475229
+"64" "539556277865574401" "Talking to my hero @GeorgeTakei about our @microsoft hack to create technology for Steve @TeamGleason. FUN! http://t.co/uco1PZWEvk" "jennylayfluffy" FALSE FALSE 1417475215
+"65" "539556238955008000" ".@RevJJackson visits @STEMbyTAF on diversity at @Microsoft and @amazon 5:30p @KIRO7Seattle + http://t.co/yVypvbpivi http://t.co/FmKjtBabOB" "EssexKIRO7" FALSE FALSE 1417475206
+"66" "539555830904160256" "Calling ALL AA Teen GIRLS in the DMV! SOCIALgrlz Connect on Dec 13th! Sponsored by @microsoft #SGZConnect... http://t.co/YE80y3AKts" "socialgrlz" FALSE FALSE 1417475109
+"67" "539555806652665856" "@lumia @nokia @Windows @Microsoft interaction id 1-15742411179. Lumia 925 is not booting up after installing C" "hosotykahyje" FALSE FALSE 1417475103
+"68" "539555522232721408" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "DavidCross_MS" TRUE FALSE 1417475035
+"69" "539555498174193664" "Microsoft Buys Email App Acompli For $200M, @acompli @Microsoft @TechCrunch #CyberMonday" "SaleOlow" FALSE FALSE 1417475029
+"70" "539555283669118976" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "TMNT_Demifan" TRUE FALSE 1417474978
+"71" "539555202664116224" "RT @acompli: \"FWD: Microsoft Acquires Acompli\" - Acompli CEO @jsoltero talks about @Microsoft acquisition in blog post: https://t.co/pD8wQ1…" "CurveMail" TRUE FALSE 1417474959
+"72" "539555046447656961" "RT @sejournal: Congrats to @AlphaBrandMedia cofounder and @sejournal co-owner @KevinHenrikson on @microsoft acquisition of @acompli http://…" "SEOMeetups" TRUE FALSE 1417474922
+"73" "539555016067919872" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "BleuSocial" TRUE FALSE 1417474914
+"74" "539554976729952256" "I hate to say this, but I may be convinced to buy a @Microsoft product - Band. Slightly heavy, but nice interface. http://t.co/SqnL2Q5ef8" "bfrank" FALSE FALSE 1417474905
+"75" "539554791400439808" "@spenceryeamans @Halo @XboxP3 @Microsoft don't waste money on it halo mcc is full of bugs and barely playable #343sucks" "vinny1568" FALSE FALSE 1417474861
+"76" "539554751034437632" "RT @KI_Central: The retail version of #KillerInstinct Season 1 (Combo Breaker) being sold via @Microsoft on @amazon for $14.87! http://t.co…" "ViNSANlTy" TRUE FALSE 1417474851
+"77" "539554183289249792" "#NED #EU BEST PRICES for refurbished #business-line PCs and Laptops (@HP @Dell #SUN @Logitech @Microsoft ...)
+
+#RT TO http://t.co/sC8sDXDk3u" "Jesus_Cryptos" FALSE FALSE 1417474716
+"78" "539553977591803905" "Congrats to @AlphaBrandMedia cofounder and @sejournal co-owner @KevinHenrikson on @microsoft acquisition of @acompli http://t.co/e8jRAgxRxV" "sejournal" FALSE FALSE 1417474667
+"79" "539553815796908032" "RT @CityYearDC: #blackfriday not your thing? #givingtuesday is for you! And, @Microsoft will double your donation tomorrow: http://t.co/95o…" "BAlexanderLeads" TRUE FALSE 1417474628
+"80" "539553708254969857" "@Microsoft what's wrong with you website?" "Trapcitys_" FALSE FALSE 1417474603
+"81" "539553412619460608" "RT @CodingFabian: \"I will stay here at @Microsoft and make things free until they fire me.\" @shanselman (VS is free, .NET now open source)" "AndreasEK" TRUE FALSE 1417474532
+"82" "539553392582868992" "RT @NYMF: Thank you @Microsoft for your continued support of our mission to create and nurture new musical theatre at #NYMF!" "gradconn" TRUE FALSE 1417474527
+"83" "539553298240798720" "Calling ALL AA Teen GIRLS in the DMV! SOCIALgrlz Connect on Dec 13th! Sponsored by @microsoft #SGZConnect 
+
+https://t.co/hquswK8efK" "socialgrlz" FALSE FALSE 1417474505
+"84" "539552843129036801" "@KasonFaulkner @Microsoft @Xbox R.I.P in peace" "TheRealDawneigh" FALSE FALSE 1417474396
+"85" "539552440153284608" "@Microsoft, @IDCAustralia &amp; @BTAMEA taking questions on #Lync in the @btletstalk Sydney office #ArtofConnecting http://t.co/mrFZdMsIXR" "alanlang88" FALSE FALSE 1417474300
+"86" "539552277057376256" ".@Microsoft’s futuristic cybercrime computer lets you see and hear botnet activity: http://t.co/sWebX6KgZu #rebootingcomputing @geekdotcom" "IEEERebootComp" FALSE FALSE 1417474261
+"87" "539552076724846594" "New #Illustration: Surfing Pigs at Bahamas Beach! A @Microsoft x @LostAtEminor co-create #Art: http://t.co/PzLaDpQ6oV http://t.co/ZjpUzm3kJl" "YiyingLu" FALSE FALSE 1417474214
+"88" "539551808511680512" "RT @KeeganVentures: @acompli congrats on your acquisition to @Microsoft. Be brave and stay strong we don't want you to follow @Skype!" "keegansard" TRUE FALSE 1417474150
+"89" "539551648935587841" "RT @KI_Central: The retail version of #KillerInstinct Season 1 (Combo Breaker) being sold via @Microsoft on @amazon for $14.87! http://t.co…" "Rageinn" TRUE FALSE 1417474112
+"90" "539551548397727744" "@acompli congrats on your acquisition to @Microsoft. Be brave and stay strong we don't want you to follow @Skype!" "KeeganVentures" FALSE FALSE 1417474088
+"91" "539551168771264512" "@Microsoft Licensing for MS Office 2013 sucks so hard it collapses into a singularity within its deep, dark heart" "bartabum" FALSE FALSE 1417473997
+"92" "539550095772233728" "@microsoft has made me upset enough to know my next purchase will be a PS4. Fuck the Xbox One at this point." "ThatClassyHigh" FALSE FALSE 1417473741
+"93" "539549993539870720" "@heyitsdexter Yup! Will try it out and see if it can really replace my MacBook Pro. @microsoft #apple" "jaypen_g" FALSE FALSE 1417473717
+"94" "539549612915187713" "@VideoGamerCom That's because the games are more affordable &amp; there's more people on 360/PS3 if @Sony &amp; @Microsoft didn't get the memo yet." "EternalCMO" FALSE FALSE 1417473626
+"95" "539549606485721089" "RT @BloombergPhotos: .@Microsoft CEO @satyanadella unveils Office for the Apple iPad |" "moziwogosele" FALSE FALSE 1417473625
+"96" "539549180738281472" ".@Microsoft #datacenter goes completely off grid: http://t.co/k4ZBxQZKDC @treehugger #supercomputing" "IEEERebootComp" FALSE FALSE 1417473523
+"97" "539548534823858179" "Check it out: @isro This is a great step by: @microsoft #MEC #msrmec Tweet No. = (3765)" "ParthGarg33" FALSE FALSE 1417473369
+"98" "539548318842753024" ". @intYCASCADE vs @microsoft. And the winner is: http://t.co/xhtEkk0rV4" "LuckyOrangeOwl" FALSE FALSE 1417473318
+"99" "539547656373420034" ". @Microsoft Acquires Email #Startup @Acompli to Give Outlook a #Mobile Advantage via @WIRED http://t.co/b34N3OnnC0" "CraigMilroy" FALSE FALSE 1417473160
+"100" "539547559597842432" "This is a great step by: @microsoft Leaning Data Structures. #MEC #msrmec Tweet No. = (3772)" "abhichauhan1994" FALSE FALSE 1417473137
+"101" "539547445349580800" "Omg @Microsoft @XboxSupport plz help" "cRz_sh4rpsnip3_" FALSE FALSE 1417473109
+"102" "539547228935688192" "@google @samsung &amp; @Microsoft I just want to say fuck you all.. Yall will never be better than Apple.. Those little commercials ain't shit" "sevenfoe" FALSE FALSE 1417473058
+"103" "539546834675712001" "@finaldraftinc @tim_cook @Microsoft  Fantastic!  That'll probably get me to upgrade sooner rather than later. I'm still on Version 8." "YaleHannon" FALSE FALSE 1417472964
+"104" "539546459302281216" "@YaleHannon @tim_cook, @Microsoft @finaldraftinc our latest version added 100 swear words" "finaldraftinc" FALSE FALSE 1417472874
+"105" "539546354566328321" "RT @danielleodean: @Microsoft you have the opportunity to work w/ the most brilliant minds in #datascience. Learn more about our awesome te…" "davidherubel" TRUE FALSE 1417472849
+"106" "539545970498109440" ".@tim_cook, @Microsoft @finaldraftinc Can we live in the 21st century where swearing is a part of daily life and start allowing spellcheck?" "YaleHannon" FALSE FALSE 1417472758
+"107" "539545430007115776" "More goodness from @Microsoft! Microsoft Acquires Acompli Mobile Email and Scheduling Apps http://t.co/1kY3qm5bjQ" "vickyg" FALSE FALSE 1417472629
+"108" "539544393469140992" "I planned to replace my @Microsoft #SurfacePro3 today, but there are no discounts on the 64GB, so what's the point? I'll wait..." "candaceprincess" FALSE FALSE 1417472382
+"109" "539544181203824640" "@Xbox @Microsoft HOW FUCKING HARD IS IT TO PUT A FUCKING CORD IN YOUR CONTROLLER. LIKE GOD FUCKING DAMN IT. WHY DOES IT HAVE TO BE WIRELESS?" "Alex_Hamilton07" FALSE FALSE 1417472331
+"110" "539543996637278208" "@Microsoft you have the opportunity to work w/ the most brilliant minds in #datascience. Learn more about our awesome teams at #NIPS2014" "danielleodean" FALSE FALSE 1417472287
+"111" "539543919793434625" "#ClashOfClans is on #iOS &amp; #Android when will it make its debut on #Windows? @ClashofClans @windows @microsoft @nokia" "iDeshnoor" FALSE FALSE 1417472269
+"112" "539543610123747328" "Just had to close my browsers to update @Microsoft Office. Reason #539 @Google docs is better" "lonbinder" FALSE FALSE 1417472195
+"113" "539543435691053056" "Steve Miller, @Microsoft in the BT Sydney showcase 'Communications is at the heart of productivity' #ArtofConnecting http://t.co/7OXhSZgqkx" "BTAMEA" FALSE FALSE 1417472153
+"114" "539543337490202624" "Robot security guards cruise @Microsoft campus  http://t.co/dtBCCmoQay" "jwaldroopPCS" FALSE FALSE 1417472130
+"115" "539543325679050752" ".@Microsoft has $10B in Bing &amp; @Google shas 70% share in search http://t.co/EbAUA0zHQg 
+#WinnerTakeAll @CategoryKings http://t.co/3nwkjsUWrD" "playbiggeradv" FALSE FALSE 1417472127
+"116" "539543279910785025" "Join @Citrix &amp; @Microsoft  to streamline &amp; simplify upcoming Windows Server 2003 upgrade. http://t.co/TUxhqWfhGR" "CitrixPartners" FALSE FALSE 1417472116
+"117" "539543231298424832" "¯(ツ)_/¯ 
+
+(@Microsoft @Surface \"Movement\" shoot. 2012.)
+
+http://t.co/DJqJaEXVSM http://t.co/Rc5lJDills" "sarahdope" FALSE FALSE 1417472105
+"118" "539542943707574272" "RT @EssexKIRO7: Rev. Jackson in W. Western WA to push @Microsoft and @amazon to hire more workers/executives of color. http://t.co/ix3tyOP7…" "andreacapere" TRUE FALSE 1417472036
+"119" "539542512776781824" "@jaypen_g @microsoft @apple surface pro 3?" "heyitsdexter" FALSE FALSE 1417471933
+"120" "539542512160243714" "RT @LOMBARDI_GLORIA: .@Microsoft does away with Clip Art and replaces it with @bing Images http://t.co/Ts1hHP3eXK #comms #socbiz #digital h…" "petterssonm63" TRUE FALSE 1417471933
+"121" "539542016561254400" "RT @TheAverageGuyTV: New from @Microsoft http://t.co/SL9cr89NA7 Microsoft acquires Acompli, provider of innovative mobile email apps" "jcollison" FALSE FALSE 1417471815
+"122" "539541501747806209" "Wondering if @Microsoft is going to rethink their stance on only giving #HaloMCC rebate to those who buy in Dec. #WhatAboutUsEarlyAdopters?" "SeanWinnett" FALSE FALSE 1417471692
+"123" "539541195467157504" "Good news for @Microsoft
+Study: Xbox One crushes the competition, made up most of Black Friday console sales http://t.co/hSNGjcayZV" "EiBStudent" FALSE FALSE 1417471619
+"124" "539541161774313472" "Learning novelty. This is a great step by: @microsoft #MEC #msrmec Tweet No. = (3719)" "ParthGarg33" FALSE FALSE 1417471611
+"125" "539541157844242432" ".@Microsoft, .@twitter - can't open pictures shared as twitpics in app or in internet explorer on #lumia1020. Suggestions?" "mmeek1987" FALSE FALSE 1417471610
+"126" "539540835969146881" "RT @EssexKIRO7: Rev. Jackson in W. Western WA to push @Microsoft and @amazon to hire more workers/executives of color. http://t.co/ix3tyOP7…" "FWPS210" TRUE FALSE 1417471534
+"127" "539540766792888321" "@Microsoft My clueless brother bought something on my account. Sorry!" "eliptonmusic" FALSE FALSE 1417471517
+"128" "539540761923297281" "This evening the Class of 2018 will be meeting with Dave Middleton, Enterprise Architect for @Microsoft. Thanks for joining us @_dmiddleton!" "StillmanLeaders" FALSE FALSE 1417471516
+"129" "539540740012273664" "@JonyIveParody I believe @Microsoft Word has a font \" Helvetica Neue... http://t.co/BhRRgbSEbI" "Normybrad" FALSE FALSE 1417471511
+"130" "539540331969011712" "Video: Stickman Soccer gameplay for W... - @Microsoft http://t.co/V3yTubmwpF via http://t.co/80P6UKUECb" "VodioGames" FALSE FALSE 1417471413
+"131" "539540249266114560" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "Juliedewidt" TRUE FALSE 1417471394
+"132" "539540164574715904" "RT @Lafond66: My dad bought a @Microsoft #SurfacePro3 his words 'I like this interface'. It's true! Apple fanboys can be saved! There is ho…" "DGC_77" TRUE FALSE 1417471374
+"133" "539539920688521216" "The retail version of #KillerInstinct Season 1 (Combo Breaker) being sold via @Microsoft on @amazon for $14.87! http://t.co/kIBCsNMuGt" "KI_Central" FALSE FALSE 1417471315
+"134" "539539592475848704" "Clear your schedules bc we’re serving brunch at 1 pm on Wednesday @ modellounge X @Microsoft.  We know you wanna come!" "modellounge" FALSE FALSE 1417471237
+"135" "539539538666721281" "This is a great step by: @microsoft Check it: @indianviolence #MEC #msrmec Tweet No. = (3722)" "abhichauhan1994" FALSE FALSE 1417471224
+"136" "539539258202415105" "@Microsoft pays $200M for 2yr old #startup @Accompli who raised just $7M in VC funding.  Looks like an updated MS Office is on the way." "joy_randels" FALSE FALSE 1417471157
+"137" "539539229605629953" "RT @JaiHaack: Even MS is on the bandwagon! @cheeseheadtv RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/…" "daperfecttablet" TRUE FALSE 1417471151
+"138" "539538931210280960" "Thanks @Microsoft y'all are the best! @MS_Student http://t.co/GzfPXAA0rc" "nitipaudyal" FALSE FALSE 1417471080
+"139" "539538667359174657" "Big Congrats to @KevinHenrikson on acquisition of @acompli by @microsoft! http://t.co/Ehciygn8Rb  cc: @ItsDUHnise @sejournal" "larrykim" FALSE FALSE 1417471017
+"140" "539538203414646784" "I want to win a @Microsoft @Surface Pro 3  #HolidayProSweeps" "bsanta101" FALSE FALSE 1417470906
+"141" "539537916171530240" "@adamcaudill @Microsoft Yeah, it's very disappointing. Our Google and Samsung tablets have gone through much worse also." "MaxSchmeling" FALSE FALSE 1417470838
+"142" "539537806327308289" "@Microsoft @GeorgeTakei nice!" "FadzC" FALSE FALSE 1417470811
+"143" "539537494963150848" "RT @peggyanne: Looking froward to @include2014 4/12/14 speaking alongside @MarkBackler @DevelopOnline @Microsoft @LemonMooseGames http://t.…" "lee_stott" TRUE FALSE 1417470737
+"144" "539537354617139201" "I bought something from @microsoft store. I feel like i've cheated on @apple." "jaypen_g" FALSE FALSE 1417470704
+"145" "539537240469147648" "RT @Mr_ICONz: Congratulations to @jsoltero the @accompli team,its institutional investors @redpointvc &amp; @satishd on your @microsoft acquisi…" "accompli" TRUE FALSE 1417470676
+"146" "539537216293203969" "RT @jonyang1010: Switched from outlook to @Accompli for work mail...and now @Microsoft has bought them...so back to Outlook? http://t.co/Rw…" "accompli" TRUE FALSE 1417470671
+"147" "539536774755020800" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "soBluetooth" TRUE FALSE 1417470565
+"148" "539536565383737344" "@buster47 well tell @Microsoft to quit the bullshit get the updates out for windows phone" "Dwane18" FALSE FALSE 1417470515
+"149" "539536483229892612" "Hey @Microsoft, If you're still insisting on having windows BSOD in this day and age, would you at least let me skip the fucking chkdsk?!?" "DLMousey" FALSE FALSE 1417470496
+"150" "539536438690205696" "Tomorrow @Microsoft is hosting a symposium on #StudentPrivacy w/ @nyulaw at 1:30pm. Don’t forget to RSVP here: http://t.co/H9ZzX1UYVM" "MicrosoftIPC" FALSE FALSE 1417470485
+"151" "539536312320413696" ".@Microsoft is acquiring the email app @Accompli to bolster Outlook via @VentureBeat http://t.co/64mWpCRhay" "brewsterapp" FALSE FALSE 1417470455
+"152" "539536247040245760" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "Mr_Foots" TRUE FALSE 1417470440
+"153" "539536084783230976" "RT @roelbaan: I case you missed it: @Microsoft loves @Linux #LevelUpAzure http://t.co/Sr87E8vYc6" "coldskin" TRUE FALSE 1417470401
+"154" "539536020577214464" "everyone seems excited about @acompli's acquisition by @microsoft. But then this future of email doesn't even read IMAP, right" "thobu" FALSE FALSE 1417470386
+"155" "539535884123533313" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "Avibm" TRUE FALSE 1417470353
+"156" "539535879866687489" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "CJcomputersNC" TRUE FALSE 1417470352
+"157" "539535856907067392" "RT @Microsoft: Meet Carlos De Saro: A man who doesn't let Down syndrome hamper his desire to help others http://t.co/FYrEWy3QX6 http://t.co…" "KLynch_here" TRUE FALSE 1417470347
+"158" "539535612161036288" "RT @federico: The moment you realize @Microsoft really took over @nokia // cc @aisling http://t.co/G48mF1j8LZ" "sebelk" TRUE FALSE 1417470288
+"159" "539535566388211713" "Here's to end of an era. Let's take a min folks…“@martafioni: @Microsoft Is Getting Rid of #ClipArt @ClippyTheClip http://t.co/rNByjGHKN9”" "im_prerak" FALSE FALSE 1417470277
+"160" "539535508138127360" ".@Microsoft #lumia1030 To Feature a 50-Megapixel Camera And Larger 6-inch Display http://t.co/tQ9YQXC06V http://t.co/3qrLCs4g9N" "MistrecjaBlog" FALSE FALSE 1417470263
+"161" "539534838500712449" "#HappyNewMonth @Microsoft @LumiaNigeria @Lumia @LumiaUS @Nokia May Our Father In Heaven Gives Us More Knowledge to a New Great Discovery." "GOD1ST___" FALSE FALSE 1417470104
+"162" "539534512989163520" "RT @FourieB8: Great first day #LevelUpAzure - Really valuable information! Thanks @ch9 and @Microsoft for opening up this event!" "JefTek" TRUE FALSE 1417470026
+"163" "539534490776137728" "@Prezi lands $57M to battle @Microsoft Powerpoint. Spectrum Equity &amp;@Accel Partners led the funding." "joy_randels" FALSE FALSE 1417470021
+"164" "539534278632022016" "@Microsoft @AnthonySalcito @RazanRoberts @minniapolis @OneNoteC Thank you @MicrosoftPH Amazing is it to be with you, http://t.co/X6f27utgsh" "SheiNash2010" FALSE FALSE 1417469970
+"165" "539534085106839552" "This was fast, expected, and for all the right reasons! well done lads! @Microsoft Acquires @Acompli https://t.co/I34sMmfm6V #betatester" "arielcohen" FALSE FALSE 1417469924
+"166" "539533955163516928" "Great first day #LevelUpAzure - Really valuable information! Thanks @ch9 and @Microsoft for opening up this event!" "FourieB8" FALSE FALSE 1417469893
+"167" "539533817636478976" "@MaxSchmeling @Microsoft Wow, that's bad. I've put my Apple devices through a lot of abuse, came out fine. They make awesome hardware." "adamcaudill" FALSE FALSE 1417469860
+"168" "539533589876965376" "My X1 needs more RAM. @Microsoft pls." "Rewind_Sway" FALSE FALSE 1417469806
+"169" "539533517756301312" "They're here @nowcomm @cisco @VMware @redboxrecorders @NetApp @2Ring4UC @Sennheiser_UK @Microsoft #cycling #getyours http://t.co/cSV0tC0RRN" "damianbyrne" FALSE FALSE 1417469789
+"170" "539533393008939008" "RT @PSFK: Robot security guards cruise @Microsoft campus
+http://t.co/2ACo7KKZ15 http://t.co/SaLY7PiaTI" "vnarvasa" TRUE FALSE 1417469759
+"171" "539533349703122944" "This is a great step by: @microsoft Augmenting stature. #MEC #msrmec" "pailvarun" FALSE FALSE 1417469749
+"172" "539533304135823360" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "RiaLoooo" TRUE FALSE 1417469738
+"173" "539533159260778496" "@Lumia @Microsoft @joebelfiore -go get myself a lollipop  u guys make me wanna switch to Android so much. Coming from a Microsoft only guy" "Dwane18" FALSE FALSE 1417469703
+"174" "539533107570180098" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "dotnetmike" TRUE FALSE 1417469691
+"175" "539533006550351872" "RT @Dwane18: @Lumia @Microsoft @joebelfiore 30 days left until 2015 and still no gdr2 or Lumia denim. Sigh  WOW" "StanHaynes" TRUE FALSE 1417469667
+"176" "539532787414757376" "RT @Dwane18: @Lumia @Microsoft @joebelfiore 30 days left until 2015 and still no gdr2 or Lumia denim. Sigh  WOW" "Jose_D_Santos" TRUE FALSE 1417469615
+"177" "539532768015691776" "Thank you @Microsoft for your continued support of our mission to create and nurture new musical theatre at #NYMF!" "NYMF" FALSE FALSE 1417469610
+"178" "539532735757692928" "Even MS is on the bandwagon! @cheeseheadtv RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/q9gmUid74D" "JaiHaack" FALSE FALSE 1417469602
+"179" "539532644317278208" ".@Microsoft updates #Windows10, gets an earful from users about OneDrive changes http://t.co/LWHgTl8rTx #msft" "barrymmartin" FALSE FALSE 1417469581
+"180" "539532610687758336" "@microsoftstore You can’t cancel my order until the tracking # is made??? How backwards is that! Leave it to @Microsoft to screw up shopping" "jasontho" FALSE FALSE 1417469573
+"181" "539532607311323136" "@Lumia @Microsoft @joebelfiore first and only smartphone was always a windows phone (Lumia). But with all the waiting I think its best to-" "Dwane18" FALSE FALSE 1417469572
+"182" "539532343375958016" "RT @ClevaGroup: Great day at the @Microsoft #FutureDecoded partner event today! The new @Azure Machine Learning is revolutionary. http://t.…" "fivestepsbeyond" TRUE FALSE 1417469509
+"183" "539532215924056064" "@Lumia @Microsoft @joebelfiore 30 days left until 2015 and still no gdr2 or Lumia denim. Sigh  WOW" "Dwane18" FALSE FALSE 1417469478
+"184" "539531624686559232" "@Ubisoft can you teach @Halo &amp; @Microsoft how to properly apologize for a broken game release??" "jpace731" FALSE FALSE 1417469337
+"185" "539531505022676992" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "GaborFari" TRUE FALSE 1417469309
+"186" "539531335610548224" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "sugarcaneglobal" TRUE FALSE 1417469269
+"187" "539531297685659648" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "MikkeyAlias" TRUE FALSE 1417469260
+"188" "539531181436309504" "RT @kevinspain: .@Microsoft acquires @Acompli, provider of mobile email apps -&gt; One of first interesting buys in #enterprisemobile http://t…" "esimoudis" TRUE FALSE 1417469232
+"189" "539531014365007872" "RT @GlobalGreenGame: Fuel cells &amp; Data centers https://t.co/uuVVEfA2Fs “We’re cutting the cord from the electrical grid” @Microsoft's Sean …" "_HYPC" TRUE FALSE 1417469192
+"190" "539530887613132800" "RT @PSFK: Robot security guards cruise @Microsoft campus
+http://t.co/2ACo7KKZ15 http://t.co/SaLY7PiaTI" "DFornazar" TRUE FALSE 1417469162
+"191" "539530828179857409" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "StephenDAtDell" TRUE FALSE 1417469148
+"192" "539530749599174657" "Sad news for 90s geeks, good news for @bing– @Microsoft announces the demise of clip art: http://t.co/ouOXufKRqP via @TechCrunch" "D1A" FALSE FALSE 1417469129
+"193" "539530587049295875" "Well this was fun to write! :) Where did those 5 and half years of writing about @Microsoft go?! - Where it all began http://t.co/wLu9n6pHF1" "MichaelGillett" FALSE FALSE 1417469090
+"194" "539530446384553985" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "dominicjcarr" TRUE FALSE 1417469057
+"195" "539530162229215232" "@Microsoft is getting rid of clip art. In other news the #horse no longer top means of transportation http://t.co/6aJACFFYzs" "RealKenMiller" FALSE FALSE 1417468989
+"196" "539530155648376832" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "BikeMrown" TRUE FALSE 1417468987
+"197" "539529954061729793" "@Microsoft Office 365 and Office 2013 workshop happening this Thursday thanks to @TechThursdays. See ya there! http://t.co/YJC15qbwPZ" "GreaterSW" FALSE FALSE 1417468939
+"198" "539529862311342080" "Gearing up for #GivingTuesday and @Microsoft #YouthSpark tomorrow with @CityYearDC. Support tomorrow and get matched! http://t.co/1JZwcJShZG" "jessicaorndorff" FALSE FALSE 1417468917
+"199" "539529822943592448" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "dwcares" TRUE FALSE 1417468908
+"200" "539529740563255296" "@Steve_Scarrr @Microsoft yea that's what I thought stay with big papa" "SWiTCH_Mexi" FALSE FALSE 1417468888
+"201" "539529569535942657" "Robot security guards cruise @Microsoft campus  http://t.co/7CgbJ88qIW via @psfk" "Icedrac" FALSE FALSE 1417468848
+"202" "539529463202328576" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "rkurki" TRUE FALSE 1417468822
+"203" "539529387876835329" "Robot security guards cruise @Microsoft campus
+http://t.co/2ACo7KKZ15 http://t.co/SaLY7PiaTI" "PSFK" FALSE FALSE 1417468804
+"204" "539529319052103681" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "nventmatt" TRUE FALSE 1417468788
+"205" "539529266036494337" ".@Microsoft replaces Office clip art and image library with @Bing Image Search http://t.co/dsO8yD5JEV tip @techmeme @MSFTnews @julwhite" "brianfagioli" FALSE FALSE 1417468775
+"206" "539528852826243074" "@TennantForever1 @Microsoft that's why...." "just_caitlyn01" FALSE FALSE 1417468677
+"207" "539528560524804097" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "matalla" TRUE FALSE 1417468607
+"208" "539528382157824001" "@Polygon for $329 from the @Microsoft store, you get an #XboxOne and 3 free games.  One of them can be #DragonAgeInquisition #cybermonday" "vandenbond" FALSE FALSE 1417468564
+"209" "539528108752519169" "@Microsoft No install disk for 8? What happens when your HDD fails? How do you get your OS on a new drive? Or do you just have to re-buy?" "GabeShotfoot" FALSE FALSE 1417468499
+"210" "539528010807148544" "I'm just bitter right now... I probably will buy @Microsoft hardware in the future, but definitely will not buy another Surface Pro 3." "MaxSchmeling" FALSE FALSE 1417468476
+"211" "539527757538271232" "@SWiTCH_Mexi never mind that shit with tax and a headset is 490$ fuck that shit FUCK YOU @Microsoft" "Steve_Scarrr" FALSE FALSE 1417468415
+"212" "539527451941273601" "@Microsoft Where are you based? How come Alberto has an Asian accent?" "AuthorLucyC" FALSE FALSE 1417468343
+"213" "539527397348245504" "@Microsoft this is the single worst thing about the Xbox One dashboard. This never happened on Xbox 360. http://t.co/2suihpZthr" "BVV_Sam" FALSE FALSE 1417468330
+"214" "539527354482044928" "@Microsoft is the dominant cloud productivity services provider. #office365. This is very representative of our clie…http://t.co/3eIl8Nw4on" "donmisho" FALSE FALSE 1417468319
+"215" "539527319002431488" "Confirmed: @Microsoft acquires email startup Acompli http://t.co/OQ53SeqJ79 via @thenextweb" "RostieTechJobs" FALSE FALSE 1417468311
+"216" "539526910175215617" "Doubt I will ever buy @Microsoft hardware again. The glass on the Surface Pro 3 doesn't hold up. Shattered it by picking it up from my dock." "MaxSchmeling" FALSE FALSE 1417468213
+"217" "539526813396242433" ".@Microsoft acquires @Acompli, provider of innovative #mobile #email apps http://t.co/YFddpy220F #apps #socbiz #digitalworkplace #comms" "LOMBARDI_GLORIA" FALSE FALSE 1417468190
+"218" "539526726326706176" "@Microsoft !! Chrissake, could you make this any more difficult? Just an expired debit card, HELLO? On the phone 4Ever, no speaky de english" "AuthorLucyC" FALSE FALSE 1417468170
+"219" "539526692759666690" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "mdwigs" TRUE FALSE 1417468162
+"220" "539526577277505536" "Windows 8, 8.1 overtakes XP on new Netmarketshare numbers: http://t.co/bZziSMda3T http://t.co/lcd0N9HeXv @MSFTnews @Microsoft @cnnbrk @CNBC" "RealPro4Real" FALSE FALSE 1417468134
+"221" "539526482914451456" "uhhh hello? RT @ImSwayze: Sending invites on ps4 is way smoother....idk about yall anymore @Microsoft" "_ThePlanes" FALSE FALSE 1417468112
+"222" "539526448525352960" "@Microsoft hi , I have win 8 but every time I have to reboot I have to download 8.1 update is there an easier way thanks , please reply" "TaG_75" FALSE FALSE 1417468103
+"223" "539526354492862464" "Email and calendar prove to remain THE essential app, central to the everywhere os wars. @Microsoft acquires @Acompli http://t.co/C9ptkSPZvG" "GGnall" FALSE FALSE 1417468081
+"224" "539526324734681091" "RT @CityYearDC: #blackfriday not your thing? #givingtuesday is for you! And, @Microsoft will double your donation tomorrow: http://t.co/95o…" "ChikaUmeadi" TRUE FALSE 1417468074
+"225" "539525921448148992" "When do you plan to release Office for #GALAXYNote4 ? @Microsoft" "miloszklosowski" FALSE FALSE 1417467978
+"226" "539525861406683138" "RT @CodessForum: Did you know, @Microsoft is planning an #XboxOne #wearable for 2015? http://t.co/hRTrMIPWhY #tech #wearabletech #Xbox" "2standandstare" TRUE FALSE 1417467963
+"227" "539525709610635265" "@Microsoft I paid for my Office365 in one lump sum. Why are you taking little bits and pieces out of my Paypal?" "eliptonmusic" FALSE FALSE 1417467927
+"228" "539525604123869185" "@cRz_sh4rpsnip3_ @xXrApIdZ360Xx @Microsoft @Xbox @XboxSupport @XboxSupport1 @XboxSupport2 @XboxSupport3 Xbox support 3 I think" "cRz_BunnyGoblin" FALSE FALSE 1417467902
+"229" "539525552210980865" "RT @CityYearDC: #blackfriday not your thing? #givingtuesday is for you! And, @Microsoft will double your donation tomorrow: http://t.co/95o…" "UnoBlessed4CY" TRUE FALSE 1417467890
+"230" "539525418789785600" "RT @MacMall_Deals: Save 37% on a @Microsoft wireless keyboard and mouse set at @MacMall. http://t.co/j7BdW6OgMh http://t.co/C7LWZ2vh15" "MarkSarch33" TRUE FALSE 1417467858
+"231" "539525367334469632" "RT @acompli: \"FWD: Microsoft Acquires Acompli\" - Acompli CEO @jsoltero talks about @Microsoft acquisition in blog post: https://t.co/pD8wQ1…" "awhipwell" TRUE FALSE 1417467846
+"232" "539525254251827200" "@Microsoft @acompli can't wait to see what you both do together. Love the app. Exchange/icloud and onedrive user." "awhipwell" FALSE FALSE 1417467819
+"233" "539525164816666624" "RT @CityYearDC: #blackfriday not your thing? #givingtuesday is for you! And, @Microsoft will double your donation tomorrow: http://t.co/95o…" "Reid_CYMA" TRUE FALSE 1417467797
+"234" "539525092171345921" "RT @CityYearDC: #blackfriday not your thing? #givingtuesday is for you! And, @Microsoft will double your donation tomorrow: http://t.co/95o…" "StephenAnfield" TRUE FALSE 1417467780
+"235" "539525090816577536" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "jlesica" TRUE FALSE 1417467780
+"236" "539524946926780416" "#blackfriday not your thing? #givingtuesday is for you! And, @Microsoft will double your donation tomorrow: http://t.co/95omcWJW4z" "CityYearDC" FALSE FALSE 1417467745
+"237" "539524669066735616" "Thanks Microsoft for taking money when I've not used any of your services in months and months. @Microsoft Microsoft Luxembourg S.A.R.L?" "eliptonmusic" FALSE FALSE 1417467679
+"238" "539524540217315329" "According to patchmagement @microsoft support now $499 for the \"pay for the case\" option (presume USD) @MSAU_Partner @MSAU_Partner" "pblakez" FALSE FALSE 1417467648
+"239" "539524535750754304" "@BradSmi @fxshaw @Microsoft @surface @packers Someon's a Green Bay fan :)" "JCalMN" FALSE FALSE 1417467647
+"240" "539524478217109504" "But do like that it remembers where I left off... So thanks for that. @microsoft" "BransonQ" FALSE FALSE 1417467634
+"241" "539524473393655810" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "TonyImperati" TRUE FALSE 1417467632
+"242" "539524472311537664" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "morenoj47" TRUE FALSE 1417467632
+"243" "539524354527076352" "Save 37% on a @Microsoft wireless keyboard and mouse set at @MacMall. http://t.co/j7BdW6OgMh http://t.co/C7LWZ2vh15" "MacMall_Deals" FALSE FALSE 1417467604
+"244" "539524285178462209" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "fxshaw" TRUE FALSE 1417467588
+"245" "539524194997137409" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "Sabmajor" TRUE FALSE 1417467566
+"246" "539524116391280640" "Fucking Bullshit. I hate waiting for games to install, thanks @microsoft for making that mistake. #Xboxone #Flaws" "BransonQ" FALSE FALSE 1417467547
+"247" "539524044778110978" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "allbizuk" TRUE FALSE 1417467530
+"248" "539523839022354432" "RT @cRz_BunnyGoblin: @cRz_sh4rpsnip3_ @xXrApIdZ360Xx @Microsoft I'm sorry but this is outrageous and I have a feeling someone's hacking peo…" "cRz_sh4rpsnip3_" TRUE FALSE 1417467481
+"249" "539523820437377025" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "MediaMaksLabs" TRUE FALSE 1417467477
+"250" "539523810073276416" "RT @federico: The moment you realize @Microsoft really took over @nokia // cc @aisling http://t.co/G48mF1j8LZ" "emips_sk" TRUE FALSE 1417467474
+"251" "539523702355148800" "Sending invites on ps4 is way smoother....idk about yall anymore @Microsoft" "ImSwayze" FALSE FALSE 1417467449
+"252" "539523634579390465" ".@Microsoft unveils new streaming video service for enterprises.  Enter #Office365Video. http://t.co/nGQo0MdFdh" "AccentureMedia" FALSE FALSE 1417467433
+"253" "539523562827026432" "RT @PresBruce: @WWU_Design students getting great experience working with @Microsoft on User Experience Design: http://t.co/sSAm4yV5io" "wwu_design" TRUE FALSE 1417467415
+"254" "539523556875722752" "@cRz_sh4rpsnip3_ @xXrApIdZ360Xx @Microsoft I'm sorry but this is outrageous and I have a feeling someone's hacking people not Xbox/Microsoft" "cRz_BunnyGoblin" FALSE FALSE 1417467414
+"255" "539523534939504640" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "mrappin" TRUE FALSE 1417467409
+"256" "539523469252493312" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "donpro2009" TRUE FALSE 1417467393
+"257" "539523380064817153" "@cRz_BunnyGoblin @xXrApIdZ360Xx @YoungWitherMan taking the mik @Microsoft help now" "cRz_sh4rpsnip3_" FALSE FALSE 1417467372
+"258" "539523285269356545" "WHY DO ALL THE PROGRAMS SEE MY ONEDRIVE DOCS AS THE DEFAULT DOC FOLDER GO FUCK YOURSELF YOUR DICKS ARE MICROSOFT
+@Microsoft @MicrosoftStore" "teknon_my" FALSE FALSE 1417467349
+"259" "539523134668693506" "Hype around re-invention of email continues as @Microsoft buys @acompli for $200m http://t.co/6sk0QLKBtd" "ItsYamnitsky" FALSE FALSE 1417467313
+"260" "539523134173761536" "This is massive news! @Microsoft buys @acompli, the best mail #app on my #iPhone6. Well done to the team &amp; hope the great service continues." "Jazzfm88" FALSE FALSE 1417467313
+"261" "539523044801146880" "So anyone who buys the Master Chief Collection will get a $15 rebate. Bullshit I bought that broken game day 1 where's my refund. @Microsoft" "TheTaterNater" FALSE FALSE 1417467292
+"262" "539523015546257408" "@cRz_BunnyGoblin @xXrApIdZ360Xx i know but @Microsoft are not doing nothing about it" "cRz_sh4rpsnip3_" FALSE FALSE 1417467285
+"263" "539522865595695106" "@TekFolf @Microsoft Well, it _is_ a technical preview and not a \"stable\" release" "metawolf_" FALSE FALSE 1417467249
+"264" "539522713816412160" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "Shanks1983" TRUE FALSE 1417467213
+"265" "539522576960090112" "RT @LininoWoman: @TheTechAwards my blog is ready! http://t.co/ofq30zig5v #TheTechAwards @lininoOrg @AllSeenAlliance @Microsoft @Qualcomm" "TenayaHurst" TRUE FALSE 1417467180
+"266" "539522200639127552" "@TekFolf @Microsoft this is why it’s called a tech preview. it’s like a public alpha." "earsfox" FALSE FALSE 1417467091
+"267" "539522140530147328" "@TekFolf @Microsoft Should of kept Windows 8.1 motherfucker" "DragonNamedRed" FALSE FALSE 1417467076
+"268" "539521941137526784" ".@Microsoft Oooh and Steam terminates and locks up, my shell also hangs, and I need to kill and restart it." "TekFolf" FALSE FALSE 1417467029
+"269" "539521898699579392" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "dvdstelt" TRUE FALSE 1417467019
+"270" "539521882328801280" "RT @MSFTenterprise: #CIO of London Met Police Service worked with @Microsoft on a custom #Enterprise #cloud solution: http://t.co/g8YMJWwmLr" "DIGG_IT_INDIA" TRUE FALSE 1417467015
+"271" "539521822107398145" "Ermm .@Microsoft but I upgraded to the latest build of Windows Technical Preview, my keyboard lock lights don't work." "TekFolf" FALSE FALSE 1417467000
+"272" "539521440903860225" "@alanlepo @Microsoft @acompli Email-like in what way ? Attachments and threaded conversations etc ?" "ITredux" FALSE FALSE 1417466909
+"273" "539521085201321985" "@WWU_Design students getting great experience working with @Microsoft on User Experience Design: http://t.co/sSAm4yV5io" "PresBruce" FALSE FALSE 1417466825
+"274" "539520973624844289" "Laura Poitras: ,,@Microsoft called #NSA to tell them that they changed their encryption \" http://t.co/qKSqNLOziJ #nsa #Snowden" "uncover007" FALSE FALSE 1417466798
+"275" "539520765226655744" "@mttgcast @Microsoft Add me as well. \"Scottie Lindsay\". Let's play some Titanfall!" "scottielindsay" FALSE FALSE 1417466748
+"276" "539520410618834944" "@ITredux @Microsoft @acompli I totally disagree. I believe the \"new messaging\" tools will end up being very email-like. (just not pop/imap)" "alanlepo" FALSE FALSE 1417466664
+"277" "539520136722780160" "@alanlepo @Microsoft @acompli We're thinking two generations behind, we're happy to keep email alive and well as it suits us." "ITredux" FALSE FALSE 1417466599
+"278" "539519586740088832" "RT @stacykcrook: En route to @Microsoft to talk EMM trends with @InTheCloudMSFT" "InTheCloudMSFT" TRUE FALSE 1417466467
+"279" "539519548420939776" "RT @getinmicrosoft: Email startup Acompli is now owned by @microsoft. https://t.co/fvZgXMrwjr $msft http://t.co/9162V4HZYn" "goinsidestartup" TRUE FALSE 1417466458
+"280" "539519548207013888" "RT @getinmicrosoft: Email startup Acompli is now owned by @microsoft. https://t.co/fvZgXMrwjr $msft http://t.co/9162V4HZYn" "goinsideandroid" TRUE FALSE 1417466458
+"281" "539519533003046912" "Internet of Things and @Microsoft @Azure Help Asthma Patients Breathe Easily: http://t.co/nWXdjoOFcS #IoT http://t.co/0hIu34nVdo" "SoftwareONE_US" FALSE FALSE 1417466455
+"282" "539519433807392768" "@ITredux @Microsoft @acompli But MESSAGING does. People need to stop thinking email is this \"other thing\"" "alanlepo" FALSE FALSE 1417466431
+"283" "539519056680738817" "Congratulations, @acompli!! https://t.co/WlNC9Hjl0g We're proud to help you and @Microsoft reimagine productivity in the #mobile era." "helpshift" FALSE FALSE 1417466341
+"284" "539518422829117441" "@acompli very happy to see you under @Microsoft's umbrella, best news ever" "Badarin2050" FALSE FALSE 1417466190
+"285" "539518361315864577" "@Microsoft @Lumia 535 Dual Sim at just Mobile Rs.7810 in @ebay.in http://t.co/LJ4WqmHzpU  Use promo code : EBAYMOBI15. Enjoy :)" "UltimateTitan" FALSE FALSE 1417466175
+"286" "539518342004875264" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "geotweetmcneil" TRUE FALSE 1417466171
+"287" "539518296669061120" "@Microsoft @misangenius @GeorgeTakei what a lovely video! Microsoft will be number 1 in smartphones I can feel it." "geotweetmcneil" FALSE FALSE 1417466160
+"288" "539518212388683777" "This is a great step by: @microsoft Augmenting stature. #MEC #msrmec" "pailvarun" FALSE FALSE 1417466140
+"289" "539518013192429568" "MY PAPER GOT RECOVERED BLESS YOU @MICROSOFT" "maikoshea" FALSE FALSE 1417466092
+"290" "539517663798517760" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "freepromotionzz" TRUE FALSE 1417466009
+"291" "539517335866843136" "@MicrosoftStore  I've played ac4 but I havent played Wolfestein  yet it looks really good I love Microsoft #Microsoft  @Microsoft" "ClanNuk3" FALSE FALSE 1417465931
+"292" "539517302954147840" "Our vendor spotlight happening live at @Microsoft! Make sure to stop by for some goodies if you're on campus. http://t.co/p9aFhI2iRA" "tred" FALSE FALSE 1417465923
+"293" "539517040038801408" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "khan_zaroon" TRUE FALSE 1417465860
+"294" "539516981658279937" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "adipaaz" TRUE FALSE 1417465846
+"295" "539516956517629952" "@Microsoft please follow i want to direct massage you something important thanks" "nntshr" FALSE FALSE 1417465840
+"296" "539516749520330753" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "Jettssiel" TRUE FALSE 1417465791
+"297" "539516701465784320" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "Deanith007" TRUE FALSE 1417465780
+"298" "539515947372265472" "@Microsoft acquires mobile email #app @Acompli to bolster #Outlook http://t.co/woWZ1T7EY1" "ITLeadersAfrica" FALSE FALSE 1417465600
+"299" "539515883140292608" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "mano_revanth" TRUE FALSE 1417465584
+"300" "539515868871675904" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "CarlosNetMty" TRUE FALSE 1417465581
+"301" "539515653271855105" "@Microsoft, you owe @ClintonFitch commission! I have a broken screen, an irritating carrier, &amp; a tight budget. Took advantage of this deal!" "PatriotEyes" FALSE FALSE 1417465530
+"302" "539515564876521472" "RT @awildmaxim: yes @Microsoft that is definitely why i signed out just to sign back in again http://t.co/uaHNGVtweY" "PillowGamerYT" TRUE FALSE 1417465509
+"303" "539515493867339776" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "GoodThings2Life" TRUE FALSE 1417465492
+"304" "539515473491406849" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "jlankinen" TRUE FALSE 1417465487
+"305" "539515324622979073" "RT @awildmaxim: yes @Microsoft that is definitely why i signed out just to sign back in again http://t.co/uaHNGVtweY" "bleamuk" TRUE FALSE 1417465451
+"306" "539515245107355648" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "papsl" TRUE FALSE 1417465432
+"307" "539515242272014336" "yes @Microsoft that is definitely why i signed out just to sign back in again http://t.co/uaHNGVtweY" "awildmaxim" FALSE FALSE 1417465432
+"308" "539515185414021120" "RT @LOMBARDI_GLORIA: .@Microsoft does away with Clip Art and replaces it with @bing Images http://t.co/Ts1hHP3eXK #comms #socbiz #digital h…" "Stefan_Laurell" TRUE FALSE 1417465418
+"309" "539515054391959553" "@Halo @Microsoft @Xbox how many #halo games are there? I lost count after ~10" "DigidyDOGG" FALSE FALSE 1417465387
+"310" "539514779338280960" "@alanlepo @Microsoft @acompli Interestingly enough, I asked an entire primary school about the future, email does not feature. Once." "ITredux" FALSE FALSE 1417465321
+"311" "539514706122522624" "Word unexpectedly closed with my unsaved document. Sad thing is I'm not even surprised cuz it happens too often. @microsoft" "BeautifulxMindd" FALSE FALSE 1417465304
+"312" "539514689584001024" "I want to win a @Microsoft @Surface Pro 3  #HolidayProSweeps" "pelletposy" FALSE FALSE 1417465300
+"313" "539514463695552513" "Disappointing to see the outcome of #HaloMCC. Get it together @halo &amp; @Microsoft" "PtrckMrphy" FALSE FALSE 1417465246
+"314" "539514447304593409" "Happy post-Thanksgiving! Thankful that @Microsoft @MSFTCityNext works with #startups for #smartcities http://t.co/ViEt4ST54z #ThanksTweeting" "transitlabs" FALSE FALSE 1417465242
+"315" "539514229850521600" "RT @Microsoft_Gov: Will you be in Reston, VA next Wednesday? Register today for the Federal #Azure Users Group at @Microsoft on 12/10: http…" "MICROSOFT_USAF" TRUE FALSE 1417465190
+"316" "539514019338780674" "Will you be in Reston, VA next Wednesday? Register today for the Federal #Azure Users Group at @Microsoft on 12/10: http://t.co/NKSsWmIYLS" "Microsoft_Gov" FALSE FALSE 1417465140
+"317" "539514001357414400" "@Microsoft Thanks for selling my cell number to telemarketers. I'll be posting \"Free Beer\" fliers with your number all over town as a TY" "eatsleepindie" FALSE FALSE 1417465136
+"318" "539513855257223168" "RT @CraveOnline: #BlackFriday proved to be a huge success for @Microsoft, as the @Xbox One accounted for 53% of all console sales http://t.…" "xDUMPWEEDx" TRUE FALSE 1417465101
+"319" "539513851033948160" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "_sindalinda_" TRUE FALSE 1417465100
+"320" "539513832029577216" "@BrianSteinhoff @TMNTMaster @Microsoft i love it!!!" "_sindalinda_" FALSE FALSE 1417465095
+"321" "539513692564381696" "Email startup Acompli is now owned by @microsoft. https://t.co/fvZgXMrwjr $msft http://t.co/9162V4HZYn" "getinmicrosoft" FALSE FALSE 1417465062
+"322" "539513524943601664" "Is @Microsoft chasing down '@Google Inbox' through acquisition of email startup Accompli? ~ http://t.co/zvRjga1IJI" "Jack_Ashman" FALSE FALSE 1417465022
+"323" "539513356345155584" "RT @colinmasson: .@Microsoft #MachineLearning featured on @CIO magazine @WIRED @KDnuggets @PCWorld http://t.co/4Fzcj45F4N | #AzureML #Azure…" "kdnuggets" TRUE FALSE 1417464982
+"324" "539513348400762880" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "sarahfinney" TRUE FALSE 1417464980
+"325" "539513223146663936" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "alexeychernous" TRUE FALSE 1417464950
+"326" "539513165021999104" "Amazing chat w/Kathy O'Driscoll, @PATHtweets head of HR, @Microsoft veteran, &amp; #changeagent. See future issue of @ForefrontMag for more!" "acryts" FALSE FALSE 1417464936
+"327" "539513152858107905" "Super cool featuring in @Microsoft new #Office365 #workwonders campaign. Check it out http://t.co/wCkwfFmx2M Thanks @MSAU  team! XxDani" "1DaniStevens" FALSE FALSE 1417464933
+"328" "539513149628895233" "I was hoping for a Hail Mary pass that my @CapitalOne credit card would get here today so I could buy the @Microsoft Surface pro3 on sale :(" "mpirate28" FALSE FALSE 1417464933
+"329" "539512902034534400" "@TheTechAwards my blog is ready! http://t.co/ofq30zig5v #TheTechAwards @lininoOrg @AllSeenAlliance @Microsoft @Qualcomm" "LininoWoman" FALSE FALSE 1417464874
+"330" "539512822796152832" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "Gervercom" TRUE FALSE 1417464855
+"331" "539512580834721792" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "sailiraje" TRUE FALSE 1417464797
+"332" "539512401159520257" "A probar el primer preview de Microsoft Word, Excel and PowerPoint Preview apps for Android @Microsoft @MicrosoftLatam … Luego comento" "ivanxcaracas" FALSE FALSE 1417464754
+"333" "539512164097085440" "I knew it! @microsoft loves MONEY http://t.co/QA1Tdhi0Da #twitamore" "MNBenji" FALSE FALSE 1417464698
+"334" "539511998619197440" "@KevinHenrikson @acompli @Microsoft congrats!!" "juanleungli" FALSE FALSE 1417464658
+"335" "539511993405693952" "Changing the game: The #digital transformation of @realmadrid Fútbol Club http://t.co/ul7KjqaIQX a @microsoft´s case study" "Mariphel" FALSE FALSE 1417464657
+"336" "539511811931144193" "Hey @Microsoft because you buy @acompli try to look the @sunrise. If the both work together will be a killer app." "sansquer" FALSE FALSE 1417464614
+"337" "539511801356877824" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "738eeca667244c1" TRUE FALSE 1417464611
+"338" "539511553129988096" ".@Microsoft does away with Clip Art and replaces it with @bing Images http://t.co/Ts1hHP3eXK #comms #socbiz #digital http://t.co/qaQMg3AC8L" "LOMBARDI_GLORIA" FALSE FALSE 1417464552
+"339" "539511532938223616" "You had to be acquired, didn't you! Congrats &amp; hope we continue to see the same focus &amp; passion @JSoltero @Acompli @Microsoft" "Bennis" FALSE FALSE 1417464547
+"340" "539511320056328192" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "verysmart" TRUE FALSE 1417464496
+"341" "539511306592976896" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "misangenius" TRUE FALSE 1417464493
+"342" "539511222375571456" "RT @lanewood: Big congrats to the @acompli team! Smart acquisition from @Microsoft. http://t.co/woY3rrd71s" "HELIKECUSPIDAS" TRUE FALSE 1417464473
+"343" "539510958818078724" "@Microsoft Buys Email App Acompli For $200M, Will Still Support Gmail And Other Competitors http://t.co/pO5HrGOJz9 via @techcrunch" "NikeshDas" FALSE FALSE 1417464410
+"344" "539510763669700608" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "nayanikap" TRUE FALSE 1417464364
+"345" "539510762277199872" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "OpsCenter" TRUE FALSE 1417464364
+"346" "539510695490908160" "@MSFTnews @Microsoft but it's not...." "hempanicker" FALSE FALSE 1417464348
+"347" "539510662905733120" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "RubberPenguin" TRUE FALSE 1417464340
+"348" "539510607654166528" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "QuibellPaul" TRUE FALSE 1417464327
+"349" "539510468381917184" "@huddie71 @thurrott @Microsoft Hey now! I work for Bing! (I don't support abuse of Google, though--what comes around goes around)" "benmwatson" FALSE FALSE 1417464293
+"350" "539510420131041280" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "CronbupaTech" TRUE FALSE 1417464282
+"351" "539510330393899008" "A great #slideshare from @Microsoft on the importance of collaboration technology  http://t.co/N2CVvTda26" "skyledavisbooks" FALSE FALSE 1417464261
+"352" "539510154715463680" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "jamestownsend" TRUE FALSE 1417464219
+"353" "539509976964685824" "Buy #XBOXOne ! Game in your dreams will come true! @Microsoft !" "aderestuuu" FALSE FALSE 1417464176
+"354" "539509969687957504" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "BeckyHelpsWorld" TRUE FALSE 1417464175
+"355" "539509785281187840" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "IndianaData" TRUE FALSE 1417464131
+"356" "539509736694378496" "#BlackFriday proved to be a huge success for @Microsoft, as the @Xbox One accounted for 53% of all console sales http://t.co/vLEm54BHJK" "CraveOnline" FALSE FALSE 1417464119
+"357" "539509674920656897" "She’s a model, actress, singer… Oh, and follower of modellounge X @Microsoft. http://t.co/gkbUlFGAbz" "modellounge" FALSE FALSE 1417464104
+"358" "539509661599158273" "RT @stevecla: good times hangin' with @GeorgeTakei and showing him around the @Microsoft Garage http://t.co/jLjhkzcu4t" "orinthomas" TRUE FALSE 1417464101
+"359" "539509630251319297" "Reducing #CO2 with #IoT: a #smart-building project at @CarnegieMellon | @Microsoft http://t.co/JPxP6FkQnp #Smart #SmartEnergy #M2M" "kenkauppila" FALSE FALSE 1417464094
+"360" "539509439859273728" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "HenR_ict" TRUE FALSE 1417464048
+"361" "539509319696666625" "RT @Microsoft: Oh my! @GeorgeTakei visits Microsoft and takes some of our futuristic technologies for a spin: http://t.co/k6PVlAc2UW" "Rzh5555" TRUE FALSE 1417464020
+"362" "539508738982707202" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "lalalaley4ev" TRUE FALSE 1417463881
+"363" "539508544585097216" "@stevecla @GeorgeTakei @Microsoft Thanks for the tour of the Garage, Steve.  We all loved checking out the space, the Cube and Eye-Gaze." "nicoleshea" FALSE FALSE 1417463835
+"364" "539508341181931520" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "janellelato" TRUE FALSE 1417463786
+"365" "539508098697023488" "Mark your calendars! Double your #GivingTuesdayPHL impact at 9:00AM and 3:00 PM EST with @Microsoft #YouthSpark! | http://t.co/YkV3rEmckc" "12plusphilly" FALSE FALSE 1417463728
+"366" "539508047010627584" "WTF @Microsoft ? why don't you sell standalone white #XboxOne controllers? Sunset Overdrive bundle only? lost a sale from me today" "lazybfaucher" FALSE FALSE 1417463716
+"367" "539507978647662593" "@Microsoft attach that pathetic drone part to the bottom of a #surface3 cooling and flight in the gridiron" "carlosrr24" FALSE FALSE 1417463700
+"368" "539507646575833088" "LUMIA DENIM PHONES GETTING NEW CAMERA UPDATES http://t.co/kG4klpvq4e #windowsphone @microsoft" "aamirbarry" FALSE FALSE 1417463621
+"369" "539507582918860800" "Huge shout out to @microsoft for their integrated speech recognition in @Windows. Might just save my wrist." "Schaibly" FALSE FALSE 1417463605
+"370" "539507561154633728" "RT @acompli: \"FWD: Microsoft Acquires Acompli\" - Acompli CEO @jsoltero talks about @Microsoft acquisition in blog post: https://t.co/pD8wQ1…" "davidc79" TRUE FALSE 1417463600
+"371" "539507461410271232" "The @Microsoft Periodic Table: http://t.co/Y7JHQZfCUv  Is this your work, @jeffmarcoux? Nicely done." "HireDennis" FALSE FALSE 1417463577
+"372" "539507161135861763" ".@Google takes on @Microsoft and #NORAD to track #Santa again this year http://t.co/q7lhTiNaKL http://t.co/7mXy1k7wYn" "merrybubbles" FALSE FALSE 1417463505
+"373" "539507062783610880" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "m11kkaa" TRUE FALSE 1417463481
+"374" "539507047562477568" "RT @roelbaan: I case you missed it: @Microsoft loves @Linux #LevelUpAzure http://t.co/Sr87E8vYc6" "MCITPjohper" TRUE FALSE 1417463478
+"375" "539506865940754434" "Very proud to have played our part, helping @Microsoft @LumiaUK #MakeItHappen - check out the fab interactive video  http://t.co/FMfo0Wp3Xz" "Lizzie_Penny" FALSE FALSE 1417463435
+"376" "539506849733943296" "Official: @Microsoft acquires @acompli, provider of innovative mobile email apps | https://t.co/448NkCR6zb | 200M$ in 18 months 
+
+#Startup" "vs_AR" FALSE FALSE 1417463431
+"377" "539506776623046656" "@hypcourt @MojangSupport My ten year old keeps checking the website, hoping for something different, and insists @Microsoft is to blame" "alisonaske" FALSE FALSE 1417463413
+"378" "539506568706797568" "RT @TMNTMaster: @BrianSteinhoff @Microsoft AKA - What my friends think I do at work..." "BreedenJamel" TRUE FALSE 1417463364
+"379" "539506539040477184" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "BreedenJamel" TRUE FALSE 1417463357
+"380" "539506335612932096" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "JAMESTHETMNT" TRUE FALSE 1417463308
+"381" "539506170994905090" "that was fast, @Microsoft i ordered my laptop on Friday and paid for the 3-7 day shipping" "aliamabid" FALSE FALSE 1417463269
+"382" "539506138363219969" "RT @MeyerSound: ISE 2016 to become a 4-day show; @Microsoft, @Dolby &amp; @Intel to make first appearance @ISE_2015. via @ci_europe: http://t.c…" "DetoxFilmsSC" TRUE FALSE 1417463261
+"383" "539506072260980736" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "TimothyQueen1" TRUE FALSE 1417463245
+"384" "539506040711417856" "RT @MeyerSound: ISE 2016 to become a 4-day show; @Microsoft, @Dolby &amp; @Intel to make first appearance @ISE_2015. via @ci_europe: http://t.c…" "CI_Europe" TRUE FALSE 1417463238
+"385" "539505944783101953" "RT @BillGates: I'm excited to welcome Satya Nadella as the new CEO @Microsoft. A great leader for a great company: http://t.co/kywJOyS8gj" "sheerazalishah" TRUE FALSE 1417463215
+"386" "539505944678629377" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "RuckEric" TRUE FALSE 1417463215
+"387" "539505851187617792" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "tortugasninjamc" TRUE FALSE 1417463193
+"388" "539505849551839232" "RT @MeyerSound: ISE 2016 to become a 4-day show; @Microsoft, @Dolby &amp; @Intel to make first appearance @ISE_2015. via @ci_europe: http://t.c…" "CEProEurope" TRUE FALSE 1417463192
+"389" "539505760435064832" "RT @MPECSInc: Download Remote Desktop Connection Manager 2.7 via @Microsoft http://t.co/IV1aiXh1TR Now with #HyperV VM Console access! #Clu…" "bleeman" TRUE FALSE 1417463171
+"390" "539505502762590209" "RT @BrianSteinhoff: For @TMNTMaster fans and @Microsoft Excel whiz including myself - you will love this! #Cowabunga #SteinhoffGIFs http://…" "TMNTMaster" TRUE FALSE 1417463110
+"391" "539505388014800896" "For the love of fuck, how long am I supposed to wait, @Microsoft? I've spent 90 minutes unboxing and joining SBS11 http://t.co/NGwNv62cY4" "secondtino" FALSE FALSE 1417463082
+"392" "539505334235045888" "RT @engadget: It's @Microsoft #Windows Ten. http://t.co/L60pf6GP0x http://t.co/os3Evpg4yE" "Invincible_Hunk" TRUE FALSE 1417463069
+"393" "539505031922593792" "Getting ready to go take the Microsoft Office test for Word. ^_^ @Microsoft" "GabbyNCISfan" FALSE FALSE 1417462997
+"394" "539504879513784320" "Exciting news - \"@Microsoft acquires @Acompli, provider of innovative mobile email apps\" http://t.co/shs5ODNJRY" "Tim_MSFT" FALSE FALSE 1417462961
+"395" "539504783951138816" "Oh @Microsoft, won't you leave anything nice for the rest of us to use? #Acompli
+https://t.co/8xlVkdTOtN" "g_blab" FALSE FALSE 1417462938
+"396" "539504680582529024" "#gameswithgold are sooo shit this month. @Microsoft cut my Live sub's in half and keep your poxy games as they suck are." "antonreeders" FALSE FALSE 1417462914
+"397" "539504649431052289" "@verizonwireless @Microsoft The Lumia Denim update is rolling out at I still do not have Cyan on my Icon. Wishing I had stuck with @att" "NikholasPappas" FALSE FALSE 1417462906
+"398" "539504433717997568" "ISE 2016 to become a 4-day show; @Microsoft, @Dolby &amp; @Intel to make first appearance @ISE_2015. via @ci_europe: http://t.co/PbgDidbEg2" "MeyerSound" FALSE FALSE 1417462855
+"399" "539504414974033921" "RT @Neil_Everatt: I've never forgotten this @Microsoft. My 9 yr old son asked for a job...your reply was outstanding. http://t.co/V94kVgxiU2" "JDownend_" TRUE FALSE 1417462850
+"400" "539504404714774528" "@mttgcast @Microsoft @Xbox oh and add me tackleburry170" "O_Ree_Ba" FALSE FALSE 1417462848
+"401" "539504203778240513" "@mttgcast @Microsoft @Xbox awesome gp! Th and tr....joooiiinnn usss" "O_Ree_Ba" FALSE FALSE 1417462800
+"402" "539504176602955777" "RT @BillGates: In Beijing visiting @Microsoft’s startup accelerator- 20 new tech co’s with exciting ideas. http://t.co/1Ihwfvaco1" "sheerazalishah" TRUE FALSE 1417462793
+"403" "539504135901425664" "RT @BillGates: This mind-bending @Microsoft computer could help tackle problems we haven’t even imagined: http://t.co/dX7YiFtkqg" "sheerazalishah" TRUE FALSE 1417462784
+"404" "539504097976918016" "RT @CornbreadWolf: @Microsoft @Xbox you give a $15 rebate to those who buy Halo in Dec. while those of us who have been beta testing your g…" "WeThinkUnlike" TRUE FALSE 1417462775
+"405" "539503617146093568" "@benmwatson @thurrott I mean @Microsoft (no stranger to antitrust themselves) have Bing. It, by comparison, is a joke. Woeful." "huddie71" FALSE FALSE 1417462660
+"406" "539503579414142976" "Please @Microsoft dont shut down @acompli. I haven't bought any of your products the past 5 yrs (you've been wandering) but I love acompli." "JWRSS" FALSE FALSE 1417462651
+"407" "539503468504162304" "Wow. @Microsoft data center goes completely #offgrid with #renewableenergy http://t.co/7Kxdto2xfN" "AshleyPerryUK" FALSE FALSE 1417462625
+"408" "539503404695822336" "RT @CodessForum: Did you know, @Microsoft is planning an #XboxOne #wearable for 2015? http://t.co/hRTrMIPWhY #tech #wearabletech #Xbox" "RayAccusoft" TRUE FALSE 1417462609
+"409" "539502998205247488" "Did you know, @Microsoft is planning an #XboxOne #wearable for 2015? http://t.co/hRTrMIPWhY #tech #wearabletech #Xbox" "CodessForum" FALSE FALSE 1417462512
+"410" "539502948120670208" "Boycotting all @Microsoft products...why you close down email accts is ridiculous" "randymosty" FALSE FALSE 1417462500
+"411" "539502779702968323" "@Microsoft @Xbox let's drop that solo Xbox one kinect price eh?" "m_klimek" FALSE FALSE 1417462460
+"412" "539502266433437696" "@Microsoft now I'm not happy" "kenzmine" FALSE FALSE 1417462338
+"413" "539501813410828289" "Best tech companies to work for-Brazil @google @googlebrasil @safedoc @microsoft @microsoftbr @SASsoftware @sasbrasil http://t.co/d4VTOKpfA8" "VaultNetworks" FALSE FALSE 1417462230
+"414" "539501794549043201" "New from @Microsoft http://t.co/xE6i1Qwhuo Microsoft acquires Acompli, provider of innovative mobile email apps" "TheAverageGuyTV" FALSE FALSE 1417462225
+"415" "539501787511001090" "Why doesn't @Microsoft Word autocorrect recognize the word 'emancipation'? Right, nevermind. #homeworkslave" "RUSESandBO" FALSE FALSE 1417462224
+"416" "539500812712415232" "@Microsoft is making #dotNET #opensource ? Are my dreams of programming C# in #Linux (with ease) about to come true? #excited" "HarrisonTotty" FALSE FALSE 1417461991
+"417" "539500796933451777" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "osamaaliasghar" TRUE FALSE 1417461988
+"418" "539500180014252032" "RT @BradSmi: It was a good game for the @Microsoft @Surface. @packers http://t.co/HQ3nnOT1QS" "Friebs" TRUE FALSE 1417461841
+"419" "539499726190936065" "RT @hack_summit: \"I had no idea @Microsoft had made so many advances in the open source world!\" -- @ed_roman to @shanselman" "ge0rge314" TRUE FALSE 1417461732
+"420" "539499468325126144" "Thanks Microsoft @Microsoft for effectively fucking up my cyber monday." "murat_ak1" FALSE FALSE 1417461671
+"421" "539499215752552448" "Playing with this Windows Phone dev kit, and #Instagram is still in beta. This is 2014 @Microsoft. Come on guys. http://t.co/BOjTLh2qmf" "waholleyiv" FALSE FALSE 1417461611
+"422" "539499047531610112" "Shoutout to @Microsoft and @Xbox for putting @HBOGO app on finally! http://t.co/Hv3OfhSQ5t" "datnigga_DonteD" FALSE FALSE 1417461570
+"423" "539498865242935298" "@Microsoft @halo Is there anyway you can just refund me my full purchase price for the game and I will buy it when it's fixed and on sale???" "jpace731" FALSE FALSE 1417461527
+"424" "539498799354236928" "RT @Microsoft: We’re challenging you to learn coding with #hourofcode. Here’s how you can get started: http://t.co/Hmsryi4bt6 http://t.co/3…" "TheHTML500" TRUE FALSE 1417461511
+"425" "539498776252002304" "Learning CN. This is a great step by: @microsoft #MEC #msrmec Tweet No. = (3535)" "abhichauhan1994" FALSE FALSE 1417461506
+"426" "539498208427540480" "Microsoft And Yahoo Secretly Wooing Apple For Default Search On Safari : http://t.co/pHtq2vOysr @microsoft @yahoo" "TJTechnology" FALSE FALSE 1417461370
+"427" "539498176072663040" "RT @CodingFabian: \"I will stay here at @Microsoft and make things free until they fire me.\" @shanselman (VS is free, .NET now open source)" "FatWookiee" TRUE FALSE 1417461363
+"428" "539497469797990400" "RT @JohndMeyer: Learn about @HDScorp #converged solutions with @microsoft @VMware @SAP @SAPInMemory booth 572 #GartnerDC http://t.co/nTqEep…" "fredhds" TRUE FALSE 1417461194
+"429" "539497312532172800" "Microsoft Research. This is a great step by: @microsoft #MEC #msrmec Tweet No. = (3526)" "abhichauhan1994" FALSE FALSE 1417461157
+"430" "539497194299346944" "RT @Isham_M_Iqbal: My latest post on @Microsoft @Azure http://t.co/yzSFeF6Pir #Azure @AWSOMEDEVSIGNER @saramgsilva @shanselman" "AWSOMEDEVSIGNER" TRUE FALSE 1417461129
+"431" "539496538247294976" "@microsoft,
+@aleenajanny yeah v tit it.cngrtz ol ob yo.ed tenz ol.." "ABhattacharyee" FALSE FALSE 1417460972
+"432" "539496406810365954" "Good (or bad) news for my favorite mail client? @Microsoft (officially) acquires @acompli http://t.co/YU7rL9HBv1" "richmpalmer" FALSE FALSE 1417460941
+"433" "539496035345633280" "“@intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/ACdi5ufppk”" "MarthyRivera" FALSE FALSE 1417460852
+"434" "539495938121687042" "RT @IceBergGem: I appreciate @Microsoft bringing productivity apps to ios 4 all, but how bout outlook? It's Kool-Aid w/o sugar! #smh http:/…" "freepromotionzz" TRUE FALSE 1417460829
+"435" "539495824330211328" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "NOICAstellana" TRUE FALSE 1417460802
+"436" "539495753287090176" "@Microsoft: #Bing is only search engine worth using, with absolute BEST, MOST RELEVANT results that lead U exactly 2 what U were looking 4!" "BabyBlueTarh33l" FALSE FALSE 1417460785
+"437" "539495731854573568" "#apps ~ @newsycombinator: @Microsoft acquires @Acompli: http://t.co/4BMwaLBRRa &lt; Will it die? Or will it be allowed to thrive?" "DazMSmith" FALSE FALSE 1417460780
+"438" "539495654427348993" "@GoogleVentures @Microsoft @gov or for all security cameras a facial recognition to help find wanted and lost people" "kurtis_reed" FALSE FALSE 1417460762
+"439" "539495535313694721" "RT @dscammell: @Microsoft confirms it is acquiring the Acompli iOS and Android email app. http://t.co/sj6o90ge8S" "ToddLamo" TRUE FALSE 1417460733
+"440" "539495480460210176" "#MSPSummit to a new era of research! This is a great step by: @microsoft #MEC #msrmec Tweet No. = (3515)" "abhichauhan1994" FALSE FALSE 1417460720
+"441" "539495130743312384" "@GoogleVentures @Microsoft @gov what if we had a facial recognition free app for phones, google glasses to help find wanted and lost people!" "kurtis_reed" FALSE FALSE 1417460637
+"442" "539495099432837120" "My latest post on @Microsoft @Azure http://t.co/yzSFeF6Pir #Azure @AWSOMEDEVSIGNER @saramgsilva @shanselman" "Isham_M_Iqbal" FALSE FALSE 1417460629
+"443" "539495092940054528" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "amkafzal" TRUE FALSE 1417460628
+"444" "539494747162050560" "@MSFTnews @Microsoft what is that profile picture on the left" "peacefulcameron" FALSE FALSE 1417460545
+"445" "539494721115394048" "@Microsoft confirms it is acquiring the Acompli iOS and Android email app. http://t.co/sj6o90ge8S" "dscammell" FALSE FALSE 1417460539
+"446" "539494466852495360" "So I just read \" Check out the latest news about  @Microsoft \" on @LinkedIn 's @LinkedInPulse or did I :)? http://t.co/I2308XHiOx" "chidioc" FALSE FALSE 1417460478
+"447" "539494328851513345" "@Halo @Gfinity cool lets have tournaments when the game doesnt even work properly. What a bunch of thieving ass bastards @Halo @Microsoft" "DDover88" FALSE FALSE 1417460445
+"448" "539494276934418433" "Hey @Yammer &amp; @Microsoft great to be roomies! P.S. I'm laying the ping pong challenge down now... http://t.co/jTLzzecVXr" "liamgooding" FALSE FALSE 1417460433
+"449" "539494115206262786" "I am delighted to see that Pages 5 has joined honorary club member @microsoft Word 2011 in being unable to remember doc window positions." "betalogue" FALSE FALSE 1417460395
+"450" "539493909534347264" "@Microsoft @Xbox @XboxOne @XboxP3 @majornelson @yusuf_i_mehdi @XboxP3 Are we ever going to get a comment about language region lock?" "BOZG" FALSE FALSE 1417460346
+"451" "539493885228384256" "@Microsoft can u please tell me why i have been suspended from xbox live until the 15/12/14 i have done nothing wrong so plz reply and help" "cRz_sh4rpsnip3_" FALSE FALSE 1417460340
+"452" "539493414434533377" "RT @firstround: Email app @acompli just got bought by @Microsoft — Here’s how they nailed mobile user acquisition to make it happen: http:/…" "TCP" TRUE FALSE 1417460227
+"453" "539493040080302081" "Going to #NIPS2014? Check out @Microsoft's booth this year! Our machine learning/research teams will be doing amazing demos! #MLatMSFT" "RecruiterAmBush" FALSE FALSE 1417460138
+"454" "539493001823657984" "RT @WaBATs_: We arrest #TaxDodger @BillGates @Microsoft http://t.co/C5OUrgUR6K via @WaBATs_ #BoycottMicrosoft #BlackFriday #mocktrial @back…" "vashondogboy" TRUE FALSE 1417460129
+"455" "539493001819467776" "RT @WaBATs_: We arrest #TaxDodger @BillGates @Microsoft http://t.co/C5OUrgUR6K via @WaBATs_ #BoycottMicrosoft #BlackFriday #mocktrial @back…" "backboneprog" TRUE FALSE 1417460129
+"456" "539492856390766592" "Good discussion today with @Microsoft on @ProjectSiena #lowcode" "johnrrymer" FALSE FALSE 1417460094
+"457" "539492800518426624" "RT @samanthaettus: A complete native advertising fail for @microsoft but does it ever work?  #purejournalism http://t.co/wnBzmFTPqr" "i2marketing" TRUE FALSE 1417460081
+"458" "539492654242095108" "RT @hack_summit: \"I had no idea @Microsoft had made so many advances in the open source world!\" -- @ed_roman to @shanselman" "torstenmohrbach" TRUE FALSE 1417460046
+"459" "539492573547872256" "Deals for #cybermonday? See our fundsponge site to make an easy donation. Includes @amazon @BestBuy @Microsoft http://t.co/KEjtgutOW5" "bbbsvc" FALSE FALSE 1417460027
+"460" "539492486218272768" "RT @ThunderheadONE: Why @ThunderheadONE speeds @Microsoft's Dynamics #CRM #customerengagement story: http://t.co/fcQze4fubS" "robertmjanes" TRUE FALSE 1417460006
+"461" "539492243389054976" "@dvlup @kunal2383 I agree dvlup used to offer devices in many regions. Can't blame them though but @microsoft acquisition and layoffs" "wbadry" FALSE FALSE 1417459948
+"462" "539492217723711490" "Switched from outlook to @Accompli for work mail...and now @Microsoft has bought them...so back to Outlook? http://t.co/RwxivHRMvW" "jonyang1010" FALSE FALSE 1417459942
+"463" "539492195586162688" ".@shanselman today:
+\"I'm a @Microsoft employee, on Google Hangouts, on a Mac, running Chrome, talking to an Ubuntu image.\" #ProbablyGetFired" "wbic16" FALSE FALSE 1417459937
+"464" "539492094675795969" "RT @intel: Cursive to cursors. @Microsoft #SurfacePro3 http://t.co/Hm8SDxJzqv" "IrisMusson" TRUE FALSE 1417459913
+"465" "539491848838868992" "\"I had no idea @Microsoft had made so many advances in the open source world!\" -- @ed_roman to @shanselman" "hack_summit" FALSE FALSE 1417459854
+"466" "539491810687463424" "RT @rwang0: MyPOV: lot of end of year negotiations with @SAP @salesforce @microsoft @ibm in pipe for December. lots of buying in #ensw for …" "chrisvls" TRUE FALSE 1417459845
+"467" "539491790974242816" "RT @KevinHenrikson: Super excited that @acompli is joining @microsoft &gt; Wow…that was fast. Congrats @jsoltero @jjzhuang" "itickr" FALSE FALSE 1417459840
+"468" "539491692894625792" "Tuning fave station in your @microsoft car is easy using pull-down menus: car-&gt;electrical-&gt;sensory-&gt;audio-&gt;radio-&gt;broadcast-&gt;FM-&gt;presets" "IsaacSpaceman" FALSE FALSE 1417459817
+"469" "539491409217073152" "Must give credit where due. @Microsoft @surface power adapter has a USB power port on it, which means it can also charge my @microsoftband!" "MattMadderra" FALSE FALSE 1417459749
+"470" "539491048482148353" "Congrats to @peter_farago and the @acompli team in their huge deal with @Microsoft" "brdufresne" FALSE FALSE 1417459663
+"471" "539490963904016386" "Congratulations to @jsoltero the @accompli team,its institutional investors @redpointvc &amp; @satishd on your @microsoft acquisition.~23months" "Mr_ICONz" FALSE FALSE 1417459643
+"472" "539490947168735232" "RT @roelbaan: I case you missed it: @Microsoft loves @Linux #LevelUpAzure http://t.co/Sr87E8vYc6" "WillemBodde" TRUE FALSE 1417459639
+"473" "539490920065163264" "Thanks for making software where the I-beam cursor regularly disappears, @microsoft. It makes my work so much more… challenging. " "betalogue" FALSE FALSE 1417459633
+"474" "539490856391020544" "its time for @Microsoft to prove for windows phone fans that windows phone OS is a top priority just like windows, xbox, azure, office." "velocitylost" FALSE FALSE 1417459618
+"475" "539490546817835008" "More soon in a post, but with @Microsoft going cross-platform, I feel the need to do so as well to properly cover their technology." "TheTechChat" FALSE FALSE 1417459544
+"476" "539490367843090432" "RT @JohndMeyer: Learn about @HDScorp #converged solutions with @microsoft @VMware @SAP @SAPInMemory booth 572 #GartnerDC http://t.co/nTqEep…" "BenGreenbergNYC" TRUE FALSE 1417459501
+"477" "539489994461548544" "after 4 years of been windows phone fan i stopped from been a fan / stopped recommending WP to anyone because @Microsoft don't care about it" "velocitylost" FALSE FALSE 1417459412
+"478" "539489862974722049" "Congrats to @KevinHenrikson and @jjzhuang @Microsoft acquires @Acompli http://t.co/BPcAVbPkyN" "FranciscoKattan" FALSE FALSE 1417459381
+"479" "539489790433849345" "Windows 10 to Support High-End Audio Format http://t.co/SASjoBWZF3 via @Microsoft" "therealdavidoak" FALSE FALSE 1417459363
+"480" "539489763401957376" "I case you missed it: @Microsoft loves @Linux #LevelUpAzure http://t.co/Sr87E8vYc6" "roelbaan" FALSE FALSE 1417459357
+"481" "539489642140008449" ".@Microsoft cars would come optimized for Redmond so no matter where you are, when you start up, lights, wipers, heat, NPR would come on" "IsaacSpaceman" FALSE FALSE 1417459328
+"482" "539489495284867073" "India's oil-users top gainers among BSE largecaps.@BillGates @Microsoft @MSFTnews @MicrosoftUK @TataCompanies @TCS_News @TataMotors @ch9" "sayantantata26" FALSE FALSE 1417459293
+"483" "539489353559732225" "Strongly pro @microsoft pundits cite #minecraft \"user loyalty\" as rationale for $2.5B, when that is precisely what deal puts at risk #irony" "onlinesarcasm" FALSE FALSE 1417459259
+"484" "539489324882857984" ".@Microsoft buys Mobile Email App Developer Accompli to give its own Cross-Platform efforts a Shot in the Arm." "nexus_anand" FALSE FALSE 1417459252
+"485" "539489280578826241" "@Microsoft @Xbox @XboxLiveRewards Been on XBL for 10 years now and you slap me in the face for being an early adopter? #ThanksForNothing" "CornbreadWolf" FALSE FALSE 1417459242
+"486" "539489201817788416" "Study: Firms Want DevOps but Culture Is a Challenge http://t.co/SRlfCEYeXW via @Microsoft" "therealdavidoak" FALSE FALSE 1417459223
+"487" "539489150966439937" "This @Microsoft Visual Studio looks dope! It looks like a true IDE: neat and complete, besides being all integrated. @#hacksummit" "axcdnt" FALSE FALSE 1417459211
+"488" "539489136084672512" "Internet of Things Helps Asthma Patients Breathe http://t.co/1ZdJgg5ole via @Microsoft" "therealdavidoak" FALSE FALSE 1417459207
+"489" "539488978013929472" "Kardashian Is Bing's Top Search Figure for 2014 http://t.co/p21sAZ4Gcj via @Microsoft" "therealdavidoak" FALSE FALSE 1417459170
+"490" "539488902692610048" "Xbox One Beats PlayStation 4 in Sales on Black Friday  http://t.co/SkiFk4x6yx via @Microsoft" "therealdavidoak" FALSE FALSE 1417459152
+"491" "539488856559464448" "If @Microsoft built cars they'd have 27 gears &amp; separate clutches for up- &amp; downshifting &amp; every 5 years they'd flip the gas &amp; brake pedals" "IsaacSpaceman" FALSE FALSE 1417459141
+"492" "539488455437209600" "RT @EssexKIRO7: Rev. Jackson in W. Western WA to push @Microsoft and @amazon to hire more workers/executives of color. http://t.co/ix3tyOP7…" "jdormansteele" TRUE FALSE 1417459045
+"493" "539488410423930880" "@Microsoft @MicrosoftStore: Microsoft's Store has best #CyberMonday Deals PERIOD &amp; I've visited every major store site since sales began!" "BabyBlueTarh33l" FALSE FALSE 1417459034
+"494" "539488338227363840" "@Microsoft @nokia @windowscentral @wmpoweruser @Lumia #Lumia 720 wp dev prev lady update very buggy #very#upset missing @nokia" "ankurdalal1993" FALSE FALSE 1417459017
+"495" "539488310150717440" "Of all the stupid things, #WindowsMediaPlayer just locked up my computer. What the hell @Microsoft?" "therobgillespie" FALSE FALSE 1417459011
+"496" "539488289611186177" "#SkypeForAndroid 2/2 - Unlike @Microsoft 2 authorize monopoly of its property &amp; deprive ppl of their basic civil rights. #Skype #Technology" "Netsbridge" FALSE FALSE 1417459006
+"497" "539488288969465856" "RT @acompli: \"FWD: Microsoft Acquires Acompli\" - Acompli CEO @jsoltero talks about @Microsoft acquisition in blog post: https://t.co/pD8wQ1…" "sandydamy" TRUE FALSE 1417459005
+"498" "539488120115171328" "My favorite quote from https://t.co/zQCJagI8df so far:
+(In reference to @Microsoft open source)
+\"It's not a lie.\" --@shanselman" "wbic16" FALSE FALSE 1417458965
+"499" "539487882168131586" "Pick me! I just entered to win a @Microsoft Band. http://t.co/09nshxuiJx Join @BingRewards to earn gift cards &amp; more." "farfalle36" FALSE FALSE 1417458908
+"500" "539487772776869888" "@SurfaceFrance No one in their right mind would buy your piece of crap. That simple! @microsoft" "ScotinFrance" FALSE FALSE 1417458882

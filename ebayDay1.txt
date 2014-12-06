@@ -1,0 +1,204 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539569611318906880" "Check out CLEVELAND INDIANS 1998 ULTRA DOUBLE TROUBLE JIM THOME MATT WILLIAMS FREE SHIP  http://t.co/O4dMRrnPLS via @eBay" "brunerhogs" FALSE FALSE 1417478394
+"2" "539569606726144000" "#Boys #Zombie #Costume Halloween Convict Size L 10 12 4 Pieces Mask Hat Top Pants #CosPlay #GotPicks http://t.co/eiSOEaKqxs via @eBay" "BriansBookhouse" FALSE FALSE 1417478393
+"3" "539569606260584449" "Check out Brown Oil Tanned Mens Womens Genuine Leather Belt Snap On Buckle Small 32\" #Unbrand http://t.co/EYIuN285fI via @eBay" "uniklook" FALSE FALSE 1417478393
+"4" "539569606218633216" "Check out ROOSTER - HEN - BABY CHICK -  &amp;  TWO  EGGS  DECORATIVE  FIGURINES  FOR THE HOUSE  http://t.co/hTvqp8aRQM via @eBay" "greggbailey1" FALSE FALSE 1417478393
+"5" "539569593493118976" "RT @mileshstandish: A friend is selling his Mamiya RZ kit: Check out Mamiya RZ67Proii , 4 lenses, many, many extras. http://t.co/Wj86vUc2Fp…" "nortypig" TRUE FALSE 1417478390
+"6" "539569580344360960" "RT @mommye: How To Make Pretty Cake Pops For Any Occasion http://t.co/aKTZJL6nBc @eBay #eBayGuides #cakepops #desserts http://t.co/LXKnb5Kh…" "kellystilwell" TRUE FALSE 1417478387
+"7" "539569579257643008" "RT @Resurrections22: Check out Vintage Knit Mauve Pink Afghan Large 76x 57 Shabby Chic fits Full size Bed #HandKnit http://t.co/fgfsIWA6XQ …" "IAMtheGoodLife" TRUE FALSE 1417478387
+"8" "539569576040624128" "@mileshstandish @eBay Nice kit :)" "nortypig" FALSE FALSE 1417478386
+"9" "539569568113782785" "RT @GoldBaseballs: 24kt gold leather @whitesox  baseball on sale now $39 Retail $179 #Rawlings #CyberMonday @mlb http://t.co/eydUcRUTdt via…" "Mackenzie_Valk" TRUE FALSE 1417478384
+"10" "539569566725468160" "RT @VintagePhilly: Check out Cigarette Advertising Camel Lucky Strike 2 Issues The Golden Book Magazine 1932   http://t.co/yhkBQL7wSw via @…" "BriansBookhouse" TRUE FALSE 1417478384
+"11" "539569559762505728" "RT @Cargo_Pal: #Studebaker #Headlight #Lamo Bar for 29-31 Studebaker President/Champion RatRod #Antique @ebay http://t.co/3ldKLsRSW8 http:/…" "IAMtheGoodLife" TRUE FALSE 1417478382
+"12" "539569559032705025" "Check out Vintage The Grand Hotel Taipei Taiwan Republic of China Conversion Table Card  http://t.co/OG7ofpIK6g via @eBay" "BrianVanBergen" FALSE FALSE 1417478382
+"13" "539569552699719681" "RT @VintagePhilly: Check out Eastman Kodak Electric 8 Camera Remote Control Cord 25 ft. Vintage Accessory  http://t.co/yikyhezAsL via @eBay" "BriansBookhouse" TRUE FALSE 1417478380
+"14" "539569549813624832" "Check out THE TERRITORY AHEAD Mens Patterned Texture Sweater Casual Solid Blue Medium M #Crewneck http://t.co/Bk0zOolvm2 via @eBay" "sofia2012" FALSE FALSE 1417478380
+"15" "539569519765618689" "Check out DeWalt XRP DC926 18V 1/2\" + dc9096 xrp battery 18v+dw9116 charger cordless drill http://t.co/7F3nqzQcoR @eBay" "cpeek1" FALSE FALSE 1417478372
+"16" "539569515785248768" "Check out NEW Forever 21 PLUS SIZE No Fuss Skater Dress IN RED Size 1X #FOREVER21 #Casual http://t.co/a8rpWIIIdm via @eBay#bbw#plusize#sales" "kimbegalore" FALSE FALSE 1417478371
+"17" "539569490246131712" "Check out Arizona XL Black Ribbed Ugly Christmas Sweater Smiley Face Gold Tooth Cupcakes #Arizona http://t.co/YoR6SvDwNX via @eBay" "Geescorvette" FALSE FALSE 1417478365
+"18" "539569421556002817" "Check out ``SKULL BUTTERFLY``  Duvet Cover  KING  http://t.co/USoSzf5J4v via @eBay" "just3js" FALSE FALSE 1417478349
+"19" "539569412886384641" "Check out HP Envy Touchsmart17t-j100 Notebook 17.3\",1TB and 2.40GHZ 8gb Ram Brand New http://t.co/C3Y7YjJ4TI @eBay" "cpeek1" FALSE FALSE 1417478347
+"20" "539569402916519937" "RT @Kybunker: @Msebayingflynn @TheinstaRT #Christmas #Shutthefrontdoor #Baby Phat Wristet Patent Leather Handbag  http://t.co/qk5aqfQNG5 vi…" "IAMtheGoodLife" TRUE FALSE 1417478345
+"21" "539569393621934080" "Check out Snooki Legs Ultra Dark Leg Bronzer Indoor Tanning Lotion Hair Growth Inhibitors  http://t.co/NowZ8QmXRs via @eBay" "jayjoestrinkets" FALSE FALSE 1417478342
+"22" "539569363553366016" "Check out Vintage Nike Allen Iverson Sixers Jersey - Sewn Authentic - Sz XL - NEW Unworn http://t.co/YFdAOstsNQ @eBay #Answer #Sixers" "Poman73" FALSE FALSE 1417478335
+"23" "539569346691887104" "Check out KMS California Hair Stay Styling Gel 25.3 oz / 750 ml hairstay #KMS http://t.co/Odgi1ESwsw via @eBay" "AndromedaBeauty" FALSE FALSE 1417478331
+"24" "539569319365984256" "Black Faux Leather Leggings with Elastic Waistband and Front Seam Detail  http://t.co/3hW8rWM4OH http://t.co/RMFWtP3Vnq via @eBay" "BZfashions" FALSE FALSE 1417478325
+"25" "539569152231755776" "@SpaceshipsLB @momsandmunchkin @eBay I am in love of them WOW!" "VioletitaBonita" FALSE FALSE 1417478285
+"26" "539569136477962240" "RT @neenausplace: Women's Misses Casual Outfit Fall/Winter Clothing Lot Size 2p  http://t.co/WKbEyQEIJt http://t.co/j9wFWEb4TK via @eBay" "opart21" TRUE FALSE 1417478281
+"27" "539569121713598464" "Check out VTG-ORIENTAL, Wood Box,Jewelry-Jade Carving,GOOD COND,RARE,MUST SEE  http://t.co/hntp5qSIiS via @eBay" "antykathera" FALSE FALSE 1417478277
+"28" "539569120463708160" "Cyber Monday deals are live!  http://t.co/vvx32gPoDd #CyberMonday @eBay @NewEgg
+@rosettastone @CyberLink" "DLSoftwareDeal" FALSE FALSE 1417478277
+"29" "539569119176052736" "GET CLASSIC VINYL RECORDS FOR HOLIDAY PRICES!!! #HolidayShopping http://t.co/2OVSeH9ZSJ via @eBay" "CheddaBeatz1" FALSE FALSE 1417478277
+"30" "539569102935691264" "Check out Avon Solutions #DramaticFirmingCream  LOT OF 2 New in Jar #Avon http://t.co/h0y98CyJ6u via @eBay
+#antiaging  #skincare" "WVHandcrafts" FALSE FALSE 1417478273
+"31" "539569067657404417" "Check out ``LAVA 2``   Shower Curtain  http://t.co/dc7pGggltw via @eBay" "just3js" FALSE FALSE 1417478265
+"32" "539569029917069312" "Women's Misses Evening Wear Outfit Fall/Winter Clothing Lot Size Large  http://t.co/GZSjTwxx19 http://t.co/QDdk9Mdfun via @eBay" "neenausplace" FALSE FALSE 1417478256
+"33" "539569004533530624" "RT @SpaceshipsLB: Take a moment to check out these #Alligator #Birthday #Party Ideas I'm sharing on @eBay http://t.co/cL4Xebapi7 http://t.c…" "VioletitaBonita" TRUE FALSE 1417478250
+"34" "539568987810856960" "RT @Kybunker: $13!Monet #Christmas Is on #FIre this year! Some1 Get me Freshwater Pearl Necklace  http://t.co/oFqpNdc4aI http://t.co/k3YDjv…" "MaikoSucich" TRUE FALSE 1417478246
+"35" "539568978813661186" "Look what I found on @eBay! http://t.co/HidXBTLLZ2 via @eBay" "Kayleenbh11" FALSE FALSE 1417478243
+"36" "539568968210464769" "On sale now!  #Joie fabuous chevron #wool #cashmere sweater. #fashion #fabulous #sale #shopping #gifts http://t.co/pFtjA2uJm5 via @eBay" "RiciclareModa" FALSE FALSE 1417478241
+"37" "539568967325458432" "14K White Gold 2.5\" x 1.5\" 558 Diamonds 1.82TDW Cross Pendant - Appraised $5500 #yyj #ShopLocal http://t.co/JtUxB7jzkP via @eBay" "BarclayExchange" FALSE FALSE 1417478241
+"38" "539568947587084288" "Hundreds of vinyl records low reduced prices!!!  #Rock #HardRock #Jazz #Metal #RB #Soul #Vinyl http://t.co/2OVSeH9ZSJ via @eBay" "CheddaBeatz1" FALSE FALSE 1417478236
+"39" "539568946253283328" "Check out Vittorio, The Vampire, Anne Rice, Hard Cover Novel, Like New  http://t.co/kgKUJ5iJRA via @eBay" "athomepetgroom" FALSE FALSE 1417478236
+"40" "539568944948846592" "RT @cindygallop: Gosh. Documents Show How @ebay's Meg Whitman &amp; Pierre Omidyar Conspired To Steal Craigslist's Secrets @markamesexiled http…" "yashalevine" TRUE FALSE 1417478235
+"41" "539568914502406144" "Check out Vintage 1983 PB of Thinking About The Next War by Thomas Powers  http://t.co/tKasvIoM78 via @eBay" "BindingsShoppe" FALSE FALSE 1417478228
+"42" "539568879056326656" "Check out K&amp;K GAMES BEAN BAG COLLECTION  SET OF 6 AMERICAN PRESIDENTS 10' BEANIE PLUSHES! #KKGames http://t.co/QVA3OfAniS via @eBay" "Micko5555" FALSE FALSE 1417478220
+"43" "539568795811999744" "RT @happyhippyshack: Westside Skirt One Size Boho Hippy Peasant Broomstick Gauzy Cotton Ombre Crinkle  http://t.co/cFa1RpECWk http://t.co/o…" "hayden4561" TRUE FALSE 1417478200
+"44" "539568790795603968" "Check out Vintage Brass Buck Deer 8 Point Antlers Christmas Decoration 14 1/4\" Tall   http://t.co/KVJML1HMIh via @eBay" "BrianVanBergen" FALSE FALSE 1417478199
+"45" "539568787930894336" "Check out Nighttime Is My Time by Mary Higgins Clark (2005, Paperback)  http://t.co/E18rjXUUKx via @eBay" "BindingsShoppe" FALSE FALSE 1417478198
+"46" "539568772156100608" "Check out Free Shipping! NCAA Texas Longhorns Distressed Team Logo Shirt! Size: Adult  XL.  http://t.co/h3oBLE7ujQ via @eBay" "Micko5555" FALSE FALSE 1417478194
+"47" "539568750568038401" "Hundreds of vinyl records at the best prices on the web!!! #Rock #HardRock #Jazz #Metal #RB #Soul #Vinyl http://t.co/2OVSeH9ZSJ via @eBay" "CheddaBeatz1" FALSE FALSE 1417478189
+"48" "539568729827586048" "Check out Epson Stylus Photo 1270 Inkjet Printer http://t.co/Zq2KXoQiIP @eBay #cybermonday" "Rukchand" FALSE FALSE 1417478184
+"49" "539568727235100672" "Check out Samsung Intercept Cell Phone Virgin Mobile Storage Capacity 256 MB #Samsung #Slider http://t.co/QefG14fXeP via @eBay #technology" "anoisyquiet" FALSE FALSE 1417478183
+"50" "539568711552995329" "RT @ForecastFacts: RT if, on this #CyberMonday, you won't buy anything off @eBay until they drop ALEC's climate denial #ALECexodus #ALECexp…" "neilgundel" TRUE FALSE 1417478180
+"51" "539568681974759426" "20 minutes left! David Bowie LP Hard Meat and Limp Hits Imp blue splatter color vinyl 1973 NM  http://t.co/E7z2vihZZD via @eBay" "MySaleRocks" FALSE FALSE 1417478173
+"52" "539568669081501699" "Check out easterleigh-animal-sanctuary s profile on @eBay and see their favourite finds and more: http://t.co/KmOU8LWSo8 via @eBay_UK" "easterleigh" FALSE FALSE 1417478170
+"53" "539568648675794944" "Check out Five Patients : The Hospital Explained by Michael Crichton (1989, Paperback)  http://t.co/US0kFfOD8A via @eBay" "BindingsShoppe" FALSE FALSE 1417478165
+"54" "539568641436430337" "Check out Shria Novelli NOBA  M Medium Solid Charcoal Gray Sweater cardigan  Women   ITALY  http://t.co/1FozhfXtbd via @eBay" "sofia2012" FALSE FALSE 1417478163
+"55" "539568554396250112" "Check out Hurricane by Karen Harper (2006, Paperback)  http://t.co/qJVC2IULKx via @eBay" "BindingsShoppe" FALSE FALSE 1417478142
+"56" "539568514743271424" "Women's Misses Casual Outfit Fall/Winter Clothing Lot Size 3  http://t.co/jeMsoCZ6Q3 http://t.co/iA7uENe6Wz via @eBay" "neenausplace" FALSE FALSE 1417478133
+"57" "539568513791578113" "PERSONALIZED 5SOS With Fan HEART Necklace - Luke,Michael,Calum,Ashton   http://t.co/A3Zflt6RN1 via @eBay http://t.co/NDGv8ISKyM" "Iluvyouthisbig" FALSE FALSE 1417478133
+"58" "539568502495924224" "Yellow by juliasartpathpaintings http://t.co/0HyHwiO52D via @eBay" "Juliasartpath" FALSE FALSE 1417478130
+"59" "539568499631595520" "Check out Limited Al Pacino Scarface Collectors Item  http://t.co/iEc4hGRiTg @eBay" "GIGIpetite1" FALSE FALSE 1417478129
+"60" "539568483437383680" "RT @GoldBaseballs: On sale now $39 Retail $179.99 @angels 24KT Gold Baseball Quantities Limited #rawlings #cybermonday http://t.co/t90V3FmF…" "bolg5" TRUE FALSE 1417478125
+"61" "539568464328151041" "RT @Kybunker: @Msebayingflynn @TheinstaRT #Christmas #Shutthefrontdoor #Baby Phat Wristet Patent Leather Handbag  http://t.co/qk5aqfQNG5 vi…" "MsEbayingFlynn" TRUE FALSE 1417478121
+"62" "539568440667680768" "Womens Jacket by checkers_126 http://t.co/0pkIK6KVTu via @eBay" "hobogirl49" FALSE FALSE 1417478115
+"63" "539568428814589952" "Check out Dead Man's Cat by Carol Beach York (1982, Paperback)  http://t.co/8q0xpxQaTa via @eBay" "BindingsShoppe" FALSE FALSE 1417478112
+"64" "539568414902484992" "Check out Black &amp; Decker Belgian Waffle Maker http://t.co/DdaEWdVauz @eBay #kitchenappliance #wafflemaker #sale" "leatheretlace" FALSE FALSE 1417478109
+"65" "539568372048883712" "Blue by juliasartpathpaintings http://t.co/ojVkbpXjsl via @eBay" "Juliasartpath" FALSE FALSE 1417478099
+"66" "539568346505936896" "Check out Disney The Desk Collection Pinocchio Paperclip Holder Figurine - Goldfish http://t.co/ksm7mfNBZT @eBay" "TheMysticBucket" FALSE FALSE 1417478093
+"67" "539568341405663233" "RT @LornajaneCosign: Check out Angels Edition PRECIOUS MOMENTS New King James Version bible 1984  http://t.co/ynRABFUUcx via @eBay" "jentaseski" TRUE FALSE 1417478091
+"68" "539568336078503937" "Check out High Flight 5 by David Hagberg (1996, Paperback, Revised)  http://t.co/Lpzpa2YcYY via @eBay" "BindingsShoppe" FALSE FALSE 1417478090
+"69" "539568332345602049" "Check out Vintage Tablecloth 50s RED CABBAGE ROSES DAISIES NAVY RED Cottage ex colbalt  http://t.co/IKHHtaoCQL via @eBay" "vintagekath" FALSE FALSE 1417478089
+"70" "539568328008675328" "Check out NEW Magic Curves Full Body Long Leg Shaper NUDE Style#6732 L/XL Enhance bust #BodySuits http://t.co/yhTEWu6JwH via @eBay" "MadisonsAvenue1" FALSE FALSE 1417478088
+"71" "539568324107964416" "Check out Vintage Folk Art Hand Painted Baby Owl on Branch Wood Round Shape Wall Hanging  http://t.co/cHWdlolwAb via @eBay" "BrianVanBergen" FALSE FALSE 1417478087
+"72" "539568311173132288" "Check out Pinocchio #Disney The Desk Collection Address Organizer Rolodex  http://t.co/LjtaEURjbZ @eBay" "TheMysticBucket" FALSE FALSE 1417478084
+"73" "539568306424778753" "Check out DC Comic Book - Superman - Statue of Liberty Diorama - Draw Family-Poster-1975  http://t.co/tBhjE2J2oq via @eBay" "Jobella111" FALSE FALSE 1417478083
+"74" "539568274682281984" "Check out DUCK DYNASTY Rockin SI Santa Sings &amp; dances NEW   http://t.co/uIIWTyA8wR via @eBay" "MadisonsAvenue1" FALSE FALSE 1417478076
+"75" "539568263420596226" "Check out #Grumpy Sweatshirt M Womens #BahHumbug #Disney Gray #Fleece Applique #Christmas #GotPicks http://t.co/ZJZ6TxF8fs via @eBay" "BriansBookhouse" FALSE FALSE 1417478073
+"76" "539568258849206272" "Check out 7pc Lot Vintage Pewter Figures International Spoontiques Hudson Kids Playing http://t.co/0v031CI1mi @eBay" "TheMysticBucket" FALSE FALSE 1417478072
+"77" "539568244185911296" "RT @VintagePhilly: Check out 8mm Animation Top Cat Dibble's Double Black &amp; White Screen Gems Silent Movie  http://t.co/14sZdI2BE7 via @eBay" "BriansBookhouse" TRUE FALSE 1417478068
+"78" "539568234131767298" "Check out #Pearl  pin  http://t.co/qYTUR01STh via @eBay RT" "30DaRdAn" FALSE FALSE 1417478066
+"79" "539568232597045248" "Check out Vintage Westrim Crafts 10.5\" Stuffed Doll Body #8944 1 pc For 18-20in Doll NEW http://t.co/aEMU8YdTuD @eBay" "TheMysticBucket" FALSE FALSE 1417478066
+"80" "539568220701614080" "Check out Bulk Lot of Jim Carrey Movie Books ( Paperback )  http://t.co/05ifdAUOzM via @eBay" "BindingsShoppe" FALSE FALSE 1417478063
+"81" "539568203111071744" "Check out Orange is the New Black Notebook Journal + Screwdriver Toy RARE!! Netflix Promo http://t.co/mufA13aRP4 @eBay" "TheMysticBucket" FALSE FALSE 1417478058
+"82" "539568196831821825" "Check out LOT OF 2 SYNDEE'S CRAFTS 12\" Baby Doll Clothing and Syndee Doll Clothing  Sewing  http://t.co/ak4z2uQLqE via @eBay" "lorisouthshore" FALSE FALSE 1417478057
+"83" "539568155564068866" "Check out FREE Shipping! Original Tag Garfield \"Happy Camper\" Plush From 1981! Retro &amp; Fun #Dakin http://t.co/GXnsDhj5fW via @eBay" "Micko5555" FALSE FALSE 1417478047
+"84" "539568153865756672" "RT @LornajaneCosign: Check out Angels Edition PRECIOUS MOMENTS New King James Version bible 1984  http://t.co/ynRABFUUcx via @eBay" "homespunitems" TRUE FALSE 1417478047
+"85" "539568134152130560" "Check out Vintage Sterling Silver Beau Oval Filigree  Ring sz8  http://t.co/loH9CzB31y via @eBay" "30DaRdAn" FALSE FALSE 1417478042
+"86" "539568125365088256" "Check out Designer 18k 925 Sterling Silver 'Scott Kay' Equestrian Ring Band Size 6.5  #ScottKay http://t.co/6L9fOfTvDV via @eBay" "TheButterflyBox" FALSE FALSE 1417478040
+"87" "539568120197701633" "Look what I found on @eBay! http://t.co/t1bGdnTBht via @eBay" "Kayleenbh11" FALSE FALSE 1417478039
+"88" "539568105718956032" "Check out Firefall  \"Elan\" LP - Record = Fair , Sleeve = GOOD #Rock #Firefall  http://t.co/zb9BKYHipF via @eBay" "CheddaBeatz1" FALSE FALSE 1417478035
+"89" "539568062027284481" "Rare Tea Pot Ink Well 1830-1850's on sale now @eBay 
+http://t.co/f2ypMd4GVh http://t.co/GTVgAUpg7M" "alicias_attic" FALSE FALSE 1417478025
+"90" "539568058415591425" "Check out Andrea by Sadek Winter Birds and Wreath American Tree Sparrow Coffee Cup Mug Tea  http://t.co/uRMSzqOjzM via @eBay" "BrianVanBergen" FALSE FALSE 1417478024
+"91" "539568054070300672" "Check out Firefall  \"Elan\" LP - Record = EXCELLENT , Sleeve = GOOD+ #Rock http://t.co/wVBKQh1nD2 via @eBay" "CheddaBeatz1" FALSE FALSE 1417478023
+"92" "539568051104911360" "Poem Entitled: Buying @KevinSpacey on @eBay" "katsaysbark" FALSE FALSE 1417478022
+"93" "539568035741184000" "Check out Sideways Arithmetic from Wayside School by Louis Sachar (1994, Paperback)  http://t.co/N6aRvj24dp via @eBay" "BindingsShoppe" FALSE FALSE 1417478019
+"94" "539568030246641664" "Check out #Wooden #cross crucifex 5\" cross  http://t.co/CRyDjEB13a via @eBay RT" "30DaRdAn" FALSE FALSE 1417478017
+"95" "539568022944378880" "Check out Hank Crawford \"Wildflower\", 1973 KUDU / Arranged by Bob James - (SEE DETAILS) #Funk #Vinyl http://t.co/sgJcXO1Zvr via @eBay" "CheddaBeatz1" FALSE FALSE 1417478016
+"96" "539568010248216576" "Check out Marvel Comics John Carter Warlord of Mars (July 2, 1977 )!!!  http://t.co/5G2cxitKty via @eBay" "KingsAntiques" FALSE FALSE 1417478012
+"97" "539567990316875776" "Check out COVERALLS FLYERS CWU-27/P CLASS 2 TAN 380 44S   http://t.co/OLNRC4l0Gd via @eBay" "Ptlp23" FALSE FALSE 1417478008
+"98" "539567984117682176" "Women's Misses Casual Outfit Fall/Winter Clothing Lot Size 2p  http://t.co/WKbEyQEIJt http://t.co/j9wFWEb4TK via @eBay" "neenausplace" FALSE FALSE 1417478006
+"99" "539567974802149376" "Check out Fossil ZB5994919 Keyper Backpack Floral grey orange Coated Canvas book bag NWT*^ #Fossil http://t.co/3d8b4rkRmV via @eBay" "shellzo6" FALSE FALSE 1417478004
+"100" "539567954279403521" "Check out BILL COSBY Vintage 1960's-1970's, 4x5 in. Photograph, Black &amp; White, Picture  http://t.co/IvH6BMlH4g via @eBay" "athomepetgroom" FALSE FALSE 1417477999
+"101" "539567953058877440" "Check out STYX - \"Pieces of Eight\" LP, A&amp;M 1978 - (VG+) #Rock #Styx http://t.co/RLSqLUv6Ei via @eBay" "CheddaBeatz1" FALSE FALSE 1417477999
+"102" "539567942870917121" "Check out Murder Revisited by Frank Roderus and Steve Brady (1996, Paperback)  http://t.co/G0D4fJKdAi via @eBay" "BindingsShoppe" FALSE FALSE 1417477996
+"103" "539567921677500416" "Check out LADY IN RED by Emo Raphiel Astoria signed art  banksy photo un http://t.co/3ozX31iItb @eBay live auction" "EmoUrbanArt" FALSE FALSE 1417477991
+"104" "539567900823023616" "Check out STYX \"Pieces of Eight\" LP, A&amp;M 1978 - (VG+) #Rock #Styx http://t.co/GDxHvLd9PM via @eBay" "CheddaBeatz1" FALSE FALSE 1417477986
+"105" "539567890744111104" "Check out #Women 14k #Gold Rings size 5  http://t.co/dZAU30yqTD via @eBay RT" "30DaRdAn" FALSE FALSE 1417477984
+"106" "539567872561782786" "Check out The Case of the Groaning Ghost 32 by James Preller (2007, Paperback)  http://t.co/IswWcPqF50 via @eBay" "BindingsShoppe" FALSE FALSE 1417477980
+"107" "539567865352163330" "RT @madewithloveby: Check out Zig Zag Stripe Maxi Dress Size Medium M #CristinaLove #Maxi #Casual http://t.co/01MJz0HAey via @eBay" "LornajaneCosign" TRUE FALSE 1417477978
+"108" "539567859324956674" "RT @neenausplace: Women's Misses Career Casual Outfit Fall/Winter Clothing Lot Size 12p #BananaRepublic http://t.co/58qG7Jomyy via @eBay" "opart21" TRUE FALSE 1417477977
+"109" "539567800709169152" "Check out The Hunt by William Diehl (1991, Paperback)  http://t.co/szMkRAwHqS via @eBay" "BindingsShoppe" FALSE FALSE 1417477963
+"110" "539567785924259840" "RT @30DaRdAn: Check out Olive #Wood #Cross Crucifix Relics Jerusalem #holyland gift   http://t.co/2JfgI91TjH via @eBay RT" "RoundupCity" TRUE FALSE 1417477959
+"111" "539567781499265026" "Check out Stonewall Jackson - A Tribute To Hank Williams LP \"360 Sound\" (G+) - SEE DETAILS  #Country http://t.co/ozHSPfUzQQ via @eBay" "CheddaBeatz1" FALSE FALSE 1417477958
+"112" "539567778772967424" "Check out VANCOUVER CANUCKS 1971-72 TOPPS MURRAY HALL EX+ CONDITION FREE SHIPPING  http://t.co/0zHfKdDqMX via @eBay" "brunerhogs" FALSE FALSE 1417477957
+"113" "539567762289336320" "Check out Mesh #Ring with Heart All Sterling #Silver 925 by #Tiffany size 6  http://t.co/uvRPMTvDG9 via @eBay #women RT" "30DaRdAn" FALSE FALSE 1417477953
+"114" "539567760401891328" "Check out Zig Zag Stripe Maxi Dress Size Medium M #CristinaLove #Maxi #Casual http://t.co/01MJz0HAey via @eBay" "madewithloveby" FALSE FALSE 1417477953
+"115" "539567741850501120" "Check out East Side Collection Hooded Argyle Dog Sweater - Navy L #EastSideCollection http://t.co/tBMhFK2GkM via @eBay" "CastleMountain4" FALSE FALSE 1417477948
+"116" "539567741326196736" "RT @SpaceshipsLB: Take a moment to check out these #Alligator #Birthday #Party Ideas I'm sharing on @eBay http://t.co/cL4Xebapi7 http://t.c…" "momsandmunchkin" TRUE FALSE 1417477948
+"117" "539567726696484864" "Check out Vintage Sterling Silver, 3D Gold Miner Panning Sifting Gold, Charm / Pendant     http://t.co/X4UUZySbpq via @eBay" "TastefullySilve" FALSE FALSE 1417477945
+"118" "539567723236163585" "Check out Charlotte Olympia Red #Aries #Swarovski #Zodiac Shoes Flats Loafers 40 10 bag  #charlotteolympia http://t.co/4bO8VkJtxZ via @eBay" "DivaDealz" FALSE FALSE 1417477944
+"119" "539567720652472320" "Check out Jove 1st edition PB of Extreme Instinct by Robert W. Walker  http://t.co/8CIqmt7dmA via @eBay" "BindingsShoppe" FALSE FALSE 1417477943
+"120" "539567720128204800" "Check out Stainless Steel Hand Whisk Egg Cream Mixer Stirrer Beater  http://t.co/INZ0j9wEoD via @eBay" "jolian2" FALSE FALSE 1417477943
+"121" "539567718748270593" "Check out Harold Melvin And The Blue Notes \"Reaching For The World\" LP - (EXCELLENT COND.) #HaroldMelvin  http://t.co/zl5EEx8unB via @eBay" "CheddaBeatz1" FALSE FALSE 1417477943
+"122" "539567686229835776" "Check out christmas taper candles 4 pcs lot green red gold blue wax glitter twist holiday  http://t.co/UL0cEY7Qwo via @eBay" "talmorkarmi" FALSE FALSE 1417477935
+"123" "539567678151593984" "#Sale!!! SMARTOUCH ISOTONER MEN TOUCHSCREEN COMPATIBLE BLACK GLOVES NWT MSFRP $50.00 #Isotoner http://t.co/GDlbHlvLGR via @eBay" "lady1max" FALSE FALSE 1417477933
+"124" "539567676503642113" "RT @24InMyMind: Vans Star Wars Sneakers Tennis Shoes, Size 4 #VANS http://t.co/wfAvpqkh3V via @eBay http://t.co/PUskoPk20P" "jentaseski" TRUE FALSE 1417477933
+"125" "539567666483433472" "RT @24InMyMind: Vintage Crochet Blanket Throw Handmade Square 52 x 52 inches http://t.co/asy14RmIFS via @eBay http://t.co/PUskoPk20P" "jentaseski" TRUE FALSE 1417477931
+"126" "539567656098340864" "RT @24InMyMind: Land's End Heavy Cotton Chunky Full Zip Turtleneck, Petite Large #ChristmasGiftIdeas http://t.co/tsRcAtChOs via @eBay http:…" "jentaseski" TRUE FALSE 1417477928
+"127" "539567646597865472" "Check out  1st Edition Fear Street: College Weekend by R.L. Stine Horror Paperback   http://t.co/xW73DQpU4r via @eBay" "BindingsShoppe" FALSE FALSE 1417477926
+"128" "539567644253237250" "RT @BklynTrini01: WHOLESALE ROLLING PAPER @eBay: http://t.co/npJgfQnhCS via @eBay" "KRBonETSY" TRUE FALSE 1417477925
+"129" "539567638679023616" "The PERFECT top! Fashion Tunic Top Shirt Long Sleeve Tee Asymmetrical Hem - LARGE #na #BasicTee http://t.co/Y3xBb7rFPW via @eBay" "PartyPlanPower" FALSE FALSE 1417477924
+"130" "539567633990176769" "RT @BklynTrini01: Check out my 4 Pack ~ KANHAI Rolling Paper on @eBay: http://t.co/XFGsJVeFKU via @eBay" "KRBonETSY" TRUE FALSE 1417477923
+"131" "539567627161456641" "Check out Lot of 2 Records by The Moody Blues!! 2 Moody Blues Albums!! See details!! #BluesRock #MoodyBlues http://t.co/soUKs3gJNi via @eBay" "CheddaBeatz1" FALSE FALSE 1417477921
+"132" "539567622883659776" "RT @BklynTrini01: #1 Rolling Paper on @eBay: http://t.co/XFGsJVeFKU via @eBay" "KRBonETSY" TRUE FALSE 1417477920
+"133" "539567614658220032" "Check out  East Side Collection Flurry Dog Sweater  Medium #EastSideCollection http://t.co/aKiBuARC7p via @eBay" "CastleMountain4" FALSE FALSE 1417477918
+"134" "539567612141654016" "RT @manyonerise: ENDS DEC 4th! Lucky Brand Long Denim Skirt Thigh High Slits Woman 2 - 4 Boho Blue Jean  #Maxi http://t.co/9IDtgyYwHo #fash…" "IAMtheGoodLife" TRUE FALSE 1417477918
+"135" "539567599843946496" "Check out  WALL  clock ..CLOCK   LIGHT,MOUNTED  PROJECTION clock..wall #Specialdesign http://t.co/dSNcKUc5yq via @eBay. H" "selecta6" FALSE FALSE 1417477915
+"136" "539567589521768449" "Check out Ceiling Fan Lighting Cooling Western Home Improvement 52\" Natural Iron Light New  http://t.co/AByaYah3JR via @eBay" "EachEverything" FALSE FALSE 1417477912
+"137" "539567566965207041" "RT @IAMtheGoodLife: THANK YOU so much on this #CyberMonday for bids &amp; buys HAPPY HOLIDAYS! We buy &amp; sell @eBay GRATEFUL to serve you! http:…" "homespunitems" TRUE FALSE 1417477907
+"138" "539567557682798592" "Check out  99 fear Street: The House of Evil by R.L. Stine 1st Edition Paperback Horror  http://t.co/dBYPSULV66 via @eBay" "BindingsShoppe" FALSE FALSE 1417477905
+"139" "539567555786969088" "Check out happy birthday gift foot and hand cream women girl high quality menthol camphor #Sabon http://t.co/dDJY7tOA1L via @eBay" "talmorkarmi" FALSE FALSE 1417477904
+"140" "539567550850281474" "Check out MINNESOTA NORTH STARS 1971-72 TOPPS BOB NEVIN EXEX+ FREE SHIPPING #MinnesotaWild http://t.co/LM0JTNN79g via @eBay" "brunerhogs" FALSE FALSE 1417477903
+"141" "539567544084885504" "Check out #Antique Rogers and hamilton #silver spoon #RogersHamilton http://t.co/Z25GtnG0MG via @eBay RT" "30DaRdAn" FALSE FALSE 1417477901
+"142" "539567538665824256" "Check out Mike Nichols &amp; Elaine May \"Examine Doctors\" LP - Record = GOOD+ , Sleeve = FAIR-  http://t.co/JNDAIx1gWR via @eBay" "CheddaBeatz1" FALSE FALSE 1417477900
+"143" "539567509699960832" "Check out Patchwork Bell Bottom Jean 70s Boho Gypsy Hippie Size 4 Upcycled American Eagle  http://t.co/BsB47pVMJg via @eBay" "CreationsByTam" FALSE FALSE 1417477893
+"144" "539567503685726208" "RT @BarclayExchange: Heavy 24K Yellow Gold 20\" Twist Curb Link Chain - 37.85 Grams #yyj #ShopLocal  http://t.co/QhodCmLqLq via @eBay" "EsquimaltToday" TRUE FALSE 1417477892
+"145" "539567498174013440" "Check out Zack &amp; Zoey Fur-Trimmed Dog Parka M #ZackZoey http://t.co/XsznJkjg3K via @eBay" "CastleMountain4" FALSE FALSE 1417477890
+"146" "539567492025176065" "Check out Lot of 2 Foreigner Records!! (2 Foreigner Records!!) SEE DESCRIPTION!! #Rock #Foreigner http://t.co/PKOun5stha via @eBay" "CheddaBeatz1" FALSE FALSE 1417477889
+"147" "539567472462942208" "Check out Decorative Garden/House/Yard Small Welcome Flag/Banner Bird House Sunflowers   http://t.co/rfmMM4XCUz via @eBay" "BrianVanBergen" FALSE FALSE 1417477884
+"148" "539567468033744896" "Check out Vintage 1979 PB of Pro Action Photos and Football '79 by Bear Kirow  http://t.co/nU5uNHPash via @eBay" "BindingsShoppe" FALSE FALSE 1417477883
+"149" "539567458755940352" "Women's Outfit Fall/Winter Ann Taylor Brooks Brothers Clothing Lot Size 8  http://t.co/3U4aCnIjdd http://t.co/onGE4zvwCe via @eBay" "neenausplace" FALSE FALSE 1417477881
+"150" "539567424249815041" "Check out LADY IN RED by Emo Raphiel Astoria signed art  banksy photo un http://t.co/3ozX31iItb @eBay" "EmoUrbanArt" FALSE FALSE 1417477873
+"151" "539567410009763840" "Check out Jethro Tull \"Stand Up\" LP - Reprise/Chrysalis Records (GOOD -)  #JethroTull #Rock http://t.co/mVuIy8Y6BC via @eBay" "CheddaBeatz1" FALSE FALSE 1417477869
+"152" "539567404611682305" "Check out Haunted America by Michael Norman and Beth Scott (1995, Paperback)  http://t.co/fKeyZ55yv3 via @eBay" "BindingsShoppe" FALSE FALSE 1417477868
+"153" "539567398979133440" "RT @mommye: How To Make Pretty Cake Pops For Any Occasion http://t.co/aKTZJL6nBc @eBay #eBayGuides #cakepops #desserts http://t.co/LXKnb5Kh…" "SavvyMomNYC" TRUE FALSE 1417477867
+"154" "539567390179065856" "Check out Vintage Antique Sterling Silver .925 Dove Bird Screw Back Earrings no stone  http://t.co/mU9bBRJLtE via @eBay" "TheButterflyBox" FALSE FALSE 1417477865
+"155" "539567358155968513" "RT @GoldBaseballs: 24kt gold leather @whitesox  baseball on sale now $39 Retail $179 #Rawlings #CyberMonday @mlb http://t.co/eydUcRUTdt via…" "wavemix" TRUE FALSE 1417477857
+"156" "539567334457753600" "Check out A Shadow on the Stair by Gloria Murphy (1993, Paperback)  http://t.co/zXl8aBBZQ2 via @eBay" "BindingsShoppe" FALSE FALSE 1417477851
+"157" "539567330280210432" "Check out Three Dog Night \"Suitable for Framing\" LP - ABC/Dunhill, DS 50058 (GOOD+++) #Rock http://t.co/jiRRcPjcsi via @eBay" "CheddaBeatz1" FALSE FALSE 1417477850
+"158" "539567328782868480" "Check out Olive #Wood #Cross Crucifix Relics Jerusalem #holyland gift   http://t.co/2JfgI91TjH via @eBay RT" "30DaRdAn" FALSE FALSE 1417477850
+"159" "539567328648654848" "Look what I found on @eBay! http://t.co/7JqFzsZ2GI via @eBay" "Kayleenbh11" FALSE FALSE 1417477850
+"160" "539567310701223937" "Check out DOLLED UP Womens Size Small Brown Basic Coat!  #AMAZON #EBAY #CYBERMONDAY #DOLLEDUP #BasicCoat http://t.co/0C9xEQy6Q1 via @eBay" "Flowarkei" FALSE FALSE 1417477846
+"161" "539567300068667392" "Harry Chapin \"Dance Band On The Titanic\" Elektra Records Double LP - SEE DETAILS  #Harry Chapin #Rock http://t.co/ZewwYZd3qu via @eBay" "CheddaBeatz1" FALSE FALSE 1417477843
+"162" "539567298156052480" "Check out Anastasia Beverly Hills Bold and Beautiful Kit - Brow Powder Tweezers Eyeshadows  http://t.co/6iASE8WSZN via @eBay" "kimbegalore" FALSE FALSE 1417477843
+"163" "539567263431409664" "Check out 2 Large Vintage Hand Made Marbles Divided Core Swirls Marble Size 25/32\" &amp; 45/64  http://t.co/Ad7QdGedf5 via @eBay" "DakotaGypsy" FALSE FALSE 1417477834
+"164" "539567244779335680" "Check out Vintage Sterling Silver, 3D Puffy Heart, Open Design, Charm / Pendant  http://t.co/l48lgbLz1R via @eBay" "TastefullySilve" FALSE FALSE 1417477830
+"165" "539567215448584192" "Check out ANGELA'S ASHES: A Memoir, by Frank McCourt, 1st EDITION 1996  http://t.co/sFnzxXgttM via @eBay" "boomerleighty" FALSE FALSE 1417477823
+"166" "539567206720229377" "Check out Roman Blood by Steven Saylor (1992, Paperback)  http://t.co/UqqlIqIdow via @eBay" "BindingsShoppe" FALSE FALSE 1417477821
+"167" "539567203369369600" "#OscardelaRenta #VINTAGE Sequin RUNWAY #Vogue #Dress #rip #models #style #fashion #ebay @eBay http://t.co/NmdxQHH4vx http://t.co/94dKdHXozl" "auctionitonebay" FALSE FALSE 1417477820
+"168" "539567194753888256" "Check out Traffic \"The Low Spark Of High Heeled Boys\" LP - (ILPS 9180) 1971 Island Rec. #Rock #Traffic http://t.co/IE1RyOVePG via @eBay" "CheddaBeatz1" FALSE FALSE 1417477818
+"169" "539567167914536961" "Check out Lot of 3 Girls 6-12 Months Mixed Winter Clothes BabyGAP Carters and Old Navy #Various http://t.co/SLvTKQalbq via @eBay" "cute4less2012" FALSE FALSE 1417477812
+"170" "539567164617793538" "Just entered to win one of $15 to @eBay from @Splashscore! You can too! Click here http://t.co/fu360fh8Zm to enter  #OnlineShopping" "LuckyAngel96" FALSE FALSE 1417477811
+"171" "539567164169011200" "Check out Brand New Sterling Silver 3D Bloody Hatchet, Butcher Meat Cleaver, Charm Pendant  http://t.co/a5QGvIkhPv via @eBay" "TastefullySilve" FALSE FALSE 1417477811
+"172" "539567154140434432" "Check out CINCINNATI BENGALS 1999 CONTENDERS  SSD TRIPLE THREAT DILLON PICKENS FREE SHIP  http://t.co/rb3KRzEIDL via @eBay" "brunerhogs" FALSE FALSE 1417477808
+"173" "539567153725181953" "Check out Charles Hall Star Wars PSC sketch card Leia Padme thumb  http://t.co/7d64YSn2Ai via @eBay #starwars #art #oilpainting #sketchcard" "CharlesHall" FALSE FALSE 1417477808
+"174" "539567149644124160" "Check out Doctor Strange #175 Marvel Comic Silver Age 1968  http://t.co/89jqRSdA55 via @eBay" "pabloramos66" FALSE FALSE 1417477807
+"175" "539567140953546752" "Check out I am Third by Gale Sayers &amp; Al Silverman 1972 PB  http://t.co/S9BS7RjztX via @eBay" "BindingsShoppe" FALSE FALSE 1417477805
+"176" "539567137426141185" "Check out Meat Loaf \"Bat Out Of Hell\" &amp; ZZ Top \"Fandango!\" (Records = FAIR &amp; EXCELLENT) #Rock http://t.co/rSJycC9OWD via @eBay" "CheddaBeatz1" FALSE FALSE 1417477804
+"177" "539567134049722368" "Check out Pepperberry Wreath Chunkie Tarts SCENTED TO THE MAX! #WallacesCountryCandleShop http://t.co/Oou5SGXJVL via @eBay" "candlecorner" FALSE FALSE 1417477804
+"178" "539567129729576961" "#Japanese #Literature  Anthology of Japanese Literature, From the Earliest Era to the mid 19th Century  http://t.co/BwemtY14Hd via @eBay" "fah451bks" FALSE FALSE 1417477803
+"179" "539567123974995968" "Check out ABERCROMBIE FITCH Womens Size S Pink Blazer Jacket #CYBERMONDAY #AMAZON #AbercrombieFitch #blazer http://t.co/NBw5elJq9v via @eBay" "Flowarkei" FALSE FALSE 1417477801
+"180" "539567109647237120" "Apple MacBook 13.3\" Laptop Customized Pink 2GB RAM 250 GB HDD iSight New Battery #Apple http://t.co/PUeDOULWng via @eBay" "bestmacdeals" FALSE FALSE 1417477798
+"181" "539567108137299968" "Check out Jeff Beck \"Flash\" LP - 1985 CBS/Epic, 39483 = (VG+ / GOOD+++) #JeffBeck #Rock   http://t.co/fsm1c0CNCL via @eBay" "CheddaBeatz1" FALSE FALSE 1417477797
+"182" "539567079276306432" "Check out Vintage Sterling Silver, 3D Puffy Heart Locket, Designed, Charm / Pendant  http://t.co/mMJp4UDQg7 via @eBay" "TastefullySilve" FALSE FALSE 1417477791
+"183" "539567051895885824" "Check out The Cat Who Sang for the Birds by Lilian Jackson Braun ( 1999, Paperback )  http://t.co/2T9O0rdgsx via @eBay" "BindingsShoppe" FALSE FALSE 1417477784
+"184" "539567039094849536" "Check out Vintage Antique German Minerva Wind UP DOLL Celluloid face cloth body toy org ex  http://t.co/tuq6png9zL via @eBay" "vintagekath" FALSE FALSE 1417477781
+"185" "539567033113784320" "Check out Lot of 5 Johnny Mathis Records!!!!! 5 Johnny Mathis Records FOR ARTS &amp; DECOR!!!  #JohnnyMathis http://t.co/emxXYrl3hF via @eBay" "CheddaBeatz1" FALSE FALSE 1417477780
+"186" "539567026918805504" "Women's Outfit Fall/Winter Lane Bryant Cato Clothing Lot Size 20  http://t.co/3wR7uPfUUL http://t.co/M79hfN3jzD via @eBay" "neenausplace" FALSE FALSE 1417477778
+"187" "539567010934300672" "Check out Two Deadhead Rum Plastic Shrunken head cup   http://t.co/Tp4JWsihyl via @eBay" "pabloramos66" FALSE FALSE 1417477774
+"188" "539566997797740544" "Check out Very Old Look At The Capitol Washington DC   http://t.co/OWohYiw6GF via @eBay" "seniorcareWI" FALSE FALSE 1417477771
+"189" "539566992307417088" "Check out Vintage Sterling Silver 3D IXOYE Jesus Christ, Son of God, Savior, Charm Pendant  http://t.co/usHKdKLeD1 via @eBay" "TastefullySilve" FALSE FALSE 1417477770
+"190" "539566974490406912" "RT @SpaceshipsLB: I'm sharing my kid friendly New Years Eve #Party #Ideas on @eBay - take a look! http://t.co/1yAgafC0Il #NewYearsEve http:…" "SavvyMomNYC" TRUE FALSE 1417477766
+"191" "539566964126257152" "SALE $21.50 Bundle of Funko Pops Guardians Of the Galaxy The Flash Deadpool Harley Quinn And More http://t.co/4amLqY10V7 @eBay" "BritishKidd" FALSE FALSE 1417477763
+"192" "539566957788286976" "Check out \"The Best Of The Manhattan Transfer\" LP - (EX / VG)  http://t.co/VNtUKOVOpI via @eBay" "CheddaBeatz1" FALSE FALSE 1417477762
+"193" "539566950272077825" "RT @neenausplace: Women's Misses Career Casual Outfit Fall/Winter Clothing Lot Size 12p #BananaRepublic http://t.co/58qG7Jomyy via @eBay" "IAMtheGoodLife" TRUE FALSE 1417477760
+"194" "539566940843298816" "RT @keepachildalive: In honor of #WorldAIDSDAY, this week when you shop on @ebay you can make a donation to KCA at check-out. RT and help s…" "sathyaloveslife" TRUE FALSE 1417477758
+"195" "539566932664393728" "Check out my listing on @eBay: http://t.co/gI1o0iKgs7 via @eBay" "gotbusiness" FALSE FALSE 1417477756
+"196" "539566927673184256" "Check out Johnny Rivers \"Meanwhile Back At The Whisky A Go Go\" LP, FOR DECOR &amp; DISPLAY!!! #JohnnyRivers  http://t.co/IWs3iPAu2w via @eBay" "CheddaBeatz1" FALSE FALSE 1417477754
+"197" "539566906114838528" "Check out 10K Yellow Gold Nugget band Ring for Woman, 5.2 gram,  size 5.5 http://t.co/tEzHr4fkgP @eBay" "goldandmorecash" FALSE FALSE 1417477749
+"198" "539566903983755264" "Check out Sperry Topsider Princeton Leopard Pony Calf Hair Ankle Lug Sole Boots! Size 7.5M  http://t.co/gfpoBwdHhC via @eBay" "tlynnstroh" FALSE FALSE 1417477749
+"199" "539566902566068224" "RT @cindygallop: Gosh. Documents Show How @ebay's Meg Whitman &amp; Pierre Omidyar Conspired To Steal Craigslist's Secrets @markamesexiled http…" "msbellows" TRUE FALSE 1417477748
+"200" "539566899344855042" "Check out Brand New Sterling Silver 3D Lucky Irish Leprechaun w/ Pot of Gold Charm Pendant  http://t.co/SyLRCKnt27 via @eBay" "TastefullySilve" FALSE FALSE 1417477748

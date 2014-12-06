@@ -1,0 +1,585 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "537032877876060160" "Coach Park Signature Checkbook Wallet in... Reply w/ #AmazonWishList to add this http://t.co/uux6jIcNvi via @amazon" "AlwaysAuthenti" FALSE FALSE 1416873590
+"2" "537032876592603136" "Free~Laura's Locket: A Dantonville Chronicle... Reply w/ #AmazonCart for a free sample http://t.co/canTJX9GIv via @amazon @TimaMariaLacoba" "VictoriaSimcox" FALSE FALSE 1416873590
+"3" "537032755117191169" "Fiskars Gel Pen 48-Piece Value Set Fiska... #guiltypleasure Reply w/ #AmazonWishList to add this http://t.co/ptgHnTwjkh via @amazon" "HerbaBerry" FALSE FALSE 1416873561
+"4" "537032727568982017" "Black Friday 2014 deals, sales, and low prices on laptops, TVs, toys, DVDs, and more http://t.co/aQ9a6QVvwG via @amazon" "mkcole" FALSE FALSE 1416873554
+"5" "537032713941696512" "Michael Kors Items Signature Credit Card... Reply w/ #AmazonWishList to add this http://t.co/Hk68aO9Als via @amazon" "AlwaysAuthenti" FALSE FALSE 1416873551
+"6" "537032575517065216" "Chip Dip Clips - Prepworks from Progressive International... Reply w/ #AmazonWishList to add this http://t.co/0ssyzuR0QL via @amazon" "victoria1skye" FALSE FALSE 1416873518
+"7" "537032480126021632" "Coach Getaway Signature Nylon Packable W... Reply w/ #AmazonWishList to add this http://t.co/uEe1j5jrZ1 via @amazon" "AlwaysAuthenti" FALSE FALSE 1416873495
+"8" "537032462140837889" "Check out my author page at this easy to remember url! http://t.co/c7QWUPhy8h via @amazon" "kimblalockAngel" FALSE FALSE 1416873491
+"9" "537032446265397248" "I just listed: 'Peter Grimm USA Cowboy Hat - Raw Freedom Stars and Stripes', for $39.95 via @amazon http://t.co/SjVbgubThN" "joelfrancispere" FALSE FALSE 1416873487
+"10" "537032445158518784" "The Solitary Man's Refuge by Ron Foster http://t.co/KszXHdUVCP via @amazon #preppers #prepper #preparedness" "feets_beat" FALSE FALSE 1416873487
+"11" "537032425944403968" "RT @wmdogar: Meet one of my fvt RTer @lindsayromantic Lindsay Townsend - @amazon author page http://t.co/YCL1tLkUfP …
+
+#historicalromance #…" "giascott" TRUE FALSE 1416873482
+"12" "537032278572941312" "@amazon's two day shipping is awesome when you actually get your package in two days. Four days and counting. #feedback" "haldybear" FALSE FALSE 1416873447
+"13" "537032244565508096" "Coach Bleeker Black White Credit Card Sm... Reply w/ #AmazonWishList to add this http://t.co/Nim6U7c5kJ via @amazon" "AlwaysAuthenti" FALSE FALSE 1416873439
+"14" "537032191578873856" "Waiting on @amazon to release the Xbox One Black Friday deal. Also waiting on their 40\" LED TV for $119. I wish they'd tell us what day." "PassedOutAwake" FALSE FALSE 1416873426
+"15" "537032066026586112" "Just saw this on Amazon: CAD GXL2200SP Studio Condenser Mic Recordin... by CAD for $119.00 http://t.co/W5W6y6aQXm via @amazon" "seagal2000" FALSE FALSE 1416873396
+"16" "537032032178929664" "AGAINST THE WALL by @RebeccaZanetti is currently on sale for 99 Cents at @amazon! @entangledpub http://t.co/txjTrL1Sz8" "elizhaney" FALSE FALSE 1416873388
+"17" "537032006828167168" "@BBNutters @Amazon Yeah, I'm sure it's his fault, lol. I just feel terrible." "spicypants" FALSE FALSE 1416873382
+"18" "537031965682069504" "Give to Project Six19 when you shop at @amazon. Simply type in \"Project 619\" &amp; start giving: http://t.co/x0WroKaSb1 http://t.co/CKMX6MdqeP" "ProjectSix19" FALSE FALSE 1416873372
+"19" "537031948489609217" "Just saw this on Amazon: Speaking Truth in Love: Counsel in Community by David Powlison http://t.co/vq3K3SgmPY via @amazon" "princapecos" FALSE FALSE 1416873368
+"20" "537031912414384128" "RT @FizaPathan: A Book of Kells: Growing Up in an Ego V... Reply w/ #AmazonCart for a free sample http://t.co/IlBBGMPMG8 via @amazon" "indiecr8ors" TRUE FALSE 1416873360
+"21" "537031823868452865" "Check out this Amazon deal: Chromo Inc® 7” Tablet Google Android 4.1 with... by Chromo Inc http://t.co/9FsFUgzMmF via @amazon" "owuogbanathan" FALSE FALSE 1416873339
+"22" "537031798971449347" "@ThirtyTigers @JasonIsbell @amazon Not avail at iTunes?" "grhuck" FALSE FALSE 1416873333
+"23" "537031771205156864" "FRAMPTON ~ BREAKING ALL THE RULES ~ Wall Clock made from the Vinyl Record LP ~... http://t.co/98ToDZ5QWl via @amazon" "LPRecordClocks" FALSE FALSE 1416873326
+"24" "537031730297700352" "@amazon @mail @ups @usps where tf is my platinum edition?" "_beyxnce" FALSE FALSE 1416873316
+"25" "537031708257038336" "4 Stars \"an awesome tale of #adventure, mystery, intrigue.\" #mystery #WWII #artwork #AmazonCart @amazon http://t.co/fEXw7o0aWc" "EchoPressBooks" FALSE FALSE 1416873311
+"26" "537031458859528193" "RT @cwritebuzz: Check out a SUPER UNIQUE #YA on Amazon: Honey Queen by Christina Mercer for $2.99 @cwritebuzz #MTLBWY http://t.co/axRaPy8or…" "ccannonauthor" TRUE FALSE 1416873252
+"27" "537031415175864321" "The Preppers Lament (A Prepper Is Cast Adrift) by Ron Foster http://t.co/iH3Qj9QbCV via @amazon #preppers #prepper #survival #apocalypse" "ApocalypticPost" FALSE FALSE 1416873241
+"28" "537031414475403264" "The Preppers Lament (A Prepper Is Cast Adrift) by Ron Foster http://t.co/7RE0kukz6F via @amazon #preppers #prepper #survival #apocalypse" "ALPrepper13" FALSE FALSE 1416873241
+"29" "537031229468442625" "@YourInnerAddict @amazon will do." "LadyMeabh" FALSE FALSE 1416873197
+"30" "537031228319227906" "@amazon why is there no overnight shipping option when checking out?" "KiraR_Gilbert" FALSE FALSE 1416873197
+"31" "537031108110860288" "@bitememore this is the same book but with 20 years of full use. Maybe I should sell it to @amazon http://t.co/9ufGWefqyZ" "Ernau" FALSE FALSE 1416873168
+"32" "537031009452441600" "RT @AngelicaKate5: Visit my #author page on @amazon for complete listing of all my #books!  ALL FREE download on @KindleUnlimited!  http://…" "GlenysNellist" TRUE FALSE 1416873144
+"33" "537030995405705216" "Autism PJ's Journey If you could see wh... Reply w/ #AmazonCart for a free sample http://t.co/21fz0V1QbT via @amazon" "ren_cook" FALSE FALSE 1416873141
+"34" "537030927239897089" "@nytimes @VP @SyfyUK Gatherers Reply w/ #AmazonCart for a free sample http://t.co/Obrq8PsRj8 via @amazon" "craigmarkly" FALSE FALSE 1416873125
+"35" "537030868963848192" "@Faroh @amazon I don't even know who Prestige is. Never heard of them besides from the odd order from Amazon." "Menagese" FALSE FALSE 1416873111
+"36" "537030867894665216" "@LaytonWilliams @amazon @BillyElliotUK got my pre order todayyyy. #decentpost http://t.co/dsEFb9f9We" "LondonAmy" FALSE FALSE 1416873111
+"37" "537030752173821952" "RT @pswinnauthor: #horror #conspiracy #aliens Head over to \"Mystic Valley\" by P.S. Winn 
+and check out McClain army base! 
+http://t.co/dCKX…" "dodgingstones" TRUE FALSE 1416873083
+"38" "537030708825706496" "RT @EchoPressBooks: New school. New classes. New girl gets lost in shadows. #teen #romance #fantasy #Oz #AmazonCart @amazon http://t.co/kgh…" "MadhuriBlaylock" TRUE FALSE 1416873073
+"39" "537030682967805952" "8x10 MARRIAGE Picture &amp; Poetry Photo Gift Fr... Reply w/ #AmazonCart to add this http://t.co/8wbbyFMl06 via @amazon" "photonameframes" FALSE FALSE 1416873067
+"40" "537030604475207680" "Morrigan by Laura DeLuca Reply w/ #AmazonCart for a free sample http://t.co/8TKhdDYCiH via @amazon" "Zuzuz_Petalz" FALSE FALSE 1416873048
+"41" "537030482555572224" "Thanks @amazon for delivering my #BeyoncePlatinumEdition on time " "areyousegura_" FALSE FALSE 1416873019
+"42" "537030447872901120" "RT @EchoPressBooks: New school. New classes. New girl gets lost in shadows. #teen #romance #fantasy #Oz #AmazonCart @amazon http://t.co/kgh…" "snstreet" TRUE FALSE 1416873010
+"43" "537030418420072448" "RT @ren_cook: Wicked One (Wicked to the Bone Book 1) ... Reply w/ #AmazonCart for a free sample http://t.co/VCV0CS1UI6 via @amazon" "Q8JNooNi" TRUE FALSE 1416873003
+"44" "537030406819024896" "Wicked One (Wicked to the Bone Book 1) ... Reply w/ #AmazonCart for a free sample http://t.co/VCV0CS1UI6 via @amazon" "ren_cook" FALSE FALSE 1416873001
+"45" "537030378104438785" "I just listed: 'Q*Bert', for $10.09 via @amazon http://t.co/GTR7L2EUGJ" "SanDiegoPawn" FALSE FALSE 1416872994
+"46" "537030279295406080" "RT @pswinnauthor: #horror #conspiracy #aliens Head over to \"Mystic Valley\" by P.S. Winn 
+and check out McClain army base! 
+http://t.co/dCKX…" "MEWalker7" TRUE FALSE 1416872970
+"47" "537030196013334529" "Talk about security issues. @amazon tv stick brodcasts your amazon account password on the tv when setting up. Shouldn't you **** it?" "gentwonderbread" FALSE FALSE 1416872950
+"48" "537030092518858752" "I take @amazon so much for granted that I forget deliveries can be screwed up. Never showed up (someone was there) and no apparent recourse" "quoll" FALSE FALSE 1416872926
+"49" "537029961715314689" "THE ALAN PARSONS PROJECT ~ I ROBOT ~ Wall Clock made from the Vinyl Record LP ... http://t.co/GxDbDeuTXs via @amazon" "LPRecordClocks" FALSE FALSE 1416872895
+"50" "537029944958668800" "I just bought: 'Pentax K1000 Camera with 50mm (f/2.0) Lens' by... Reply w/ #AmazonWishList to add this via @amazon http://t.co/Ze4erSEafu" "Dadouchic" FALSE FALSE 1416872891
+"51" "537029868374855681" "I just listed: 'Women's Mint Green Faux Leather Quilted Backpack Bag with Chain Straps - ...', for $29.95 via @amazon http://t.co/o34XBv9sGK" "joelfrancispere" FALSE FALSE 1416872872
+"52" "537029812096094208" "RT @Xelaie: RT for a chance to win a $100 @amazon gift card and other guaranteed rewards. To see what you've won to go http://t.co/lAEcZDka…" "Cylina" TRUE FALSE 1416872859
+"53" "537029787315757058" "Why You Should Sign Up for Amazon Prime Before Black Friday Hits http://t.co/ipFUPJabz0 @amazon #holidayshopping" "simplethrifty" FALSE FALSE 1416872853
+"54" "537029786166919168" "@craigmarkly @johncusack @artiequitter @BarackObama The Gatherers Reply w/ #AmazonCart for a free sample http://t.co/53rpwwPpVJ via @amazon" "craigmarkly" FALSE FALSE 1416872853
+"55" "537029677160742912" "I just listed: '1973 Appalachian Trail Guide with side trails in the Shenandoah National Park', for $6.95 via @amazon http://t.co/v6KMHhZIMt" "RainyDayBethel" FALSE FALSE 1416872827
+"56" "537029626212937728" "I just bought: 'A Charmed Journey: An Inspired Guide to Personal Transformation' by Angela Dawn... via @amazon" "fawlks_masoom" FALSE FALSE 1416872815
+"57" "537029602267660289" "Early reviews are great! Get yours here: Slumber (A Tale of Ten Kingdoms) (Volume 1) @Amazon https://t.co/8SNMxmBl73" "justinlharris" FALSE FALSE 1416872809
+"58" "537029560853078017" "The Gatherers Reply w/ #AmazonCart for a free sample http://t.co/53rpwwPpVJ via @amazon" "craigmarkly" FALSE FALSE 1416872799
+"59" "537029553185906688" "@Amazon is having the USPS deliver prime packages..... See they messed that up already my package was supposed be delivered yesterday!" "MissMcB76" FALSE FALSE 1416872797
+"60" "537029542838157312" "SPOIL ME DADDY!!! http://t.co/WAUkgJunpV via @amazon" "Michelle1983" FALSE FALSE 1416872795
+"61" "537029523628228608" "RT @HappyWoman9: Holidays @amazonmusic! #DWTSMTB exclusive pricing thru 12/6 @amazon http://t.co/QlsHajEWL8 #BlackFriday #CyberMonday http:…" "Alexandria_SZ" TRUE FALSE 1416872790
+"62" "537029498454024192" "Another side project up and running. 
+
+Kruzno Game Set Kruzno Reply w/ #AmazonWishList to add this http://t.co/rh7WkMODVn via @amazon" "MarkPalko1" FALSE FALSE 1416872784
+"63" "537029436038975488" "@JessL Majority reviewers are male for top 5 @amazon #ecommerce books. Agree w/ @alinicoleg: Shorter reviews are most favourable #EXSM5513" "Irishkatherine" FALSE FALSE 1416872769
+"64" "537029298922586112" "All About You http://t.co/gD8p5DLCpx via @amazon" "MarceloGalindoS" FALSE FALSE 1416872737
+"65" "537029288227127296" "LOOK OUT for #blackfridaydeals coming your way @amazon!" "TranscendGlobal" FALSE FALSE 1416872734
+"66" "537029209135538176" "'Trimble's Christmas' from @marysloft - Reply w/ #AmazonCart for a free sample http://t.co/J9QtJbrYfc @Amazon #Christmas #Kindle #love" "TweetYourNovel" FALSE FALSE 1416872715
+"67" "537029163505696769" "RT @ThirtyTigers: .@JasonIsbell's brand new \"Live at Austin City Limits\" DVD is available today at @Amazon! http://t.co/mOXPxEue6l" "zachtibbett" TRUE FALSE 1416872704
+"68" "537029108988141568" "RT @TaeDaKingMM: @Dirty_Boy_jr Cash Flow (feat. Rydah J Clyde &amp; Pittsburgh Philthy) [Explicit] http://t.co/A1EYa2OTDK via @amazon" "Dirty_Boy_jr" TRUE FALSE 1416872691
+"69" "537029083507343360" "I just listed: 'Sport Backpack - Basketball Backpack, Soccer Ball Backpack, Volleyball Ba...', for $39.95 via @amazon http://t.co/RgJ9Lb8eA6" "joelfrancispere" FALSE FALSE 1416872685
+"70" "537028982839844865" "@amazon What would be an even bigger slap in the face, is if they lowered it back down tomorrow...First purchase from amazon..great job guys" "rapidninja42" FALSE FALSE 1416872661
+"71" "537028962539409408" "@AAU_GR_School alum Fred Carriedo recently became the #Design Lead @Amazon HQ in Seattle! Congrats!" "academy_of_art" FALSE FALSE 1416872656
+"72" "537028916347928576" "One of the brands is @Amazon were the arrow from A to Z means they got everything you need
+#CC4053 @SBMDX4053 http://t.co/rz5ur0ITXa" "SAMDX4053" FALSE FALSE 1416872645
+"73" "537028870852329472" "RT @vickihinze: Risky Brides: A BESTSELLERS' COLLECTION... Reply w/ #AmazonCart for a free sample http://t.co/xTkFH4qcnW via @amazon" "E7Prophecy" TRUE FALSE 1416872634
+"74" "537028849566228480" "RT @ohiomommy23: #OtherwiseComplete #EvanArdenTrilogy by @Savage7289 is ONLY $5.99!!! 
+http://t.co/bDuflsLRFO via @amazon" "Savage7289" TRUE FALSE 1416872629
+"75" "537028838019334144" "8x10 GRANDPA'S LOVE Picture &amp; Poetry Photo G... Reply w/ #AmazonCart to add this http://t.co/4KdmOsG6jL via @amazon" "classycraftsinc" FALSE FALSE 1416872627
+"76" "537028814946451457" "What happens if you make @Amazon Echo play \"The Downeaster Alexa?\"" "rshields37" FALSE FALSE 1416872621
+"77" "537028766867152896" "@amazon, How do you ship, dead batteries for the remote for the #FireTV Stick?!? Included batteries didn't work but Duracell did." "ericmlogan" FALSE FALSE 1416872610
+"78" "537028735908581376" "Just found out @amazon sells wine thanks to @lauraleebaird.  Now I REALLY can't wait for those drones to be in service" "kelseyheineman" FALSE FALSE 1416872602
+"79" "537028605751349250" "RT \"@amazon: Don't Miss Out on Sales and Savings From Across Amazonhttp://t.co/8ChgFPLtaN http://t.co/uHpIvpmS62\" GO AWAY POP FILTER" "LittleJallow" FALSE FALSE 1416872571
+"80" "537028478525505536" "RT @ReginaPucket: Regina Puckett's Complete Book of Poetry / a collection of over 400 poems in one book. http://t.co/V79fiDDaPo via @amazon" "JourneyProducti" TRUE FALSE 1416872541
+"81" "537028437584531456" "The first three episodes of @IvoryWars are now available on @Amazon. 
+http://t.co/GzQoFoBNbG http://t.co/ZZbGX0Ss8l" "WildlifeWorks" FALSE FALSE 1416872531
+"82" "537028389136506880" "RT @RebeccaNewmanUK: 65 five star reviews on @amazon for my no 1 classical album Dare to Dream! 
+Amazing! 
+Classics &amp; original songs 
+RT
+
+h…" "sladvalley" TRUE FALSE 1416872520
+"83" "537028373516546048" "Risky Brides: A BESTSELLERS' COLLECTION... Reply w/ #AmazonCart for a free sample http://t.co/xTkFH4qcnW via @amazon" "vickihinze" FALSE FALSE 1416872516
+"84" "537028370224381953" "RT @Dabooknut: Club Alpha: BDSM Romance Boxed Set by A... Reply w/ #AmazonCart for a free sample http://t.co/SbYOAhaXR2 via @amazon" "SETTAJAY_" TRUE FALSE 1416872515
+"85" "537028287021973505" "RT @ThirtyTigers: .@JasonIsbell's brand new \"Live at Austin City Limits\" DVD is available today at @Amazon! http://t.co/mOXPxEue6l" "JasonIsbell" TRUE FALSE 1416872495
+"86" "537028227185647616" "Not sure how fast @amazon thinks I go through these things. http://t.co/IaYx4inxKc" "jonathanfranks" FALSE FALSE 1416872481
+"87" "537028213696761856" "I just listed: 'Men's X-Large - Oil Cloth Ivy Hat - Water Repellant, Flannel Lining, Earf...', for $49.95 via @amazon http://t.co/OGGmtXRsZG" "joelfrancispere" FALSE FALSE 1416872478
+"88" "537028204813234176" "I just listed: '5.11 #74273 Men's TacLite Pro Pant (Tundra, 38W-34L)', for 29.99 via @amazon http://t.co/EnU6Ld5OFS" "ALVARADOHERNAN" FALSE FALSE 1416872476
+"89" "537028164548308992" "RT @ARShawAuthor: Just 8 more hours at #99cents! The China Pandemic (Graham's Resolution Boo... by A. R. Shaw for $0.99 http://t.co/9mITIgc…" "RQGarcia1" TRUE FALSE 1416872466
+"90" "537028111057944576" "RT @MarieDrake72: \"He told me no one would ever love me the way he did. I prayed, 
+'God, I hope not.'\" #ASMSG 
+http://t.co/GfXGuBjVTK 
+#99c…" "RoundupCity" TRUE FALSE 1416872453
+"91" "537028002261905408" "Thanks! I hope you enjoy it. @wryson @amazon" "Woelf20" FALSE FALSE 1416872427
+"92" "537027957794279424" "AMERICAN GRAFFITI ~ Original Hits from the Soundtrack Record 2 Side 2 ~ Wall C... http://t.co/nTFQNCfazo via @amazon" "LPRecordClocks" FALSE FALSE 1416872417
+"93" "537027949682495488" "New school. New classes. New girl gets lost in shadows. #teen #romance #fantasy #Oz #AmazonCart @amazon http://t.co/kghhEAHFhv" "EchoPressBooks" FALSE FALSE 1416872415
+"94" "537027873111302147" "RT @AMDRadeon: AMD and @Amazon want to #SpreadJoy this season with great deals on great hardware in the new Amazon AMD Red Zone! http://t.c…" "torn_tv" TRUE FALSE 1416872397
+"95" "537027830865862656" "Intractable Souls (Bound for Ireland Se... Reply w/ #AmazonCart for a free sample http://t.co/4gA9acxrcX via @amazon" "aftereightmint" FALSE FALSE 1416872387
+"96" "537027814214483968" "I just listed: 'Basil Wolverton's Fantastic Fables 2 of 2', for $5.95 via @amazon http://t.co/pOMRw9Kh2A" "CHUCKDURDEN" FALSE FALSE 1416872383
+"97" "537027645037223936" "Igniting the Wild Sparks by Ren Alexander Reply w/ #AmazonCart for a free sample http://t.co/stKXeOPA4X via @amazon" "aftereightmint" FALSE FALSE 1416872342
+"98" "537027641103355904" "RT @DouglasWickard: ENCOUNTER  ★★★★★  http://t.co/49xf89FQzB ... via @amazon  \"WICKARD knows how to #write a #WICKED #thriller! #READ IT!\"" "GunnarALawrence" TRUE FALSE 1416872341
+"99" "537027472911396864" "T'is a good week to start Christmas shopping with @amazon and Prime shipping. Makes things so easy and convenient. Love online shopping" "sirk_25" FALSE FALSE 1416872301
+"100" "537027390317150209" "The Manipulated Man by Esther Vilar Reply w/ #AmazonWishList to add this http://t.co/KCVk8i5Fbg via @amazon" "SthenH" FALSE FALSE 1416872281
+"101" "537027387914203136" "@Amazon Lightning Deal: @RokinonLenses 35mm T1.5 Cine EF (adapts) lens is almost 1/2 off at $360 while it lasts - http://t.co/cRrWS3nUAC" "nexvg900" FALSE FALSE 1416872281
+"102" "537027386253258752" "@Amazon Lightning Deal: @RokinonLenses 35mm T1.5 Cine EF (adapts) lens is almost 1/2 off at $360 while it lasts - http://t.co/bfMAOkBPfV" "nexfs100" FALSE FALSE 1416872281
+"103" "537027384785248258" "@Amazon Lightning Deal: @RokinonLenses 35mm T1.5 Cine EF (adapts) lens is almost 1/2 off at $360 while it lasts - http://t.co/HiYOTMjL3r" "GH3users" FALSE FALSE 1416872280
+"104" "537027383870898176" "@Amazon Lightning Deal: @RokinonLenses 35mm T1.5 Cine EF (adapts) lens is almost 1/2 off at $360 while it lasts - http://t.co/PzMUBd4SGV" "eosT4i" FALSE FALSE 1416872280
+"105" "537027381492719616" "@Amazon Lightning Deal: @RokinonLenses 35mm T1.5 Cine EF (adapts) lens is almost 1/2 off at $360 while it lasts - http://t.co/nj0zopkDMc" "EOS5DmkIII" FALSE FALSE 1416872279
+"106" "537027380070846464" "@Amazon Lightning Deal: @RokinonLenses 35mm T1.5 Cine EF (adapts) lens is almost 1/2 off at $360 while it lasts - http://t.co/pXLb2DFeGS" "BMCCusers" FALSE FALSE 1416872279
+"107" "537027377550077952" "@Amazon Lightning Deal: @RokinonLenses 35mm T1.5 Cine EF (adapts) lens is almost 1/2 off at $360 while it lasts - http://t.co/559tKucmln" "a7Susers" FALSE FALSE 1416872278
+"108" "537027345224572928" "Another great review!
+Get your copy of #TheEquationoflife today at http://t.co/G5QypyTuTK
+@Amazon #AntiBullying... http://t.co/ilijn2VJCa" "GerryOrz" FALSE FALSE 1416872271
+"109" "537027303662813184" "RT @amazon: This Lightning Deal may just come in handy this week http://t.co/ujUBvIZCQL http://t.co/tevYyerBw2" "AndreaRHerman" TRUE FALSE 1416872261
+"110" "537027271291183104" "I just listed: 'Womens Pumpkin Rust Flat Wallet Clutch with Pocket for Phone', for $12.95 via @amazon http://t.co/tlrOtZ6u2u" "joelfrancispere" FALSE FALSE 1416872253
+"111" "537027129075314688" "RT @Tammysdragonfly: #MUSTREAD~@PletchaPJWebb~
+5★PRINCE OF THE BLOOD~TRANSFORMATION!
+Read my review~http://t.co/gChVdd1ykr
+via @amazon http…" "MistralKDawn" TRUE FALSE 1416872219
+"112" "537027063686135810" "RT @ClassicStarWars: The Ultimate Visual Guide to Star Wars by Daniel Wallace http://t.co/tZCTJ1k9gE via @amazon http://t.co/VPkQvScIgn" "starwarsepic" TRUE FALSE 1416872204
+"113" "537027043972505600" "I just bought: 'Canon EOS Rebel T5 18MP EF-S Digital SLR Camera... Reply w/ #AmazonWishList to add this via @amazon http://t.co/dp2zqcBkhN" "MrAiltonC" FALSE FALSE 1416872199
+"114" "537027038268227584" "Time to pick up a #NewRelease &amp;  @amazon #Bestseller: NA fantasy STARGAZER. http://t.co/CSQoyHaN0N @SunnivaD  http://t.co/8LY6aiLGtn" "badboatychica" FALSE FALSE 1416872198
+"115" "537027021319450625" "@amazon day zero software update for my #FireTVStick and no HBO GO?" "dragonthc" FALSE FALSE 1416872194
+"116" "537026994517860352" "RT @EchoPressBooks: #iTunes #Bestseller 7 categories, 20 countries~Not Another Vampire Story #vampire #MGlit #AmazonCart @amazon http://t.c…" "snstreet" TRUE FALSE 1416872187
+"117" "537026903282954240" "Just 8 more hours at #99cents! The China Pandemic (Graham's Resolution Boo... by A. R. Shaw for $0.99 http://t.co/9mITIgcoyD via @amazon" "ARShawAuthor" FALSE FALSE 1416872165
+"118" "537026542090854400" "RT @JohnRosePutnam: RT @Larry_B_Gray A Boy From Down East #john316author #kindlebooks #asmsg 
+http://t.co/nLaj7GBayX … via @amazon 5 Stars …" "OlgaNM7" TRUE FALSE 1416872079
+"119" "537026472800571393" "Get Soul on Fire by Teresa D. Patterson at the reduced price while the sale lasts! http://t.co/vOKRyN6ftE via @amazon" "teresapatterson" FALSE FALSE 1416872063
+"120" "537026466081677312" "RT @gerardgrech: .@amazon 2 open fashion photography studio in east London Tech City by summer 2015 http://t.co/WjVYaQrdOc @guardian #londo…" "Andrew_Campling" TRUE FALSE 1416872061
+"121" "537026393532399616" "I just listed: 'Steam-boilers, their theory and design,' 1905 vintage Rensselaer lectures, for $19.95 via @amazon http://t.co/NBlwgf9xD5" "RainyDayBethel" FALSE FALSE 1416872044
+"122" "537026380345909248" "@gerardgrech @amazon @guardian good news on jobs, shame about the tax though - should be paid where the revenue is generated" "Andrew_Campling" FALSE FALSE 1416872041
+"123" "537026367666544640" "My Black Friday shopping will consist of waking up late and shopping on @amazon and @steam_games :-D" "jessica_brister" FALSE FALSE 1416872038
+"124" "537026366546661376" "RT @pswinnauthor: #auras #spirits #evil #entities #special #gifts 
+Obligations by P.S. Winn
+http://t.co/5RzmbvuDi5 via @amazon
+#beezeebooks…" "ElectricStarPub" TRUE FALSE 1416872037
+"125" "537026223579213824" "Help From Above  Applying 12 Biblical Principles to your Job Search avail. Amazon #Kindle #JobSearch http://t.co/WEAxrMNpeR via @amazon" "helpfromaboveyo" FALSE FALSE 1416872003
+"126" "537026210300448770" "RT @JohnRosePutnam: RT @Larry_B_Gray A Boy From Down East #john316author #kindlebooks #asmsg 
+http://t.co/nLaj7GBayX … via @amazon 5 Stars …" "FaithMortimer" TRUE FALSE 1416872000
+"127" "537026034785611776" "@JamMasterJim  Lack of service is exactly why in my brain, short of a monster loss item, @BestBuy = @amazon's showroom." "AlmightyMooX" FALSE FALSE 1416871958
+"128" "537025984298381312" "The #RawBeauty Book is now available on @amazon #Kindle Click here http://t.co/WhQh4C4DRF #rawbeauty #rawbeautybook  @amazonkindle" "keminekvapil" FALSE FALSE 1416871946
+"129" "537025954527608833" "@GlobalChorus @rmbooks @amazon back to #1! Very nice!" "TRFNews" FALSE FALSE 1416871939
+"130" "537025895777972224" "RT @GlobalChorus: Beautiful sights all around here on Vancouver Island today!! @rmbooks @TRFNews @amazon #BestSeller  #jointhechorus http:/…" "TRFNews" TRUE FALSE 1416871925
+"131" "537025887901061122" "One Direction / Let it Go #KohlsSweeps #BlackFriday @ Kohls @amazon" "tonyawill_2000" FALSE FALSE 1416871923
+"132" "537025766874034177" "@LilSammiches @YTMrCatButts @amazon well atleast u can fuck it!!!!!!!!!!!!!!" "takinchops" FALSE FALSE 1416871894
+"133" "537025573336666112" "5x7 Double Hinged MOTHER-IN-LAW Poem ~ BLACK Picture/Photo Frame ~ A Wonderful... http://t.co/FPyp4lA3UM via @amazon" "classycraftsinc" FALSE FALSE 1416871848
+"134" "537025498052710400" ".@amazon 2 open fashion photography studio in east London Tech City by summer 2015 http://t.co/WjVYaQrdOc @guardian #londontech #fashiontech" "gerardgrech" FALSE FALSE 1416871830
+"135" "537025485981483008" "Come home and my new @amazon fire stick is here http://t.co/l3brVVSH8y" "Brandon_Tharp" FALSE FALSE 1416871827
+"136" "537025452947152896" "RT @Larry_B_Gray A Boy From Down East #john316author #kindlebooks #asmsg 
+http://t.co/nLaj7GBayX … via @amazon 5 Stars of fun." "JohnRosePutnam" FALSE FALSE 1416871820
+"137" "537025441622548481" "The useless things I want: Kody's List Of Awesome Things He WAnts http://t.co/sbcKw7OZY0 via @amazon" "CykkaTron" FALSE FALSE 1416871817
+"138" "537025349188464641" "My Paranormal Journey: One Man's Obsession Reply w/ #AmazonCart for a free sample http://t.co/M1Tfdg8izK via @amazon" "rahlb1010" FALSE FALSE 1416871795
+"139" "537025326715400192" "Boxed Set Complete Saviour Series: Book... Reply w/ #AmazonCart for a free sample http://t.co/mdRjgjuTTZ via @amazon" "TumamaJennifer" FALSE FALSE 1416871789
+"140" "537025308709236736" "War of the Worlds by Spence Keegan Reply w/ #AmazonWishList to add this http://t.co/UERQ7wtfkP via @amazon - in paperback new characters" "BookcriticNY" FALSE FALSE 1416871785
+"141" "537025045000757248" "RT @pswinnauthor: #auras #spirits #evil #entities #special #gifts 
+Obligations by P.S. Winn
+http://t.co/5RzmbvuDi5 via @amazon
+#beezeebooks…" "iBookLove" TRUE FALSE 1416871722
+"142" "537025037459406849" "5x7 SON &amp; FOREVER IN MY HEART Poem ~ BLA... Reply w/ #AmazonWishList to add this http://t.co/MRMKkRzbmk via @amazon" "classycraftsinc" FALSE FALSE 1416871721
+"143" "537024948305281024" "5x7 MISSING YOU ~ *Memorial*Bereavement*... Reply w/ #AmazonWishList to add this http://t.co/1J1jTdCcAi via @amazon" "classycraftsinc" FALSE FALSE 1416871699
+"144" "537024927929729024" "RT @mariamallon1: I just reviewed: 'Vendetta' via @amazon Fast paced thriller, set in London, involving Russian gangs." "RGraf_author" TRUE FALSE 1416871694
+"145" "537024862611456000" "I just listed: 'REALTREE COTTON FABRIC SOLD BY THE PANEL-REAL TREE COTTON FABRIC-REALTREE ...', for 13.73 via @amazon http://t.co/M8PMZ89rKM" "bakeryfabrics" FALSE FALSE 1416871679
+"146" "537024852050198528" "My 1977 poetry book \"Waiting for water\" is 13,772,167th on Amazon Best Seller List! http://t.co/rs7AJWbCCF via @amazon" "stuff_I_write" FALSE FALSE 1416871676
+"147" "537024833276489728" "5x7 LOVING MEMORY ~ *Memorial*Bereavemen... Reply w/ #AmazonWishList to add this http://t.co/7B8uZSvvJV via @amazon" "classycraftsinc" FALSE FALSE 1416871672
+"148" "537024778352095233" "8x10 THE SPIRIT LIVES ON Picture &amp; Poetr... Reply w/ #AmazonWishList to add this http://t.co/2Bl0NfBFz1 via @amazon" "classycraftsinc" FALSE FALSE 1416871659
+"149" "537024696622268416" "RT @ThirtyTigers: .@JasonIsbell's brand new \"Live at Austin City Limits\" DVD is available today at @Amazon! http://t.co/mOXPxEue6l" "ryansfather" TRUE FALSE 1416871639
+"150" "537024667970596865" "RT @Micheal_Rivers: @ConleyWilma @CaryAllenStone @amazon Enjoy yours as well!" "ConleyWilma" TRUE FALSE 1416871632
+"151" "537024654184284160" "RT @pswinnauthor: Step into the wormholes, you'll be amazed! Tunnels by P.S. Winn  http://t.co/vxPQwTmwfR via @amazon
+#IARTG #beezeebooks #…" "LGWhiteAuthor" TRUE FALSE 1416871629
+"152" "537024621443182593" "You need this holiday CD @joshgroban Noel http://www.amazon.comY/dp/B000V6Z0XA/ref=cm_sw_r_tw_dp_Q57Cub1AY8W62 via @amazon" "mainepatty" FALSE FALSE 1416871621
+"153" "537024595794997248" "8x10 RETIREMENT Picture &amp; Poetry Photo G... Reply w/ #AmazonWishList to add this http://t.co/5Q8zsfFxQ7 via @amazon" "classycraftsinc" FALSE FALSE 1416871615
+"154" "537024571854299136" "RT @TexxxasSummers: Wanna be my Secret Santa??? http://t.co/AiC91TVcQ8 via @amazon" "bigbuddhabear1" TRUE FALSE 1416871610
+"155" "537024509199413248" "8x10 DADDY'S LITTLE GIRL Picture &amp; Poetr... Reply w/ #AmazonWishList to add this http://t.co/GMDT8aMLRY via @amazon" "classycraftsinc" FALSE FALSE 1416871595
+"156" "537024464102653952" "THE BEACH BOYS ~ BEACH BOYS CONCERT ~ Recycled LP Vinyl Record/Album Wall Cloc... http://t.co/0ADBchsp6P via @amazon" "LPRecordClocks" FALSE FALSE 1416871584
+"157" "537024402693824512" "Wow @zillow has announced it will expand by 5 floors in #Seattle- same day @amazon expects to grow to 10M SF - http://t.co/KtsiOcl0hV @PSBJ" "PatriciaRaicht" FALSE FALSE 1416871569
+"158" "537024351506145280" "Extra Plush Bamboo Top Mattress Pad ExceptionalSheets #comfort #rt #bed #sleep http://t.co/Zn2n118SGj via @amazon" "ladymarielle" FALSE FALSE 1416871557
+"159" "537024204093132800" "You Save: $200.00 (13%) Canon EOS 70D Digital SLR Camera with 18-135m... by Canon http://t.co/ElBH8OZj7e via @amazon" "BFDealz" FALSE FALSE 1416871522
+"160" "537024163832025088" "SALE .99 pennies Born of an Angel by Lisa Glenn Reply w/ #AmazonCart http://t.co/fqCohSF7cg via @amazon" "lisamaeglenn" FALSE FALSE 1416871512
+"161" "537024129774657536" "RT @NetNamesDomains: http://t.co/De0wR0ajly is now resolving @amazon #newgTLDs" "ivens_rocha" TRUE FALSE 1416871504
+"162" "537024118080548864" "Amazing #OneClick SALE @TiffanyASnow 199-5✯, 138-4✯ #RomanticSuspense
+
+@AMAZON⇛ http://t.co/anIlr0RVH2 ~ $1.99... http://t.co/EBFCTnHmB1" "KrisVikBookCafe" FALSE FALSE 1416871501
+"163" "537024114327027712" "RT @OneBrickMelissa: MT@OneBrickBoston: Shopping on @Amazon? Use our link http://t.co/CBoK4Aq9ow &amp; #OneBrick gets 7% of your purchase $! ht…" "deirdrekutt" TRUE FALSE 1416871500
+"164" "537024061554323456" "RT @bahamel01: TAPESTRIES OF LIFE ANIMAL STORIES by B.... Reply w/ #AmazonCart for a free sample http://t.co/qlVwGIiIrv via @amazon" "paul_cude" TRUE FALSE 1416871488
+"165" "537024045594599424" "RT @TheTealWarrior: #amreading BestSeller Tales from the Teal Warrior: A Memoir Reply w/ #AmazonCart for a free sample http://t.co/VpUpRVrq…" "M_P_Matthews" TRUE FALSE 1416871484
+"166" "537023949545422848" "I just bought: 'SOL REPUBLIC 1430-00 Tracks Air Wireless On-Ear... Reply w/ #AmazonWishList to add this via @amazon http://t.co/Lf1rkuoKmj" "abraham_ahmad19" FALSE FALSE 1416871461
+"167" "537023876019265537" "@USPS your making @amazon look bad They got my 2 day pkg to you and you couldn't get it here on time. They gave me 5$ for your poor service" "DBarker80" FALSE FALSE 1416871444
+"168" "537023720791891968" "Beautiful sights all around here on Vancouver Island today!! @rmbooks @TRFNews @amazon #BestSeller  #jointhechorus http://t.co/xE6ASdGfse" "GlobalChorus" FALSE FALSE 1416871407
+"169" "537023677284757505" "I just bought: 'ThermoWorks Splash-Proof Super-Fast Thermapen... Reply w/ #AmazonWishList to add this via @amazon http://t.co/Jx2xXzwsMn" "drvcrash" FALSE FALSE 1416871396
+"170" "537023566491840512" "I just listed: 'Blood Oath', for $0.01 via @amazon http://t.co/skLqvvntXA" "magiqmarkerz" FALSE FALSE 1416871370
+"171" "537023266683379712" "RT @pswinnauthor: Step into the wormholes, you'll be amazed! Tunnels by P.S. Winn  http://t.co/vxPQwTmwfR via @amazon
+#IARTG #beezeebooks #…" "davepperlmutter" TRUE FALSE 1416871298
+"172" "537023169467789312" "RT @Amabassadors: Use this link when shopping @Amazon &amp;  5% of your purchase will be donated to our school building project in SSudan: http…" "jefftoney" TRUE FALSE 1416871275
+"173" "537023092095062016" "RT @19_jill: Passionate Bites: Hot Tales of Vampire ... Reply w/ #AmazonCart for a free sample http://t.co/LiRZEKualh via @amazon" "NightlifeNovels" TRUE FALSE 1416871257
+"174" "537023030854438912" "A look at the product market fit cycle with examples from @amazon @MercedesBenz @ more, via @cee: http://t.co/yoYTFROiM0" "SlideShare" FALSE FALSE 1416871242
+"175" "537023021106876418" "RT @JuliaRBarrett: Totally amazing! Man With The Iron Heart (The Donner Gri... Reply w/ #AmazonCart for a free sample http://t.co/m1Iq9ciis…" "Rave_ReviewsBC" TRUE FALSE 1416871240
+"176" "537022973501124608" "@AmazonHelp @amazon get stuff all the time in Aus great service, have you considered free delivery for orders over $100 to other countries?" "Shannon1ford" FALSE FALSE 1416871228
+"177" "537022917242920960" "$.99 #theindieclub,  A Stanford Carter Murd... Reply w/ #AmazonCart for a free sample http://t.co/prXNQhsVXj via @amazon" "scifiauthorGary" FALSE FALSE 1416871215
+"178" "537022854798123009" "Step into the wormholes, you'll be amazed! Tunnels by P.S. Winn  http://t.co/vxPQwTmwfR via @amazon
+#IARTG #beezeebooks #ebook #paperback" "pswinnauthor" FALSE FALSE 1416871200
+"179" "537022783100690432" "ENCOUNTER  ★★★★★  http://t.co/49xf89FQzB ... via @amazon  \"WICKARD knows how to #write a #WICKED #thriller! #READ IT!\"" "DouglasWickard" FALSE FALSE 1416871183
+"180" "537022781872160768" "RT @lisarobbinyoung: #Thesecretwatch now in the top 20 on @amazon in time management! join us for our give-back event: http://t.co/bofVdCur…" "DStan58" TRUE FALSE 1416871183
+"181" "537022780156301312" "$.Kindred Killers: A Stanford Carter Murd... Reply w/ #AmazonCart for a free sample http://t.co/prXNQhsVXj via @amazon" "scifiauthorGary" FALSE FALSE 1416871182
+"182" "537022766248390656" "RT @RWANYC: “@WendyCorsiStaub: Cold Hearted by Wendy Corsi Staub Reply w/ #AmazonCart for a free sample http://t.co/ggEGZco9b7 via @amazon”" "junglereds" TRUE FALSE 1416871179
+"183" "537022724934086656" "@ConleyWilma @CaryAllenStone @amazon Enjoy yours as well!" "Micheal_Rivers" FALSE FALSE 1416871169
+"184" "537022611033567232" "I just listed: 'Blaze of Passion', for $0.01 via @amazon http://t.co/7bRaDLVIXM" "magiqmarkerz" FALSE FALSE 1416871142
+"185" "537022579203403781" "RT @bookaddictguide: GRAVE MERCY is only $1.99 for Kindle! Grab this one while it's on sale! Such a fantastic series.  http://t.co/t95rsfgA…" "TheCharmingLass" TRUE FALSE 1416871134
+"186" "537022542842953730" "@BargainNext @Mori_Seiki @SeikiDigital Dont buy this TV They dont honor warranty TV died after 5 months #cheap #ripoff #scam @amazon" "ryanwv24" FALSE FALSE 1416871126
+"187" "537022512995909633" "5x7 Double Hinged MOTHER-IN-LAW Poem ~ B... Reply w/ #AmazonWishList to add this http://t.co/e6kBZaAiPZ via @amazon" "classycraftsinc" FALSE FALSE 1416871119
+"188" "537022404422537216" "THE LOVIN' SPOONFUL ~ EVERYTHING PLAYING ~ Wall Clock made from the Vinyl Reco... http://t.co/heIf0udTAr via @amazon" "LPRecordClocks" FALSE FALSE 1416871093
+"189" "537022368448012288" "RT @bookaddictguide: GRAVE MERCY is only $1.99 for Kindle! Grab this one while it's on sale! Such a fantastic series.  http://t.co/t95rsfgA…" "alexiareads" TRUE FALSE 1416871084
+"190" "537022340086124544" "RT @bookaddictguide: GRAVE MERCY is only $1.99 for Kindle! Grab this one while it's on sale! Such a fantastic series.  http://t.co/t95rsfgA…" "jennadoesbooks" TRUE FALSE 1416871077
+"191" "537022318728331264" "5x7 Hinged MY WALK WITH DAD Poem ~Black ... Reply w/ #AmazonWishList to add this http://t.co/C5DpTqMf08 via @amazon" "classycraftsinc" FALSE FALSE 1416871072
+"192" "537022317323620352" "RT @Xelaie: RT for a chance to win a $100 @amazon gift card and other guaranteed rewards. To see what you've won to go http://t.co/lAEcZDka…" "JeaniBrickner" TRUE FALSE 1416871072
+"193" "537022313150312448" "Really impressed with my purchase at @Amazon for this used book.
+$6 and no writing in it. http://t.co/oYQOYZR2sX" "Ernau" FALSE FALSE 1416871071
+"194" "537022256459698176" "Gauntlet thrown from Jeff Reifman re:@amazon's problematic culture. Great read. @geekwire #Amageddon http://t.co/V8uF34a7YC #Seattle" "PostDefiance" FALSE FALSE 1416871057
+"195" "537022091082485760" "XXX mas list!! http://t.co/2JkgVSKfsu via @amazon" "Carteranne13" FALSE FALSE 1416871018
+"196" "537022074049409024" "Donate to @asap_cats (http://t.co/UlRtYYryqL) when you shop @Amazon via @AmazonSmile. http://t.co/5KhSJhTx2l #YouShopAmazonGives" "asap_cats" FALSE FALSE 1416871014
+"197" "537022063945326592" "Spoil me so i can spoil you! http://t.co/nt2AxQRkv9 via @amazon" "Carteranne13" FALSE FALSE 1416871012
+"198" "537021985260187648" "7x10 GREAT GRANDKIDS ~ Multi-Collage Lan... Reply w/ #AmazonWishList to add this http://t.co/bcEFZD2NHr via @amazon" "classycraftsinc" FALSE FALSE 1416870993
+"199" "537021927060439040" "RT @authorwhillman: APRIL (A Rollie Kemp Novel Book 3) by W... Reply w/ #AmazonCart for a free sample http://t.co/l4eRoESdyT via @amazon" "Ribuu" TRUE FALSE 1416870979
+"200" "537021891785932800" "Dream Searcher: Memoirs Actor, Filmmake... Reply w/ #AmazonCart for a free sample http://t.co/da12kCKe4Q via @amazon" "authorwhillman" FALSE FALSE 1416870971
+"201" "537021881267011585" "RT @PastorTroyDSGB: Purchase We Was Homeboyz\" Amazon Instant Video ~ Pastor Troy http://t.co/XBeufISRf6 Â via @amazon\"\"" "assasin910704" TRUE FALSE 1416870968
+"202" "537021880549380096" "8x10 GRANDCHILDREN Portrait Picture/Phot... Reply w/ #AmazonWishList to add this http://t.co/khIaxPuZqi via @amazon" "classycraftsinc" FALSE FALSE 1416870968
+"203" "537021775578558464" "custom photos for presents!!!!
+http://t.co/c3TfcXLsUR via @amazon" "BrookeBloo" FALSE FALSE 1416870943
+"204" "537021703743094784" "RT @TimDavis888: The amazing story of WALDEK, the boy who defied the Nazis by @BlancaMiosi http://t.co/Z71TlxNDQh English Edition @Amazon" "OlgaNM7" TRUE FALSE 1416870926
+"205" "537021700379271168" "Purchase We Was Homeboyz\" Amazon Instant Video ~ Pastor Troy http://t.co/XBeufISRf6 Â via @amazon\"\"" "PastorTroyDSGB" FALSE FALSE 1416870925
+"206" "537021698961596416" "\"Trimble's Christmas\"  ~ Reply w/ #AmazonCart for a free sample http://t.co/15ApBdZG3m    @Amazon #Christmas #Kindle #love #CR4U #RRBC #kids" "marysloft" FALSE FALSE 1416870925
+"207" "537021692401287168" "5x7 LOVE YOU MORE ~ Landscape BLACK Pict... Reply w/ #AmazonWishList to add this http://t.co/oZJfBYSr2C via @amazon" "classycraftsinc" FALSE FALSE 1416870923
+"208" "537021672675487744" "Quigley's Christmas Adventure (Quigley ... Reply w/ #AmazonCart for a free sample http://t.co/gSQM5MvF5f via @amazon" "authorwhillman" FALSE FALSE 1416870918
+"209" "537021664350179328" "'Trimble's Christmas' from @marysloft - Reply w/ #AmazonCart for a free sample http://t.co/kx2qcEoZcV @Amazon #Christmas #Kindle #love" "BookTweeters_4U" FALSE FALSE 1416870916
+"210" "537021652119597056" "Oh thank goodness. I was finally able to go behind my father's back. No thanks to @amazon -.-" "LavinceEvon" FALSE FALSE 1416870913
+"211" "537021651850760193" "DYK classic Software book Crossing the Chasm was updated in January? http://t.co/NXduHawC03 does bought old version 3 months before @amazon" "resing" FALSE FALSE 1416870913
+"212" "537021612554334208" "8x10 A Mother of Boys Photo &amp; Poetry Fra... Reply w/ #AmazonWishList to add this http://t.co/76lNCjCRzo via @amazon" "classycraftsinc" FALSE FALSE 1416870904
+"213" "537021560393981952" "Ghosts and Phantoms II (A Rollie Kemp N... Reply w/ #AmazonCart for a free sample http://t.co/CfYkVvunrY via @amazon" "authorwhillman" FALSE FALSE 1416870892
+"214" "537021522322272256" "8x10 ME &amp; MY HARLEY ~ Landscape Oak Frui... Reply w/ #AmazonWishList to add this http://t.co/KmweGJUQN7 via @amazon" "classycraftsinc" FALSE FALSE 1416870882
+"215" "537021477430624256" "Ghosts and Phantoms I (A Rollie Kemp no... Reply w/ #AmazonCart for a free sample http://t.co/PKh5M3v0RD via @amazon" "authorwhillman" FALSE FALSE 1416870872
+"216" "537021462293405697" "5x7 GRANDPA ~ Portrait Laser Cut Oak FRA... Reply w/ #AmazonWishList to add this http://t.co/K0MYBbvjqZ via @amazon" "classycraftsinc" FALSE FALSE 1416870868
+"217" "537021442143944705" "Edward by Arius De Winter Reply w/ #AmazonCart for a free sample http://t.co/gFif32d7gt via @amazon" "BookcriticNY" FALSE FALSE 1416870863
+"218" "537021377392705536" "5x7 Hinged TO MY MOTHER ON MY WEDDING DAY Poem ~ Oak Picture/Photo Frame ~ A W... http://t.co/BbybnidE2T via @amazon" "photonameframes" FALSE FALSE 1416870848
+"219" "537021376834838528" "RT @AngelicaKate5: Visit my #author page on @amazon for complete listing of all my #books!  ALL FREE download on @KindleUnlimited!  http://…" "ViaVaiNYC" TRUE FALSE 1416870848
+"220" "537021373298667520" "RT @ZombieDoug: Parasite; The True Story of the Zombie ... Reply w/ #AmazonCart for a free sample http://t.co/IhWettpQGU via @amazon" "SPNPaulette" TRUE FALSE 1416870847
+"221" "537021296911986688" "12x16 K-12 School Days/Years Photo Pictu... Reply w/ #AmazonWishList to add this http://t.co/2m7dVoBSID via @amazon" "classycraftsinc" FALSE FALSE 1416870829
+"222" "537021290888962048" "FREE today!  Our Present Neighbor (Neighbor Series B... Reply w/ #AmazonCart for a free sample http://t.co/5zZN0yfiuo via @amazon" "awritr" FALSE FALSE 1416870827
+"223" "537021241669201920" "RT @MRSDBOOKS: Watch out,here comes Carlo!Carlo the Mouse,Book 1:Too Many Rules for One Little Mouse!FUN #READ for U #KIDS! http://t.co/D7k…" "lmontanad" TRUE FALSE 1416870816
+"224" "537021188518596608" "I've Always Known (Child Abuse) by Ariu... Reply w/ #AmazonCart for a free sample http://t.co/uHUjwoDNJb via @amazon - a must read" "BookcriticNY" FALSE FALSE 1416870803
+"225" "537021160110571520" "FREE TODAY!!  http://t.co/Q2xZPPwtsj via @amazon" "awritr" FALSE FALSE 1416870796
+"226" "537021123373043712" "RT @Zebediah10: @TuneCore @A3C @amazonmusic @amazon \"Take Your Bitch ft. Lloyd\" by @bizzycrook http://t.co/nWf2h4wBO1 #Goodluck" "gleemhuis" TRUE FALSE 1416870787
+"227" "537021105395859456" "I've Always Known (Child Abuse) by Ariu... Reply w/ #AmazonCart for a free sample http://t.co/uHUjwoDNJb via @amazon - critics book award" "BookcriticNY" FALSE FALSE 1416870783
+"228" "537021105014181890" "I just bought: 'Sunbeam 2371 MixMaster Stand Mixer, White' by... Reply w/ #AmazonWishList to add this via @amazon http://t.co/PftW4gsmMq" "Emi_Livingstone" FALSE FALSE 1416870783
+"229" "537021063490965505" "@ceallaigh_k @guitarboyjohnny @amazon so do I, for ice and tomato plants." "TheBobBecker" FALSE FALSE 1416870773
+"230" "537021062643339265" "Why yes I just bought this because I'm a total nerd --&gt; MONOPOLY: The Legend of Zelda Collector's Edition http://t.co/DLZHlGCrHR via @amazon" "jnmcabee" FALSE FALSE 1416870773
+"231" "537021019769565185" "Dune @Amazon #bookspotting #wmata #strippedpaperback https://t.co/8TeDgkGyCI" "ebohls" FALSE FALSE 1416870763
+"232" "537020972147417090" "@amazon my housemates vibrator was dispatched a week ago and hasn't been delivered, I hope it arrives soon, she's getting proper annoying." "samuel_burr" FALSE FALSE 1416870751
+"233" "537020949519159296" "@ChilledChaos @ZeRoyalViking @amazon you got that link worryingly fast" "zroyalchaos" FALSE FALSE 1416870746
+"234" "537020904371257344" "@TheBobBecker @amazon No, but I need to compensate somehow for not having an ice scraper in my car." "guitarboyjohnny" FALSE FALSE 1416870735
+"235" "537020831285534720" "@amazon Please open the $99 price for #AmazonEcho to all of us primes that want to purchase.Would be something wonderful for under the tree!" "Cupcakes4aCure" FALSE FALSE 1416870718
+"236" "537020827443945472" "@TheBobBecker @guitarboyjohnny @amazon we own one for prairie burns. No, really." "ceallaigh_k" FALSE FALSE 1416870717
+"237" "537020821953200130" "8x10 MY FRIEND, MY MAID OF HONOR ~ Photo... Reply w/ #AmazonWishList to add this http://t.co/iSrRTmmiIj via @amazon" "classycraftsinc" FALSE FALSE 1416870715
+"238" "537020787111100416" "Paintings by Frederick 'Lyle' Morris by... Reply w/ #AmazonCart for a free sample http://t.co/WuL4RIJRrA via @amazon - excellent" "BookcriticNY" FALSE FALSE 1416870707
+"239" "537020775866568704" "RT @chicklitplus: Love triangle Silly wiener dog Painfully impractical shoes It isn't easy being Claire. CLP recommends... http://t.co/BVGH…" "TheRevCupid61" TRUE FALSE 1416870704
+"240" "537020747307577345" "Stokely: A Life @Amazon #bookspotting #wmata https://t.co/sq1M9BjXkf" "ebohls" FALSE FALSE 1416870698
+"241" "537020725258117121" "Alzheimers Puzzles:: ”Coral Carnival” 36 Piece Puzzle to Remember by Springbok http://t.co/7YkhbM9R1L  via @amazon http://t.co/r7TIHfGAb6" "SandyAlz" FALSE FALSE 1416870692
+"242" "537020615069552641" "@ChilledChaos @ZeRoyalViking @amazon kinky" "oliviaanfriends" FALSE FALSE 1416870666
+"243" "537020595821895680" "Just saw this on Amazon: How To Receive Communion by Kenneth Copeland for $0.99 http://t.co/ew3ICoUynx … via @amazon" "HealingRadio247" FALSE FALSE 1416870662
+"244" "537020591308828672" "@guitarboyjohnny @amazon is this true?" "TheBobBecker" FALSE FALSE 1416870660
+"245" "537020557611786242" "@coldplay @amazon brought it today. Love it." "sarahlouise246" FALSE FALSE 1416870652
+"246" "537020513445351424" "La Guerre des Mondes (French Edition) b... Reply w/ #AmazonCart for a free sample http://t.co/Bw5fiqVEGT via @amazon - French Edition" "BookcriticNY" FALSE FALSE 1416870642
+"247" "537020467803340800" "The Genesis Code @Amazon #bookspotting #wmata https://t.co/is4c6MHU4U" "ebohls" FALSE FALSE 1416870631
+"248" "537020459490242560" "Did you know your holiday shopping can benefit SLOCA? We participate in @Amazon Smile - just choose us from the drop down list!" "STLOvarian" FALSE FALSE 1416870629
+"249" "537020382633414656" "Just ordered a flame thrower from @amazon." "guitarboyjohnny" FALSE FALSE 1416870611
+"250" "537020361695830016" "I wish #BOOKS could adopt me...
+\"Destiny's Heart,\" by L.T. Myers
+#Available NOW where books are sold!
+@amazon @booksamillion
+#justlikemusic" "ABelleintheATL" FALSE FALSE 1416870606
+"251" "537020306402340865" "@lhacafe @amazon They made us all proud. We are bringing back the greatness to make you all proud!" "ChiefRedStorm" FALSE FALSE 1416870593
+"252" "537020142719602689" "RT @AMDRadeon: AMD and @Amazon want to #SpreadJoy this season with great deals on great hardware in the new Amazon AMD Red Zone! http://t.c…" "TheEDkinsMaster" TRUE FALSE 1416870554
+"253" "537020108372054016" "I just bought: 'Amity and Animosity' by Jonathan Friday Reply w/ #AmazonWishList to add this via @amazon http://t.co/PHbfl6f2bs" "TheNinthWave9" FALSE FALSE 1416870545
+"254" "537020028785139712" "Charlie the Horse by Deanie Humphrys-Dunne Reply w/ #AmazonCart for a free sample http://t.co/cvTjT9pXgp via @amazon" "hollyssis" FALSE FALSE 1416870526
+"255" "537020021978177536" "RT @RWANYC: “@WendyCorsiStaub: Cold Hearted by Wendy Corsi Staub Reply w/ #AmazonCart for a free sample http://t.co/ggEGZco9b7 via @amazon”" "WendyCorsiStaub" TRUE FALSE 1416870525
+"256" "537020010905239552" "RT @5amWriterMan: Vacancy / No Vacancy: Peter's Story by 5amWriterMan #gay #erotica #EARTG only $0.99! http://t.co/dcdMgBCS0v via @amazon" "LianahMorgan" TRUE FALSE 1416870522
+"257" "537019992974561280" "RT @OneBrickSV: RT @OneBrickBoston: Shopping on @amazon? Use our link: (http://t.co/wV5cH7YTC6) &amp; #OneBrick gets 7% of your purchase $ at n…" "PhyllisASears" TRUE FALSE 1416870518
+"258" "537019987848736770" "RT @caroline_f_levy: Welcome To The Family by Caroline F. Levy Grab your copy now, &amp; be ready for Protecting the Family http://t.co/LUr2qlo…" "pswinnauthor" TRUE FALSE 1416870517
+"259" "537019854067609600" "“@AlexPVRIS: You can now get our record \"White Noise\" on vinyl at @amazon! http://t.co/G1ls0rKG9n” when I get paid Friday this is my 1st buy" "daisyxprincess" FALSE FALSE 1416870485
+"260" "537019852309790720" "Charlene the Star and Hattie's Heroes by... Reply w/ #AmazonWishList to add this http://t.co/FSpkAcJghW via @amazon" "hollyssis" FALSE FALSE 1416870484
+"261" "537019840138342400" "5TB Seagate Backup Plus USB 3.0 external hard drive $140 @amazon http://t.co/rEPb1CzEMa #externaldrive http://t.co/2dbMSjtR4J" "bezproducts" FALSE FALSE 1416870481
+"262" "537019618229886976" "Hey @amazon,this isn't proper packaging for a set of dishes. Second broken set in a row. http://t.co/17QFyGJpGP" "_jnf" FALSE FALSE 1416870428
+"263" "537019609191575552" "12x16 School Days/Years K-12 Photo Picture Collage Mat &amp; Frame ~ LIGHT/MEDIUM ... http://t.co/sOFWMUoPoC via @amazon" "photonameframes" FALSE FALSE 1416870426
+"264" "537019581752016896" "Charlene the Star by Deanie Humphrys-Dunne Reply w/ #AmazonCart for a free sample http://t.co/u7Yjmqihqd via @amazon" "hollyssis" FALSE FALSE 1416870420
+"265" "537019580846071808" "'Leather Hand Bag', for $86.95 via @amazon http://t.co/RIU1inrOpQ" "afbautista46" FALSE FALSE 1416870420
+"266" "537019486218747905" "@JohnSneeden @amazon Thank you. I don't have access to do an ebook but I want to read your work! God's speed!" "DeCosteSummer" FALSE FALSE 1416870397
+"267" "537019470607577088" "RT @Cass_Pennant: 3rd copy of #TheGuvnors #dvd up for grabs. RETWEET &amp; follow @GuvnorsFilm to enter. Out 29 Dec, pre-order @amazon now http…" "Winchester1975A" TRUE FALSE 1416870393
+"268" "537019460046290947" "RT @NGKids: Thanks @Amazon for featuring The Whale Who Won Hearts as a Best Book of the Year! http://t.co/vpx4YpPh1M" "InfoParents" TRUE FALSE 1416870391
+"269" "537019392215625728" "Tails of Sweetbrier by Deanie Humphrys-D... Reply w/ #AmazonWishList to add this http://t.co/vF5Jx36mcw via @amazon" "hollyssis" FALSE FALSE 1416870375
+"270" "537019293188509698" "RT @VictorsVillage: IMPORTANT NOTE: @Amazon's #Mockingjay score mp3 page link leads to the soundtrack, not the score! BEWARE! http://t.co/u…" "danna_prisoner" TRUE FALSE 1416870351
+"271" "537019228545888256" "#blackberry passport on sale @amazon ($200 off) whew!" "zaurav" FALSE FALSE 1416870336
+"272" "537019225970180096" "Ends in 08h 54m You Save: $75.00 (38%)  Graco Pack 'N Play with Newborn Napper Elite,... by Graco http://t.co/hih4odJYcX via @amazon" "BFDealz" FALSE FALSE 1416870335
+"273" "537019204273070080" "RT @TheMysteryLadie: Dear Santa, I can explain...A GNARLY CHRISTMAS by Lauren Carr #shortstory #mystery #humor #BYNR #amenl http://t.co/qKK…" "ed_bok" TRUE FALSE 1416870330
+"274" "537019181833940992" "RT @VondaNorwood
+Amazon's Vonda Norwood Page http://t.co/9Ocm3UxVSH via @amazon" "UviPoznansky" FALSE FALSE 1416870324
+"275" "537019147147026432" "\"novel that pokes fun at the genre without totally letting go of it.\" ~JROB #vampire #Mglit #AmazonCart @amazon http://t.co/nonaQ1z6v4" "EchoPressBooks" FALSE FALSE 1416870316
+"276" "537019145209253888" "RT @parrishgore: MYSTERY/SUSPENSE/HORROR!!! The Harvest Moon Feast by Parrish Gore Reply w/ #AmazonCart for a free sample http://t.co/bNQut…" "sirboring" TRUE FALSE 1416870316
+"277" "537019102079250432" "Thanks @Amazon for featuring The Whale Who Won Hearts as a Best Book of the Year! http://t.co/vpx4YpPh1M" "NGKids" FALSE FALSE 1416870305
+"278" "537019097490657280" "Yo @amazon let ya boy know why an IPHONE 4S is like $300" "jhieb13" FALSE FALSE 1416870304
+"279" "537019078695587840" "Need a bluetooth solution for your car? I just bought this and LOVE it!
+Parrot MiniKit Beo http://t.co/IpDMFn04jB via @amazon" "Survivor_Talk" FALSE FALSE 1416870300
+"280" "537019028825313280" "5x7 GREAT GRANDKIDS ~ BLACK Landscape Pi... Reply w/ #AmazonWishList to add this http://t.co/u135MDIUVs via @amazon" "classycraftsinc" FALSE FALSE 1416870288
+"281" "537019009611624448" "Ready for some @amazon black Friday deals!" "mediateck" FALSE FALSE 1416870283
+"282" "537018947422674945" "Ooo @Amd and @amazon deals @AMD  http://t.co/30G2S4dKNk" "Theexitnow" FALSE FALSE 1416870269
+"283" "537018926908338177" "CHICAGO ~ GREATEST HITS VOLUME II ~ Recycled LP Vinyl Record/Album Wall Clock ... http://t.co/RXIshk5Crt via @amazon" "LPRecordClocks" FALSE FALSE 1416870264
+"284" "537018553070002177" "@IntelITCenter @Apple @amazon Because they are quick!" "Torkey1" FALSE FALSE 1416870175
+"285" "537018538893250560" "For years @Amazon has saved me from having to deal with the hectic Black Friday sales, I'm bummed they changed how they do it this year" "mrichert" FALSE FALSE 1416870171
+"286" "537018534078205952" "RT @TheTealWarrior: #amreading Tales from the Teal Warrior: A Memoir #ovariancancer Reply w/ #AmazonCart for a free sample http://t.co/qxWJ…" "Smart3DWeb" TRUE FALSE 1416870170
+"287" "537018484903784448" "TAPESTRIES OF LIFE ANIMAL STORIES by B.... Reply w/ #AmazonCart for a free sample http://t.co/qlVwGIiIrv via @amazon" "bahamel01" FALSE FALSE 1416870158
+"288" "537018480999301121" "MONEY Master the Game: 7 Simple Steps to Financial Freedom @Amazon https://t.co/CwppfXUS1p" "latinabug_nj" FALSE FALSE 1416870157
+"289" "537018459809644544" "RT @ChefJasRoberts: Looks like #GoodFoodFast is being shipped already via @amazon 
+
+Very excited!!!!  grab a copy whilst 
+stocks last  htt…" "GoodFoodguyd" TRUE FALSE 1416870152
+"290" "537018332877058048" "@Stylzoo's Women's #Plus Size Stretchy Com... Reply w/ #AmazonWishList to add this http://t.co/FIGJ7N1Hek via @amazon #fashion #style #skirt" "TotoSonbai" FALSE FALSE 1416870122
+"291" "537018305077596161" "MT @Todd_Michaels_: If you like non-con this quick story will definitely whet your appetite 4 Stars @amazon http://t.co/gTQgyJ0fRO #erotica" "ForbiddenFic" FALSE FALSE 1416870115
+"292" "537018299218141184" "10 poems (Yehuda Amichai poetry award 2012) by Mois Benarroch for $2.99 http://t.co/q39obNYVmt via @amazon 
+#kindle #israel #poetry" "PoetryIsrael" FALSE FALSE 1416870114
+"293" "537018288903966720" "When Faith Opens Doors: 31 Days of Peac... Reply w/ #AmazonCart for a free sample http://t.co/jmorlSbw6S via @amazon" "AuthorForChrist" FALSE FALSE 1416870112
+"294" "537018274048139264" "This Family of Mine: What It Was Like Growing Up Gotti @Amazon https://t.co/ARr0pwB5Bd" "latinabug_nj" FALSE FALSE 1416870108
+"295" "537018235343110144" "12x16 ~ K-12 School Days/Years Photo Picture Collage Frame ~ Grade School to G... http://t.co/kxgVA5xWDp via @amazon" "classycraftsinc" FALSE FALSE 1416870099
+"296" "537018228262707200" "Black Friday 2014 deals, sales, and low prices on laptops, TVs, toys, DVDs, a... http://t.co/RYNZN40wLo via @amazon" "rockstarninja11" FALSE FALSE 1416870097
+"297" "537018200987557888" "Living the Good Long Life: A Practical Guide to Caring for Yourself and Others @Amazon https://t.co/in8UekGkx6" "latinabug_nj" FALSE FALSE 1416870091
+"298" "537018178292178945" "AMD and @Amazon want to #SpreadJoy this season with great deals on great hardware in the new Amazon AMD Red Zone! http://t.co/uwLGrR32Hd" "AMDRadeon" FALSE FALSE 1416870085
+"299" "537018019575504896" "\"Quick dialog and punchy characters\" ~JROB #vampire #YA #Mglit #AmazonCart @amazon http://t.co/nonaQ1z6v4" "EchoPressBooks" FALSE FALSE 1416870047
+"300" "537017882123595776" "I just bought: 'XtremepowerUS 20PSI High Pressure 4Feet Propane... Reply w/ #AmazonWishList to add this via @amazon http://t.co/OwaJbszXUU" "zip100473" FALSE FALSE 1416870015
+"301" "537017856907825152" "#New #LGBT #Gay Blue Mountain (Pack Collection Book 1) by Cardeno C. for $3.99 http://t.co/WmcsqD5eDy via @amazon" "MiznikkiNikki" FALSE FALSE 1416870009
+"302" "537017823630217217" "Why do @Apple and @Amazon rank so high in consumer's minds? http://t.co/sZMbdT79f1 #BitFeed #ITCenter http://t.co/j1OE7GToyo" "IntelITCenter" FALSE FALSE 1416870001
+"303" "537017671599284224" "@ChrisDaniels5 @PSBJ wow I'll take a job @amazon" "bigrog6395" FALSE FALSE 1416869964
+"304" "537017532050575360" "8x10 MARRIAGE Photo &amp; Poetry BLACK Frame w/Cream Mat ~ Holds a Portrait 5x7 Pi... http://t.co/uelzHIiVZM via @amazon" "photonameframes" FALSE FALSE 1416869931
+"305" "537017455051563009" "In the UK, @Amazon will use a newspaper distributor for same day delivery services." "KyndallLorait" FALSE FALSE 1416869913
+"306" "537017407790145537" "I just bought: 'Kindle Fire HD 7\", HD Display, Wi-Fi, 8 GB... Reply w/ #AmazonWishList to add this via @amazon http://t.co/zac4P0hcaH" "chaos_cat" FALSE FALSE 1416869901
+"307" "537017382951063552" "I just listed: 'Blade [VHS]', for $0.01 via @amazon http://t.co/MOYPstzdzk" "magiqmarkerz" FALSE FALSE 1416869896
+"308" "537017381177270272" "RT @nilimonicky: Received my $200 @amazon gift card thanks to @KidzVuz when I participated in Instagram challenge. Thank you so very much! …" "KidzVuz" TRUE FALSE 1416869895
+"309" "537017354303975424" "Never Let Me Go by Kazuo Ishiguro Reply w/ #AmazonWishList to add this http://t.co/UblhUVtnG9 via @amazon" "rarebookz" FALSE FALSE 1416869889
+"310" "537017311287201792" "Got some earphones worth $100 for $20! Thank you @amazon" "XxManuelRamxX" FALSE FALSE 1416869878
+"311" "537017264520699904" "Kindle Freebie!! You Turn by Marion Croslydon http://t.co/ZOU30ZYh3C via @amazon" "BlithelyBookish" FALSE FALSE 1416869867
+"312" "537017227212775424" "HuaYang Car Steering Wheel Mount Holder Stand For iPhone 4S 5S @Amazon https://t.co/tSDFfOGAO5" "DSS__29" FALSE FALSE 1416869858
+"313" "537017065932992516" "For that special person
+A warm loving #Christmas #gift
+GRACE an UNEXPECTED LOVE
+Maybe there’s a chance #Love
+@amazon http://t.co/9YgFtmMuKL" "JBMorrisAuthor" FALSE FALSE 1416869820
+"314" "537017049852432384" "RT @CourierBoxPTY: Oferta en @amazon: Top Shelf Living - 10\" Soapstone Pizza Stone http://t.co/TlBsEgbGVZ" "interyellow" TRUE FALSE 1416869816
+"315" "537017031137443840" "RT @AngelicaKate5: Visit my #author page on @amazon for complete listing of all my #books!  ALL FREE download on @KindleUnlimited!  http://…" "tableofferings" TRUE FALSE 1416869812
+"316" "537016992641728512" "An Act of Reparation: A Lexie Reed Nove... Reply w/ #AmazonCart for a free sample http://t.co/mfqtz6H22i via @amazon" "susangodenzi" FALSE FALSE 1416869802
+"317" "537016980935426049" "#RT #PromoteThisBook Blue Moon: The Ring of Mer (Seer's of th... Reply w/ #AmazonWishList to add this http://t.co/9zGvVxh7js via @amazon" "alice_moring" FALSE FALSE 1416869800
+"318" "537016746662588416" "I just listed: 'Black Pearl, The', for $0.01 via @amazon http://t.co/RoWiUHwBri" "magiqmarkerz" FALSE FALSE 1416869744
+"319" "537016686470524929" "RT @AProDeal: The Best American Flag - US Flag 2 x 3 - Embr... by Verde River Products http://t.co/W78vbNAxZX via @amazon" "amazonShop5000" FALSE FALSE 1416869729
+"320" "537016680522579968" "#RT #PromoteThisBook Blue Moon: The Ring of Mer (Seer's of th... Reply w/ #AmazonWishList to add this http://t.co/XaPwOBFOgG via @amazon" "AuthorAllie1" FALSE FALSE 1416869728
+"321" "537016606329950208" "RT @CwbyWsdm: I Forgive Me...  I Am Free: authorizes me to skywrite my hallowed name in the worldly sky http://t.co/iWnWlE0Rgk via @amazon" "ZolaWieser" TRUE FALSE 1416869710
+"322" "537016599371612160" "Online &amp; in stock! @chaptersindigo @amazon @BNBuzz Twenty-one Candles: Stories for Christmas http://t.co/gCEy6PlZSS …" "imprintsAlphaB" FALSE FALSE 1416869709
+"323" "537016434828664832" "#RT #PromteThisBook Blue Moon: The Ring of Mer (Seer's of th... Reply w/ #AmazonWishList to add this http://t.co/XaPwOBFOgG via @amazon" "AuthorAllie1" FALSE FALSE 1416869670
+"324" "537016424758136832" "The Haskell Road to Logic, Maths and Programming. Second Edition (Texts in Computing) by Amazon via @amazon" "InfinitelyManic" FALSE FALSE 1416869667
+"325" "537016418399973376" "8x10 GRANDPA'S LOVE Picture &amp; Poetry Photo G... Reply w/ #AmazonCart to add this http://t.co/rOhglzQz6g via @amazon" "classycraftsinc" FALSE FALSE 1416869666
+"326" "537016396698226688" "@John_Stinchcomb @amandapalmer @kmillerheidke @amazon are going to start promoting it after Thanksgiving." "Gamage" FALSE FALSE 1416869660
+"327" "537016376775294976" "RT @AMD: #SpreadJoy by getting your friends &amp; family the latest AMD hardware for a great price in the @Amazon AMD Red Zone! http://t.co/zIT…" "yusupsaputra_" TRUE FALSE 1416869656
+"328" "537016136970166272" "#RT #PromoteThisBook Blue Moon: The Ring of Mer (Seer's of th... Reply w/ #AmazonWishList to add this http://t.co/d6FjS2mGnf via @amazon" "AuthorFae" FALSE FALSE 1416869598
+"329" "537016067651284993" "RT @GeekGirlCamp: If your nonprofit wants some @Amazon #Smile love, kindly list your link here so we can see who needs support? THX http://…" "cgruppioni" TRUE FALSE 1416869582
+"330" "537015911522136064" "I just listed: 'COLECO VISION &amp; ADAM BC'S QUEST FOR TIRES II GROG'S REVENGE', for $13.09 via @amazon http://t.co/og9MA1OTBo" "SanDiegoPawn" FALSE FALSE 1416869545
+"331" "537015827128930305" "Shocking that my package to be delivered by Prestige is delayed. And by shocking I mean totally expected. Hey @Amazon, STOP USING PRESTIGE." "Faroh" FALSE FALSE 1416869525
+"332" "537015800616747009" "RT @ChefJasRoberts: Looks like #GoodFoodFast is being shipped already via @amazon 
+
+Very excited!!!!  grab a copy whilst 
+stocks last  htt…" "roni334458" TRUE FALSE 1416869518
+"333" "537015720149020672" "Les Misérables Amazon Instant Video ~ Hugh Jackman http://t.co/JxoKbx8dtZ via @amazon erstaunlich toll :)" "Sternenchaos" FALSE FALSE 1416869499
+"334" "537015701123239936" "DAVID...The Boy With No 'PANTS' by David... Reply w/ #AmazonWishList to add this http://t.co/ChBpmevFAH via @amazon" "ForgottenMCs" FALSE FALSE 1416869495
+"335" "537015559322628096" "RT @ForetTwo: Tales from the Teal Warrior: A Memoir b... Reply w/ #AmazonCart for a free sample http://t.co/H2jMfzYi6h via @amazon @TheTeal…" "Foret" TRUE FALSE 1416869461
+"336" "537015438769938433" "RT @MAllanScott: RT @authorDASmith The Somali Deception Episode I is in the Top 100 in Mystery Thriller &amp; Suspense on http://t.co/nYzOlCO1U…" "kybunnies" TRUE FALSE 1416869432
+"337" "537015366971817984" "\"Is there a Russian word for men who bully women?\" : \"We call them Americans.\" #mystery #AmazonCart @amazon http://t.co/fEXw7o0aWc" "EchoPressBooks" FALSE FALSE 1416869415
+"338" "537015356901314561" "RT @5amWriterMan: Vacancy / No Vacancy: Sammy's Story #gay #erotica #EARTG only $0.99 http://t.co/nY92Usz7SJ via @amazon" "DesireeDaun" TRUE FALSE 1416869413
+"339" "537015341554352128" "AmazonBasics Ultra-Portable Micro Bluetooth... by AmazonBasics for $24.99 http://t.co/ebAQxf8sqA via @amazon http://t.co/F2fW3tcOWa" "seopowerstore" FALSE FALSE 1416869409
+"340" "537015332393582592" "I just listed: '101 Outer Space Jokes (101 Joke Book)', for $0.01 via @amazon http://t.co/JX7uB95Si1" "magiqmarkerz" FALSE FALSE 1416869407
+"341" "537015131729694721" "Vacancy / No Vacancy: Peter's Story by 5amWriterMan #gay #erotica #EARTG only $0.99! http://t.co/dcdMgBCS0v via @amazon" "5amWriterMan" FALSE FALSE 1416869359
+"342" "537015045763641346" "CONWAY TWITTY ~ IT'S ONLY MAKE BELIEVE ~ Wall Clock made from the Vinyl Record... http://t.co/diLOIkveT5 via @amazon" "LPRecordClocks" FALSE FALSE 1416869338
+"343" "537015040780402688" "RT @JLeighBralick: So you think you know the story of St. George and the Dragon? Think again! Sword and Serpent #indie #CR4U http://t.co/LT…" "KatyHuthJones" TRUE FALSE 1416869337
+"344" "537015031008096257" "RT @MarieDrake72: \"..a solid story with a vulnerable yet strong character, Hope  Wellman.\" 5*s~ http://t.co/YKwlCnQOPy #ASMSG #amreading #9…" "Lourack1" TRUE FALSE 1416869335
+"345" "537015013018701825" "RT @MarieDrake72: \"He told me no one would ever love me the way he did. I prayed, 
+'God, I hope not.'\" #ASMSG 
+http://t.co/GfXGuBjVTK 
+#99c…" "Lourack1" TRUE FALSE 1416869331
+"346" "537014945666572288" "@atlususa Persona Q shipped today! I'm getting it wednesday according to @amazon. Woo hoo! :D" "JakdrabbitMFZB" FALSE FALSE 1416869314
+"347" "537014882743623680" "5x7 Hinged TO OUR DAUGHTER ON HER WEDDING DAY Poem ~ Oak Picture/Photo Frame ~... http://t.co/2zD2ciY5Rg via @amazon" "classycraftsinc" FALSE FALSE 1416869299
+"348" "537014868172222464" "Destiny's Heart by L. T. \"Cashmere\" Myer... Reply w/ #AmazonWishList to add this http://t.co/mXGFqoypfU via @amazon" "ABelleintheATL" FALSE FALSE 1416869296
+"349" "537014766762352640" "Carhartt Men's Series 1889 Knit Scarf, Canyon Brown, One Size by Amazon via @amazon" "CrazyUncleChris" FALSE FALSE 1416869272
+"350" "537014750325264384" "RT @AlanWilliamHard: Gabriella by Alan Hardy Reply w/ #AmazonCart for a free sample http://t.co/0xZF9JNguP via @amazon TEENAGE LOVE &amp; SEX! …" "TheTrumpDiary" TRUE FALSE 1416869268
+"351" "537014515838500864" "RT @_The_Sister_: The Sister. 'Unique and compelling...breathes life into secret fears...' http://t.co/R6RBTW9YbG  via @amazon #amenl" "LKaybayareagirl" TRUE FALSE 1416869212
+"352" "537014502894891008" "RT @TheMysteryLadie: I do. He's dead. Lauren Carr's A WEDDING AND A KILLING #mystery #IARTG #99cents #BYNR #CR4U #amenl #book http://t.co/9…" "SaraBGauldin" TRUE FALSE 1416869209
+"353" "537014480178147328" "I just listed: 'Elvira, Mistress of the Dark #16', for $6.95 via @amazon http://t.co/Wjc51nzAuN" "CHUCKDURDEN" FALSE FALSE 1416869203
+"354" "537014450021072896" "5x7 JUMBO ~ ME &amp; MY BUDDY Landscape BLAC... Reply w/ #AmazonWishList to add this http://t.co/ztn5SArYqH via @amazon" "classycraftsinc" FALSE FALSE 1416869196
+"355" "537014414885781505" "Today's @SAISCareers employer of the day is Amazon @amazon. Visit us on Facebook to find out more info: http://t.co/gZKzmg5nvS" "SAISCareers" FALSE FALSE 1416869188
+"356" "537014298812628992" "At @42Kmi, we approve of @Amazon Prime. Try it out! http://t.co/fw6rdELI5s #deals #savings" "42Kmi" FALSE FALSE 1416869160
+"357" "537014291954954241" "@BillKapfer GREAT DAY ! Maximize your day&amp;Download my book THE SECRETS TO YOUR BEST LIFE! http:http://t.co/kbcfXSjXVd via @amazon" "iam_TSN" FALSE FALSE 1416869159
+"358" "537014246551613441" "@LaytonWilliams @amazon @BillyElliotUK waheyyy! Didn't catch it in the cinema so I'm thrilled about this! Thanks for the great news Layton!" "Beth_Cheryl_" FALSE FALSE 1416869148
+"359" "537014200363532288" "RT @PSBJEditor: We all know Amazon is big and getting bigger, but this may surprise you:
+http://t.co/cNn4D5hvc1 @PSBJ @MarcStilesPSBJ @amaz…" "BizEastside" TRUE FALSE 1416869137
+"360" "537014172178219008" "Looks like #GoodFoodFast is being shipped already via @amazon 
+
+Very excited!!!!  grab a copy whilst 
+stocks last  http://t.co/aFIjb5pzoo" "ChefJasRoberts" FALSE FALSE 1416869130
+"361" "537014168977932288" "\"@AlexPVRIS: You can now get our record \"White Noise\" on vinyl at @amazon! http://t.co/G3rXalWgur\" @beaguilarbelloc apunta" "LauraReckless_" FALSE FALSE 1416869129
+"362" "537014090229493760" "I just listed: 'Beyond Iraq: The Next Move--Ancient Prophecy and Modern Day Conspiracy Coll...', for 3.99 via @amazon http://t.co/bVBJxjzZE8" "TheBookBarne" FALSE FALSE 1416869111
+"363" "537014065223045121" "#RT PromoteThisBook Blood Moon: Werewolves and Shifters by ... Reply w/ #AmazonCart for a free sample http://t.co/oXr18tk7Aq via @amazon" "GeraldineAllie" FALSE FALSE 1416869105
+"364" "537014037184544768" "RT @lyndajdickson: #NewRelease on Amazon: Brody: The Bang Shift by Mandy Harbin http://t.co/CrWKMFPzKB via @amazon" "paulregabooks" TRUE FALSE 1416869098
+"365" "537014001771622400" "I just listed: 'MLB New York Yankees Derek Jeter Jersey Style Terry Wide Wrist Band Arm Ba...', for $8.99 via @amazon http://t.co/QjfVNJNP9e" "BestYetCollect" FALSE FALSE 1416869089
+"366" "537013967533907969" "The Night Sweeper: Book 1 of the Zombie... Reply w/ #AmazonCart for a free sample http://t.co/zfEpx9WTKS via @amazon On sale for .99" "jsbword" FALSE FALSE 1416869081
+"367" "537013957379096577" "I just listed: 'Growing Seasons: Half-Baked Garden Tips, Cheap Advice on Marriage and Quest...', for 3.35 via @amazon http://t.co/fhTki4cggP" "TheBookBarne" FALSE FALSE 1416869079
+"368" "537013902668611585" "Upcoming Deal
+Sunforce 2500 Watt Pure Sine Wave Inverter
+@amazon 
+#bettagetonthat" "InfinitelyManic" FALSE FALSE 1416869066
+"369" "537013869655248897" "http://t.co/p5y4ekdWFI Gift Ideas: The most popular items ordered as gifts in Computer Ta... http://t.co/m1EWVqO01V via @amazon" "owuogbanathan" FALSE FALSE 1416869058
+"370" "537013840081195008" "MLB New York Yankees Jersey Style Patch ... Reply w/ #AmazonWishList to add this http://t.co/eg1xpSzzSV via @amazon" "BestYetCollect" FALSE FALSE 1416869051
+"371" "537013751837622272" "RT @lyndajdickson: #NewRelease on Amazon: Brody: The Bang Shift by Mandy Harbin http://t.co/CrWKMFPzKB via @amazon" "heyitsmejoy" TRUE FALSE 1416869030
+"372" "537013733436817409" "I just listed: 'Elvira: Mistress of the Dark #24', for $8.95 via @amazon http://t.co/lDQnPbn914" "CHUCKDURDEN" FALSE FALSE 1416869025
+"373" "537013716177260544" "I just listed: 'Carley's Song', for 9.03 via @amazon http://t.co/vF9ZhDMDyd" "TheBookBarne" FALSE FALSE 1416869021
+"374" "537013685315579904" "On #sale for $0.99 (US only) on Amazon: Rebekka Franck Series Box Set: Vol 1-3 by Willow Rose http://t.co/ZuPZCYcbGT via @amazon" "lyndajdickson" FALSE FALSE 1416869014
+"375" "537013568768446467" "I just listed: 'Grace Livingston Hill, Collection No.6 (4 Complete Novels including a novel...', for 8.17 via @amazon http://t.co/l4mygJmigr" "TheBookBarne" FALSE FALSE 1416868986
+"376" "537013560157958145" "@BrookeShields my copy will arrive in 2 days. #ThereWasALittleGirl - I heard it was incredibly revealing! @amazon @jenniferbeals" "ItsMrsMoran" FALSE FALSE 1416868984
+"377" "537013519900626944" "#RT #PromoteThisBook Bayou Moon by Geraldine Allie Reply w/ #AmazonWishList to add this http://t.co/dkEW0erWnw via @amazon" "alice_moring" FALSE FALSE 1416868975
+"378" "537013500603039746" "8x10 DAUGHTER-IN-LAW Picture &amp; Poetry Photo ... Reply w/ #AmazonCart to add this http://t.co/Yj4A2iUmzz via @amazon" "photonameframes" FALSE FALSE 1416868970
+"379" "537013480721612801" "@amazon_movies @amazon no thank you" "spartantown" FALSE FALSE 1416868965
+"380" "537013474170122240" "I just listed: 'Elvira, Mistress of the Dark, Edition# 4', for $4.49 via @amazon http://t.co/7c1OKtsVbZ" "CHUCKDURDEN" FALSE FALSE 1416868964
+"381" "537013452905398273" "I just bought: 'Cats Flannel Pajama Set' SIGNALS Reply w/ #AmazonWishList to add this via @amazon http://t.co/7p1ZYOKyAE" "artbizca_ching" FALSE FALSE 1416868959
+"382" "537013436937281536" "http://t.co/p5y4ekdWFI Gift Ideas: The most popular items ordered as gifts in Laptop Comp... http://t.co/yeBMNxDXlz via @amazon" "owuogbanathan" FALSE FALSE 1416868955
+"383" "537013392473464832" "I just listed: 'Q*bert's Qubes', for $44.45 via @amazon http://t.co/e5vNil1Jy2" "SanDiegoPawn" FALSE FALSE 1416868944
+"384" "537013353772613632" "@OMNIREX18 @solesaknyc @amazon lol was jk" "mrkick210" FALSE FALSE 1416868935
+"385" "537013280431427584" "@piersmorgan @SusanBoyleHQ @amazon bet it's more than just a friend ayy?" "Jonny_Braban" FALSE FALSE 1416868917
+"386" "537013116174077954" "#FREESTUFF GET IT WHILE IT'S FREE!! ILLICIT @amazon http://t.co/BE8qd0DNuz #addiction #recovery" "YourInnerAddict" FALSE FALSE 1416868878
+"387" "537013077091184641" "@OMNIREX18 @solesaknyc I found this on @amazon for 18.99 will you price match?" "mrkick210" FALSE FALSE 1416868869
+"388" "537013068057018370" "RT @5amWriterMan: Vacancy / No Vacancy: Sammy's Story #gay #erotica #EARTG only $0.99 http://t.co/nY92Usz7SJ via @amazon" "LianahMorgan" TRUE FALSE 1416868867
+"389" "537012997441744897" "RT @AdamRackoff: #Apple is now worth more than @google @amazon @Yahoo @Twitter @Sony @BlackBerry @Adobe @pandora_radio &amp; @SIRIUSXM COMBINED…" "theresamax" TRUE FALSE 1416868850
+"390" "537012976986120193" "RT @Catherinemkirby: But how can she decide? The Scrimshaw Set by Gayle... Reply w/ #AmazonCart for a free sample http://t.co/qDHWGNK3LW vi…" "M_P_Matthews" TRUE FALSE 1416868845
+"391" "537012969927094272" "@TuneCore @A3C @amazonmusic @amazon \"Take Your Bitch ft. Lloyd\" by @bizzycrook http://t.co/nWf2h4wBO1 #Goodluck" "Zebediah10" FALSE FALSE 1416868843
+"392" "537012927513890817" "#RT #PromoteThisBook Bayou Moon by Geraldine Allie Reply w/ #AmazonWishList to add this http://t.co/njMdNF45LR via @amazon" "AuthorFae" FALSE FALSE 1416868833
+"393" "537012910045020161" "Paid $5 for @amazon to gift wrap a gift.. And they put it in a bag.. Not impressed. http://t.co/sRlTmyQv8U" "Brockaldersley" FALSE FALSE 1416868829
+"394" "537012895523930113" "Vacancy / No Vacancy: Sammy's Story #gay #erotica #EARTG only $0.99 http://t.co/nY92Usz7SJ via @amazon" "5amWriterMan" FALSE FALSE 1416868826
+"395" "537012886577491968" "I just listed: 'ELVIRA NO. 9 MISTRESS OF THE DARK CLAYPOOL COMICS JANUARY 1994!', for $5.99 via @amazon http://t.co/NJ4oOafJDH" "CHUCKDURDEN" FALSE FALSE 1416868824
+"396" "537012858702143488" "I just bought: 'Bobble Water Bottle, 34oz, Yellow' by Bobble Reply w/ #AmazonWishList to add this via @amazon http://t.co/HblkrmMoFb" "SunnySara" FALSE FALSE 1416868817
+"397" "537012858333446144" "The Sister. 'Unique and compelling...breathes life into secret fears...' http://t.co/R6RBTW9YbG  via @amazon #amenl" "_The_Sister_" FALSE FALSE 1416868817
+"398" "537012839060226048" "Herb Angelica D901A (Green) 200 Organic ... Reply w/ #AmazonWishList to add this http://t.co/uiteOkZ7UZ via @amazon" "dogtracks39" FALSE FALSE 1416868812
+"399" "537012733321826304" "http://t.co/p5y4ekdWFI Gift Ideas: The most popular items ordered as gifts in Security &amp; ... http://t.co/r3iEyH8vjP via @amazon" "owuogbanathan" FALSE FALSE 1416868787
+"400" "537012710308081664" "RT @lyndajdickson: #Free 25-26 November on Amazon: Against The Wall: Part One: Aaron and Sasha... by Mandy Harbin http://t.co/LWgGkBFMCW vi…" "WeWriteReviews" TRUE FALSE 1416868782
+"401" "537012643123302400" "#NewRelease on Amazon: Brody: The Bang Shift by Mandy Harbin http://t.co/CrWKMFPzKB via @amazon" "lyndajdickson" FALSE FALSE 1416868765
+"402" "537012598617542656" "Check out this Amazon deal: Foscam FI8910W Pan &amp; Tilt IP/Network Camera w... by Foscam http://t.co/bai9CV13ZX via @amazon" "owuogbanathan" FALSE FALSE 1416868755
+"403" "537012582268563456" "RT @chesapeakebay: #HolidayShopping on @amazon means helping to #SaveTheBay when you shop through this link: http://t.co/2N4UHIbevy http://…" "saylorjacqu" TRUE FALSE 1416868751
+"404" "537012541356912641" "Add some fruit + mint to your #Thanksgiving w/ a 4-pack of drop2o #waterenhancer from @Amazon: http://t.co/CK0IBjjMQi http://t.co/AfNg2AZp8H" "Drop2O" FALSE FALSE 1416868741
+"405" "537012485945950208" "#RT #PromoteThisBook A Merry Frost: A Christmas Holiday Novel ... Reply w/ #AmazonWishList to add this http://t.co/cKMCCiUaay via @amazon" "AuthorFae" FALSE FALSE 1416868728
+"406" "537012478509854720" "RT @AlexPVRIS: You can now get our record \"White Noise\" on vinyl at @amazon! http://t.co/seDRGLysrb" "pvrisspain" TRUE FALSE 1416868726
+"407" "537012455378268160" "RT @AlexPVRIS: You can now get our record \"White Noise\" on vinyl at @amazon! http://t.co/seDRGLysrb" "_b_laura_q" TRUE FALSE 1416868721
+"408" "537012393881395200" "@amazon_movies @amazon done" "Manny1995x" FALSE FALSE 1416868706
+"409" "537012327405469696" "Wanna be my Secret Santa??? http://t.co/AiC91TVcQ8 via @amazon" "TexxxasSummers" FALSE FALSE 1416868690
+"410" "537012312511905792" "You can now get our record \"White Noise\" on vinyl at @amazon! http://t.co/seDRGLysrb" "AlexPVRIS" FALSE FALSE 1416868687
+"411" "537012229745299456" "Lilly Lightbug by John O. Morrow Reply w/ #AmazonWishList to add this http://t.co/jj9uT62dLu via @amazon" "StorybookMoon" FALSE FALSE 1416868667
+"412" "537012148598095872" "Just saw this on Amazon: AmazonBasics Apple Certified Lightning to U... by AmazonBasics for $13.99 http://t.co/aWRS6khqCX via @amazon" "owuogbanathan" FALSE FALSE 1416868648
+"413" "537011984273641472" "Player by Laura DeLuca Reply w/ #AmazonWishList to add this http://t.co/K1jlbiezuN via @amazon" "Zuzuz_Petalz" FALSE FALSE 1416868608
+"414" "537011964783116288" "DAD'S KIDS Double BLACK Wallet Frame ~ Holds Two-2x3 Portrait Wallet Photos Pe... http://t.co/aKX5ild4o9 via @amazon" "photonameframes" FALSE FALSE 1416868604
+"415" "537011954976423936" "Need a FANTASY bargain? The Comyenti Series Book Bundle, Volume... Reply w/ #AmazonCart for a free sample http://t.co/glIrRRCSxp via @amazon" "natasjahellenth" FALSE FALSE 1416868601
+"416" "537011948194263040" "@Olive_ZuZu @_lalalalalalaur @amazon sorry but we shouldn't condone your addiction..." "ashleywadman" FALSE FALSE 1416868600
+"417" "537011801913704448" "RT @LEHarrison1: The Druids Of Blackwater Valley: Book On... Reply w/ #AmazonWishList to add this http://t.co/AlJy58CEoa via @amazon" "blitz521" TRUE FALSE 1416868565
+"418" "537011793185751040" "RT @parrishgore: MYSTERY/SUSPENSE/HORROR!!! The Harvest Moon Feast by Parrish Gore Reply w/ #AmazonCart for a free sample http://t.co/bNQut…" "VRMcCoy" TRUE FALSE 1416868563
+"419" "537011665011625984" "The Forgotten Pharaoh by Laura DeLuca Reply w/ #AmazonCart for a free sample http://t.co/Ny1F6ATNOW via @amazon" "Zuzuz_Petalz" FALSE FALSE 1416868532
+"420" "537011646242504704" "@charmingxman @amazon Yes, I'll write a review for you as soon as I have a few minutes. XO" "TangiNorris" FALSE FALSE 1416868528
+"421" "537011536267456513" "RT @amazon: Check out our Samsung Black Friday Week sales. From 24-Inch to 78-Inch, save up to 45% off! http://t.co/agXTP7J4qs http://t.co/…" "bauesc12345" TRUE FALSE 1416868502
+"422" "537011429006508032" "The Secret Shearers: The Shadow People ... Reply w/ #AmazonCart for a free sample http://t.co/J3JFrutavA via @amazon" "Cat088" FALSE FALSE 1416868476
+"423" "537011385952370689" "@Coreilly03 @amazon @rpenryj Ha ha you never know honey! I'll do my best :-) x" "claredonoghue" FALSE FALSE 1416868466
+"424" "537011380306870272" "RT @FlakoPress: Bet - Single [Explicit] Flako | Format: MP3 Music http://t.co/ltaX6hfD0E via @amazon" "Flakosworld" TRUE FALSE 1416868464
+"425" "537011335792312320" "#Free 25-26 November on Amazon: Against The Wall: Part One: Aaron and Sasha... by Mandy Harbin http://t.co/LWgGkBFMCW via @amazon" "lyndajdickson" FALSE FALSE 1416868454
+"426" "537011296135544832" "MEL STREET ~ COUNTRY SOUL ~ Wall Clock made from the Vinyl Record LP ~ Recycle... http://t.co/PesjbDuBM8 via @amazon" "LPRecordClocks" FALSE FALSE 1416868444
+"427" "537011258365865984" "RT @MarieDrake72: \"..a solid story with a vulnerable yet strong character, Hope  Wellman.\" 5*s~ http://t.co/YKwlCnQOPy #ASMSG #amreading #9…" "RGraf_author" TRUE FALSE 1416868435
+"428" "537011221527281664" "@ThisIsPVRIS @amazon already purchased " "brynnmerrill93" FALSE FALSE 1416868427
+"429" "537011085355016192" "RT @wmdogar: Meet one of my fvt RTer @lindsayromantic Lindsay Townsend - @amazon author page http://t.co/YCL1tLkUfP …
+
+#historicalromance #…" "RGraf_author" TRUE FALSE 1416868394
+"430" "537010993818525696" "RT @TheMysteryLadie: I do. He's dead. Lauren Carr's A WEDDING AND A KILLING #mystery #IARTG #99cents #BYNR #CR4U #amenl #book http://t.co/9…" "JohnRosePutnam" TRUE FALSE 1416868372
+"431" "537010881046257664" "#buyFORDgetGift @PatMillikenFord $1000 @amazon gift card http://t.co/ccqqfUJkvW [redeem http://t.co/zhxJjF5R2y #AmazonUpick] #BlackFriday" "stillmoreinfo" FALSE FALSE 1416868345
+"432" "537010671439716352" "RT @YoungMoneySite: Purchase @LilTunechi New Single Start A Fire On @iTunes @amazon &amp; @GooglePlay  - http://t.co/Qwai0AgpfU http://t.co/6e1…" "GELATO69" TRUE FALSE 1416868295
+"433" "537010597989081089" "RT @kamajowa: Check out the #hot dudes on my Men of Steel calendar #bodybuilding #fitness #MenOfSteel @blondiesbookcov http://t.co/lkFrt9Zc…" "Calrtipper" TRUE FALSE 1416868278
+"434" "537010499943014400" "HIM H.I.M. Accessory Gift Box Set Unknow... Reply w/ #AmazonWishList to add this http://t.co/2tSSY0rBgu via @amazon" "Wickedlovelyart" FALSE FALSE 1416868255
+"435" "537010448965840896" "RT @PSBJEditor: We all know Amazon is big and getting bigger, but this may surprise you:
+http://t.co/cNn4D5hvc1 @PSBJ @MarcStilesPSBJ @amaz…" "JoshJDill" TRUE FALSE 1416868242
+"436" "537010400705802241" "#RT #PromoteThisBook Sweeter than Honey: Call of the Kodiak by... Reply w/ #AmazonWishList to add this http://t.co/y06MH2JV5J via @amazon" "AuthorAllie1" FALSE FALSE 1416868231
+"437" "537010394787622912" "Kindle Paperwhite, 6' High-Resolution Dis... Reply w/ #AmazonWishList to add this http://t.co/nUfKWvg3XB via @amazon" "owuogbanathan" FALSE FALSE 1416868229
+"438" "537010392757993472" "#NA #Romance Loving Lawson by R.J. Lewis for $0.99 http://t.co/QSE3gHEsra via @amazon" "MiznikkiNikki" FALSE FALSE 1416868229
+"439" "537010344825487360" "Best #Free Delivery Services for #BlackFriday http://t.co/s654PiH3Pw Feat: @Walmart &amp; @Amazon http://t.co/jMV3s82m6j" "GO_JuanitaR" FALSE FALSE 1416868218
+"440" "537010330162192386" "Best #Free Delivery Services for #BlackFriday http://t.co/ODgWj6Z6aF Feat: @Walmart &amp; @Amazon http://t.co/nog1S3Witf" "GO_ChristinaL" FALSE FALSE 1416868214
+"441" "537010329218465795" "Best #Free Delivery Services for #BlackFriday http://t.co/rLMfvVa5d6 Feat: @Walmart &amp; @Amazon http://t.co/ORIse24QhX" "Go_Casey" FALSE FALSE 1416868214
+"442" "537010325992636416" "Added to Wish List: 'Infinite City: A San Francisco Atlas' by Rebecca Solnit via @amazon http://t.co/pdOJM1FJom" "desertnaut" FALSE FALSE 1416868213
+"443" "537010281285947392" "@claredonoghue @amazon yay you! So proud. Any chance of getting @rpenryj to play Lockyer when it hits tv!! Thrilled for you xx" "Coreilly03" FALSE FALSE 1416868202
+"444" "537010279645990913" "RT @Goddess_Kristie: Some super awesome sweatshirts. Keep me warm this winter:) #spoil me! http://t.co/Py8xaOMiPf via @amazon" "spoilmemaybe" TRUE FALSE 1416868202
+"445" "537010255863894016" "Separate realities parallel lives.  Worlds of Samsara by James Heron Reply w/ #AmazonWishList to add this http://t.co/Ld1TLksVjD via @amazon" "AuthorJHeron" FALSE FALSE 1416868196
+"446" "537010155083550720" "RT @TheTealWarrior: #amreading Tales from the Teal Warrior: A Memoir #ovariancancer Reply w/ #AmazonCart for a free sample http://t.co/qxWJ…" "aurorasparkles" TRUE FALSE 1416868172
+"447" "537010142567727104" "8x10 TO MY BROTHER ON HIS WEDDING DAY Pictur... Reply w/ #AmazonCart to add this http://t.co/JbnVL5btr6 via @amazon" "photonameframes" FALSE FALSE 1416868169
+"448" "537010127212392448" "IMPORTANT NOTE: @Amazon's #Mockingjay score mp3 page link leads to the soundtrack, not the score! BEWARE! http://t.co/uboMSHdxiC" "VictorsVillage" FALSE FALSE 1416868166
+"449" "537010101463166977" "A Bluestocking’s Christmas by Lindsay Downs http://t.co/u1USzrGq3w via @amazon" "ldowns2966" FALSE FALSE 1416868160
+"450" "537010093053579264" "RT @Yodasnews: Star Wars 13.5” Cordless Wood Wa... by Vandor http://t.co/ZIBuLVtQXW via @amazon http://t.co/dKVjMyf7S2" "whoskill" TRUE FALSE 1416868158
+"451" "537010090591535104" "#RT #PromoteThisBook Sweeter than Honey: Call of the Kodiak by... Reply w/ #AmazonWishList to add this http://t.co/3OxJQwmou4 via @amazon" "AuthorFae" FALSE FALSE 1416868157
+"452" "537010071306113024" "David Kalish @dekalish
+Recovering journalist, playwright #novelist
+\"The Opposite of Everything\" #free today @amazon
+http://t.co/yql0YqT3UG" "tea_in_carolina" FALSE FALSE 1416868152
+"453" "537009959171817472" "RT @katrinapmusic: OK @amazon, you can relax on those Black Friday e-mail reminders. You're gonna pop a blood vessel if you keep this up!" "funnywebgirl" TRUE FALSE 1416868126
+"454" "537009868977479680" "For F's sake.hire people that speak english if they r going 2 b dealing w (english speaking people) for your customer service.  Thx @amazon" "viequense" FALSE FALSE 1416868104
+"455" "537009848320536578" "We all know Amazon is big and getting bigger, but this may surprise you:
+http://t.co/cNn4D5hvc1 @PSBJ @MarcStilesPSBJ @amazon" "PSBJEditor" FALSE FALSE 1416868099
+"456" "537009824425193472" "RT @FlakoPress: Bet - Single [Explicit] Flako | Format: MP3 Music http://t.co/ltaX6hfD0E via @amazon" "teamflakflorida" TRUE FALSE 1416868093
+"457" "537009568715268098" "RT @wmdogar: Meet one of my fvt RTer @lindsayromantic Lindsay Townsend - @amazon author page http://t.co/YCL1tLkUfP …
+
+#historicalromance #…" "barbiesway" TRUE FALSE 1416868032
+"458" "537009553653506048" "#RT #PromoteThisBook Hunters Moon: The Fae Medallion (Volume 1... Reply w/ #AmazonWishList to add this http://t.co/gnrcjDgylC via @amazon" "AuthorFae" FALSE FALSE 1416868029
+"459" "537009547467313153" "RT @NetNamesDomains: http://t.co/De0wR0ajly is now resolving @amazon #newgTLDs" "_rubensk" TRUE FALSE 1416868027
+"460" "537009515913170944" "http://t.co/p5y4ekdWFI Most Wished For: Items customers added to Wish Lists and registrie... http://t.co/0x2cgWZLwS via @amazon" "owuogbanathan" FALSE FALSE 1416868020
+"461" "537009482363326464" "RT @AlanWilliamHard: Gabriella by Alan Hardy Reply w/ #AmazonCart for a free sample http://t.co/0xZF9JNguP via @amazon TEENAGE LOVE &amp; SEX! …" "LisaOHaraLoomis" TRUE FALSE 1416868012
+"462" "537009393825751040" "RT @GLOBALGELB: El BLACK FRIDAY llego a @amazon 
+http://t.co/r1V00MvHBI http://t.co/TXG47NqE0l" "gustavoluis76" TRUE FALSE 1416867991
+"463" "537009379430518784" "Check out this Amazon deal: Trigger Point Performance Grid 2.0 Revolution... by Trigger Point Performance http://t.co/9YYv1QX4PZ via @amazon" "owuogbanathan" FALSE FALSE 1416867987
+"464" "537009289039478784" "DONNIE IRIS ~ KING COOL ~ Recycled LP Vinyl Record/Album Wall Clock ~ Decorati... http://t.co/romt4LlQ6l via @amazon" "LPRecordClocks" FALSE FALSE 1416867966
+"465" "537009250145280000" "@AmazonHelp @amazon this is a bank card. I get no statements. Why is there not a customer help number for amazon.de?" "jacindahopelee" FALSE FALSE 1416867957
+"466" "537009226863087616" "RT @FlakoPress: Bet - Single [Explicit] Flako | Format: MP3 Music http://t.co/ltaX6hfD0E via @amazon" "FlakopressATL" TRUE FALSE 1416867951
+"467" "537009182634147842" "You can buy @PolProfSteve's book, ‘A State of Play’ on @amazon at http://t.co/mqkjVn653L - and @dobbs_michael's at http://t.co/ilY9f6g9o7" "ConHistGrp" FALSE FALSE 1416867940
+"468" "537009162295590912" "Wizard Weather (Sacred Band of Stepsons... Reply w/ #AmazonCart for a free sample http://t.co/GUcRvKqzaC via @amazon" "uvmchristine" FALSE FALSE 1416867936
+"469" "537009122797813760" "We just received this gift in the mail for the office...AWESOME!! Thanks, anonymous benefactor!! - http://t.co/FgmFlA8m3c via @amazon" "BackIssueHeroes" FALSE FALSE 1416867926
+"470" "537009101067546624" "Getting #Married in #SanFrancisco? We have exactly what you're looking for on our @Amazon page.http://t.co/YVVvyMbsTl http://t.co/wg9NlG0Lwt" "IDoCelebrate" FALSE FALSE 1416867921
+"471" "537009032402579456" "RT @VirginiaGraybks: The Carrot (English Edition) von Virginia Gray http://t.co/6NtXFsRMWn via @amazon" "JHCroix" TRUE FALSE 1416867905
+"472" "537009010755375104" "RT @bronco9678: Just saw this on Amazon: Xbox 360 4GB by Microsoft for $179.99 http://t.co/jtwMFxYkvN via @amazon" "bronco5490" TRUE FALSE 1416867899
+"473" "537008984155512834" "RT @RRDUnlimited: Emotional Eating: Techniques, strategie... Reply w/ #AmazonCart for a free sample http://t.co/pbqfb7xlfh via @amazon" "JGRWriter" TRUE FALSE 1416867893
+"474" "537008959425503232" "RT @bronco9678: Just saw this on Amazon: Guitar Hero III: Legends of Rock Wireless B... by Activision Inc. for $259.95 http://t.co/Z2ZzkBKT…" "bronco5490" TRUE FALSE 1416867887
+"475" "537008930514149376" "Some super awesome sweatshirts. Keep me warm this winter:) #spoil me! http://t.co/Py8xaOMiPf via @amazon" "Goddess_Kristie" FALSE FALSE 1416867880
+"476" "537008929855639552" "RT @bronco9678: Just saw this on Amazon: Logitech PlayStation 3 Driving Force GT Racing W... by Logitech http://t.co/M0hoOkZMTD via @amazon" "bronco5490" TRUE FALSE 1416867880
+"477" "537008874809987072" "Why does @Amazon ask me to rate my items purchased before they've even arrived? It's super annoying" "BostonMerc" FALSE FALSE 1416867867
+"478" "537008870141333504" "Don't worry that $83.28 measuring cup is now 79% off! Thx @WorldKitchenLLC &amp; @amazon for spreading the holiday cheer! http://t.co/0xKZhLuUHX" "andrewfair10" FALSE FALSE 1416867866
+"479" "537008712754282496" "RT @marthafawcett: The Permeable Web of Time by Martha Fawc... Reply w/ #AmazonWishList to add this http://t.co/HsUHhHDqZi via @amazon" "ZFJango" TRUE FALSE 1416867828
+"480" "537008701329408001" "RT @lyndajdickson: #Free 25-29 November on Amazon: Porcelain: A Novelette by William Hage @w0rdvirus http://t.co/hQHoGLzbRB via @amazon" "w0rdvirus" TRUE FALSE 1416867826
+"481" "537008639350149120" "RT @AlanWilliamHard: Gabriella by Alan Hardy Reply w/ #AmazonCart for a free sample http://t.co/0xZF9JNguP via @amazon TEENAGE LOVE &amp; SEX! …" "BellaHarteBooks" TRUE FALSE 1416867811
+"482" "537008628533055488" "RT @TheMysteryLadie: I do. He's dead. Lauren Carr's A WEDDING AND A KILLING #mystery #IARTG #99cents #BYNR #CR4U #amenl #book http://t.co/9…" "TamieDearen" TRUE FALSE 1416867808
+"483" "537008622887514113" "RT @Ben_Rowe_Artist: Compensation for 3 wasted days waiting, £5 gift voucher to spend on @AmazonUK @amazon #BadCustomerService Doesn't equa…" "HaimPolat3" TRUE FALSE 1416867807
+"484" "537008609444773889" "RT @MarieDrake72: \"..a solid story with a vulnerable yet strong character, Hope  Wellman.\" 5*s~ http://t.co/YKwlCnQOPy #ASMSG #amreading #9…" "JHCroix" TRUE FALSE 1416867804
+"485" "537008607821565953" "RT @lyndajdickson: #Free 27 Nov to 1 Dec on Amazon: Greater Expectations by Alexander McCabe  http://t.co/cd44x6XfTT via @amazon" "KKAllen_Author" TRUE FALSE 1416867803
+"486" "537008599693004800" "RT @MarieDrake72: \"He told me no one would ever love me the way he did. I prayed, 
+'God, I hope not.'\" #ASMSG 
+http://t.co/GfXGuBjVTK 
+#99c…" "JHCroix" TRUE FALSE 1416867801
+"487" "537008573638017024" "RT @Ben_Rowe_Artist: So 3rd day waiting for @AmazonUK @amazon delivery still not delivered. Another wasted 12hours!!!!! #BadCustomerService" "HaimPolat3" TRUE FALSE 1416867795
+"488" "537008538715820033" "Blood Art by Margot Justes Reply w/ #AmazonCart for a free sample http://t.co/Xp6qrf4rEU via @amazon
+#Paranormal #Vampire #IARTG #Romance" "MargotJustes" FALSE FALSE 1416867787
+"489" "537008392875679744" "Get your Camel Water Bottle at Amazon: http://t.co/xF5QsY9ugK via @amazon" "CherylsArt" FALSE FALSE 1416867752
+"490" "537008374739906560" ".@Amazon is giving away a @Sony High Tech Holiday Prize Package! NoPurchNec. Ends 11/28/14. http://t.co/sc0RosUB9g" "tweeteeface" FALSE FALSE 1416867748
+"491" "537008366888157185" "12x16 School Days/Years K-12 Photo Picture Collage Mat &amp; Frame ~ WALNUT Staine... http://t.co/qNWTqG1qVd via @amazon" "photonameframes" FALSE FALSE 1416867746
+"492" "537008323455746048" "RT @TCABLACKBOOK: The Commercial Actor's BLACK BOOK Reply w/ #AmazonCart for a free sample http://t.co/JTH4B51uiQ via @amazon" "rocsacstore" TRUE FALSE 1416867736
+"493" "537008282322227200" "The Art of Deception: Controlling the Human Element of Security http://t.co/AHsnJUgOx2 via @amazon" "jilliemartin" FALSE FALSE 1416867726
+"494" "537008271152787456" ".@DallasSafariClb get 4% discount on @Amazon for slaughtering trophy animals. Do YOU? #TrophyHuntingLies http://t.co/Uqq7zj0Bt3" "gaynorcm6" FALSE FALSE 1416867723
+"495" "537008257148006400" "Check out this Amazon deal: The Burning Room (A Harry Bosch Novel) by Michael Connelly http://t.co/78Aobvt8Js via @amazon
+#book
+#books" "amazon_store_" FALSE FALSE 1416867720
+"496" "537008245001703424" "RT @amazon: Gold Box Bonus Deal of the Day: Up to 65% off select ProForm Cardio Equipment http://t.co/9FhVnJTADc http://t.co/iOKv8wQp7t" "HaimPolat3" TRUE FALSE 1416867717
+"497" "537008233177964546" "RT @MortenTHansen: Great new book on innovation, leadership and collaboration by Linda Hill and colleagues. 
+http://t.co/GbnEhJCxyb via @am…" "marcventresca" TRUE FALSE 1416867714
+"498" "537008164948803585" "@eggblender @amazon  wheres is my #fire stick i ordered only 2 hours after #eggblender plus i mention you guys more!!!" "gtgweb" FALSE FALSE 1416867698
+"499" "537008149849714688" "RT @MortenTHansen: \"Scaling up Excellence\" named one of best 2014 books by http://t.co/mLPijtE3nf. Congrats Bob and Huggy! http://t.co/ad4b…" "marcventresca" TRUE FALSE 1416867694
+"500" "537008097915437056" "Fly You To The Moon: (Primo volume dell... Reply w/ #AmazonCart for a free sample http://t.co/VDsKeModSf via @amazon" "pervenche_" FALSE FALSE 1416867682
