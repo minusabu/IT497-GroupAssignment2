@@ -1,6 +1,6 @@
 Twitter Sentiment Analysis on eBay
 ====================================
-### Submitted by: Minu Rachel Sabu
+#### Submitted by: Minu Rachel Sabu
 
 ```{r chunk1, warning=FALSE, message=FALSE}
 #Load the required libraries
