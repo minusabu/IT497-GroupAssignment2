@@ -1,0 +1,207 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "541019090685800448" "Techno Girlz @BGCGW demonstrate robots built in @Verizon robotics program to reflect each girl's personality. https://t.co/Kweg163Q6u" "SandyArnette" FALSE FALSE 1417823977
+"2" "541018766851973121" "RT @SandyArnette: Techno Girlz demo robots they built in @Verizon 8-week program @BGCGW http://t.co/IhVX6wrFCL" "JerryRizzo" TRUE FALSE 1417823900
+"3" "541018699113570306" "RT @IARSprint: #CutYourBill RT @mdkcstar: Meeting the former @Verizon customers @sprint CEO @marceloclaure http://t.co/eAEB3UhHC9" "AaronReali1" TRUE FALSE 1417823884
+"4" "541018284427333633" "Techno Girlz demo robots they built in @Verizon 8-week program @BGCGW http://t.co/IhVX6wrFCL" "SandyArnette" FALSE FALSE 1417823785
+"5" "541017769810993152" "@sprint has the best prices &amp; a saturated network. @verizon has the best network but ridiculously ... http://t.co/yZX4UzBZBp" "sgtexans" FALSE FALSE 1417823662
+"6" "541017634616410114" "@Verizon Techno Girlz plans future as software engineer after completing 8-week robotics program @BGCGW http://t.co/owjb0AYFyv" "SandyArnette" FALSE FALSE 1417823630
+"7" "541017046344269825" "@Verizon @VerizonSupport I don't understand how I get this text when the issue is NOT resolved. TERRIBLE service! http://t.co/YPU1oiF9vJ" "inthesegenes" FALSE FALSE 1417823490
+"8" "541015938733461505" "Spending my Friday night in a @Verizon store because my tablet won't turn on. #ThingsThatTakeACentury" "KielQ" FALSE FALSE 1417823226
+"9" "541015899231518721" "@BGCGW Techno Girlz thanks @Verizon for helping to shape her future in #STEM through the 8-week robotics program. http://t.co/tUSunD1T4I" "SandyArnette" FALSE FALSE 1417823216
+"10" "541015803143802880" "Thanks to Brian at the #TownEast @Verizon store for helping getting my son a new tablet for #Christmas! Very helpful!" "Jeff_Ellington1" FALSE FALSE 1417823193
+"11" "541015457818357761" "Back in stock for #Christmas New LOWER price #Samsung #S5 for @Pageplus or @Verizon Prepaid @ebay... http://t.co/ProkpbIozx" "iConvertwireles" FALSE FALSE 1417823111
+"12" "541015238699540480" "Back in stock for #Christmas New LOWER price #Samsung #S5 for @Pageplus or @Verizon Prepaid @ebay http://t.co/moeWDb5TYW #ebay #ebaymobile" "iConvertwireles" FALSE FALSE 1417823059
+"13" "541015191333658624" "Anybody used Boost mobile's wifi hotspot? Just kidding, but seriously. I need hotspot recommendations, pros/cons? @ATT or @Verizon?" "_tdizzle" FALSE FALSE 1417823047
+"14" "541014966652764161" "All networks have flaws. If @sprint, @verizon, @tmobile and @att would join forces, we would have an amazing cellular company." "sgtexans" FALSE FALSE 1417822994
+"15" "541014758682791936" "I'm currently so mad that I could cry - over a BILL. WHY ARE THE MEANEST, RUDEST PEOPLE ALWAYS IN THE SERVICE INDUSTRY?! @Verizon" "meredithlawson" FALSE FALSE 1417822944
+"16" "541014618379128832" "RT @hohmilspouse: .@Verizon Hiring Our Heroes #milspouse program is hosting a military spouse virtual job fair January 8th! Join us!  http:…" "ScarlettDear1" TRUE FALSE 1417822911
+"17" "541014574963916800" "I have tried for FOUR MONTHS to resolve a bill with @Verizon &amp; have never been so sorely disappointed with customer service." "meredithlawson" FALSE FALSE 1417822900
+"18" "541014426795536384" "RT @Verizon: 12 scams that see upticks during the holiday season: http://t.co/fhgp2K7XYA http://t.co/zyKcANnWeo" "TinaGreear" TRUE FALSE 1417822865
+"19" "541014008094916608" "RT @villainous0801: @Verizon If u were listening, u wouldnt have to give me answers to a question i never asked &amp; i wouldn't keep repeating…" "umvox" TRUE FALSE 1417822765
+"20" "541013996900331521" "RT @HimynameisNickd: 2 Harassing computer calls this morning. Do humans work at @Verizon? Where is my call with promised fix where#Verizonf…" "umvox" TRUE FALSE 1417822763
+"21" "541013991800074240" "RT @Verizon: 12 scams that see upticks during the holiday season: http://t.co/fhgp2K7XYA http://t.co/zyKcANnWeo" "MariceParchen" TRUE FALSE 1417822761
+"22" "541012207668953088" "RT @Verizon: 12 scams that see upticks during the holiday season: http://t.co/fhgp2K7XYA http://t.co/zyKcANnWeo" "615Mike" TRUE FALSE 1417822336
+"23" "541012134097088513" "Angela Congo (left) stresses the importance of #STEM &amp; @Verizon commitment to our future leaders, workforce. @BGCGW http://t.co/mUL9vs6jRl" "SandyArnette" FALSE FALSE 1417822318
+"24" "541011107532771328" "@Verizon thanks @BGCGW for the partnership and support for the 2014 Fall Robotics Program. http://t.co/ENn3fezear" "SandyArnette" FALSE FALSE 1417822074
+"25" "541010965697794048" "Yes, @verizon tumbles and drops #phones before releasing them, but do they try to fold them in half?" "dcuddhy" FALSE FALSE 1417822040
+"26" "541010317161947137" "Not on 4G yet? Better hurry @Verizon is killing the 3G network http://t.co/lFHu3HYCrN" "FarewellCell" FALSE FALSE 1417821885
+"27" "541009630755688449" "@ATTCares I want out of my contract! I want to switch to @verizon  at least they have service where you don't! FAIL AT&amp;T" "rockstarealty" FALSE FALSE 1417821722
+"28" "541008913080938496" "But @sprint service isn't even on the same playing field as @Verizon" "Tonybologna62" FALSE FALSE 1417821550
+"29" "541007569595408384" "@VerizonWireless @Verizon wouldn't tell you they'd charge prorated fees when changing your plan, then hit you with a #Outrageousbill" "lamon_perry" FALSE FALSE 1417821230
+"30" "541007347821580288" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "Urnlucky" TRUE FALSE 1417821177
+"31" "541006849169166337" "RT @Verizon: 12 scams that see upticks during the holiday season: http://t.co/fhgp2K7XYA http://t.co/zyKcANnWeo" "samlezama" TRUE FALSE 1417821058
+"32" "541005787946958848" "RT @mdkcstar: Meeting the former @verizon customers @sprint CEO @Marceloclaure http://t.co/o66wkZYI2y" "SiDriver2009" TRUE FALSE 1417820805
+"33" "541003561967312896" "RT @IARSprint: #CutYourBill RT @mdkcstar: Meeting the former @Verizon customers @sprint CEO @marceloclaure http://t.co/eAEB3UhHC9" "csemerdj" TRUE FALSE 1417820275
+"34" "541002224176861184" "RT @HPrivate_Cloud: ‘Enterprise Cloud Migration’ By @Verizon | @CloudExpo [#Cloud] @VZCloud | Cloud Computing Journal - http://t.co/T0QzExB…" "patelankur_1986" TRUE FALSE 1417819956
+"35" "541001813357371393" "@VerizonSupport @VerizonWireless @Verizon @VerizonInsider @VZWnews @VZWDeals  AGAIN dropped calls in Marin/SF.  Wish I were back with AT&amp;T." "JRheaHamilton" FALSE FALSE 1417819858
+"36" "541001684584267776" "‘Enterprise Cloud Migration’ By @Verizon | @CloudExpo [#Cloud] @VZCloud | Cloud Computing Journal - http://t.co/T0QzExBuuS" "HPrivate_Cloud" FALSE FALSE 1417819827
+"37" "541001339955060736" "my wifi stays bugging.. wsup with tht @verizon?" "kLeopatraJz" FALSE FALSE 1417819745
+"38" "541001311257260033" "@Verizon your customer support is useless, what the hell is my billing account pin?" "jsharfy" FALSE FALSE 1417819738
+"39" "541001275975155712" "@mack_marshall @Verizon help a girl out pls" "mack_marshall" FALSE FALSE 1417819730
+"40" "541001090653642752" "@Verizon more dropped calls in Marin/SF.  Nasty customer service won't let me out after only 18 days.  Wish I were back with AT&amp;T." "JRheaHamilton" FALSE FALSE 1417819685
+"41" "541000599853355008" "@RebelNutt18 @NellyD15 UGH!! Guess I will be dropping @CSpire and changing to @Verizon" "Mama_Reb" FALSE FALSE 1417819568
+"42" "540999370934878208" "YOU THE REAL MVP @Verizon" "tarchiii" FALSE FALSE 1417819275
+"43" "540997798066282496" "I got a surprise message today from @Verizon! 
+
+They just doubled me up because my bill is NEVER late! #GrindMode http://t.co/4b6GNGSlQJ" "KingRappaDZappa" FALSE FALSE 1417818900
+"44" "540996802460147713" "@Sprint's website is total crap. I try to change my plan; Nope. I try to just upgrade; Nope. They just lost a customer. Hello, @Verizon!" "ceekid21" FALSE FALSE 1417818663
+"45" "540996538487799808" "I got a free tablet today and my iPhone fixed  good lookin @Verizon" "sweeetfiasco_" FALSE FALSE 1417818600
+"46" "540994651155869696" "@ParkDaddy42 @Verizon @TMobile @JohnLegere Yessir. In our switching database as well!" "tanyacash21" FALSE FALSE 1417818150
+"47" "540994532184428544" "Why does grove city have such shitty service like wtf @Verizon" "tmccoy125" FALSE FALSE 1417818122
+"48" "540994500337102848" "@tanyacash21 @Verizon @TMobile @JohnLegere now you're in a database. #thefuture" "ParkDaddy42" FALSE FALSE 1417818114
+"49" "540994356409536512" "@Verizon Why don't you release #cyan faster" "kumaxx2013" FALSE FALSE 1417818080
+"50" "540993647030702080" "Waiting... at @Verizon to get my son a new tablet for Christmas. Old one is running out of gas." "Jeff_Ellington1" FALSE FALSE 1417817911
+"51" "540991425370783745" "@Verizon Nancy Ramos of the Westlake Village CA store is a liar
+she has repeatedly s aid she would credit me for a return &amp; lied" "sheiraley" FALSE FALSE 1417817381
+"52" "540991072537964544" "@MediaLifeMag @TheDiegoVasquez Hey - do you have a link to the @Verizon study cited in your article? Thks!" "hispanicfacts" FALSE FALSE 1417817297
+"53" "540990565006204929" "@tsantero @Verizon @TMobile @JohnLegere haven't fully tested yet but they're constantly improving their network. I have access to that data." "tanyacash21" FALSE FALSE 1417817176
+"54" "540990415298498561" "@Verizon Nancy Ramos of Westlake village california is a LIAR
+she took back a phone but failed to credit my account" "sheiraley" FALSE FALSE 1417817140
+"55" "540989960992460800" "@thebrassman @sprint @Verizon @ATT What he said!" "leilanihaywood" FALSE FALSE 1417817032
+"56" "540989899285876736" "@Steven_Paul @sprint @Verizon @ATT My bill has ALWAYS been high w/ @sprintcare. #SayNoToSprint" "leilanihaywood" FALSE FALSE 1417817017
+"57" "540989850250670081" "@tanyacash21 @Verizon @TMobile @JohnLegere hows the speed?" "tsantero" FALSE FALSE 1417817006
+"58" "540989804788584448" "Thx for entering our #PartnerPowerPlay giveaway c/o @Verizon! WINNERS: @BillThomas17 @HannahLaulis @jwp178 http://t.co/kce7xCc94r" "penspartners" FALSE FALSE 1417816995
+"59" "540989713000054785" "@sprint @Verizon @ATT Don't do it! I'm a Sprint customer and don't do it! Don't believe them!" "leilanihaywood" FALSE FALSE 1417816973
+"60" "540989638597672960" "Switched from @Verizon to @TMobile for the unlimited data, cheaper plan and no contract. Supporting the movement, thanks @JohnLegere!" "tanyacash21" FALSE FALSE 1417816955
+"61" "540989410410758144" "@Verizon @VerizonWireless Ernest the GM from Creve Coeur was a great help! Very dedicated." "Sandarella03" FALSE FALSE 1417816901
+"62" "540987089362235392" "@sprintcare I don't think you would. I just switched to @verizon but I'd come back if you take me." "BradmanTV" FALSE FALSE 1417816347
+"63" "540986157048139777" "@Rocksmithgame -is there a contact # where I can reach someone to solve my issues - hopefully your cust Service is better than @Verizon" "gevjen" FALSE FALSE 1417816125
+"64" "540985165246631936" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "misnomer3" TRUE FALSE 1417815889
+"65" "540985048699514880" "90 minutes late for my installation and counting...  It's like @comcast would rather i just stick with @Verizon @VerizonFiOS @comcastcares" "joereed714" FALSE FALSE 1417815861
+"66" "540984914691489794" "@sprint @Verizon @ATT 
+
+YEAH! oh wait ... this is a NetServePromoVert™ *sigh* *puts the axe away*" "blondeonhorse" FALSE FALSE 1417815829
+"67" "540982534268788736" "@Verizon @VerizonWireless @VZWnews @VerizonSupport You are ruining my life. Just release the nexus 6 already before I switch carriers" "blafair" FALSE FALSE 1417815261
+"68" "540982308573286400" "Had a bit of a meltdown on Twitter because of this @Verizon business but I've fully calmed down and apologize to my followers" "DGMblog" FALSE FALSE 1417815207
+"69" "540981982315171840" "@sprint @Verizon @ATT sooooo wtf do u do for your current customers? I think WE deserve the discount! Smfh" "Trina_Call_Fema" FALSE FALSE 1417815130
+"70" "540981733558988801" "I do not know how @Verizon as a company gets away with charging overages that are almost 3X my monthly bill." "krissyvogel" FALSE FALSE 1417815070
+"71" "540981414452535297" "@Verizon vs @ATT both are very close! #Verizon 32 mbps and #att 22 mbps http://t.co/H3ZID7sFCD" "lilbugsb3" FALSE FALSE 1417814994
+"72" "540981248261242882" "@xmeow_lexx @Verizon seriously and their internet plan sucks balls. No more unlimited data, 2.5mbps download speed. Outsourced customer serv" "stay2uned_" FALSE FALSE 1417814955
+"73" "540981080497848321" "RT @STEMConnector: 80 public schools receive $20K each as part of the @Verizon Innovate Learning #STEM Grants! http://t.co/oD8ptSHPJO via @…" "NodeSystems" TRUE FALSE 1417814915
+"74" "540980721360580609" "@marceloclaure #LeadershipIsEverything. Show me anything that wins &amp; I'll show u something run by a leader. @ATT @Verizon @TMobile = nervous" "RealShaneRudman" FALSE FALSE 1417814829
+"75" "540980697121705984" "RT @hohmilspouse: .@Verizon Hiring Our Heroes #milspouse program is hosting a military spouse virtual job fair January 8th! Join us!  http:…" "pal29b" TRUE FALSE 1417814823
+"76" "540980622118764544" "@stay2uned_ @Verizon I don't want a contract with them either it's so expensive having a phone through them" "xmeow_lexx" FALSE FALSE 1417814805
+"77" "540980367830708224" "RT @STEMConnector: 80 public schools receive $20K each as part of the @Verizon Innovate Learning #STEM Grants! http://t.co/oD8ptSHPJO via @…" "LatinoSTEM" TRUE FALSE 1417814745
+"78" "540979878628429824" "RT @IARSprint: #CutYourBill RT @mdkcstar: Meeting the former @Verizon customers @sprint CEO @marceloclaure http://t.co/eAEB3UhHC9" "michelleleff" TRUE FALSE 1417814628
+"79" "540979824647348224" "@MattCover I feel your pain. I called @Verizon 3x earlier this week, wasted many hours. Next call will come very soon, to cancel." "DrDowder" FALSE FALSE 1417814615
+"80" "540979703587553280" "Happy Friday!  Is it just me or does @Verizon make life hard for other long time customers?  #NeedMoreCompetition  recommendations anyone?" "EnergyCleanTech" FALSE FALSE 1417814586
+"81" "540979609127632896" "@Verizon I am a 15 year @sprint  customer, I am happy to say in 2 hours I will be a Verizon customer!" "mikelrperkins" FALSE FALSE 1417814564
+"82" "540979492945399808" "RT @hohmilspouse: .@Verizon Hiring Our Heroes #milspouse program is hosting a military spouse virtual job fair January 8th! Join us!  http:…" "d2gbeard" TRUE FALSE 1417814536
+"83" "540979438755020800" "@MattCover @Verizon I urge you to reconsider. @comcast is AWFUL." "WWouldJakeDo" FALSE FALSE 1417814523
+"84" "540978569007366144" "@Verizon look at this --&gt; RT @ATT: It's official. AT&amp;T's Network now has the nation's Strongest LTE Signal. http://t.co/CWCxIoytpt" "Sir_LoneWolfe" FALSE FALSE 1417814316
+"85" "540978267369771008" ".@Verizon Hiring Our Heroes #milspouse program is hosting a military spouse virtual job fair January 8th! Join us!  http://t.co/5OfOzveswz" "hohmilspouse" FALSE FALSE 1417814244
+"86" "540978178353659904" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "jenesparza" TRUE FALSE 1417814223
+"87" "540977791190462464" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "midnght69" TRUE FALSE 1417814130
+"88" "540976430364893185" "Some great advice being shared on how to maximize your @Verizon  #VZWBuzz follow the recap at http://t.co/AA3bweAYEN" "HopeNGriffin" FALSE FALSE 1417813806
+"89" "540976388103086080" "@HopeNGriffin @Verizon @TheTechDad Here sure is! Enjoy! #VZWBuzz" "RAS070" FALSE FALSE 1417813796
+"90" "540976338954620928" "I learned I need to get the @Verizon  app. It looks amazing #VZWBuzz" "lhelenschmidt" FALSE FALSE 1417813784
+"91" "540975997911183360" "@MattCover #protip @ mention @verizon in your tweets so their social media team will help you." "MileHighBecky" FALSE FALSE 1417813703
+"92" "540975617416515584" "After 11 years of customer loyalty with @Verizon ,it is time that i terminate my subscription. Its sad to see a business b consumed by greed" "stay2uned_" FALSE FALSE 1417813612
+"93" "540975133645897728" "RT @STEMConnector: 80 public schools receive $20K each as part of the @Verizon Innovate Learning #STEM Grants! http://t.co/oD8ptSHPJO via @…" "DalidaEkbenli" TRUE FALSE 1417813497
+"94" "540975120970313728" "@brihigh01 @Verizon @RobynsWorld Perfect for Christmas. I love it." "HopeNGriffin" FALSE FALSE 1417813494
+"95" "540975075605110784" "@HopeNGriffin @RobynsWorld @Verizon thank you :-) #VZWBuzz" "lhelenschmidt" FALSE FALSE 1417813483
+"96" "540974988619423744" "@Verizon @AsurionCares Can't replace my #MotoX with the same customization I had, none at all actually. What do I do?" "ThatsSo_Caitlin" FALSE FALSE 1417813462
+"97" "540974980284964864" "@lhelenschmidt @RobynsWorld @Verizon Good luck!" "HopeNGriffin" FALSE FALSE 1417813460
+"98" "540974841457692672" "@RAS070 @Verizon Thanks! I love the red. @TheTechDad is a great Santa!" "HopeNGriffin" FALSE FALSE 1417813427
+"99" "540974777356546050" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "RhiMarie15" TRUE FALSE 1417813412
+"100" "540974615238307840" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "nikkibankert34" TRUE FALSE 1417813373
+"101" "540974530877870083" "@LifeWithLevi @Verizon Exactly!" "FoodStoned" FALSE FALSE 1417813353
+"102" "540974395679068160" "@FoodStoned @Verizon ahhh...now I see where the frustration comes in. Knowing about the 6 month penalty up front is important." "LifeWithLevi" FALSE FALSE 1417813321
+"103" "540974036415971330" "I swear. I drop 2-5 calls a day and don't receive half of people calling me. @Verizon ...   This sucks." "rearickmatt" FALSE FALSE 1417813235
+"104" "540974010742231041" "@LifeWithLevi @Verizon Except you have to wait a year to exchange anyway, then a minimum of 6 months. It's kind of a wash." "FoodStoned" FALSE FALSE 1417813229
+"105" "540974001242120192" "Tune in on 12/9 from 6am to 6pm to bid on a trip for two to Phoenix for the Super Bowl, courtesy of @Verizon, to benefit #T4T" "KFAN1003" FALSE FALSE 1417813227
+"106" "540973920619614208" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "juanitamay67" TRUE FALSE 1417813208
+"107" "540973893532389377" "@HopeNGriffin @Verizon Oh, pretty! How exciting! #VZWBuzz" "RAS070" FALSE FALSE 1417813201
+"108" "540973743464398848" "@FoodStoned @Verizon I guess that makes sense. Sucks, but I get it. To me, 6 mos is still better than two years." "LifeWithLevi" FALSE FALSE 1417813165
+"109" "540973552308977664" "@LifeWithLevi @Verizon They explained that because edge is a form of credit, late payments make you ineligible for upgrade for 6 months." "FoodStoned" FALSE FALSE 1417813120
+"110" "540973521527386112" "RT @HopeNGriffin: Look what I got in the mail today! #VZWBuzz So excited! Thank you @Verizon http://t.co/OyDIHF0OkT" "AudreyLeahBern" TRUE FALSE 1417813112
+"111" "540973496684519424" "@HopeNGriffin @RobynsWorld @Verizon very nice! Hoping to win one to :-) #VZWBuzz" "lhelenschmidt" FALSE FALSE 1417813107
+"112" "540973450022891520" "@HopeNGriffin @RobynsWorld @Verizon WoW1 Beautiful! Lucky you! enjoy! #VZWBuzz" "granniemum" FALSE FALSE 1417813095
+"113" "540973402996367360" "RT @HopeNGriffin: Look what I got in the mail today! #VZWBuzz So excited! Thank you @Verizon http://t.co/OyDIHF0OkT" "lhelenschmidt" TRUE FALSE 1417813084
+"114" "540973345508839424" "@HopeNGriffin @Verizon @RobynsWorld OOOH red! So fiesty! #VZWBuzz" "brihigh01" FALSE FALSE 1417813071
+"115" "540973313838026752" "RT @HopeNGriffin: Look what I got in the mail today! #VZWBuzz So excited! Thank you @Verizon http://t.co/OyDIHF0OkT" "mommyoftwo2312" TRUE FALSE 1417813063
+"116" "540973262759821312" "You'll LOVE it! RT @HopeNGriffin: Look what I got in the mail today! #VZWBuzz So excited! Thank you @Verizon http://t.co/tUbJJmOeF4" "5cupcakes" FALSE FALSE 1417813051
+"117" "540973246074466304" "@HopeNGriffin @Verizon @RobynsWorld So jealous. I miss my droid! #VZWBuzz" "SweepingBeautyx" FALSE FALSE 1417813047
+"118" "540973152830894080" "RT @HopeNGriffin: Look what I got in the mail today! #VZWBuzz So excited! Thank you @Verizon http://t.co/OyDIHF0OkT" "RobynsWorld" TRUE FALSE 1417813025
+"119" "540973104944914432" "@sprint @Verizon @ATT: You misspelled \"contract\" :-(" "MsMelodyMonroe" FALSE FALSE 1417813013
+"120" "540973010560495616" "@FoodStoned @Verizon Did you try calling in to ask about it? I've found that their customer service is usually pretty awesome. #VZWBuzz" "LifeWithLevi" FALSE FALSE 1417812991
+"121" "540972967547502592" "Look what I got in the mail today! #VZWBuzz So excited! Thank you @Verizon http://t.co/OyDIHF0OkT" "HopeNGriffin" FALSE FALSE 1417812980
+"122" "540972775238676480" "@LifeWithLevi @TheTechDad @Verizon I did it and when I went in for my upgrade, I was told I was ineligible." "FoodStoned" FALSE FALSE 1417812935
+"123" "540972540202860544" "@thebrassman @sprint @Verizon @ATT They cut mine 35%, no I do not work for sprint" "ForestWildcat" FALSE FALSE 1417812879
+"124" "540972377468043264" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "SarahTook" TRUE FALSE 1417812840
+"125" "540972242650546176" "@sprint @Verizon @ATT  When your phone is off contract is when you really can save the money or buy the phone outright to really save" "ForestWildcat" FALSE FALSE 1417812808
+"126" "540972123582644224" "@FoodStoned @TheTechDad @Verizon I haven't used Edge myself, so I'm not familiar with that condition." "LifeWithLevi" FALSE FALSE 1417812779
+"127" "540971762935005184" "@TheTechDad @LifeWithLevi But if you're late with even one payment, you lose upgrade eligibility which wasn't explained. @Verizon" "FoodStoned" FALSE FALSE 1417812693
+"128" "540971664297984000" "@sprint @Verizon @ATT If you have numerous line (8 here) you can significantly reduce your bill. I went in too cancel/switch- came out happy" "ForestWildcat" FALSE FALSE 1417812670
+"129" "540971097211289601" "Changing my number doesn't stop the phone from being linked to my account #ineedanswers @vzwsupport @verizon @VerizonWireless" "Alexis_A_Heart" FALSE FALSE 1417812534
+"130" "540971024104579072" "@Steven_Paul @sprint @Verizon @ATT  I have eight lines and all lines were off contract, switched too 20gb data share and dropped my bill 35%" "ForestWildcat" FALSE FALSE 1417812517
+"131" "540970919335055360" "Not until you try to change your number are you told it can not be done #annoying @VerizonWireless @verizon @vzwsupport" "Alexis_A_Heart" FALSE FALSE 1417812492
+"132" "540970874607005697" "80 public schools receive $20K each as part of the @Verizon Innovate Learning #STEM Grants! http://t.co/oD8ptSHPJO via @verizongiving" "STEMConnector" FALSE FALSE 1417812481
+"133" "540970658243805184" "There's nothing stated any where this can't be done @vzwsupport @verizon @VerizonWireless" "Alexis_A_Heart" FALSE FALSE 1417812430
+"134" "540970007782768640" "@sprint @Verizon @ATT Its true, they'll do it, amazing rates/plans" "ForestWildcat" FALSE FALSE 1417812275
+"135" "540969732820992000" "Well glad to know @Verizon doesn't care that they'll be losing 20 or so 10+ year clients over the way they've handled my account" "SullyShea" FALSE FALSE 1417812209
+"136" "540969443434590208" "#HalfFast clever @Verizon Now bring #FiOS to my neighborhood so I can finally dump #timewarnercable" "SteveParsey" FALSE FALSE 1417812140
+"137" "540969038336491520" "RT @Verizon: Our customers are game changers, creators, and impact makers and that inspires us to make the fastest even faster: http://t.co…" "SiliconHarlem" TRUE FALSE 1417812044
+"138" "540968595086270464" "@mlnorkunas @Verizon TRUTH!!" "Alexis_Anne32" FALSE FALSE 1417811938
+"139" "540968584181448704" "Verizon is recruiting \"Force Multipliers\" Join our Talent Network http://t.co/zCBYPHhJ92 @Verizon @csaSoldier4Life @hiringourheroes" "EvanGuzman24" FALSE FALSE 1417811935
+"140" "540968460583702530" "@TheTechDad Were switching to @Verizon this year! Our bill is too high! #VZWBuzz" "Level20Mom" FALSE FALSE 1417811906
+"141" "540968154219184130" "@Verizon How bout a little faster and a little cheaper??" "samanthastime" FALSE FALSE 1417811833
+"142" "540967355871145985" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "ScottA412" TRUE FALSE 1417811642
+"143" "540967333096095744" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "brett_homison" TRUE FALSE 1417811637
+"144" "540967115709489152" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "taylordively10" TRUE FALSE 1417811585
+"145" "540966702906109952" "RT @HimynameisNickd: 2 Harassing computer calls this morning. Do humans work at @Verizon? Where is my call with promised fix where#Verizonf…" "GripeO_Feed" TRUE FALSE 1417811487
+"146" "540966189204504577" "RT @HimynameisNickd: 2 Harassing computer calls this morning. Do humans work at @Verizon? Where is my call with promised fix where#Verizonf…" "CXAlert" TRUE FALSE 1417811364
+"147" "540966180333568000" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "Emma__Peel" TRUE FALSE 1417811362
+"148" "540965767529783296" "@Verizon @VerizonWireless @VerizonSupport How many times do you think is too much to call/text/email when I've already called you?" "MaysonMay" FALSE FALSE 1417811264
+"149" "540965745547808768" "Finally playing I'm so happy love @Verizon Quantum so good :)" "NoTeLsRanept" FALSE FALSE 1417811259
+"150" "540965417729011712" "2 Harassing computer calls this morning. Do humans work at @Verizon? Where is my call with promised fix where#Verizonfail again #badservice" "HimynameisNickd" FALSE FALSE 1417811180
+"151" "540965335277789184" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "kramer_brent" TRUE FALSE 1417811161
+"152" "540965305355599872" "@sprint @Verizon @ATT You have a type-o in your ad copy, it says \"contact\" instead of \"contract\"..." "LukeMatyja" FALSE FALSE 1417811154
+"153" "540964328242167809" "I love that @Verizon sends messages and alerts about my data useage with helpful suggestions @TheTechDad #VZWBuzz" "SurfnSunshine" FALSE FALSE 1417810921
+"154" "540963024262422528" "@Verizon these LTE speeds are the reason I'm leaving. http://t.co/gjPUYVv4G7 #NotWorthTheMoney" "TheFetz" FALSE FALSE 1417810610
+"155" "540963019527057408" "@suzhm92 @Verizon Holla Praise!!! Can momma get a new phone now?!?" "MittuhWyman" FALSE FALSE 1417810609
+"156" "540962329870217217" "@Verizon what's the hold up with the Note Edge. Cmon now!" "BR25x" FALSE FALSE 1417810444
+"157" "540962155080994817" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "ChrisJenkins48" TRUE FALSE 1417810403
+"158" "540961590238281728" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "Larisssaaaaaa" TRUE FALSE 1417810268
+"159" "540961516305264640" "@VZWSupport @VerizonWireless @Verizon I just reread the info &amp; it doesnt say I can't keep my current plan w/ EDGE - so why would I lose it?" "JDAshman" FALSE FALSE 1417810250
+"160" "540961477617012736" "Verizon's 'Perma-Cookie' Is a #Privacy-Killing Machine | @WIRED @verizon  http://t.co/UQUQ9GoZt9" "LuisCadena" FALSE FALSE 1417810241
+"161" "540961368443482112" ".@Sprint looking to poach customers from @ATT and @Verizon? Wireless #competition is alive and well. #NoTitleII http://t.co/ShVgGY9Dmw" "SayreEvan" FALSE FALSE 1417810215
+"162" "540961301485613056" "@Verizon We have been trying since August to get Verizon to honor the promotion promised to us by their representatives at the Verizon store" "prattrich_pratt" FALSE FALSE 1417810199
+"163" "540960585232695296" "@Verizon in their benevolence, said I'm qualified to buy a full-priced phone now and upgrade to a full-priced phone at my convenience." "thewolfe" FALSE FALSE 1417810028
+"164" "540960411181645825" "Done with @sprint switching to @Verizon" "Staruch_85" FALSE FALSE 1417809987
+"165" "540960107727978496" "@Verizon If u were listening, u wouldnt have to give me answers to a question i never asked &amp; i wouldn't keep repeating myself. #badservice" "villainous0801" FALSE FALSE 1417809914
+"166" "540959984939716608" "@Verizon y'all gonna top this? RT @ATTCares: @TheVagician  We would ♥ to have you! ☺ Get a $150 bill credit when you switch @ (1/2)" "TheVagician" FALSE FALSE 1417809885
+"167" "540959571452641280" "@TheTechDad @RobynsWorld this is so true, finally dumped sprint after over 10 years and am so happy with @Verizon #VZWBuzz" "AudreyLeahBern" FALSE FALSE 1417809787
+"168" "540959185660559360" "RT @TheSocialSwan: @blogomomma @AudreyLeahBern @Verizon @VerizonWireless Hands down the best #customerservice you can get with any wireless…" "blogomomma" TRUE FALSE 1417809695
+"169" "540958931523481600" "@jcalabro90 @Verizon Girl you know I did. I wasn't backing down. I don't have the phone I just yet but I got a new one until that one does" "NunyaBusiness64" FALSE FALSE 1417809634
+"170" "540958893505929217" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "shooknight25" TRUE FALSE 1417809625
+"171" "540958842285076480" ".@Verizon: America’s fastest &amp; most reliable 4G LTE network. They also want you to go to the Super Bowl. Info  --&gt; http://t.co/mfyoVOMcwL" "KFAN1003" FALSE FALSE 1417809613
+"172" "540958659552231424" "@eknielsen @penspartners @Verizon thank" "caperg33l" FALSE FALSE 1417809569
+"173" "540958620113207296" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "caperg33l" TRUE FALSE 1417809560
+"174" "540958597396852736" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "BCepull32" TRUE FALSE 1417809554
+"175" "540958472188067840" "Sprint CFO at BofA conf: we're out hiring 500 more sales reps to handle increased volume at our stores @Sprint @ATT @Verizon @TMobile" "deborahyao" FALSE FALSE 1417809524
+"176" "540958439510659072" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "Megjoy84" TRUE FALSE 1417809517
+"177" "540958337496776705" "@blogomomma @AudreyLeahBern @Verizon @VerizonWireless Hands down the best #customerservice you can get with any wireless company." "TheSocialSwan" FALSE FALSE 1417809492
+"178" "540957872231038976" "@TheSocialSwan @AudreyLeahBern they are actually all pretty amazing ! No joke ! @Verizon @VerizonWireless #VZWBuzz" "blogomomma" FALSE FALSE 1417809381
+"179" "540957151708344321" "@blogomomma @AudreyLeahBern @Verizon I wasn't kidding! The guy he passed me off to \"my new @VerizonWireless\" guy is pretty amazing too." "TheSocialSwan" FALSE FALSE 1417809210
+"180" "540957111866642433" "RT @blogomomma: @TheSocialSwan oh my cow! You really DO have a guy! LOL  @AudreyLeahBern @Verizon  #VZWBuzz" "AudreyLeahBern" TRUE FALSE 1417809200
+"181" "540957000440741890" "@engadget almost went to @Verizon but they wanted $100 for 10GB, Im paying $80 of unlimited data w/ @TMobile though the network canbe better" "bigrog6395" FALSE FALSE 1417809174
+"182" "540956973010014208" "@TheSocialSwan oh my cow! You really DO have a guy! LOL  @AudreyLeahBern @Verizon  #VZWBuzz" "blogomomma" FALSE FALSE 1417809167
+"183" "540956569245327361" "RT @TheSocialSwan: @AudreyLeahBern @blogomomma @Verizon My guy did so well they promoted him to corporate &amp; he had to move but not b4 passe…" "AudreyLeahBern" TRUE FALSE 1417809071
+"184" "540956360364785664" "@AudreyLeahBern @blogomomma @Verizon My guy did so well they promoted him to corporate &amp; he had to move but not b4 passed me to another rep." "TheSocialSwan" FALSE FALSE 1417809021
+"185" "540956352865374209" "RT @mdkcstar: Meeting the former @verizon customers @sprint CEO @Marceloclaure http://t.co/o66wkZYI2y" "saramiller" TRUE FALSE 1417809019
+"186" "540956323794677761" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "bethDkramer" TRUE FALSE 1417809012
+"187" "540956167829483520" "You didn't tell me &gt;&gt;@Verizon I would have a deductible on top of monthly payments for insuring a phone. WTH is the use of having it?" "TomBeltz" FALSE FALSE 1417808975
+"188" "540956104013123584" "RT @ckay2503: .@Verizon disconnected my church's service by mistake and now they won't fix it! Can anybody help me?? #NotAHappyCustomer@Ver…" "Ambaa_Eve" TRUE FALSE 1417808960
+"189" "540955947200708608" "@TheSocialSwan @blogomomma @Verizon I am jealous I don't have a guy, I need a guy. they are great. #VZWBuzz" "AudreyLeahBern" FALSE FALSE 1417808922
+"190" "540955832268382208" "RT @TheSocialSwan: Yes! I have  my own Verizon guy RT @blogomomma: @AudreyLeahBern AWESOME!  I love @Verizon  the product, service &amp; great …" "AudreyLeahBern" TRUE FALSE 1417808895
+"191" "540955809325543424" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "BillThomas17" TRUE FALSE 1417808890
+"192" "540955717046648832" "Yes! I have  my own Verizon guy RT @blogomomma: @AudreyLeahBern AWESOME!  I love @Verizon  the product, service &amp; great #custserv ! #VZWBuzz" "TheSocialSwan" FALSE FALSE 1417808868
+"193" "540955666752364544" "RT @sprint: The savings start TODAY! Bring us your @Verizon or @ATT bill and #CutYourBill in half! https://t.co/hBnznSp0Qq" "Cherylrusco" TRUE FALSE 1417808856
+"194" "540955541380792320" "RT @penspartners: Retweet &amp; follow us to enter to win last night's car charger giveaway c/o @Verizon! #Pens #PartnerPowerPlay http://t.co/1…" "maximumjosh12" TRUE FALSE 1417808826
+"195" "540955449127075840" "RT @blogomomma: @AudreyLeahBern AWESOME!  I love @Verizon  the product, service AND great #custserv ! #VZWBuzz" "AudreyLeahBern" TRUE FALSE 1417808804
+"196" "540955352590983168" "@AudreyLeahBern AWESOME!  I love @Verizon  the product, service AND great #custserv ! #VZWBuzz" "blogomomma" FALSE FALSE 1417808781
+"197" "540955318789079043" "With @Verizon? $8 a month for ins. &amp; I still have $100 deductible?new screen on EBay is $18. F-that. http://t.co/KBJUgXSE5i" "TomBeltz" FALSE FALSE 1417808773
+"198" "540955294072045569" "@Verizon what's the final ruling? And if it will, where does it say that??" "JDAshman" FALSE FALSE 1417808767
+"199" "540954953691721729" "Yall gonna ship my package today or what? @Verizon" "Mr_CirocOBAMA" FALSE FALSE 1417808686
+"200" "540954855788269568" "@Verizon I have unlimtd data &amp; called 8009220204 to ask about EDGE - was told it wldn't change my unlimtd plan but in store they say it will" "JDAshman" FALSE FALSE 1417808662

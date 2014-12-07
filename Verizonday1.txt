@@ -1,0 +1,205 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539569289528094720" "RT @jamie_allen: Bay Area @typesafe jobs: @linkedineng, @kifi_eng, @verizon, @BoldRadius, @rally_health, @coursera, @junipernetworks http:/…" "pulsati0n" TRUE FALSE 1417478317
+"2" "539569194912587776" "wow, really? just gonna put the ad right on top of the page? fuck mangago and fuck @Verizon http://t.co/j0PKnSSyhW" "satanchanx" FALSE FALSE 1417478295
+"3" "539568808810139649" "@res1n Yep sounds like @Verizon" "furlongmatt" FALSE FALSE 1417478203
+"4" "539568797745950721" "@taracaplin @Verizon i will see if they have service near me, I dont think so, but maybe its changed over the years." "trisa24" FALSE FALSE 1417478200
+"5" "539568127848091650" ".@Verizon joins the competition on #BlackFriday to grab higher market share of #smartphone sales @Adage http://t.co/Mc5SR6zuMV" "AOLInterns" FALSE FALSE 1417478041
+"6" "539568127764221952" ".@Verizon joins the competition on #BlackFriday to grab higher market share of #smartphone sales @Adage http://t.co/DNXzk6DT6z" "AOLCommunity" FALSE FALSE 1417478041
+"7" "539567473000206336" "Or what if I moved to @Verizon from @ATT what would #Verizon offer me for 5 lines???" "Bkawashima1982" FALSE FALSE 1417477884
+"8" "539567359854657536" "@Verizon fuck u ... We need windows 8.1 on our Lumia 928..  Why this long" "iamgyimah" FALSE FALSE 1417477857
+"9" "539564830156668929" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "alecszabo" TRUE FALSE 1417477254
+"10" "539563823623962624" "Learning &amp; Growing More. My visit to the @Verizon #VZWBuzz office   http://t.co/Gur2X6vqUh" "mommygoggles" FALSE FALSE 1417477014
+"11" "539563356613771264" "@Verizon Where's the Fox line up??" "c2terese" FALSE FALSE 1417476903
+"12" "539560990011301889" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "TOLfootballEQ" TRUE FALSE 1417476339
+"13" "539560409317912576" "What amazing XLTE speeds here in Salem, OR... What a joke! Not impressed @Verizon seriously considering switching. http://t.co/M2jcVza07E" "Delving_Secrets" FALSE FALSE 1417476200
+"14" "539560399482683393" "Stop spamming me and stop killing trees! Every unsolicited letter makes me less impressed @Verizon @VerizonWireless http://t.co/jsU6wzkCmV" "GuyHorrocks" FALSE FALSE 1417476198
+"15" "539559917292900352" "I got this weird email about coFEE TO GO? Said somebody made an account for it and got the email from verizon. @Verizon @VerizonSupport" "Pandaax92" FALSE FALSE 1417476083
+"16" "539558137045729280" "RT @WillStrohl: @erika_foster It's about their practices to have exclusive rights to phones, rendering other providers helpless. @Verizon" "erika_foster" TRUE FALSE 1417475659
+"17" "539557944342638592" "@WillStrohl @Verizon Yet they won't give me a valid Cyan update on my Lumia 928? (have the dev preview). Sounds legit...." "erika_foster" FALSE FALSE 1417475613
+"18" "539557015446487040" "RT @HDScorp: Our Hitachi Content Platform with adaptive #cloud tiering is now available in the @Verizon Cloud Marketplace: http://t.co/9XmK…" "HDSGlobalAccts" TRUE FALSE 1417475391
+"19" "539556860182155265" "RT @MarkeyMemo: #MA consumers shouldn't be caught in middle of @Verizon &amp; @COXMG dispute. Urge both to continue work to resolve dispute and…" "FrancesStockton" TRUE FALSE 1417475354
+"20" "539556832621371393" "RT @SenSanders: Washington works well if you're a big corporation like @Verizon. http://t.co/sRlxwoAnwi" "hchrono" TRUE FALSE 1417475348
+"21" "539556574428012545" "RT @HTCUSA: Don't wait for #CyberMonday, snag a $99 @REbyHTC from HTC, @BestBuy, @ATT, &amp; @Verizon stores. http://t.co/T5IencQzOo http://t.c…" "JRealmo" TRUE FALSE 1417475286
+"22" "539556139927482369" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "dexbeflexin" TRUE FALSE 1417475182
+"23" "539555794921213953" "@Verizon are they high? I can't buy good until they refund my money and Ty think this is funny" "ConsumerTalk14" FALSE FALSE 1417475100
+"24" "539555683533082625" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "josh_hulwi" TRUE FALSE 1417475074
+"25" "539555557112565761" "@verizon I'm have been trying to get them to email me a return label and they won't for a phone they sent out to me for a cancelled order" "ConsumerTalk14" FALSE FALSE 1417475043
+"26" "539555265658748928" "@verizon your support people are assholes" "ConsumerTalk14" FALSE FALSE 1417474974
+"27" "539554707208151041" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "AaronRodgersGod" TRUE FALSE 1417474841
+"28" "539552451938902016" "Shout out to @VerizonSupport @verizon for screwing me over. Yall know how to ruin a persons day." "BrookeBottensek" FALSE FALSE 1417474303
+"29" "539551936437956608" "Ugh wtf! Freakin @Verizon ! Do u want my money or not?! Been trying to pay a bill online and at the store! And still won't except it! Stupid" "Littlefyoot" FALSE FALSE 1417474180
+"30" "539551632334147584" "RT @T_Raww10: Phone so dry @Verizon need to let me slide on that bill this month! " "YouHaveNO_Clue" TRUE FALSE 1417474108
+"31" "539551430261374977" "@LumiaUS One of my 2014 resolutions was to have a phone running Windows 8.1, but it looks like @verizon is going to let me down  #LumiaIcon" "ktneely" FALSE FALSE 1417474060
+"32" "539550460878004224" "RT @KGervaise: Wireless provider not offering wifi - not what you expect as a valued customer. #fail by @VerizonWireless @Verizon" "roricortiz" TRUE FALSE 1417473828
+"33" "539550449733734400" "@Verizon I've been waiting 40 min just to pick up my phone.there has only been 1 customer ahead of me the entire time    @VerizonSupport" "KelliCoghill" FALSE FALSE 1417473826
+"34" "539549968869388288" "Wireless provider not offering wifi - not what you expect as a valued customer. #fail by @VerizonWireless @Verizon" "KGervaise" FALSE FALSE 1417473711
+"35" "539549780528365568" "@Verizon I really need fios in philly ASAP! Comcast sucks!!!!!" "MrsNeesh" FALSE FALSE 1417473666
+"36" "539549429234020352" "I didn’t want to pick @TWC, but @Verizon apparently didn’t want my money and left me hanging multiple times." "theeglenner" FALSE FALSE 1417473582
+"37" "539549234845192192" "RT @T_Raww10: Phone so dry @Verizon need to let me slide on that bill this month! " "newjacktrini" TRUE FALSE 1417473536
+"38" "539549116418641920" "RT @HTCUSA: Our #BlackFriday RE camera deal is available online and at @BestBuy, @ATT &amp; @Verizon all weekend. http://t.co/T5IencQzOo" "jheraux" TRUE FALSE 1417473508
+"39" "539548781490868224" "RT @T_Raww10: Phone so dry @Verizon need to let me slide on that bill this month! " "Jahlawn_Knee" TRUE FALSE 1417473428
+"40" "539548750415282178" "Mega hands on tech at the new @Verizon Destination store in Chicago #VZWBuzz   http://t.co/9us3bGdG3C" "mommygoggles" FALSE FALSE 1417473421
+"41" "539548559700672512" " RT @T_Raww10: Phone so dry @Verizon need to let me slide on that bill this month! " "_Rico21" FALSE FALSE 1417473375
+"42" "539548165180235777" "RT @T_Raww10: Phone so dry @Verizon need to let me slide on that bill this month! " "Lickmytattooss_" TRUE FALSE 1417473281
+"43" "539548104299540481" "These tweets brought to you by @Verizon data plan.. Thanks." "Fuckallyalls" FALSE FALSE 1417473267
+"44" "539547896728014848" "RT @T_Raww10: Phone so dry @Verizon need to let me slide on that bill this month! " "iHoops_Beasley" TRUE FALSE 1417473217
+"45" "539547886732988418" "“@T_Raww10: Phone so dry @Verizon need to let me slide on that bill this month! ”  you a fool bruh lol" "iHoops_Beasley" FALSE FALSE 1417473215
+"46" "539547347894939648" "@WillStrohl @erika_foster @Verizon lack of change and the rule of the monopoly" "roricortiz" FALSE FALSE 1417473086
+"47" "539547250515800064" "Phone so dry @Verizon need to let me slide on that bill this month! " "T_Raww10" FALSE FALSE 1417473063
+"48" "539547127119372288" "RT @WillStrohl: @erika_foster It's about their practices to have exclusive rights to phones, rendering other providers helpless. @Verizon" "roricortiz" TRUE FALSE 1417473034
+"49" "539547108722741248" "@erika_foster This is one of those things that literally only happen in America. Other countries force them to compete. @Verizon" "WillStrohl" FALSE FALSE 1417473029
+"50" "539546981790535680" "@erika_foster It's about their practices to have exclusive rights to phones, rendering other providers helpless. @Verizon" "WillStrohl" FALSE FALSE 1417472999
+"51" "539543770337796096" "RT @merryanarchy: @Verizon r a corporate sponsor of Urban Shield who train &amp; arm Warrior Cops http://t.co/J9izAjDoKM @AnonRastaFTP @OpFergu…" "AnonRastaFTP" TRUE FALSE 1417472233
+"52" "539542952381792256" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "LonelyTaylor" TRUE FALSE 1417472038
+"53" "539542787683672064" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "SlapNPickle23" TRUE FALSE 1417471999
+"54" "539541099799674880" " phone went up 3% in class. That's what I like to see @Apple @Verizon " "Thammons5" FALSE FALSE 1417471597
+"55" "539540680951865345" "Thats new but true - 'I am on @Verizon and I cannot do voice and data at the same time!\"." "holgermu" FALSE FALSE 1417471497
+"56" "539539904162967553" "@VerizonSupport @verizon children will go without because of damn agents.double dipping account...I don't want to hear I'm sorry" "ConsumerTalk14" FALSE FALSE 1417471311
+"57" "539539663003066369" "@Verizon Cyan update or Jesus? Which will arrive first, you think?" "The_Lhykosidae" FALSE FALSE 1417471254
+"58" "539537706720976896" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "sawb3" TRUE FALSE 1417470788
+"59" "539537508884021248" "@MaximizeNetwork @Verizon seriously doubt it no love for the long time customer" "roricortiz" FALSE FALSE 1417470740
+"60" "539537224870952961" "@roricortiz @Verizon Verizon is there smithing you can do to save her money?" "MaximizeNetwork" FALSE FALSE 1417470673
+"61" "539537122328608768" "RT @ashleykunnath: .@Verizon Looks like the only thing Verizon is \"sustaining\" with their paper policy is profits http://t.co/FrXxgV1BWF   …" "roricortiz" TRUE FALSE 1417470648
+"62" "539537081450897408" "RT @HDS_CustConnect: Read about Hitachi Data Systems and Verizon's partnership in this recent press release: http://t.co/HCzeMmJvZw  @Veriz…" "aggonzalo" TRUE FALSE 1417470638
+"63" "539537009287507968" "@cravetheauto @Verizon @JLaurinaitis55 put black cops in black neighborhoods. will that stop the killing of black kids? NO IT WON'T" "JoeHeff13" FALSE FALSE 1417470621
+"64" "539536525675880448" ".@Verizon Looks like the only thing Verizon is \"sustaining\" with their paper policy is profits http://t.co/FrXxgV1BWF   #Greenwash #Verizon" "ashleykunnath" FALSE FALSE 1417470506
+"65" "539536398332604416" "Read about Hitachi Data Systems and Verizon's partnership in this recent press release: http://t.co/HCzeMmJvZw  @Verizon @HDScorp #cloud" "HDS_CustConnect" FALSE FALSE 1417470476
+"66" "539535708432924672" "@MaximizeNetwork @Verizon just warning you. I have them atm and wish I didn't." "roricortiz" FALSE FALSE 1417470311
+"67" "539535285454110721" "@roricortiz @Verizon wow That's NOT cool" "MaximizeNetwork" FALSE FALSE 1417470210
+"68" "539535076976250880" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "DREWSKItheKID" TRUE FALSE 1417470161
+"69" "539534781814685696" "@Verizon might be high but I never dealt with customer service issues...I'm so over@Sprint" "MrRicheRich" FALSE FALSE 1417470090
+"70" "539533782387548160" ". @verizon DSL currently so sluggish I can’t even finish a speed test to see how slow it is; just hangs. @VerizonSupport ?" "drewledrew" FALSE FALSE 1417469852
+"71" "539533779556388864" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "jmhamiltonblog" TRUE FALSE 1417469851
+"72" "539533173127131136" "Implementando LTE: la experiencia Verizon. Una entrevista con Adam Koeppe, VP Access Technology Planning @Verizon http://t.co/tKNlfd96M9" "AlcatelLucentVe" FALSE FALSE 1417469707
+"73" "539532885750210560" "RT @jonytewuxydy: @VerizonWireless @VerizonInsider @VerizonSupport @Verizon Verizon customer service sucks...just saying...#ver" "roricortiz" TRUE FALSE 1417469638
+"74" "539532435667845121" "@VerizonWireless @Verizon  I expect customer service agents to tell the truth when providing information consumer my account.." "ConsumerTalk14" FALSE FALSE 1417469531
+"75" "539531959635312641" "@VerizonWireless @verizon how many other consumers have you pull double billing with?" "ConsumerTalk14" FALSE FALSE 1417469417
+"76" "539531836926738433" "RT @StarsCrossed: @Verizon @verizonsucks_ @IHateVerizon \"Oh hey your perfectly fine phone is worth nothing, and we won't return it to you t…" "roricortiz" TRUE FALSE 1417469388
+"77" "539531621654069249" "@Verizon @VerizonWireless your wireless division is committing fraud by double dipping in consumers account and having agents lie about it" "ConsumerTalk14" FALSE FALSE 1417469337
+"78" "539531447833739265" "@KristiRandall1 @Verizon dysfunctional from the bottom to the top #VerizNO" "roricortiz" FALSE FALSE 1417469295
+"79" "539531376497020928" "RT @KristiRandall1: @Verizon been to three Verizon stores and been told 3 different things. Go figure..." "roricortiz" TRUE FALSE 1417469278
+"80" "539531251661930497" "I have been with @VerizonWireless for 4 years paying double what my friends pay. If your getting a phone, don't go with @Verizon" "SelfProBeauty" FALSE FALSE 1417469249
+"81" "539530848090222592" "@Verizon been to three Verizon stores and been told 3 different things. Go figure..." "KristiRandall1" FALSE FALSE 1417469152
+"82" "539530411790307330" "@sprint @Verizon @ATT why haven't your marketing folks brought a advo with @NewEdition mr telephone man #iwantcredit" "EmptyBeachChair" FALSE FALSE 1417469048
+"83" "539530190737907712" "RT @JoshuaBaer: Why did @Verizon fake hundreds of emails from their customers? Shame on you. http://t.co/KxWQ7cOk7l via @rootstrikers" "SeanCafferky" TRUE FALSE 1417468996
+"84" "539530184316436480" "@Verizon #greatcustomers Verizon U have nicest happiest friendliest customers patiently waiting their turn to shop #welldone #yeaheverybody" "realjuliemallen" FALSE FALSE 1417468994
+"85" "539530020616560640" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "joetheg1" TRUE FALSE 1417468955
+"86" "539529801225076736" "RT @HTCUSA: #CyberMonday means #HTCHotDeals! Grab a $99 #REcamera from @BestBuy, @ATT, &amp; @Verizon stores. http://t.co/T5IencQzOo http://t.c…" "ClintLove" TRUE FALSE 1417468903
+"87" "539529499579531264" "RT @SaucierDoe: .@Verizon On hold...30 minutes in and if I hear \"All of our representatives are still busy..\" one more time, I may start to…" "roricortiz" TRUE FALSE 1417468831
+"88" "539529448115412994" "@Verizon in-house counsel &amp; @DLA_Piper lawyers teach students in @Streetlawinc &amp; host a networking luncheon. #probono." "dlapiperprobono" FALSE FALSE 1417468819
+"89" "539529350107111425" "@Verizon @verizonsucks_ @IHateVerizon \"Oh hey your perfectly fine phone is worth nothing, and we won't return it to you to sell elsewhere.\"" "StarsCrossed" FALSE FALSE 1417468795
+"90" "539528980681207809" "“@TiNaBlow: @TheeNewGuy @Verizon  you wish”I'm Sure I Just Lost Signal is all" "TheeNewGuy" FALSE FALSE 1417468707
+"91" "539528853572816897" "@bnicole1031 def not @Verizon I have them and they are horrible!" "roricortiz" FALSE FALSE 1417468677
+"92" "539528465318305792" "@TheeNewGuy @Verizon  you wish" "TiNaBlow" FALSE FALSE 1417468584
+"93" "539528253351145472" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "cnicole6_" TRUE FALSE 1417468534
+"94" "539528168907243520" "“@TiNaBlow: @TheeNewGuy why the face”I Haven't Received Anything. Lemme Call @Verizon An Make Sure My Service Working... ☝️" "TheeNewGuy" FALSE FALSE 1417468514
+"95" "539528026774847489" "Being on hold with @Verizon would be much more pleasant if they would stop interrupting the Christmas music with promotions. #freeadvice" "TiaWilliamsSC" FALSE FALSE 1417468480
+"96" "539527759262130177" "@MaximizeNetwork @Verizon won't give you a good deal just later price hikes" "roricortiz" FALSE FALSE 1417468416
+"97" "539527639921590273" "@rayaunau_ Most def not @Verizon @VerizonWireless they are horrible #VerizNO #badcompany #wherestheservice" "roricortiz" FALSE FALSE 1417468387
+"98" "539527515984125952" "Shocking no response from @Verizon about no internet access on Cyber Monday. Shocking a corporation that does not care! @VerizonSupport" "KRDerr" FALSE FALSE 1417468358
+"99" "539527463882067968" "@Verizon r a corporate sponsor of Urban Shield who train &amp; arm Warrior Cops http://t.co/J9izAjDoKM @AnonRastaFTP @OpFerguson @YourAnonNews" "merryanarchy" FALSE FALSE 1417468345
+"100" "539527251671674881" "RT @7onashoestring: Getting Inside Track on Latest @Verizon Technology for Holidays w/ @VZWaudrey #MOREVerizon #VZHoliday #ad http://t.co/I…" "VZWaudrey" TRUE FALSE 1417468295
+"101" "539527108134207488" "Fuck @Verizon. I'm over their scamming bullshit. I've never met a company who cares less about the customer and more about the bottom line." "StarsCrossed" FALSE FALSE 1417468261
+"102" "539526832811683841" "RT @SaucierDoe: .@Verizon 45 minutes on hold...I fear Customer Service has been taken hostage by a band of disgruntled customers. Motive is…" "roricortiz" TRUE FALSE 1417468195
+"103" "539526316136345601" "@Patrici40516490 @VerizonWireless @Verizon will get you with those hidden fees everytime #VerizNO #greed" "roricortiz" FALSE FALSE 1417468072
+"104" "539526180542480384" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "gusvalenzuela20" TRUE FALSE 1417468040
+"105" "539526117481541632" "Many thanks to @Verizon &amp; @VerizonWireless for supplying phone banks/TV for ST Louis officers over the last 2 weeks. http://t.co/3o7CO1sfud" "marknfop" FALSE FALSE 1417468024
+"106" "539525946186162176" "Well. I think it's official. I'm leaving @Verizon after 10 years.
+
+Because I love my @Lumia ...and they don't appear to.
+
+#stillwantcyan" "kittycathat" FALSE FALSE 1417467984
+"107" "539525664156946432" "@TiffanyTaylorx3 agree with you @VerizonWireless @Verizon where's the customer support?? #VerizNO" "roricortiz" FALSE FALSE 1417467916
+"108" "539525157984145409" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "FutureChrisHawk" TRUE FALSE 1417467796
+"109" "539524583968481280" ".@Verizon and @comcast have horrendous customer support systems.  No wonder I am a loyal @HuluPlus and @netflix subscriber...#HourTwoOnHold" "SaucierDoe" FALSE FALSE 1417467659
+"110" "539523847926460416" "@ATTCares no thanks, I'm very happy with @Verizon" "HelbigFarts" FALSE FALSE 1417467483
+"111" "539522982927159296" "@verizon TREATS senior citizens INCREDIBLY poorly.... operator # 710598 should be fired!! TWO HOURS on the phone" "DiscreetYea" FALSE FALSE 1417467277
+"112" "539522086872838144" "FYI as soon as you can you should switch from @VerizonWireless @Verizon because the customer doesn't matter." "roricortiz" FALSE FALSE 1417467064
+"113" "539521912263544832" "@_RealityBiter_ Doing okay. Just educated a @Verizon employee about Net Neutrality. He was unaware of it when I advised I'd cancel due to it" "GSG_Official" FALSE FALSE 1417467022
+"114" "539521898938662912" ".@Verizon 45 minutes on hold...I fear Customer Service has been taken hostage by a band of disgruntled customers. Motive is still a mystery." "SaucierDoe" FALSE FALSE 1417467019
+"115" "539521651524632576" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "brina_01" TRUE FALSE 1417466960
+"116" "539521632315146240" "@ATT @Verizon I need a good deal please" "MaximizeNetwork" FALSE FALSE 1417466955
+"117" "539521534768209920" "@Redskins @Verizon is the meet and greet still happening for Alfred Morris today?" "bantezana08" FALSE FALSE 1417466932
+"118" "539521254060208128" "@WillStrohl @Verizon Details? Google is coming up short." "erika_foster" FALSE FALSE 1417466865
+"119" "539520947347554304" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "danielisaacsan2" TRUE FALSE 1417466792
+"120" "539519929545129984" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "LinnySmit" TRUE FALSE 1417466549
+"121" "539519923002023937" "RT @KenistonHeather: @JohnLegere @Verizon @ATT @sprint @TMobile I hate sprint so much I love T-mobile." "DeavyHeval" TRUE FALSE 1417466548
+"122" "539519660052725760" "You know what fuck you @CenturyLink thanks for making my internet complete shit. I should have gone with @Verizon" "TheMostBri" FALSE FALSE 1417466485
+"123" "539519572739911681" "@verizon is the worst fucking company on the planet... TWO HOURS ON THE PHONE to reset a password / ACCOUNT?????" "DiscreetYea" FALSE FALSE 1417466464
+"124" "539519180144640001" "@Verizon I see I am being throttled ! Stop it" "swimfan2" FALSE FALSE 1417466370
+"125" "539518566899662850" ".@Verizon I just got a PM from Verizon support, 35 minutes in.  Still on hold.  Thank goodness I can work while on hold." "SaucierDoe" FALSE FALSE 1417466224
+"126" "539518204587290627" "Approved to trade in an iPhone 5, requested return materials TWICE, but now we're at the 12/1 deadline. Any help @Verizon? @VerizonSupport?" "JohnPGlynn" FALSE FALSE 1417466138
+"127" "539517258335547392" ".@Verizon On hold...30 minutes in and if I hear \"All of our representatives are still busy..\" one more time, I may start to question things" "SaucierDoe" FALSE FALSE 1417465912
+"128" "539515777163231232" "@VerizonWireless When a customer says “I can’t hear you”…”you are cutting out”, what do I say?  I have crappy @Verizon service?" "dently_bryan" FALSE FALSE 1417465559
+"129" "539515362576855041" "@Thomas_Drake1 @Verizon not only spies on this jrno but sabotaged my house's phone jax for many mos.-had to shame them on soc media to fix!" "scrivener50" FALSE FALSE 1417465460
+"130" "539514810015420416" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "LehnerFaithful" TRUE FALSE 1417465329
+"131" "539513233238138880" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "rickybayliss" TRUE FALSE 1417464953
+"132" "539513138115518464" "No @Verizon internet. They claim it's due to maitanance in my area. What moron would do this to it's customers on #CyberMonday? WTH WTG" "KRDerr" FALSE FALSE 1417464930
+"133" "539511727474614272" "RT @dailyfreepress: FOX 25 on @Verizon FiOS went out for many Greater Boston residents this Thanksgiving. Were you affected? http://t.co/co…" "FrancesStockton" TRUE FALSE 1417464594
+"134" "539511678887821313" "@dailyfreepress @Verizon Yes! Very disappointed &amp; seems neither @VerizonFiOS or @COXMG care. Antenna TV doesn't work for all of us." "FrancesStockton" FALSE FALSE 1417464582
+"135" "539511268067917824" "Motorola Moto X 2014 available on AT&amp;T and @Verizon for $0.01, a Cyber ... - The Westside Story http://t.co/hN59PgCOrM" "AndroidGoss" FALSE FALSE 1417464484
+"136" "539511235398881280" "RT @hiringourheroes: San Jose—Join us Wed. for an employment workshop &amp; hiring fair! http://t.co/BCtg7heBck @Verizon @UOPX @CODE4Vets http:…" "AMVETSPA" TRUE FALSE 1417464476
+"137" "539510958734188544" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "keithhall708" TRUE FALSE 1417464410
+"138" "539510505401245696" "RT @TCMomsBlog  Co-Founders Suzanne &amp; Beth at the @verizon #techtrends fashion show. Wrap up here: http://t.co/mhpx85Gtit  #vzwmidwest" "VZWKaren" FALSE FALSE 1417464302
+"139" "539509724698648578" "I got 4 lines , 2 iphone 6s 2 Samsung gal. 5s. 20gb  for $220 + tax. Hello @sprint  good-bye @Verizon" "babengalsfan" FALSE FALSE 1417464116
+"140" "539509686178152448" "RT @HDScorp: Our Hitachi Content Platform with adaptive #cloud tiering is now available in the @Verizon Cloud Marketplace: http://t.co/9XmK…" "SoniaLeliiTT" TRUE FALSE 1417464107
+"141" "539509652493725696" "@Google will try to do to @comcast &amp; @Verizon what @NetFlix did to Blockbuster. Slowly, but probable. #GoogleFiber https://t.co/XKkdRoyDtf" "chrismilas" FALSE FALSE 1417464099
+"142" "539509420934590464" "Our Hitachi Content Platform with adaptive #cloud tiering is now available in the @Verizon Cloud Marketplace: http://t.co/9XmKo2n1KV" "HDScorp" FALSE FALSE 1417464044
+"143" "539509351778488320" "Probably going to move to @Verizon next month since they've bought the rights to prevent competition on service alone #WindowsPhone" "WillStrohl" FALSE FALSE 1417464027
+"144" "539509233062932480" "RT @hiringourheroes: SanJose Employment workshop &amp; hiring fair! Wed http://t.co/xWlbYhKsLj @Verizon @UOPX @CODE4Vets http://t.co/FFXBz2GtvR" "4VeteranSupport" FALSE FALSE 1417463999
+"145" "539509210573438976" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "keitherickson12" TRUE FALSE 1417463994
+"146" "539508995854450691" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "thenewsyouneed" TRUE FALSE 1417463942
+"147" "539507641576599553" "RT @hiringourheroes: San Jose—Join us Wed. for an employment workshop &amp; hiring fair! http://t.co/BCtg7heBck @Verizon @UOPX @CODE4Vets http:…" "CODE4Vets" TRUE FALSE 1417463619
+"148" "539507246687080448" "@HTCUSA @BestBuy @ATT @Verizon Why can't you make phones that poor people can afforda? i'm on disability and would love a cool HTC, but no.." "sassylass71" FALSE FALSE 1417463525
+"149" "539507207025721345" "@packers @Verizon @MikeColeNESN yea because the don't play till Monday night" "toddcitranojr" FALSE FALSE 1417463516
+"150" "539506525283549184" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "daniele_piana" TRUE FALSE 1417463353
+"151" "539505410500468736" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "KnickBriscese" TRUE FALSE 1417463088
+"152" "539505387511488513" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "CheddarVedder" TRUE FALSE 1417463082
+"153" "539504501624168448" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "DMRees2011" TRUE FALSE 1417462871
+"154" "539504294643642370" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "Lyndsiie7" TRUE FALSE 1417462822
+"155" "539503448371499008" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "WIDDubLvr4Life" TRUE FALSE 1417462620
+"156" "539503232473915392" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "PerdistheWord" TRUE FALSE 1417462568
+"157" "539502964726317058" "@MarissaSettino @Verizon that's what I thought until I got to school and everyone was bugging out" "LoveeMegg" FALSE FALSE 1417462504
+"158" "539502615424290816" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "official_tighe" TRUE FALSE 1417462421
+"159" "539502335240970240" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "yungbossBZD" TRUE FALSE 1417462354
+"160" "539502226885332993" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "FitSportsQuotes" TRUE FALSE 1417462329
+"161" "539502148870893568" "@Verizon U ever tried to use ur online chat feature? I'm guessing not based on its uselessness! 2 different days 0 results #time4anewcarrier" "HerndonBob" FALSE FALSE 1417462310
+"162" "539501526998601728" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "OurPackers" TRUE FALSE 1417462162
+"163" "539501507054694401" "RT @LoveeMegg: Okay @Verizon it's not like anybody in fort Montgomery wants to use their phone anyway" "CaytieRee" TRUE FALSE 1417462157
+"164" "539501177113968640" "Okay @Verizon it's not like anybody in fort Montgomery wants to use their phone anyway" "LoveeMegg" FALSE FALSE 1417462078
+"165" "539500312013574144" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "b_kielly" TRUE FALSE 1417461872
+"166" "539499207095500800" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "SportsShopNtwrk" TRUE FALSE 1417461609
+"167" "539498341269528576" "RT @HTCUSA: #CyberMonday means #HTCHotDeals! Grab a $99 #REcamera from @BestBuy, @ATT, &amp; @Verizon stores. http://t.co/T5IencQzOo http://t.c…" "xbxlovex" TRUE FALSE 1417461402
+"168" "539498129566216194" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "USASuperBowl" TRUE FALSE 1417461352
+"169" "539497979175251969" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "CarrieS1217" TRUE FALSE 1417461316
+"170" "539497780478500864" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "REAL_MoGreen" TRUE FALSE 1417461268
+"171" "539497756776493056" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "dolceharold" TRUE FALSE 1417461263
+"172" "539497713390612481" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "BLKICE4LIFE" TRUE FALSE 1417461252
+"173" "539497629420621824" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "forbesie1981" TRUE FALSE 1417461232
+"174" "539497378764832768" "@Verizon we need #cyan" "kumaxx2013" FALSE FALSE 1417461173
+"175" "539497194986827776" "@Verizon @VerizonSupport is something wrong with the lines/call center? I'm trying to call 611 and it keeps disconnecting?" "lmpsola" FALSE FALSE 1417461129
+"176" "539497142529032192" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "WineOfDionysus" TRUE FALSE 1417461116
+"177" "539496982243708928" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "USA_NFL" TRUE FALSE 1417461078
+"178" "539496767726047232" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "TEZDOOM" TRUE FALSE 1417461027
+"179" "539496566114246656" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "pbrown8734" TRUE FALSE 1417460979
+"180" "539496487890468864" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "SWICKAAA" TRUE FALSE 1417460960
+"181" "539496407540191232" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "delaney2258" TRUE FALSE 1417460941
+"182" "539496076990881793" "Getting Inside Track on Latest @Verizon Technology for Holidays w/ @VZWaudrey #MOREVerizon #VZHoliday #ad http://t.co/I1gs4Lpi0f" "7onashoestring" FALSE FALSE 1417460862
+"183" "539496009798529025" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "DrPain24" TRUE FALSE 1417460846
+"184" "539495933273440256" "RT @HTCUSA: #CyberMonday means #HTCHotDeals! Grab a $99 #REcamera from @BestBuy, @ATT, &amp; @Verizon stores. http://t.co/T5IencQzOo http://t.c…" "andrewmckinley6" TRUE FALSE 1417460828
+"185" "539495872472440832" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "FeliciaJensen23" TRUE FALSE 1417460814
+"186" "539495515532972032" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "jeffmac009" TRUE FALSE 1417460728
+"187" "539495340471488512" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "Stefan_Krol7" TRUE FALSE 1417460687
+"188" "539495164356882432" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "Loose_Crc" TRUE FALSE 1417460645
+"189" "539495151430017025" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "tnovi89" TRUE FALSE 1417460642
+"190" "539495150808875008" "what happened to the @verizon #BlackFriday deals?" "thenickperdue" FALSE FALSE 1417460641
+"191" "539495148653408256" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "justinmv17" TRUE FALSE 1417460641
+"192" "539495126754926593" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "NameTheStadium" TRUE FALSE 1417460636
+"193" "539495083239026688" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "Ckai25" TRUE FALSE 1417460625
+"194" "539494842565681154" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "garezbale" TRUE FALSE 1417460568
+"195" "539494826044305408" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "kutiekayxo" TRUE FALSE 1417460564
+"196" "539494615498231808" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "Toutsky" TRUE FALSE 1417460514
+"197" "539494568803053568" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "andrewmarr77" TRUE FALSE 1417460503
+"198" "539494495151063040" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "IZZYE915" TRUE FALSE 1417460485
+"199" "539494278888951808" "Thank you @Verizon for your generous donation to STEM Outreach through Tulsa Regional STEM Alliance! http://t.co/GafT1UHT0X" "TulsaSTEM" FALSE FALSE 1417460434
+"200" "539494186706554880" "RT @packers: Watch the scene inside the #Packers locker room after Sunday's win, presented by @Verizon: http://t.co/f6q7Rd7Byq http://t.co/…" "TimMonette" TRUE FALSE 1417460412

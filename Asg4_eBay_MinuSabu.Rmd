@@ -1,8 +1,9 @@
 Twitter Sentiment Analysis on eBay
 ====================================
+### Submitted by: Minu Rachel Sabu
 
-```{r warning=FALSE, message=FALSE}
-#Load the libraries
+```{r chunk1, warning=FALSE, message=FALSE}
+#Load the required libraries
 library("twitteR")
 library("wordcloud")
 library("tm")
@@ -10,14 +11,14 @@ library("ggplot2")
 library("reshape2")
 library("scales")
 
-#Read all the tweets from the text files
+#Read all the tweets from the individual text files for each day
 tweetsday1<-read.table(file="ebayDay1.txt", skipNul = TRUE)
 tweetsday2<-read.table(file="ebayDay2.txt", skipNul = TRUE)
 tweetsday3<-read.table(file="ebayDay3.txt", skipNul = TRUE)
 tweetsday4<-read.table(file="ebayDay4.txt", skipNul = TRUE)
 tweetsday5<-read.table(file="ebayDay5.txt", skipNul = TRUE)
 
-#Remove all the retweets
+#Remove all the retweets for accurate results
 tweetsday1.uniq<-tweetsday1[-grep("RT @", tweetsday1$text),]
 tweetsday2.uniq<-tweetsday2[-grep("RT @", tweetsday2$text),]
 tweetsday3.uniq<-tweetsday3[-grep("RT @", tweetsday3$text),]
@@ -35,15 +36,18 @@ pos <- scan("positive-words.txt",what="character",comment.char=";")
 neg <- scan("negative-words.txt",what="character",comment.char=";")
 ```
 
-Day 1 : 01-12-2014
----------------------
+### Day 1 -- 01-12-2014
+
 We mined a total of `r length(tweetsday1.text)` unique tweets.
 
-```{r warning=FALSE, message=FALSE}
-#Create the corpus - these functions belong to the tm package
+```{r chunkday1, warning=FALSE, message=FALSE, fig.align='center'}
+#Create the corpus
+#this function belong to the tm package
 tweetsday1.corpus <- Corpus(VectorSource(tweetsday1.text))
 
 #Clean-up the corpus
+#by converting it into lowercase, removing punctutation and
+#removing the stopwords
 tweetsday1.corpus <- tm_map(tweetsday1.corpus, tolower) 
 tweetsday1.corpus <- tm_map(tweetsday1.corpus, removePunctuation)
 tweetsday1.corpus <- tm_map(tweetsday1.corpus, function(x) removeWords(x,stopwords()))
@@ -76,14 +80,18 @@ simple.sentiment.day1 <- match.matrix.day1[,1] - match.matrix.day1[,2]
 hist(simple.sentiment.day1)
 ```
 
-Day 2 : 02-12-2014
----------------------
+### Day 2 -- 02-12-2014
+
 We mined a total of `r length(tweetsday2.text)` unique tweets.
-```{r warning=FALSE, message=FALSE}
-#Create the corpus - these functions belong to the tm package
+```{r chunkday2, warning=FALSE, message=FALSE, fig.align='center'}
+
+#Create the corpus
+#this function belong to the tm package
 tweetsday2.corpus <- Corpus(VectorSource(tweetsday2.text))
 
 #Clean-up the corpus
+#by converting it into lowercase, removing punctutation and
+#removing the stopwords
 tweetsday2.corpus <- tm_map(tweetsday2.corpus, tolower) 
 tweetsday2.corpus <- tm_map(tweetsday2.corpus, removePunctuation)
 tweetsday2.corpus <- tm_map(tweetsday2.corpus, function(x) removeWords(x,stopwords()))
@@ -116,14 +124,18 @@ simple.sentiment.day2 <- match.matrix.day2[,1] - match.matrix.day2[,2]
 hist(simple.sentiment.day2)
 ```
 
-Day 3 : 02-12-2014
---------------------
+### Day 3 -- 02-12-2014
+
 We mined a total of `r length(tweetsday3.text)` unique tweets.
-```{r warning=FALSE, message=FALSE}
-#Create the corpus - these functions belong to the tm package
+```{r chunkday3, warning=FALSE, message=FALSE, fig.align='center'}
+
+#Create the corpus
+#this function belong to the tm package
 tweetsday3.corpus <- Corpus(VectorSource(tweetsday3.text))
 
 #Clean-up the corpus
+#by converting it into lowercase, removing punctutation and
+#removing the stopwords
 tweetsday3.corpus <- tm_map(tweetsday3.corpus, tolower) 
 tweetsday3.corpus <- tm_map(tweetsday3.corpus, removePunctuation)
 tweetsday3.corpus <- tm_map(tweetsday3.corpus, function(x) removeWords(x,stopwords()))
@@ -156,14 +168,18 @@ simple.sentiment.day3 <- match.matrix.day3[,1] - match.matrix.day3[,2]
 hist(simple.sentiment.day3)
 ```
 
-Day 4 : 02-12-2014
-----------------------
+### Day 4 -- 02-12-2014
+
 We mined a total of `r length(tweetsday4.text)` unique tweets.
-```{r warning=FALSE, message=FALSE}
-#Create the corpus - these functions belong to the tm package
+```{r chunkday4, warning=FALSE, message=FALSE, fig.align='center'}
+
+#Create the corpus
+#this function belong to the tm package
 tweetsday4.corpus <- Corpus(VectorSource(tweetsday4.text))
 
 #Clean-up the corpus
+#by converting it into lowercase, removing punctutation and
+#removing the stopwords
 tweetsday4.corpus <- tm_map(tweetsday4.corpus, tolower) 
 tweetsday4.corpus <- tm_map(tweetsday4.corpus, removePunctuation)
 tweetsday4.corpus <- tm_map(tweetsday4.corpus, function(x) removeWords(x,stopwords()))
@@ -195,14 +211,19 @@ simple.sentiment.day4 <- match.matrix.day4[,1] - match.matrix.day4[,2]
 # histogram of sentiment
 hist(simple.sentiment.day4)
 ```
-Day 5 : 02-12-2014
-----------------------
+
+### Day 5 -- 02-12-2014
+
 We mined a total of `r length(tweetsday5.text)` unique tweets.
-```{r warning=FALSE, message=FALSE}
-#Create the corpus - these functions belong to the tm package
+```{r chunkday5, warning=FALSE, message=FALSE, fig.align='center'}
+
+#Create the corpus
+#this function belong to the tm package
 tweetsday5.corpus <- Corpus(VectorSource(tweetsday5.text))
 
 #Clean-up the corpus
+#by converting it into lowercase, removing punctutation and
+#removing the stopwords
 tweetsday5.corpus <- tm_map(tweetsday5.corpus, tolower) 
 tweetsday5.corpus <- tm_map(tweetsday5.corpus, removePunctuation)
 tweetsday5.corpus <- tm_map(tweetsday5.corpus, function(x) removeWords(x,stopwords()))
@@ -235,10 +256,10 @@ simple.sentiment.day5 <- match.matrix.day5[,1] - match.matrix.day5[,2]
 hist(simple.sentiment.day5)
 ```
 
-Stock Price Comparison
------------------------
+### Stock Price Comparison
 
-```{r warning=FALSE, message=FALSE}
+
+```{r chunkanalysis, warning=FALSE, message=FALSE, fig.width=12, fig.align='center'}
 #Calculate the sum of the sentiments for each day
 sentiment.day1<-sum(simple.sentiment.day1)
 sentiment.day2<-sum(simple.sentiment.day2)
@@ -276,7 +297,8 @@ molten.df.final<-melt(df.final, id.vars="Day")
 #Plotting the stock market and sentiment level comparison
 ggplot(molten.df.final, aes(Day, value, fill = variable)) +
   geom_bar(stat="identity", position=position_dodge()) +
-  ylab("Value") +
+  ylab("Sentiment/Stock Value") +
+  scale_y_continuous(limits = c(-1, 1))+
   scale_x_date(labels = date_format("%b-%d")) +
   scale_fill_discrete(name="Legend",
                          breaks=c("Sentiment", "Stock"),
@@ -285,8 +307,8 @@ ggplot(molten.df.final, aes(Day, value, fill = variable)) +
 
 ```
 
-Summary
----------
+### Summary
+
 Stock prices have always been influenced by public perceptions as well as financial soundness of the company. The focus of this study is to understand the relationship between sentiments and stock value. There are different reasons which can increase or decrease stock value for a company. This can be due to overall economic challenges or conditions that are specific to the company under consideration. 
 
 In this study, the sentiment data is mined from Twitter which is a popular online social networking service that uses short character messages. Since Twitter is a major platform that can be used to voice sentiments, it could also be used to predict stock market changes. But this is true only to an extent because we need to look for the correct set of tweets for the prediction to be accurate. It can be attributed to the fact that there can be lot of casual tweets that have no impact on the stock market. This could be misleading when used in sentiment analysis for stock prediction. As a result, we should be looking for the tweets specifically talking about stocks and market performances. 

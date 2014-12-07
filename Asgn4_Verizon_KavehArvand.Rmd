@@ -1,0 +1,296 @@
+### Sentiment Analysis on Verizon Based on Twitter Data 
+
+
+The tweets about Verizon in 5 different daysnhave previously been obtained and stored in files with .txt format.
+
+```{r CodeChunk1, message=FALSE}
+#The required libraries are loaded
+library("twitteR")
+library("wordcloud")
+library("tm")
+library("ggplot2")
+library("reshape2")
+library("scales")
+```
+```{r CodeChunk2}
+#The twet dataframes are read from previously stored files
+Verizon1stDayTweets<-read.table(file="Verizonday1.txt", skipNul = TRUE)
+Verizon2ndDayTweets<-read.table(file="Verizonday2.txt", skipNul = TRUE)
+Verizon3rdDayTweets<-read.table(file="Verizonday3.txt", skipNul = TRUE)
+Verizon4thDayTweets<-read.table(file="Verizonday4.txt", skipNul = TRUE)
+Verizon5thDayTweets<-read.table(file="Verizonday5.txt", skipNul = TRUE)
+
+#All retweets are removed from the dataframes
+Verizon1stDayTweets<-Verizon1stDayTweets[-grep("RT @", Verizon1stDayTweets$text),]
+Verizon2ndDayTweets<-Verizon2ndDayTweets[-grep("RT @", Verizon2ndDayTweets$text),]
+Verizon3rdDayTweets<-Verizon3rdDayTweets[-grep("RT @", Verizon3rdDayTweets$text),]
+Verizon4thDayTweets<-Verizon4thDayTweets[-grep("RT @", Verizon4thDayTweets$text),]
+Verizon5thDayTweets<-Verizon5thDayTweets[-grep("RT @", Verizon5thDayTweets$text),]
+
+#Extract the text part of the tweets
+Verizon1stDayTweets.text<-Verizon1stDayTweets$text
+Verizon2ndDayTweets.text<-Verizon2ndDayTweets$text
+Verizon3rdDayTweets.text<-Verizon3rdDayTweets$text
+Verizon4thDayTweets.text<-Verizon4thDayTweets$text
+Verizon5thDayTweets.text<-Verizon5thDayTweets$text
+
+#opinion Lexicon files are loaded
+pos <- scan("positive-words.txt",what="character",comment.char=";")
+neg <- scan("negative-words.txt",what="character",comment.char=";")
+
+```
+
+#### Day 1 : Dec 1st, 2014
+
+A total of `r nrow(Verizon1stDayTweets)` tweets was mined.
+
+
+```{r Day1}
+#corpus is created from tm package
+Verizon1stDayTweets.corpus <- Corpus(VectorSource(Verizon1stDayTweets.text))
+
+#corpus is cleaned-up
+Verizon1stDayTweets.corpus <- tm_map(Verizon1stDayTweets.corpus, tolower) 
+Verizon1stDayTweets.corpus <- tm_map(Verizon1stDayTweets.corpus, removePunctuation)
+Verizon1stDayTweets.corpus <- tm_map(Verizon1stDayTweets.corpus, function(x) removeWords(x,stopwords()))
+
+#corpus is split
+Verizon1stDayTweets.corpus.split <- lapply(Verizon1stDayTweets.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.VerizonDay1 <- lapply(Verizon1stDayTweets.corpus.split,function(x) {
+  match.pos.VerizonDay1 <- match(x[[1]],pos)
+  match.neg.VerizonDay1 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.VerizonDay1))),length(which(!is.na(match.neg.VerizonDay1))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.VerizonDay1 <- matrix(unlist(matches.VerizonDay1),nrow=length(matches.VerizonDay1),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.VerizonDay1 <- match.matrix.VerizonDay1[,1] - match.matrix.VerizonDay1[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.VerizonDay1)
+```
+
+
+#### Day 2 : Dec 2nd, 2014
+
+A total of `r nrow(Verizon2ndDayTweets)` tweets was mined.
+
+```{r Day2}
+#corpus is created  from tm package
+Verizon2ndDayTweets.corpus <- Corpus(VectorSource(Verizon2ndDayTweets.text))
+
+#corpus is cleaned-up
+Verizon2ndDayTweets.corpus <- tm_map(Verizon2ndDayTweets.corpus, tolower) 
+Verizon2ndDayTweets.corpus <- tm_map(Verizon2ndDayTweets.corpus, removePunctuation)
+Verizon2ndDayTweets.corpus <- tm_map(Verizon2ndDayTweets.corpus, function(x) removeWords(x,stopwords()))
+
+#corpus is split
+Verizon2ndDayTweets.corpus.split <- lapply(Verizon2ndDayTweets.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.VerizonDay2 <- lapply(Verizon2ndDayTweets.corpus.split,function(x) {
+  match.pos.VerizonDay2 <- match(x[[1]],pos)
+  match.neg.VerizonDay2 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.VerizonDay2))),length(which(!is.na(match.neg.VerizonDay2))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.VerizonDay2 <- matrix(unlist(matches.VerizonDay2),nrow=length(matches.VerizonDay2),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.VerizonDay2 <- match.matrix.VerizonDay2[,1] - match.matrix.VerizonDay2[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.VerizonDay2)
+```
+
+
+
+#### Day 3 : Dec 3rd, 2014
+
+A total of `r nrow(Verizon3rdDayTweets)` tweets was mined.
+
+```{r Day3}
+#corpus is created from tm package
+Verizon3rdDayTweets.corpus <- Corpus(VectorSource(Verizon3rdDayTweets.text))
+
+#corpus is cleaned-up
+Verizon3rdDayTweets.corpus <- tm_map(Verizon3rdDayTweets.corpus, tolower) 
+Verizon3rdDayTweets.corpus <- tm_map(Verizon3rdDayTweets.corpus, removePunctuation)
+Verizon3rdDayTweets.corpus <- tm_map(Verizon3rdDayTweets.corpus, function(x) removeWords(x,stopwords()))
+
+#corpus is split
+Verizon3rdDayTweets.corpus.split <- lapply(Verizon3rdDayTweets.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.VerizonDay3 <- lapply(Verizon3rdDayTweets.corpus.split,function(x) {
+  match.pos.VerizonDay3 <- match(x[[1]],pos)
+  match.neg.VerizonDay3 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.VerizonDay3))),length(which(!is.na(match.neg.VerizonDay3))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.VerizonDay3 <- matrix(unlist(matches.VerizonDay3),nrow=length(matches.VerizonDay3),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.VerizonDay3 <- match.matrix.VerizonDay3[,1] - match.matrix.VerizonDay3[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.VerizonDay3)
+```
+
+
+
+#### Day 4 : Dec 4th, 2014
+
+A total of `r nrow(Verizon4thDayTweets)` tweets was mined.
+
+```{r Day4}
+#corpus is created from tm package
+Verizon4thDayTweets.corpus <- Corpus(VectorSource(Verizon4thDayTweets.text))
+
+# corpus is cleaned-up
+Verizon4thDayTweets.corpus <- tm_map(Verizon4thDayTweets.corpus, tolower) 
+Verizon4thDayTweets.corpus <- tm_map(Verizon4thDayTweets.corpus, removePunctuation)
+Verizon4thDayTweets.corpus <- tm_map(Verizon4thDayTweets.corpus, function(x) removeWords(x,stopwords()))
+
+#corpus is split
+Verizon4thDayTweets.corpus.split <- lapply(Verizon4thDayTweets.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.VerizonDay4 <- lapply(Verizon4thDayTweets.corpus.split,function(x) {
+  match.pos.VerizonDay4 <- match(x[[1]],pos)
+  match.neg.VerizonDay4 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.VerizonDay4))),length(which(!is.na(match.neg.VerizonDay4))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.VerizonDay4 <- matrix(unlist(matches.VerizonDay4),nrow=length(matches.VerizonDay4),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.VerizonDay4 <- match.matrix.VerizonDay4[,1] - match.matrix.VerizonDay4[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.VerizonDay4)
+```
+
+ 
+#### Day 5 : Dec 5th, 2014
+
+A total of `r nrow(Verizon5thDayTweets)` tweets was mined.
+
+```{r Day5}
+#corpus is created  from tm package
+Verizon5thDayTweets.corpus <- Corpus(VectorSource(Verizon5thDayTweets.text))
+
+#corpus is cleaned-up
+Verizon5thDayTweets.corpus <- tm_map(Verizon5thDayTweets.corpus, tolower) 
+Verizon5thDayTweets.corpus <- tm_map(Verizon5thDayTweets.corpus, removePunctuation)
+Verizon5thDayTweets.corpus <- tm_map(Verizon5thDayTweets.corpus, function(x) removeWords(x,stopwords()))
+
+#corpus is split
+Verizon5thDayTweets.corpus.split <- lapply(Verizon5thDayTweets.corpus,strsplit,"\\s+")
+
+# find matches for the individual words in the two lexicons
+# lapply again, x takes on an element in the corpus
+# at each iteration
+matches.VerizonDay5 <- lapply(Verizon5thDayTweets.corpus.split,function(x) {
+  match.pos.VerizonDay5 <- match(x[[1]],pos)
+  match.neg.VerizonDay5 <- match(x[[1]],neg) 
+  
+  list(length(which(!is.na(match.pos.VerizonDay5))),length(which(!is.na(match.neg.VerizonDay5))))
+})
+
+# turn the matches into a matrix
+# one column for positive, one for negative
+match.matrix.VerizonDay5 <- matrix(unlist(matches.VerizonDay5),nrow=length(matches.VerizonDay5),ncol=2,byrow=T)
+
+# calculate a simple sentiment score by substracting
+# positive count from negative count
+simple.sentiment.VerizonDay5 <- match.matrix.VerizonDay5[,1] - match.matrix.VerizonDay5[,2]
+
+# histogram of sentiment
+hist(simple.sentiment.VerizonDay5)
+```
+
+
+#### Stock Price vs Sentiment
+
+
+
+```{r Comparison}
+#Total sentiment Score is claculated for each day
+sentiment.VerizonDay1<-sum(simple.sentiment.VerizonDay1)
+sentiment.VerizonDay2<-sum(simple.sentiment.VerizonDay2)
+sentiment.VerizonDay3<-sum(simple.sentiment.VerizonDay3)
+sentiment.VerizonDay4<-sum(simple.sentiment.VerizonDay4)
+sentiment.VerizonDay5<-sum(simple.sentiment.VerizonDay5)
+
+#Convert the sum of sentiments to indices; 
+#1 for positive and -1 for negative sentiments 
+sentimentIndex.VerizonDay1<-ifelse(sentiment.VerizonDay1>0, 1, -1)
+sentimentIndex.VerizonDay2<-ifelse(sentiment.VerizonDay2>0, 1, -1)
+sentimentIndex.VerizonDay3<-ifelse(sentiment.VerizonDay3>0, 1, -1)
+sentimentIndex.VerizonDay4<-ifelse(sentiment.VerizonDay4>0, 1, -1)
+sentimentIndex.VerizonDay5<-ifelse(sentiment.VerizonDay5>0, 1, -1)
+
+#Create a vector of the sentiment indices
+Verizon.Sentiment.Index<-c(sentimentIndex.VerizonDay1,sentimentIndex.VerizonDay2,sentimentIndex.VerizonDay3,sentimentIndex.VerizonDay4,sentimentIndex.VerizonDay5)
+
+#Stock indices are stored in a vector based on the change in 
+#Verizon's stock price from 1 Dec to 5 Dec 2014.
+#+1 represents an increase and -1 defines a drop in
+#the stock price
+Verizon.StockPrice.Index<-c(-1, -1, -1, -1, -1)
+
+#Create Day vector
+Day<-c("1st Day","2nd Day","3rd Day","4th Day","5th Day")
+
+#Create the final data frame
+df.Verizon<-data.frame(Day,Verizon.Sentiment.Index, Verizon.StockPrice.Index)
+
+#The data frame is converted from wide to long format
+molten.df.Verizon<-melt(df.Verizon, id.vars="Day")
+
+#Plotting the stock market and sentiment level comparison
+ggplot(molten.df.Verizon, aes(Day, value, fill = variable)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  ylab("Index Value") 
+```
+
+
+#### Conclusion
+
+The main aim of this assignment is to use R data analysis tool in order to figure out if there is a correlation between the social opinion that are reflected  in a popular social network such as Twitter about a company and its stock price. In order to do that, a sentiment analysis was conducted to the tweets about Verizon in a 5-day period(01 Dec to 05 Dec 2014) and after calculation of sum of the sentiment score for each day, it was converted to positive or negative index. Then, the changes in Verizon's stock price were investigated and indexed as well. Finally, the results were shown on a plot.
+As it is observed in the plot, sentiment and fluctuation in stock price have a positive correlation except on the 5th day, when although the sentiment index shows a positive value, the price of the company's stock has dropped. However, it should be considered that there are several internal factors such as change in management, employee layoff, introduction of a new product or service, etc. as well as various external elements like inflation, defaltion, interest rates, changes in economic policy, political shocks and of course market sentiment that can affect on a company's stock price. I think that analyzing people's opinions about a particular company through their tweets can be interpreted as a part of market sentiment. 
+In addition, no text sentiment analysis tool can analyze the real feeling of the writers for hundred percent. Another inaccuracy in sentiment analyses is that it can be easily manipuated and thus, distract the analyst from the truth. Therefore, while I cannot reject the relationship between pubic interest in a company and its stock price value, I believe that there are lots of other factors that can have influence on stock market as well. 
+
+References: 
+
+http://www.getsmarteraboutmoney.ca/en/managing-your-money/investing/stocks/Pages/Factors-that-can-affect-stock-prices.aspx
+http://www.investopedia.com/articles/basics/04/100804.asp
+
